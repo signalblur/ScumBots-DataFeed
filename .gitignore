@@ -2,6 +2,7 @@
 pmelsonbot5000.py
 conf.yaml
 git_manager.py
+nohup.out
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
