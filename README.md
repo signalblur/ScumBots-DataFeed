@@ -3,6 +3,8 @@ This is a feed of @pmelson's, @ScumBots twitter feed. Its goal is to provide an 
 
 This feed is *NOT* production ready.
 
+All credit goes to https://github.com/pmelson / https://twitter.com/pmelson / https://twitter.com/ScumBots
+
 ## Known Issues:
 * Occasionally loopback/RFC1918 Addresses make it into the feed
 * C2 data cannot be parsed easily in its current form
