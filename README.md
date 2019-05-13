@@ -3,6 +3,8 @@ This is a feed of @pmelson's, @ScumBots twitter feed. Its goal is to provide an 
 
 This feed is *NOT* production ready.
 
+Feed currently only keeps 30 days of data as of right now to ensure current and actionable data.
+
 All credit goes to https://github.com/pmelson / https://twitter.com/pmelson / https://twitter.com/ScumBots
 
 ## Known Issues:
