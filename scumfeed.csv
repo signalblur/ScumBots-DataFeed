@@ -1,0 +1,25 @@
+date_identified,malware/attack_tool,url,hash,c2
+2019-05-13 21:32:02,njRat,https://t.co/YlOoGvQoSo,e386568c7ab4861b71c108bf91e9de33fd573e3a72aae3e0ba3ece5f3c591a31,tcp://95[.]211[.]233[.]35:1717
+2019-05-13 21:02:35,njRat,https://t.co/tEukarXeAB,5ab3b44619374e972ea48b82b9705cc34f3a23408165bcda36bde0b1181eeaed,tcp://95[.]211[.]233[.]35:1717
+2019-05-13 21:02:19,njRat,https://t.co/gsz4Mp11N8,5ab3b44619374e972ea48b82b9705cc34f3a23408165bcda36bde0b1181eeaed,tcp://95[.]211[.]233[.]35:1717
+2019-05-13 21:02:02,njRat,https://t.co/kiNn0Qu6AF,5ab3b44619374e972ea48b82b9705cc34f3a23408165bcda36bde0b1181eeaed,tcp://95[.]211[.]233[.]35:1717
+2019-05-13 20:47:02,njRat,https://t.co/kpQVSNiz0M,5ab3b44619374e972ea48b82b9705cc34f3a23408165bcda36bde0b1181eeaed,tcp://95[.]211[.]233[.]35:1717
+2019-05-13 15:47:04,njRat,https://t.co/ExYUyBYI2b,e116fb330e079b7e97640f3134d07d8d257335ec7602aa9a27ea67b573fed098,tcp://zooz45[.]hopto[.]org:28105
+2019-05-13 15:17:03,NanoCore,https://t.co/0JGVz3fYZe,19fd3ec0b790b3442d152ec4d473a7b1930148da57b1fd151748fb1b5d486c2d,"tcp://msgamers[.]ddns[.]net:54984,tcp://127[.]0[.]0[.]1:54984,"
+2019-05-13 14:02:02,njRat,https://t.co/9D7EBlUfyD,5950a720fb9e8177980f70a6b7bddba7fb828c402dfea14db1e89aa2a502784e,tcp://groups[.]us[.]to:968
+2019-05-13 13:47:03,njRat,https://t.co/DTDhAewhwQ,bc401702a14cec006d797e25cf8ac38a6e497682c3cd32109a2e932208d65a0f,tcp://masterhosting[.]ddns[.]net:1177
+2019-05-13 12:32:03,Revenge,https://t.co/OO6Z6cvMXm,83fbbae1370112c380cdc82e184ab62d37326ca1d3d47579c2de33aab6ff7e18,"tcp://queda212[.]duckdns[.]org:242,tcp://127[.]0[.]0[.]1:242,"
+2019-05-13 07:32:19,njRat,https://t.co/L0Kz0Qce5r,d6ee1d6bfd5b72de7335782f5d7a551df778314c21ce2310eee3fd8e57a1d915,tcp://127[.]0[.]0[.]1:1177
+2019-05-13 07:32:03,njRat,https://t.co/5ZHhmD5Cbe,ce07a475d0c6c6b513831d4dac81ba4aa5598811e5317c434dfe3061a7486fb5,tcp://127[.]0[.]0[.]1:1177
+2019-05-13 06:47:19,njRat,https://t.co/VMZ3jcGOE3,15763032a4312f901e62466d5d6a585e01af04520d105c104f7fe30e7da70433,tcp://127[.]0[.]0[.]1:1177
+2019-05-13 06:47:02,njRat,https://t.co/2ybsOOiXQZ,9441cc1325b503742d3334182ff4597c3331b1513be88afbdac178866cc81c2e,tcp://192168[.]1[.]2:1177
+2019-05-13 04:17:37,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/RMHeKpsruq,571aa7688886c1f24108af2c46e482acf4ac65ff607acd5d94395f9f64d01099,192[.]168[.]15[.]13
+2019-05-13 04:17:07,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/FjTnjswjBu,571aa7688886c1f24108af2c46e482acf4ac65ff607acd5d94395f9f64d01099,192[.]168[.]15[.]13
+2019-05-13 03:17:03,Revenge,https://t.co/j1nzLiPY27,f6f5b8c2a672c3d8e54438a381044b8447bb9a1651fcf17320d367498f20bd53,tcp://player[.]zapto[.]org:277
+2019-05-13 03:02:03,njRat,https://t.co/UDNIzncrgW,b90c689753476f7e318f15a1981313d43047125a0a66789c2f5cb2f91b19c65a,tcp://player[.]zapto[.]org:266
+2019-05-13 02:32:03,njRat,https://t.co/3xVQ91FPvB,e386568c7ab4861b71c108bf91e9de33fd573e3a72aae3e0ba3ece5f3c591a31,tcp://95[.]211[.]233[.]35:1717
+2019-05-13 02:05:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/6tRhuVe7aH,e45f753752ae60e0e772225cbeb019466b2960fb74dca08aecaca5701cb053d3,192[.]168[.]0[.]16
+2019-05-13 02:02:03,njRat,https://t.co/1bpGEjFDpm,e386568c7ab4861b71c108bf91e9de33fd573e3a72aae3e0ba3ece5f3c591a31,tcp://95[.]211[.]233[.]35:1717
+2019-05-13 01:35:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/kh4L0EFMw8,2c9060a207aba90bc44a67397341e56c9f1775fb6c5aed5678e26fec5969505e,192[.]168[.]0[.]12
+2019-05-13 01:17:02,Lime-RAT,https://t.co/RN2NMHT86Z,023151dbe2df9f0538b5b603c097861979a49846b73e348c15d256b961b2232d,https://pastebin[.]com/raw/DDTVwwbu
+2019-05-12 23:17:02,njRat,https://t.co/bPwy9aaKkf,8025e42c55a0d6cb9e69f292a0eaaddedf10d727401866322a825ec347e5ac0a,tcp://deemon20023[.]ddns[.]net:1177
