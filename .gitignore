@@ -1,3 +1,8 @@
+# Conf data
+pmelsonbot5000.py
+conf.yaml
+git_manager.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
