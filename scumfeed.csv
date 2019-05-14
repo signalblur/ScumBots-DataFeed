@@ -1,4 +1,5 @@
 date_identified,malware/attack_tool,url,hash,c2
+2019-05-14 10:17:03,NanoCore,https://t.co/NUX2Rgupm1,248726eddca635cf29e0658e6d22ba4ae6b60ecf108d3eb12fefef6df440e9ab,"tcp://msgamers[.]ddns[.]net:54984,tcp://127[.]0[.]0[.]1:54984,"
 2019-05-14 08:17:02,njRat,https://t.co/xEEI9LH3Ya,88dbd300cf74b2d1d1ef20ab260619272c8f673579fddfa66fec8d400efb7444,tcp://itotrojan[.]duckdns[.]org:1307
 2019-05-14 07:02:02,njRat,https://t.co/Tj109fpcq6,86837b103d9047660b3ed0e67306dac95f4eb2c3e7e3c6a16ec0eb0b30d3b1b6,tcp://127[.]0[.]0[.]1:1307
 2019-05-14 04:55:31,njRat,https://t.co/mKlOkSONo3,4d01ffc978531fc56c2c150b930d3fbf73a657ef78ef2f4bb724beb9801592b6,tcp://777ys[.]cc:7778
