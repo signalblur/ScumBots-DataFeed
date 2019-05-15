@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-05-15 05:02:03,njRat,https://t.co/Ktzgl5obj5,3304c6dda82b9e57fb2f1a91833758bb5b2b644fd1e136cd8084aecd3a5b2c67,127.0.0.1:5552
 2019-05-14 18:02:19,njRat,https://t.co/nwm9FYhnjO,ff2bdbbd7b0a34d60cb5f1e013f477385dfb2e0a2646e62398e0352f18fb8c95,127.0.0.1:6666
 2019-05-14 18:02:02,njRat,https://t.co/fl4cQh8Amv,ff2bdbbd7b0a34d60cb5f1e013f477385dfb2e0a2646e62398e0352f18fb8c95,127.0.0.1:6666
 2019-05-14 17:47:18,njRat,https://t.co/YfnzYMcT4e,ff2bdbbd7b0a34d60cb5f1e013f477385dfb2e0a2646e62398e0352f18fb8c95,127.0.0.1:6666
