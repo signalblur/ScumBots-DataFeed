@@ -622,9 +622,3 @@ date_identified,implant_type,url,hash,c2
 2019-04-15 18:47:02,njRat,https://t.co/IteOnSlwAI,6b366f5c87f3ad4df2a68837609b4e4477f862c62c990dc90a30a63396eb738b,127.0.0.1:5552
 2019-04-15 15:55:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/X01Sodk24l,03dcd63417fd1c29178e444242a6a00e630a0f425207c6d5c1778d9b51caa4fb,192.168.1.146:4444
 2019-04-15 15:37:50,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/0xTpBaBC35,92f34273bfaa8d85bc282291831b0d1272eed3ba1216c7134c3ed3e538a01161,172.16.132.109:4444
-2019-04-15 15:15:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/dD3g05zTWn,fd1c80a6ba5adafa4602b29b8c5bc9340796420375eb7ad6a756f25710c133cb,52.15.72.79:10241
-2019-04-15 14:55:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/tP1P0TgqWu,03dcd63417fd1c29178e444242a6a00e630a0f425207c6d5c1778d9b51caa4fb,192.168.1.146:4444
-2019-04-15 14:15:33,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/anu99QHzly,0f9d5c0e838a397dabc94971e48ca5e2ce49ec9f71c86ad5128c8f14eb71acf9,52.15.72.79:14441
-2019-04-15 14:15:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/bVqClytCEL,838cc0049e8812408d7c7f27b0cc0749d9b415a4e7b289af5cb1a9c6c9a4a7ee,5.19.4.164:4444
-2019-04-15 14:05:34,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/hPw8QG7pcc,fed26112fbe0d830b01ca3bc359029c962698cc3aa310ec64c6f8adfcdac0e32,192.168.1.146:4444
-2019-04-15 14:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/haPB53CssP,0f9d5c0e838a397dabc94971e48ca5e2ce49ec9f71c86ad5128c8f14eb71acf9,52.15.72.79:14441
