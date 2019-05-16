@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-05-16 20:02:03,njRat,https://t.co/E2gnnwyXwp,5b38e94c3e872145db4b6346f2d7f4760a7a6771992fa88a851df79838fe36e2,127.0.0.1:5552
+2019-05-16 19:32:02,njRat,https://t.co/l3Fb2RxwbU,c0c9465ecb293d762d4e2b9c306e1d97f80678ddc03345369cabf6f893966545,arabsland.ddns.net:1177
+2019-05-16 16:00:04,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/EcgHLjkvMt,29c9e42b78aa177f1730d749cf7017fd8c402c30a34c019ef41217e9d82b7f3e,10.60.25.13
 2019-05-16 14:47:03,njRat,https://t.co/kPFXLxQwT5,4e95e141e6b80ad45152a18a1060ae2e0e7aa557719223e0c9b8b0edb3a65c73,fantasma-43399.portmap.host:2222
 2019-05-16 09:32:02,njRat,https://t.co/j9H4KwVWau,e3ad04456fb17f21cbeeef43fb743ac7bc94285aa22badb64eba3967aac3866f,ahmed123454.ddns.net:5551
 2019-05-16 07:47:02,njRat,https://t.co/1JPgXPzCkj,768813667fdbdacd631ac9e708c4064e0f8bbc56f9adc57009abeab0dc7cde00,longtimegirl.ddns.net:5552
