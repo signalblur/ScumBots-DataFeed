@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-05-18 03:05:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/GRX4isExla,967a73e77e8cbd42f2fd4eebc20dc6211cf1d88a629a50756d49a9f5a760f05c,reverseconnection.ml
+2019-05-18 02:32:02,Revenge,https://t.co/szsLQWaNG6,4de52edcaf9e58d4a160ac15850ce608892d35e60ee7fd7a12a967ccf48346ef,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,127.0.0.1:1000,"
+2019-05-18 00:17:03,njRat,https://t.co/5IpZLKc8Q5,a80916c34d4ab56cf6373ca34e8992f5b6c7941f0ecef9cde5f92fc23f4d06cf,127.0.0.1:5552
+2019-05-17 23:17:02,Revenge,https://t.co/rbV58wi8Vb,c96d93228b5d575f289ca2e56602961fca7643f2a5c134e28383bbdd62000b7e,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,127.0.0.1:333,127."
+2019-05-17 22:47:02,njRat,https://t.co/5U1kicj4wk,0108910b0b5e6a507994befd04891f5d0f7dfb96aa9b6a04b3c1209a049645ab,3oraqi.ddns.net:1177
 2019-05-17 20:02:19,njRat,https://t.co/vJVVolRWAM,33aaed772b81ba4c1339a20ae0a7b2b0099e1eba31467483b946e7e667efb5f8,longtimegirl.ddns.net:5552
 2019-05-17 20:02:03,njRat,https://t.co/cZgXaYPmtf,4bdd2f2e74aad40bce3a0368a40ffb17f2a9bc72aef8b590a44fa8b7c83cd28b,longtimegirl.ddns.net:5552
 2019-05-17 19:32:19,njRat,https://t.co/umfcYTYjft,ef2cc63489b528afb458ecfe7705cff1f2eb98fe61161166a75a57731efd2ca1,3oraqi.ddns.net:1177
