@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-05-19 03:18:59,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/FUCDtMLYiB,64a22cfbb5943dbafd2df06cc84639efee2759be77441817c3285e115d1df612,loo240.de
+2019-05-19 01:32:02,njRat,https://t.co/kOiDKfuO39,1a14cedbb58d54276bc3837e93dde3496ff7e1851f5385b64cef801d31507ba3,127.0.0.1:4444
+2019-05-19 01:17:02,njRat,https://t.co/LjoIPvzByt,1d37e6d64f185f6234045ee2b125298f0fa61cf961194e95b8778a893828a186,lilkizzy00.duckdns.org:1144
 2019-05-18 21:17:03,Revenge,https://t.co/oj6bZAyVx6,972a3fa79439ce4850b7057ef4534800243e28b34e64b2468d8d199d0a6d4927,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,bylgay.hopto.org:80,"
 2019-05-18 18:02:02,Revenge,https://t.co/0VLVefu1yw,6a471a6cf4b0f33f025f975da81bb55551637636813a2f0b7a55199cf995cc00,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,127.0.0.1:1000,127"
 2019-05-18 17:32:02,Revenge,https://t.co/CKTalMOsoo,6a471a6cf4b0f33f025f975da81bb55551637636813a2f0b7a55199cf995cc00,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,127.0.0.1:1000,127"
