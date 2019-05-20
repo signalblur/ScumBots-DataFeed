@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-05-20 13:02:02,njRat,https://t.co/MgomV5NX1b,eee772d1ebe3ed288634d0e98d42a9cc95983ab3c09adea1ec8b0d62e0375aac,houssjrad.ddns.net:81
+2019-05-20 12:32:02,njRat,https://t.co/kzCAOgDqzl,eee772d1ebe3ed288634d0e98d42a9cc95983ab3c09adea1ec8b0d62e0375aac,houssjrad.ddns.net:81
 2019-05-20 09:02:02,njRat,https://t.co/ah85eeRnuZ,f0586a6c59a6caf55fcbb6f819dcad2f0311a1306cc63c9dad3faef76e09e40a,127.0.0.1:5553
 2019-05-19 23:32:02,njRat,https://t.co/0gJJOWGeZ6,427e4300f0ed4f41e7ef119495bc9a50dbf364ad941ba013af7fae816fb0cf56,777ys.cc:5552
 2019-05-19 22:35:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/MDzv5ZpPKb,3aab498f58ad698d080ddc60ac6e5805a257d6668e68c3c3c4f447f734ce9da5,192.168.1.101
