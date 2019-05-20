@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2019-05-20 19:17:03,NanoCore,https://t.co/fZJOOLP9S9,0724747445a4d2edc8c7bdc59bf2cbd7bb761197dd463e2c44e8545413b083f7,"virtualmachine22.ddns.net:5552,127.0.0.1:5552,"
+2019-05-20 18:30:02,PowerShell_Empire_Agent,https://t.co/XjSmPpRP7s,d42f04d57519198c59df000067936e7763e120ca5f7741cad341539455f143b0,192.168.247.194:80
+2019-05-20 18:10:02,PowerShell_Empire_Agent,https://t.co/jwwPXXqid7,baa0519ea931ede44517fb24a21e5a5a8154263c3c862a6ef9121d6a591d1be7,192.168.128.174:80
+2019-05-20 18:00:03,PowerShell_Empire_Agent,https://t.co/FnsB7gEjm3,e8b86eade7d3bfedeb85f300b052cfea1ed44685db53a937de6de7ed7ddafa24,192.168.232.164:80
+2019-05-20 17:51:06,PowerShell_Empire_Agent,https://t.co/iYgteKzu6Y,9d8965413bca039da75490cebfe380d7d051b6e5a19eedb0f1ebd825ff52db63,192.168.128.174:80
+2019-05-20 17:50:34,PowerShell_Empire_Agent,https://t.co/0PtJ5A67P8,04f4dc159d9ad49400e1f6d23ac25b7fba4bd53b5304cc9e90bb6ffcbfb99d3d,192.168.222.153:80
+2019-05-20 17:50:02,PowerShell_Empire_Agent,https://t.co/f7BJqWftmT,1ca7b8829ba874b9ccd867f8cfd517d249ab93b14aef6b30fa73df19aa9537c0,192.168.50.154:80
+2019-05-20 17:17:02,njRat,https://t.co/JUu3rs4QId,20ec3eebb11e9d03bbc9cd5ab577ba4cea144e0f469f22d0731ce4da438ceeda,127.0.0.1:5553
 2019-05-20 13:02:02,njRat,https://t.co/MgomV5NX1b,eee772d1ebe3ed288634d0e98d42a9cc95983ab3c09adea1ec8b0d62e0375aac,houssjrad.ddns.net:81
 2019-05-20 12:32:02,njRat,https://t.co/kzCAOgDqzl,eee772d1ebe3ed288634d0e98d42a9cc95983ab3c09adea1ec8b0d62e0375aac,houssjrad.ddns.net:81
 2019-05-20 09:02:02,njRat,https://t.co/ah85eeRnuZ,f0586a6c59a6caf55fcbb6f819dcad2f0311a1306cc63c9dad3faef76e09e40a,127.0.0.1:5553
