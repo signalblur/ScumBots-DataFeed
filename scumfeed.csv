@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-05-22 20:49:41,Revenge,https://t.co/JB5Z5ZFDIu,34de8e0e6e8a74bc9ae77b28b4e1954b339a21bfb14e396e9d2d6f299b817ae1,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,bylgay.hopto.org:80,m"
+2019-05-22 20:47:02,Revenge,https://t.co/RZOmRtLDG7,34de8e0e6e8a74bc9ae77b28b4e1954b339a21bfb14e396e9d2d6f299b817ae1,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,bylgay.hopto.org:80,m"
+2019-05-22 20:00:03,PowerShell_Empire_Agent,https://t.co/5ccsDOdacA,cc3ee5b6271cc6310211b05c3bfa82c68cda328f1606215c45d886853d6d31e3,199.192.27.61:80
+2019-05-22 19:02:02,njRat,https://t.co/MEvyc6MlLV,a16cfa98c12868f5f0d207d07ee8ed99ca6d689adebceb92268bab8500cd5957,127.0.0.1:1177
+2019-05-22 17:47:02,njRat,https://t.co/eqMQngi1pv,74ae8aa9f0d8ee688f8f93c7db3dace4c7c21fb00e461afc7b3b2e7166f5dc07,127.0.0.1:5552
+2019-05-22 16:32:03,njRat,https://t.co/ZGiewdLxf9,bbe408f935e2b4a54b0a22ebcb1746fa567016e00652a66b79c8d257afc37063,motisyoink.ddns.net:3332
 2019-05-22 06:40:02,PowerShell_Empire_Agent,https://t.co/7ZQ0Kkn3On,7cf0ef926c48ee97159a1fcdfeb39e60399b23ae7e4d4ae62446edcb6ab57640,172.17.123.175:80
 2019-05-22 00:32:03,njRat,https://t.co/BddfhAYi8E,bfb33786885fc1da065abfbac5adde5436322f36605fd8eb22d7a51718f7d7a0,a29vdWppdG8uZGRucy5uZXQ!:1177
 2019-05-21 20:17:02,njRat,https://t.co/8r58NGnFZj,ab5144fc0f52901acf62fd2771971bf3fd4a76603afbc84d6b29a655a0ba0dd1,777ys.cc:3339
