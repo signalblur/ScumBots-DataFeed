@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-05-23 02:33:05,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/FGPKsHgroS,a519ace441c69746a22b96bcb1856b4e02b05ec0cda27d7f3d7604384976e018,18.223.41.243:12432
+2019-05-23 02:02:04,njRat,https://t.co/9UEiI3hHTG,2054a9ed52db235b34884db17d9cd1fbb990c1025b63e17f8f0dbc1338f21a3a,ahmed123454.ddns.net:5551
+2019-05-22 22:02:02,njRat,https://t.co/ceP53AkMwd,16d8c0cfac3c43e1d17313f4334e1bd2a70f5a6e5fc0988f6d6fbf7d0e81fa9a,by-sabotage123.duckdns.org:1177
 2019-05-22 20:49:41,Revenge,https://t.co/JB5Z5ZFDIu,34de8e0e6e8a74bc9ae77b28b4e1954b339a21bfb14e396e9d2d6f299b817ae1,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,bylgay.hopto.org:80,m"
 2019-05-22 20:47:02,Revenge,https://t.co/RZOmRtLDG7,34de8e0e6e8a74bc9ae77b28b4e1954b339a21bfb14e396e9d2d6f299b817ae1,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,bylgay.hopto.org:80,m"
 2019-05-22 20:00:03,PowerShell_Empire_Agent,https://t.co/5ccsDOdacA,cc3ee5b6271cc6310211b05c3bfa82c68cda328f1606215c45d886853d6d31e3,199.192.27.61:80
