@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-05-24 12:20:02,PowerShell_Empire_Agent,https://t.co/2ELegCCKKK,d0ccf54d022af9fd1ad4687b6f1d282e0d7cb6a1f8ed5d804395c55a6bb96bdb,104.248.18.157:80
+2019-05-24 11:17:03,njRat,https://t.co/O4k46VwyTb,b5964b55f4acb4433c7912451886b68c53553714e1df71061ef6991fa32236b8,127.0.0.1:1177
 2019-05-24 08:02:19,Revenge,https://t.co/PCaJCK1mkO,0a92216ad2f33306dec8e9589eafcd861aa6cea091890ad884fe49a9a9cefd55,spacexlinkx.com:443
 2019-05-24 08:02:03,njRat,https://t.co/xVmWCuGfrI,d1986476bdba044734681e26d0de43be997ba4669786b9170655eaddfc7fb67b,127.0.0.1:5555
 2019-05-24 07:32:02,Revenge,https://t.co/GiUhPP9R3U,0a92216ad2f33306dec8e9589eafcd861aa6cea091890ad884fe49a9a9cefd55,spacexlinkx.com:443
@@ -605,17 +607,3 @@ date_identified,implant_type,url,hash,c2
 2019-04-24 15:55:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/iGNI8KlKHb,666503d5520c41fb3e89d7e7529bfd4524d7b08a5909ac56127823de73e7529c,192.168.1.69:80
 2019-04-24 15:45:05,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/BXZFfM6wJc,0cd533fb522bd2d96cfd0cc4e3f7decfffa793305c3a89fd73743556b805655d,192.168.1.69:4444
 2019-04-24 15:25:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/czK7avhA2A,9e7041acd68e7dc6ad2cd2cac16447c9f7d2fbcaeeb1d79b119a6c1225e6b4e5,192.168.1.69:4444
-2019-04-24 11:02:03,njRat,https://t.co/TqISIgKpUu,fa924fdb761e350bba1258b15212f606dd170a2e8775ac15748d9e76712434c5,exe93.ddns.net:5552
-2019-04-24 10:47:02,njRat,https://t.co/HPuhGXMRMM,500886eeadb92635b78618160f740185188da0f581ae12d2d1569ef20112e8f1,a29vdWppdG8uZGRucy5uZXQ!:1177
-2019-04-24 09:17:03,njRat,https://t.co/DejlYGmLOL,0e28796fbbaece1f8c653222ea5647a7c20b3806a3040a5b957b709ed19f9519,127.0.0.1:22
-2019-04-24 08:40:34,PowerShell_Empire_Agent,https://t.co/Sx9G2D4tIT,39c44bdecdb93713c3604e7ce33d4c54c49f1a431ed5ac33eaa3c03e672ee13e,192.168.254.129:80
-2019-04-24 08:40:02,PowerShell_Empire_Agent,https://t.co/bvKSpWJj2O,88dc9c0e92a776691c347ec71ee1d7b04bd8a4608d166a16eeb1eba00e2c837d,192.168.68.129:80
-2019-04-24 08:30:02,PowerShell_Empire_Agent,https://t.co/H52knQXHET,9610880240847c9dd40bc53e72082e7fa6387144443e5bfce1d387f1e060166b,192.168.60.129:80
-2019-04-24 05:17:03,Revenge,https://t.co/2d7DnXWyXn,79ccbe35659725cce855a8cb47469f6a1b7fdc4258ae84f299e251b04b743ab1,192.168.0.5:2222
-2019-04-24 03:20:02,PowerShell_Empire_Agent,https://t.co/TKSyzfJxBp,2c5526c72f973a25bb5fb9bda3ae58cd56b75b25406a62f40c3f1d396e44b65c,192.168.146.131:80
-2019-04-24 02:49:22,Revenge,https://t.co/zra3HYp7sd,bad5feeb72deeac6ce4b20dfc94db199427185bfc37fe52fd5f09c325d467387,192.168.0.4:2222
-2019-04-24 02:48:13,Revenge,https://t.co/Bb13v5jwKq,484e4b1c41b64a1440206abc71d7bf6a7113baddeb36b6eef5aab0d5fb3cc848,192.168.0.5:2222
-2019-04-24 02:47:02,Revenge,https://t.co/qRb9NLDg6l,484e4b1c41b64a1440206abc71d7bf6a7113baddeb36b6eef5aab0d5fb3cc848,192.168.0.5:2222
-2019-04-24 01:47:03,NanoCore,https://t.co/sXkJE3j458,57c47cfe64823c46b783ef861d192197e04e28813182b90806ee8738918678ba,"127.0.0.1:1604,"
-2019-04-24 00:02:03,njRat,https://t.co/0Aw3xY6EMq,8f61ea5def1596554b67ef41993a671729bf06522a9cff1aa1e4a5e9835de9ed,exe93.ddns.net:5552
-2019-04-23 23:32:02,njRat,https://t.co/NNWG25nTil,ff2803757d0eb8aed1bd8bf696411fe2dba9a1c7afc8044770e05eacba49b545,exe93.ddns.net:5552
