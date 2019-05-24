@@ -3,6 +3,8 @@ This is a feed of @pmelson's, @ScumBots twitter feed. Its goal is to provide an 
 
 This feed is *NOT* production ready. Use at your own risk.
 
+Feed updates every 6 hours from the last commit. If it hasn't updated within 6 hours, it typically means there have been no new hashes since the last commit. If there has, ping me on here and I'll look at correcting it.
+
 All credit goes to https://github.com/pmelson / https://twitter.com/pmelson / https://twitter.com/ScumBots
 
 ## Known Issues:
