@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-05-24 14:17:03,njRat,https://t.co/PbyiXennHQ,27da93702a19854dfcafa4dca8b5fa70cbec0024c9d9072b0f7f85e69925845e,127.0.0.1:1458
+2019-05-24 13:44:11,PowerShell_Empire_Agent,https://t.co/LClqthXX8C,7c6517b675435bce60ffc777f032e53e97e9467586c3604a672b2360c56f1a18,104.248.18.157:80
+2019-05-24 13:32:03,njRat,https://t.co/QQpKkqFfvx,b8e940e0cf02a34ad088ec1f69b792078684fa1e37a3f15cc54b1e3ba142616c,127.0.0.1:5552
 2019-05-24 12:20:02,PowerShell_Empire_Agent,https://t.co/2ELegCCKKK,d0ccf54d022af9fd1ad4687b6f1d282e0d7cb6a1f8ed5d804395c55a6bb96bdb,104.248.18.157:80
 2019-05-24 11:17:03,njRat,https://t.co/O4k46VwyTb,b5964b55f4acb4433c7912451886b68c53553714e1df71061ef6991fa32236b8,127.0.0.1:1177
 2019-05-24 08:02:19,Revenge,https://t.co/PCaJCK1mkO,0a92216ad2f33306dec8e9589eafcd861aa6cea091890ad884fe49a9a9cefd55,spacexlinkx.com:443
