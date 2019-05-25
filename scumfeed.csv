@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-05-25 22:02:52,njRat,https://t.co/ujqQbvhtTc,2bbc1bcd23e87e3f0f866221b1dadbe1189d4c6ed039e8d044f878637a49de34,zerokart.kro.kr:5552
+2019-05-25 22:02:35,NanoCore,https://t.co/ZAuFWdSotv,dd64706d889afb9605e36df8981cc065e673b3027693b679eb0f095530eb4e1e,"sirchocolate.ddns.net:54984,127.0.0.1:54984,"
+2019-05-25 22:02:19,njRat,https://t.co/lkraKGXnLz,ac51b5b0d199b283cd4e85245f06f7c31818eb0b3adb10efc264508cc4eaf978,issa19900.ddns.net:1177
+2019-05-25 22:02:03,njRat,https://t.co/ElXc9sAMbX,ac51b5b0d199b283cd4e85245f06f7c31818eb0b3adb10efc264508cc4eaf978,issa19900.ddns.net:1177
+2019-05-25 21:17:02,njRat,https://t.co/SrFzODIkVk,0011f1ea6af3a7751826798b5f91446a6b2ef969d8ac6f24dd672bab9a23f2c7,127.0.0.1:55
+2019-05-25 17:17:03,NanoCore,https://t.co/BwnHEmzmHB,90a011c002174dde7bd79557bb9c3216be192666abbf8e9529fe579d9b5c074a,"24e26s2854.wicp.vip:11543,"
+2019-05-25 16:32:02,NanoCore,https://t.co/In1AQkxYPd,ec755df85f78d0d82efbd8b2a71cbfe7e2c5613d6fec5de60970f2ac7b08fa7d,"frowing.ddns.net:53896,127.0.0.1:53896,"
 2019-05-25 15:50:03,PowerShell_Empire_Agent,https://t.co/91T22juNwC,d21a06660bf30224ee0812e6a3a8799a20037d90a4002900fb157337a314aad5,99.10.70.0:8083
 2019-05-25 08:45:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/cIByJu4PyC,bc255609da974b1f838336cafc96f2b9ff7140b6bc0927b801e7112ecf81d4f3,3.19.114.185:15888
 2019-05-25 03:47:02,njRat,https://t.co/PeTzEIaT8H,34270388e9119e5cbfc9d2831028922856a91b324c810feac30deb2f772cc47f,127.0.0.1:5555
