@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-05-26 15:55:34,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/qzW226pclF,73d936ea77405971dc37c314add75ab4a7faefc7f5286c15c8eb1b5d55f037cf,192.168.0.140:4444
+2019-05-26 15:55:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/cEOyTPGIcO,69a933e91f4764e389619c0619fd205e525373e8ec0d1ff062979fe7950dd555,192.168.0.140:4444
+2019-05-26 12:47:18,njRat,https://t.co/K2neXHYa92,215779d6cff4364e09b0f5c59b3a327936f71795cd8c07267a5bf81332ee5c8c,esgm.ddns.net:1413
+2019-05-26 12:47:02,njRat,https://t.co/uEnWK6cYPF,215779d6cff4364e09b0f5c59b3a327936f71795cd8c07267a5bf81332ee5c8c,esgm.ddns.net:1413
 2019-05-26 09:17:02,njRat,https://t.co/12RrA8m55O,215779d6cff4364e09b0f5c59b3a327936f71795cd8c07267a5bf81332ee5c8c,esgm.ddns.net:1413
 2019-05-26 04:28:57,PowerShell_Empire_Agent,https://t.co/7M4FyXfzaF,d6c66471431162443b5ccd0587ef6ccf1ce52e78974c4dac593271afefcea3c5,18.225.28.166:80
 2019-05-26 04:20:16,PowerShell_Empire_Agent,https://t.co/2iCtKW6QrA,7626076285bcaa8b38550917fbcd4efb7a4b3b4cb9e265bb3a35fe298ba493e6,18.225.28.166:80
