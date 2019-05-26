@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-05-26 09:17:02,njRat,https://t.co/12RrA8m55O,215779d6cff4364e09b0f5c59b3a327936f71795cd8c07267a5bf81332ee5c8c,esgm.ddns.net:1413
+2019-05-26 04:28:57,PowerShell_Empire_Agent,https://t.co/7M4FyXfzaF,d6c66471431162443b5ccd0587ef6ccf1ce52e78974c4dac593271afefcea3c5,18.225.28.166:80
+2019-05-26 04:20:16,PowerShell_Empire_Agent,https://t.co/2iCtKW6QrA,7626076285bcaa8b38550917fbcd4efb7a4b3b4cb9e265bb3a35fe298ba493e6,18.225.28.166:80
+2019-05-26 04:18:43,PowerShell_Empire_Agent,https://t.co/kyV6R5z3N0,64d7ba55642148ba5a0037a9c2ed2303a1f08587c9e40e3f5a9a9f06e5430e66,172.31.37.171:80
+2019-05-26 04:16:45,PowerShell_Empire_Agent,https://t.co/Ap2DVdWcQZ,1bbabc90349c9cf68e7d3c66ee4e8caa492018fddcf3efaea9a73d2b3d61a6b1,172.31.37.171:80
 2019-05-26 01:02:02,njRat,https://t.co/Hdd7sseYz7,1197573b2eec56b2749d6a278f32cb2a4fa333ef3817307316d7aae86b8e9c46,maimouna.ddns.net:3377
 2019-05-25 22:47:03,NanoCore,https://t.co/I3ub30MePA,ab6249533fd5884ef23b0f120b630d751314e8f09dc3a2d17e2bded2bc24a547,"24e26s2854.wicp.vip:11543,"
 2019-05-25 22:02:52,njRat,https://t.co/ujqQbvhtTc,2bbc1bcd23e87e3f0f866221b1dadbe1189d4c6ed039e8d044f878637a49de34,zerokart.kro.kr:5552
