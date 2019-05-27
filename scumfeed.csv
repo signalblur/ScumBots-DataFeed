@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-05-27 03:47:03,njRat,https://t.co/bnRG4uf6ju,4e3f6514980f532825225d47182ee9fac2475e31f2f5a7e5d3b49b5478a9866b,rat24695.ddns.net:8080
+2019-05-27 03:30:03,PowerShell_Empire_Agent,https://t.co/VGLHuOLycq,94833098e6d7662751f3769d47965b82a710a7100c6da8631fe1498e456b34e5,192.168.240.128:80
+2019-05-27 02:47:02,njRat,https://t.co/kLmNGZFK9u,80dea448e4f803c71e050dabccfe08e15d1bcecf6a2938f5b6d3bb7df22439b3,windows-background.dynu.net:5552
+2019-05-26 23:17:03,Revenge,https://t.co/yyqEIRBHHS,e28591cdf0a2dbb0b452a1987f2bfbb61ab0abb9a1dcd8a8652ba480eaa95705,127.0.0.1:4444
 2019-05-26 20:32:03,njRat,https://t.co/z2DYHbAiUD,d44afc753b47a7a9f7b606d4342b04e0a280544498eafd6a8ae1e97db5b52977,windows-servers.sytes.net:5552
 2019-05-26 17:17:02,njRat,https://t.co/mm3uJAIAsq,6dd3ccb7cebb5784cd71d5e7119e9dbf653d5f8c45f743fc7fd9861bc9984f4d,windows-background.gotdns.ch:5552
 2019-05-26 15:55:34,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/qzW226pclF,73d936ea77405971dc37c314add75ab4a7faefc7f5286c15c8eb1b5d55f037cf,192.168.0.140:4444
