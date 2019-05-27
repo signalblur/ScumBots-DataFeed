@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-05-27 21:32:03,njRat,https://t.co/OUCpSpPjVT,a8b7cd5d35dfbf3d340930976cdeeaf48de07e080017f3f3bc54d94e50c1227f,houari1987.ddns.net:1177
+2019-05-27 19:32:03,Lime-RAT,https://t.co/sEinRVFlRu,97d8cdf8d18bd3f45d66ab14a2c5642d2bbf2f8892876f1c2b09d809f2e628b2,https://pastebin.com/raw/eQ03WgND
+2019-05-27 16:45:43,njRat,https://t.co/TlMzaQRERJ,80d6817c93346d783c721dc9d93518ffc9b0894fad94b19509886fd9d1740485,127.0.0.1:2547
+2019-05-27 16:19:10,PowerShell_Empire_Agent,https://t.co/w80Zp599nG,d2d99bc8dd37839c158abff0143efa67e6938064a4d943697a4e3588d169d08d,99.10.70.0:8081
+2019-05-27 16:17:02,njRat,https://t.co/cNPK2fl5Cn,a0aaf719e1413ecea85df4ea9deae80f41ce8ecc7fab2f9e858cacfb79918034,windows-background.firewall-gateway.net:5552
 2019-05-27 15:55:40,PowerShell_Empire_Agent,https://t.co/JPuCxUp1Ni,8f9d35831a33ece0ec7aca0a7192709febecae5b850154affb6daf8f051f11cf,51.15.97.55:80
 2019-05-27 15:52:31,PowerShell_Empire_Agent,https://t.co/lZwqrDg9dm,704902b8448b55ee4aa6ccbbe1dce833553fbe7b8cac2fbf04412e324a2bb8db,51.15.97.55:80
 2019-05-27 15:47:04,njRat,https://t.co/ROimMekbjK,80d6817c93346d783c721dc9d93518ffc9b0894fad94b19509886fd9d1740485,127.0.0.1:2547
