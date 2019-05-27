@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-05-27 06:20:02,PowerShell_Empire_Agent,https://t.co/4QOC5S9KLK,680e4952055b7c4ca19aa6a61f6e0bd450d45a79b0db56f4bbc3ab61a9f5403b,134.209.84.8:8082
 2019-05-27 03:47:03,njRat,https://t.co/bnRG4uf6ju,4e3f6514980f532825225d47182ee9fac2475e31f2f5a7e5d3b49b5478a9866b,rat24695.ddns.net:8080
 2019-05-27 03:30:03,PowerShell_Empire_Agent,https://t.co/VGLHuOLycq,94833098e6d7662751f3769d47965b82a710a7100c6da8631fe1498e456b34e5,192.168.240.128:80
 2019-05-27 02:47:02,njRat,https://t.co/kLmNGZFK9u,80dea448e4f803c71e050dabccfe08e15d1bcecf6a2938f5b6d3bb7df22439b3,windows-background.dynu.net:5552
