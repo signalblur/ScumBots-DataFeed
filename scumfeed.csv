@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-05-28 21:32:04,Revenge,https://t.co/6r0iv4P4xl,f8c119ad4b13ab080c04ac0090a5c51fb19753c9cc1d3b156c22ea1041049d54,192.168.1.105:7070
+2019-05-28 21:17:03,njRat,https://t.co/7fY4vUUj5B,813812bc395e4b366332d27ef070aa48768c9e2d4fa24819246d6e6d57994f83,192.168.1.105:7070
+2019-05-28 18:51:57,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/EdTvlus0jS,6e847bb4f8a0631b8499fcdf06b2b0e218dbdf6c19dd1675343f6e2c62521df1,89.105.198.26
+2019-05-28 18:50:56,njRat,https://t.co/o1r6FZ1ngs,86e80f63516c1809ae3193ef3d49e1a17e30f8c45aa645487c39c14eb2a97fe5,fantasma-43399.portmap.host:43399
+2019-05-28 18:48:59,njRat,https://t.co/fyYEr1qSQu,86e80f63516c1809ae3193ef3d49e1a17e30f8c45aa645487c39c14eb2a97fe5,fantasma-43399.portmap.host:43399
+2019-05-28 18:25:53,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/4nILDHkL2r,6e847bb4f8a0631b8499fcdf06b2b0e218dbdf6c19dd1675343f6e2c62521df1,89.105.198.26
+2019-05-28 16:15:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/iC8lpYJF91,8878a2c5339de4fba01ce1847c99df60e66ed72c8f23c4e3f6f9cf0bf51e8c66,89.105.198.26
 2019-05-28 16:05:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/A9bDa1DCKe,8878a2c5339de4fba01ce1847c99df60e66ed72c8f23c4e3f6f9cf0bf51e8c66,89.105.198.26
 2019-05-28 15:02:03,njRat,https://t.co/haXHqyBNVv,b2bcbcb316a7787d7486168a7320b1190d8ea42e74ee9d11c667cd2564d6d9e0,windows-background.nowddns.com:5552
 2019-05-28 14:50:49,PowerShell_Meterpreter_Reverse_HTTP_x64,https://t.co/kUJGfyvHOZ,976024435bd912ff3c3d61b2f1849d85f13d878c38960789e1154767b4b32d00,132.167.63.204
