@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-05-29 10:02:03,NanoCore,https://t.co/2gLcf1sKXB,7b3f0794afe78364e70148fa07ca1dcddaf842b4dc03b1f8b0dbb533ade5c657,"uchiwasenshi.ddns.net:1605,"
 2019-05-29 03:57:38,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/qrfudf9sqh,36f8901079f448fa117ea491419a311098fdf3898e62ca54a1c72339f630bcb2,109.150.206.190:443
 2019-05-29 02:02:06,RAT,https://t.co/J4aSr9kJdx,585495b60c8471fb83837bcd04101a31953a77e3e009848d7d1772c53798e319,"127.0.0.1:2404:pass,"
 2019-05-28 21:32:04,Revenge,https://t.co/6r0iv4P4xl,f8c119ad4b13ab080c04ac0090a5c51fb19753c9cc1d3b156c22ea1041049d54,192.168.1.105:7070
