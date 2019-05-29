@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-05-29 13:47:19,njRat,https://t.co/mn0wnrntvW,3d50a6555ffb3352517947a008342e1b1f9f67461e9049be1f7a06744d750608,rat24695.ddns.net:8080
+2019-05-29 13:47:02,njRat,https://t.co/FIiConvfnW,cfe6fb990292d84dd195e8944f48a5a0ec1954150941d253da1025a39aff7175,rat24695.ddns.net:8080
+2019-05-29 13:32:03,njRat,https://t.co/vKm1e4uHc3,4e3f6514980f532825225d47182ee9fac2475e31f2f5a7e5d3b49b5478a9866b,rat24695.ddns.net:8080
+2019-05-29 12:17:02,njRat,https://t.co/qa318hVefD,9eae07ee03e8d48c140cff43e92522f360daa138461a9acad1d629f85b6c12be,"itotrojan.duckdns,org:1307"
 2019-05-29 10:02:03,NanoCore,https://t.co/2gLcf1sKXB,7b3f0794afe78364e70148fa07ca1dcddaf842b4dc03b1f8b0dbb533ade5c657,"uchiwasenshi.ddns.net:1605,"
 2019-05-29 03:57:38,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/qrfudf9sqh,36f8901079f448fa117ea491419a311098fdf3898e62ca54a1c72339f630bcb2,109.150.206.190:443
 2019-05-29 02:02:06,RAT,https://t.co/J4aSr9kJdx,585495b60c8471fb83837bcd04101a31953a77e3e009848d7d1772c53798e319,"127.0.0.1:2404:pass,"
