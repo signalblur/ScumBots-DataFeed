@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-05-30 14:17:03,njRat,https://t.co/lHE6fhjl71,a0d9ffb78d298527148df11bf2721767c2ad37c39a4e399fd6f861163618cefc,127.0.0.1:1777
+2019-05-30 11:47:03,njRat,https://t.co/2D34iaHrBO,34fe958aacca99f5e19f8c86ee838df4e4a2d7a8469fbeb1eb1d427c2d90f80e,127.0.0.1:9023
+2019-05-30 11:02:03,Lime-RAT,https://t.co/dmGAfZC1t7,a897f33f2d0011167aca276dde2b43d58833ebd686f2285ab8ed7e3bcdbada9d,https://pastebin.com/raw/QqYjy3ZC
+2019-05-30 10:47:03,Lime-RAT,https://t.co/s2qfq3GjDZ,996e49868ede0ebe130a56ab8e601fef72c269f661dde71879be06866d3f43b3,https://pastebin.com/raw/b951APm8
 2019-05-30 00:54:46,PowerShell_Meterpreter_Reverse_HTTP_x64,https://t.co/alfs3IvqiR,312a21c615c88f15006cd01429d33949e5fdbbbcb47aedc27deb732e0b793106,132.167.63.168
 2019-05-30 00:48:20,PowerShell_Meterpreter_Reverse_HTTP_x64,https://t.co/g9d2eERyYN,b43171d9377c4f331811253626adfd9b40da6e8b5077a8cefcea81d4b6fb1174,132.167.63.168
 2019-05-30 00:37:40,PowerShell_Meterpreter_Reverse_HTTP_x64,https://t.co/rakZZgfZ2b,7b95cf9ff47587b2ddb1960418aa11c6f743496bf924c08583ebb30bc56b2570,82.145.59.79
