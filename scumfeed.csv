@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-05-30 19:02:02,Revenge,https://t.co/xy0MGsxNcJ,d3281706321b70dc24968853cd5aa9634ba1fcfc00dc1ded3cd372b7539e53b6,securitydigitalgov.sytes.net:3368
+2019-05-30 17:20:33,PowerShell_Empire_Agent,https://t.co/eaBfQsjeza,ca58795e42553a056e98c90f69f466e344591fddf5f518cbecfb87ccddb102c5,192.168.138.128:80
+2019-05-30 17:20:03,PowerShell_Empire_Agent,https://t.co/TOXwLXeLeh,ca58795e42553a056e98c90f69f466e344591fddf5f518cbecfb87ccddb102c5,192.168.138.128:80
 2019-05-30 14:17:03,njRat,https://t.co/lHE6fhjl71,a0d9ffb78d298527148df11bf2721767c2ad37c39a4e399fd6f861163618cefc,127.0.0.1:1777
 2019-05-30 11:47:03,njRat,https://t.co/2D34iaHrBO,34fe958aacca99f5e19f8c86ee838df4e4a2d7a8469fbeb1eb1d427c2d90f80e,127.0.0.1:9023
 2019-05-30 11:02:03,Lime-RAT,https://t.co/dmGAfZC1t7,a897f33f2d0011167aca276dde2b43d58833ebd686f2285ab8ed7e3bcdbada9d,https://pastebin.com/raw/QqYjy3ZC
