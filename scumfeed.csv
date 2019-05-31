@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-05-31 08:02:02,njRat,https://t.co/c6vjSsGKD1,bc7f44ac3d80b69c580dfb727e92aa00a3d037210097e325b90512fc75ba7acc,127.0.0.1:3322
+2019-05-31 07:00:03,PowerShell_Empire_Agent,https://t.co/6Apy2KWrRN,d566948379279b40ad8520a95415fd7bd91885f3c8aaeaaf8beba8092aa8fa67,192.168.232.164:80
+2019-05-31 05:47:03,njRat,https://t.co/NeZhjTCFYY,1c02f292708a43278419edab5623dbed847579d6b4a165443a95c9e34aeb8194,koforu.hopto.org:5168
 2019-05-31 03:47:35,PowerShell_Empire_Agent,https://t.co/asE5ejEsPi,8b764aa55b9716569ed941e3be5e96533cac5b871f5f3ddef8daa6b871a64dfb,47.103.4.235:80
 2019-05-31 03:12:55,Revenge,https://t.co/2JiQiaZJGu,f951e1d53a409ca6990db56a7bbe3b5586f0c9d8acf58398610f59d01b01567d,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,bylgay.hopto.org:80,m"
 2019-05-31 03:12:30,Revenge,https://t.co/mohojNCkHX,ed7edd483b6e15abf2f1531aa845efe5a4dc26505ededd3a59be5e79fbc80e05,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,bylgay.hopto.org:80,m"
