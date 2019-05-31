@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-05-31 03:47:35,PowerShell_Empire_Agent,https://t.co/asE5ejEsPi,8b764aa55b9716569ed941e3be5e96533cac5b871f5f3ddef8daa6b871a64dfb,47.103.4.235:80
+2019-05-31 03:12:55,Revenge,https://t.co/2JiQiaZJGu,f951e1d53a409ca6990db56a7bbe3b5586f0c9d8acf58398610f59d01b01567d,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,bylgay.hopto.org:80,m"
+2019-05-31 03:12:30,Revenge,https://t.co/mohojNCkHX,ed7edd483b6e15abf2f1531aa845efe5a4dc26505ededd3a59be5e79fbc80e05,"microsoftoutlook.duckdns.org:333,soucdtevoceumcuzao.duckdns.org:333,bylgay.hopto.org:333,bylgay.hopto.org:80,m"
+2019-05-30 23:35:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ockKDVH3xe,317347d0f54edffad0df70f8e87859cf998c5bf9b78fa45abf79f252ee95ef37,192.168.0.109
 2019-05-30 19:02:02,Revenge,https://t.co/xy0MGsxNcJ,d3281706321b70dc24968853cd5aa9634ba1fcfc00dc1ded3cd372b7539e53b6,securitydigitalgov.sytes.net:3368
 2019-05-30 17:20:33,PowerShell_Empire_Agent,https://t.co/eaBfQsjeza,ca58795e42553a056e98c90f69f466e344591fddf5f518cbecfb87ccddb102c5,192.168.138.128:80
 2019-05-30 17:20:03,PowerShell_Empire_Agent,https://t.co/TOXwLXeLeh,ca58795e42553a056e98c90f69f466e344591fddf5f518cbecfb87ccddb102c5,192.168.138.128:80
