@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-05-31 20:40:02,PowerShell_Empire_Agent,https://t.co/YPHLycKudL,76552c84c9b0be606e1e22bac673c8c8c2dc8ccd25cc262dcbfc221ad2a890f3,10.11.162.221:80
+2019-05-31 20:02:03,njRat,https://t.co/FaGlNuh3rw,b5e55ae1a0be768f7e661fe4f12192f633f5fa7936b3e97ad37afdf720103d86,0.tcp.ngrok.io:16977
+2019-05-31 18:45:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/WTDWQD2NXE,72f8c011821eee4d20e11fc3adf26b08dba8bc5289409e0cc5b736746999349e,192.168.1.51
+2019-05-31 18:32:03,njRat,https://t.co/YUowOsXXdM,6e33c3e8508a7bfa6c98285745526f39033145cbd6544a50e2cfa340a5f7d29f,103.22.181.24:433
 2019-05-31 08:02:02,njRat,https://t.co/c6vjSsGKD1,bc7f44ac3d80b69c580dfb727e92aa00a3d037210097e325b90512fc75ba7acc,127.0.0.1:3322
 2019-05-31 07:00:03,PowerShell_Empire_Agent,https://t.co/6Apy2KWrRN,d566948379279b40ad8520a95415fd7bd91885f3c8aaeaaf8beba8092aa8fa67,192.168.232.164:80
 2019-05-31 05:47:03,njRat,https://t.co/NeZhjTCFYY,1c02f292708a43278419edab5623dbed847579d6b4a165443a95c9e34aeb8194,koforu.hopto.org:5168
