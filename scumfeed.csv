@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-06-01 03:17:19,njRat,https://t.co/jy95a6kPUW,ef4bccac3cb0058e0b09977fe15502c6afd494ab523d523180916663a9218a59,spy200001.hopto.org:5552
+2019-06-01 03:17:03,njRat,https://t.co/JX868A8V2q,ef4bccac3cb0058e0b09977fe15502c6afd494ab523d523180916663a9218a59,spy200001.hopto.org:5552
+2019-06-01 03:02:03,njRat,https://t.co/otm7L5B0sq,ef4bccac3cb0058e0b09977fe15502c6afd494ab523d523180916663a9218a59,spy200001.hopto.org:5552
+2019-06-01 00:51:16,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/imyV1Wjwtk,3c9b650fdae6d3f0b6463010b91dd06461f51b3ac74e2d4e4c1f93513400d282,192.168.1.49:4444
 2019-05-31 20:40:02,PowerShell_Empire_Agent,https://t.co/YPHLycKudL,76552c84c9b0be606e1e22bac673c8c8c2dc8ccd25cc262dcbfc221ad2a890f3,10.11.162.221:80
 2019-05-31 20:02:03,njRat,https://t.co/FaGlNuh3rw,b5e55ae1a0be768f7e661fe4f12192f633f5fa7936b3e97ad37afdf720103d86,0.tcp.ngrok.io:16977
 2019-05-31 18:45:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/WTDWQD2NXE,72f8c011821eee4d20e11fc3adf26b08dba8bc5289409e0cc5b736746999349e,192.168.1.51
