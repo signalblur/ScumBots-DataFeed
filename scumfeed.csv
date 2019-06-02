@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-06-02 21:47:02,njRat,https://t.co/Ilzsf3sA90,c87b3d77115c3f9ebeda9252cefb73debb1d5bc2ccd4302db9fae170b3483513,chrome134313.gleeze.com:5552
+2019-06-02 21:32:19,njRat,https://t.co/d2qNbLu3jV,c87b3d77115c3f9ebeda9252cefb73debb1d5bc2ccd4302db9fae170b3483513,chrome134313.gleeze.com:5552
+2019-06-02 21:32:02,njRat,https://t.co/c38f20VoMh,c87b3d77115c3f9ebeda9252cefb73debb1d5bc2ccd4302db9fae170b3483513,chrome134313.gleeze.com:5552
+2019-06-02 18:02:02,njRat,https://t.co/NwzFn9F9bk,828f56fe79328ba879400ba33fbb26fffe6b78a8073e2fb34f3e2ed2d23bd2a1,103.22.181.24:433
 2019-06-02 16:02:02,njRat,https://t.co/F5g9fHtEjn,9435067ac5624e32ebf40be738d59a0d9dad8062c1096f0d23a91345df7eab66,114.116.75.178:46522
 2019-06-02 15:32:02,njRat,https://t.co/vnwiYUcPkw,f9cc7f929cf36fe2d5fdd5fe5b5804c4395741a0a2ee8bc9b35531bcfcf1c644,192.168.8.107:59
 2019-06-02 15:17:02,njRat,https://t.co/worWV9Xcj9,f9cc7f929cf36fe2d5fdd5fe5b5804c4395741a0a2ee8bc9b35531bcfcf1c644,192.168.8.107:59
