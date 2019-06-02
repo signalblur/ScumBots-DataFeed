@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-06-02 16:02:02,njRat,https://t.co/F5g9fHtEjn,9435067ac5624e32ebf40be738d59a0d9dad8062c1096f0d23a91345df7eab66,114.116.75.178:46522
+2019-06-02 15:32:02,njRat,https://t.co/vnwiYUcPkw,f9cc7f929cf36fe2d5fdd5fe5b5804c4395741a0a2ee8bc9b35531bcfcf1c644,192.168.8.107:59
+2019-06-02 15:17:02,njRat,https://t.co/worWV9Xcj9,f9cc7f929cf36fe2d5fdd5fe5b5804c4395741a0a2ee8bc9b35531bcfcf1c644,192.168.8.107:59
+2019-06-02 14:47:03,Njratgold,https://t.co/ZWWBc3DaaB,8656c164b1f9d4420bf8fdc09d0496c0182a45dff62d9ee73c5dd2952283972b,192.168.1.30:5552
+2019-06-02 13:32:03,njRat,https://t.co/7Qpslnh4VP,641f4f016b6711dd43a0f269037369e92e1f16e93bb4851e4d8564932286ad39,192.168.1.30:1177
+2019-06-02 12:17:04,njRat,https://t.co/qlk3IcNE5b,f9cc7f929cf36fe2d5fdd5fe5b5804c4395741a0a2ee8bc9b35531bcfcf1c644,192.168.8.107:59
+2019-06-02 11:17:03,NanoCore,https://t.co/8sdeZsTEex,2351e0c16c0694e4e710263b7767144e5ad594601eb8c0162abea6cf9a6a487c,"serverprivate.myftp.org:54984,nanohost.serverftp.com:54984,"
 2019-06-02 09:17:03,CyberGate,https://t.co/HAGADkFtxa,05fada5af7096ca033a27c168f8ba2f401964f51f5bef48e9ebface3aeafe3a9,"127.0.0.1:81/,192.168.1.3:81/,bilalkanet.duckdns.org:81/,"
 2019-06-02 06:32:03,CyberGate,https://t.co/Ony5dql3jZ,05fada5af7096ca033a27c168f8ba2f401964f51f5bef48e9ebface3aeafe3a9,"127.0.0.1:81/,192.168.1.3:81/,bilalkanet.duckdns.org:81/,"
 2019-06-02 05:17:02,njRat,https://t.co/Aagw5P1OTg,059600afe9516e789e2283e29b7e98d5303cc900196b0e3f2ad828a0a5cefac0,127.0.0.1:5552
