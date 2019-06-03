@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-06-03 20:47:03,njRat,https://t.co/tlXuYwosiU,99a4aa6ea5b05f95f66e937fc0b1442b391036a13b42991762436c6ea286866d,0.tcp.ngrok.io:25566
+2019-06-03 19:53:55,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/yi1p88Usyx,45eabd95138a0ecc79d0dfdae968d70f791b21978964fc602f0ab65222ed958e,192.168.0.65:20
+2019-06-03 18:47:02,njRat,https://t.co/OV1JG3IEAI,cc109372bb4b825076eb95a1d90668f645147878b52309a2ec58828fa212c430,otpokehack.ddns.net:5552
 2019-06-03 00:51:51,Revenge,https://t.co/S9uA5R5NGz,df1d3123703ed616b47373829ba0bb459c9f6848723b10307c464cfaf85a0885,"bylgay.hopto.org:80,microsoftoutlook.duckdns.org:8080,soucdtevoceumcuzao.duckdns.org:8080,127.0.0.1:1000,sou"
 2019-06-03 00:17:02,njRat,https://t.co/S2DoLwX6OY,1e0d1c30267d52cd5713ea0bea9b16bc24c3daa1b8e0344c4b867f0d2f797c91,fidapeste.duckdns.org:5552
 2019-06-02 23:47:04,Xtreme,https://t.co/UI8lGGOZNK,f321ae0057db9aacee84ddb9ff4b932021d2ab4bb00ce9597bf605bb5a2a7712,"lilkizzy00.duckdns.org:1144,"
