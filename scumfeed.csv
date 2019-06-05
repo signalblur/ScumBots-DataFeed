@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-06-05 16:02:02,njRat,https://t.co/lr6bvIDne8,e6c9928abe5fcaa04caf6dbc6576677801975db47df947e5a176706d0e4d9cbb,127.0.0.1:2547
+2019-06-05 15:47:03,Revenge,https://t.co/sSlHQDLKVB,057acbf0d91697bb398cf9248cb34d1e864e0a95b1deb6fb85f4b2c880ee00e5,127.0.0.1:5445
+2019-06-05 14:47:03,njRat,https://t.co/7Uw2DmLrDt,bbff43f2e109b41ecd304aea312fe26c7c2a56da03d52441e2ba94646d6eaec7,sikipon32.ddns.net:5552
+2019-06-05 12:47:02,njRat,https://t.co/gnzamPAgEV,66a800ea7f3afd4a6223fb0c0cc45030150de171e2452e9eaa05ac677b4975f8,black99black.ddns.net:4444
+2019-06-05 12:17:03,njRat,https://t.co/fwCT4seVtm,90c260540e7113736f6266d70f9575a372a6cb94e0f42481908a42deabffc8f7,black99black.ddns.net:4444
 2019-06-05 01:47:50,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/e6OowZeFom,8cb148a3c65275e2a6199ae8fc3179709b0238043ef3d5f7a00fed0695edf8d8,90.255.233.117:4444
 2019-06-05 01:27:12,Revenge,https://t.co/JoluzetGhW,a520c7df12cff663b7c86e5c99c2c9be0acdaa2aa262acdaf0e928b67d4d1266,127.0.0.1:333
 2019-06-05 01:22:11,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/6eIah3v9Nn,8cb148a3c65275e2a6199ae8fc3179709b0238043ef3d5f7a00fed0695edf8d8,90.255.233.117:4444
