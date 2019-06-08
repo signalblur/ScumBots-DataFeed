@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-06-08 14:47:03,njRat,https://t.co/W8IV7l6hQu,2f1f5c0dffc9b536e2d17c5851f8926ae6955ba1e3aa81cd7d4caace6ed3a2b3,127.0.0.1:1234
+2019-06-08 13:05:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ZajhiN7Rxf,6368a9bf37ba6d47dfb5e1aa98f4e1c6769dbd72d4b33ba96d0b398fa84a3c0e,10.0.2.15
+2019-06-08 13:02:03,njRat,https://t.co/1XXGi4nu6U,62a03e22c4445bd941e53f36a3d42b455b5b2e1a7c27c1364a98504195ea26a0,127.0.0.1:1234
+2019-06-08 11:32:19,njRat,https://t.co/CR4zLfi0wf,606c0ed059eaab8b3759ae7d6bfc3046c62ae26a7bb3812f12aa263cf5eab114,saahel00.ddns.net:1177
+2019-06-08 11:32:03,njRat,https://t.co/WnYhi2qD3I,606c0ed059eaab8b3759ae7d6bfc3046c62ae26a7bb3812f12aa263cf5eab114,saahel00.ddns.net:1177
 2019-06-08 10:17:02,njRat,https://t.co/mvUh77E2ej,131b2c977ff5e884832e59b0f9dd7462a7a0cef91c884595c45572b7edacce4f,tyu9041.zz.am:5552
 2019-06-08 06:55:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/YLkO6V93fH,2601975e564c915c6d4c3f10734de8676d8317343b9b4e87e331a1d1c0689bf4,10.0.2.15
 2019-06-08 04:47:02,njRat,https://t.co/cvZgQh7bR8,3fc1283c6d6a51a64debe36c5d2b27bd65a274f2c8c76b8b49208abf50475f83,a291amkuZGRucy5uZXQ36@4):1177
