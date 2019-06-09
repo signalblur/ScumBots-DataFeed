@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-06-09 14:32:02,njRat,https://t.co/YlPTZLlRFz,a29928a4fc58d7651c7800fd7c39ec95a49cc0e4021d3fbb95bb81329fb6729a,sadx1995-48349.portmap.io:48349
+2019-06-09 12:02:03,njRat,https://t.co/azXgUm6vC4,1d527f1309bffc808cde8504cd035a86b3fbd1ffacba30b8e47db25da2cd5d74,192.168.8.100:555
+2019-06-09 11:15:02,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/Xe1qxc9McA,9c4701edc00735210c0462ce6f0340603173ccf40f32bc9778b561b172adfed6,192.168.1.252:8888
 2019-06-09 08:30:02,PowerShell_Empire_Agent,https://t.co/wn4WQVCawj,d6a1843387dfac35b2168eb412efcbf5c67aca95e101710230212a5e12ecee50,10.10.12.80:80
 2019-06-09 03:17:03,njRat,https://t.co/OqwTQ2g9g4,53e9406eb91c0fe36a06939f488d8abb56eb024ce29c2a5d3a4b578fd8d7d56f,saahel00.ddns.net:1177
 2019-06-08 23:32:02,njRat,https://t.co/FGrULqjWUY,ecf1bd3669fd7ef14952e167a9520aae31ecd350c579c6054f611294ccf1e439,saahel00.ddns.net:1177
