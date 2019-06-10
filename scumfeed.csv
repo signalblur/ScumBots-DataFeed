@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-06-09 21:17:03,njRat,https://t.co/iOTTKWSyck,e2b9a947695913bf831919054863c54234dec538fe23d87853ed987141e23ed3,0.tcp.ngrok.io:15264
+2019-06-09 20:47:02,njRat,https://t.co/69Me0p5d8u,f70ec775f7aba330ba9ee5a71da7d2653c7510fdcbbd409f06a6c991f958fa8a,0.tcp.ngrok.io:15264
+2019-06-09 18:17:20,njRat,https://t.co/973xCq7DAx,787920bf34b3f9501c491c1abc10ecb05bfbdfd2394097a3bfd5b98e085f0fc2,0.tcp.ngrok.io:19025
+2019-06-09 18:17:03,njRat,https://t.co/O0cVe7AHPD,512d2600bd9ab22a6e7d136ff60f31a9d227ab8c8f6f86dc22a6aad05d41fa2d,0.tcp.ngrok.io:666
 2019-06-09 14:32:02,njRat,https://t.co/YlPTZLlRFz,a29928a4fc58d7651c7800fd7c39ec95a49cc0e4021d3fbb95bb81329fb6729a,sadx1995-48349.portmap.io:48349
 2019-06-09 12:02:03,njRat,https://t.co/azXgUm6vC4,1d527f1309bffc808cde8504cd035a86b3fbd1ffacba30b8e47db25da2cd5d74,192.168.8.100:555
 2019-06-09 11:15:02,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/Xe1qxc9McA,9c4701edc00735210c0462ce6f0340603173ccf40f32bc9778b561b172adfed6,192.168.1.252:8888
