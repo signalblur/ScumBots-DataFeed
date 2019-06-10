@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-06-10 16:32:03,njRat,https://t.co/OcWSs447mt,f44c4e5ff31d6eccdf7fb45757520da196051328f794b8cfb5e015d2a73e9c83,sikipon32.ddns.net:5552
+2019-06-10 16:17:03,njRat,https://t.co/diiBJkZTZ8,a6843efd9dcbd94f438a5d7328cf609990c156528c98419a6fdc34b6908d9d4a,pallet.onthewifi.com:1604
+2019-06-10 15:47:03,NanoCore,https://t.co/pNjYMQFfHU,4b4ee5c49389ccc47a50ac71e1c370b3a534c4262e1b7e46c42588693dc2d36c,"pallet.onthewifi.com:1604,pallet.onthewifi.com:1604,"
+2019-06-10 14:32:03,njRat,https://t.co/9bMivgyf1L,3af137e979a45dc6662accd5a465f0945ace16493894acfe5f51345334bbbeeb,127.0.0.1:5552
 2019-06-09 21:17:03,njRat,https://t.co/iOTTKWSyck,e2b9a947695913bf831919054863c54234dec538fe23d87853ed987141e23ed3,0.tcp.ngrok.io:15264
 2019-06-09 20:47:02,njRat,https://t.co/69Me0p5d8u,f70ec775f7aba330ba9ee5a71da7d2653c7510fdcbbd409f06a6c991f958fa8a,0.tcp.ngrok.io:15264
 2019-06-09 18:17:20,njRat,https://t.co/973xCq7DAx,787920bf34b3f9501c491c1abc10ecb05bfbdfd2394097a3bfd5b98e085f0fc2,0.tcp.ngrok.io:19025
