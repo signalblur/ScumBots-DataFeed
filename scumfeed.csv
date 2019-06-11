@@ -1,4 +1,16 @@
 date_identified,implant_type,url,hash,c2
+2019-06-10 22:32:02,njRat,https://t.co/4PxIlJhpP8,c1ef75473e30942bd9ac5d201b84ffbe1a6c2910be36fdd3e3ef1487cd0d88fe,fakiuyouhhh.ddns.net:1177
+2019-06-10 21:35:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/33ePYnTj77,b69573b7d8d07e04a59bad70ba97d78b9187370922569c7c6e2ba67f7035350c,10.0.2.15:4444
+2019-06-10 21:17:02,njRat,https://t.co/WHFwAU1RPv,189e2c96ba7e423ee2124309dc3dcc8487123342cbd4b9c82b17071a40540294,127.0.0.1:5552
+2019-06-10 21:15:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/tcqZPqABM2,d600fe91e39849669b751f8e0d87c22d6e547079e8462581e8d7a7b4b98b3e0d,10.0.2.15:4444
+2019-06-10 21:04:25,Revenge,https://t.co/PO39HhvjyL,b73d2631a3ad61de850c2282b3b360b7b4142c5e2f7ef8ca18c83e2fde507369,"bylgay.hopto.org:80,microsoftoutlook.duckdns.org:8080,soucdtevoceumcuzao.duckdns.org:8080,127.0.0.1:1000,sou"
+2019-06-10 21:04:05,Revenge,https://t.co/rMO7D9Lvn8,d167d63eba4fc63829c2b8e2b2eb0926ce39202ab8ca8879505551f5cea26b0e,"bylgay.hopto.org:80,microsoftoutlook.duckdns.org:8080,soucdtevoceumcuzao.duckdns.org:8080,127.0.0.1:1000,sou"
+2019-06-10 20:45:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/Y7VyNuNuUi,45cf4bbfce664a03666d31b33da62fafec1a8460fceb76776f1362bf43adbd4a,185.54.23.131:4444
+2019-06-10 20:32:02,njRat,https://t.co/si0fuimBvs,6683f7801f9c8b651051750ffafe130fed1dc0ddde220e80b8e5b4aa78926a62,127.0.0.1:5552
+2019-06-10 20:03:49,njRat,https://t.co/sxq77TsO4N,b7d5ef36932e3f971b110d08b17720ce205dd366757411fad4de6e82a349e120,127.0.0.1:6000
+2019-06-10 20:03:29,Revenge,https://t.co/E7CbaTObFs,9dc18f571f8dfa4e60fb9a835c22c49c6d70346ce7e99601ca9ece25ba4cba94,"bylgay.hopto.org:80,microsoftoutlook.duckdns.org:8080,soucdtevoceumcuzao.duckdns.org:8080,127.0.0.1:1000,sou"
+2019-06-10 20:02:03,NanoCore,https://t.co/FNnS3uJ9L4,07dd783621cb1b26a2d7d60b4c3f6aa8862319f57137dff43fc7c64bd51b194a,"127.0.0.1:54984,"
+2019-06-10 19:17:03,njRat,https://t.co/gHOza9so9A,0c6715e62433c0a074c16cd5932e24bf000d97b63b10d02d2a521847ad4fac38,medomshakel.ddns.net:1177
 2019-06-10 16:32:03,njRat,https://t.co/OcWSs447mt,f44c4e5ff31d6eccdf7fb45757520da196051328f794b8cfb5e015d2a73e9c83,sikipon32.ddns.net:5552
 2019-06-10 16:17:03,njRat,https://t.co/diiBJkZTZ8,a6843efd9dcbd94f438a5d7328cf609990c156528c98419a6fdc34b6908d9d4a,pallet.onthewifi.com:1604
 2019-06-10 15:47:03,NanoCore,https://t.co/pNjYMQFfHU,4b4ee5c49389ccc47a50ac71e1c370b3a534c4262e1b7e46c42588693dc2d36c,"pallet.onthewifi.com:1604,pallet.onthewifi.com:1604,"
