@@ -1,4 +1,16 @@
 date_identified,implant_type,url,hash,c2
+2019-06-12 10:17:04,njRat,https://t.co/HL5aGEulbH,e382622274ec449e9303157732ca213a6a46b1b4bd8bdd5144e74858cc14d8a0,bWsxNGEuZGRucy5uZXQ!:1111
+2019-06-12 09:35:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/mHYlWbh8ac,abd12698c23106a52c62deac827dbf19505f324a82962402e1dcd26e35eaa73a,192.168.1.75:4444
+2019-06-12 09:25:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/9xmuIuhztq,fc2ce85ae61114e278b0316d77c9182970e8a1da6352dfe7c1d91397921c391f,192.168.1.75
+2019-06-12 09:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/QtQGiwt9Kk,5bec0dde63f9a94ec480fb8d73ad050983d366332932bc3ecb5782e248f67d41,192.168.1.75:445
+2019-06-12 09:00:03,PowerShell_Empire_Agent,https://t.co/tvnpjRwPaP,3d48e804a469986c566cde9b56a6f13b07861ee04462329fb16cc7cd05be12d8,https://check.wittmann-it-security.org:443
+2019-06-12 08:55:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/3Q8zDlAybi,c77ebcdd9738ff214f1ecab0dcac964b70d65b42fa903a3b10f0cbabc5718440,192.168.1.75
+2019-06-12 08:45:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/0hV3oYry0T,0a9796f2e76d106f9dc96358dcd7e27d52bb505b8733b97c19209126ea72440f,192.168.1.75
+2019-06-12 08:35:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/RGsQ8Sxims,0017f6a4c39ec286ebd5e540357878ea31553bb1708db5340502449fcbf6120b,192.168.1.75:4444
+2019-06-12 08:25:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/aigUdnXZJg,b7f39eb50646b034e0fc7da0d4e5d68b85068e009c935673bc582a7af8bc5ee3,192.168.1.75:445
+2019-06-12 08:15:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/zkunwAXHwK,d913909c87e571666a05c05f5b139fc2f695ea1cd298235d1582479c03a8c488,192.168.1.75
+2019-06-12 07:55:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/JaaWDZvTUi,dbc986191defc8f7860503045ed64aff70f338d79e5e804d3a06c4f94d06ee95,192.168.1.75
+2019-06-12 06:47:03,njRat,https://t.co/bDJZckaSc3,c10b7077a2ef125dd55d0deaf2dc1cf55953fcee83bd6cfc274957f6474d0bd0,192.168.0.17:2222
 2019-06-12 03:47:04,njRat,https://t.co/342iAfwkLf,5e0ab28ab4335c753309d7a485b1adc48e7da58f8157d14ff00ddf2098204b6f,127.0.0.1:5552
 2019-06-11 22:47:03,njRat,https://t.co/IMaWsSCHEQ,f537f20f606c777c00c8d8d096c88d201a777a4d19b45c67a624a41690102c14,127.0.0.1:1179
 2019-06-11 22:32:03,NanoCore,https://t.co/bkgdp9avoZ,bfb6dac1e2a59abd420c8def7760322d982c8cf5919c85b035b219abb4fa4257,"127.0.0.1:54984,"
