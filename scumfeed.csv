@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-06-12 03:47:04,njRat,https://t.co/342iAfwkLf,5e0ab28ab4335c753309d7a485b1adc48e7da58f8157d14ff00ddf2098204b6f,127.0.0.1:5552
+2019-06-11 22:47:03,njRat,https://t.co/IMaWsSCHEQ,f537f20f606c777c00c8d8d096c88d201a777a4d19b45c67a624a41690102c14,127.0.0.1:1179
 2019-06-11 22:32:03,NanoCore,https://t.co/bkgdp9avoZ,bfb6dac1e2a59abd420c8def7760322d982c8cf5919c85b035b219abb4fa4257,"127.0.0.1:54984,"
 2019-06-11 22:17:03,Njratgold,https://t.co/s4vWthCIo1,7e61b0b3d35b1bead416eaf0515fecd32151fdae7835ffaa252afe872f9401f6,mumojuw.ddns.net:6522
 2019-06-11 21:02:02,Revenge,https://t.co/Ogxz7CAfGG,94d88c250f2f984148e49577c6a9e58bca61d36dd10dfd815ae23939e2d4b03f,"bylgay.hopto.org:80,microsoftoutlook.duckdns.org:8080,soucdtevoceumcuzao.duckdns.org:8080,127.0.0.1:1000,sou"
