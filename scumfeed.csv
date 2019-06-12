@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-06-11 22:32:03,NanoCore,https://t.co/bkgdp9avoZ,bfb6dac1e2a59abd420c8def7760322d982c8cf5919c85b035b219abb4fa4257,"127.0.0.1:54984,"
+2019-06-11 22:17:03,Njratgold,https://t.co/s4vWthCIo1,7e61b0b3d35b1bead416eaf0515fecd32151fdae7835ffaa252afe872f9401f6,mumojuw.ddns.net:6522
+2019-06-11 21:02:02,Revenge,https://t.co/Ogxz7CAfGG,94d88c250f2f984148e49577c6a9e58bca61d36dd10dfd815ae23939e2d4b03f,"bylgay.hopto.org:80,microsoftoutlook.duckdns.org:8080,soucdtevoceumcuzao.duckdns.org:8080,127.0.0.1:1000,sou"
+2019-06-11 20:02:02,njRat,https://t.co/d44um1PAOB,e30572ace806c6f5ba3606b6da61e6cd6ecc79a0d9367274ca312e158e53d25c,shero19.zapto.org:1122
+2019-06-11 19:41:54,njRat,https://t.co/ZMBopRnZ0Y,e30572ace806c6f5ba3606b6da61e6cd6ecc79a0d9367274ca312e158e53d25c,shero19.zapto.org:1122
+2019-06-11 19:17:03,Payload,https://t.co/arH9u61xD1,bc3175a95e7ad1681f0eae614d2b4527165c0dd9651c8c57b1d2c9bc9ba02036,192.168.1.33:1897
+2019-06-11 17:32:02,Lime-RAT,https://t.co/vIQatkwb9U,fd00f49fa06d74083570fc240e8a637df4227e4778b3c85c2540c32e7dd54c68,https://pastebin.com/raw/WzEq0HYf
 2019-06-11 14:47:51,NanoCore,https://t.co/LVXfwt7ZYf,7891cb2797e0814b6da048c2c6fff9fb080582081544a65e1bb8fcf4f4a8aa40,"127.0.0.1:54984,"
 2019-06-11 14:47:35,NanoCore,https://t.co/gNlwqVKdL5,7891cb2797e0814b6da048c2c6fff9fb080582081544a65e1bb8fcf4f4a8aa40,"127.0.0.1:54984,"
 2019-06-11 14:47:18,NanoCore,https://t.co/yV56J4qbIw,7891cb2797e0814b6da048c2c6fff9fb080582081544a65e1bb8fcf4f4a8aa40,"127.0.0.1:54984,"
