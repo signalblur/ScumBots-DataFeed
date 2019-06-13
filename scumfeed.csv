@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2019-06-12 21:47:02,njRat,https://t.co/m68ZHBOii6,9e638ce1dc0c2e727bf3172f1006ed1dee25ffa9408aa56ceb652b806ecd4437,192.168.98.204:1622
+2019-06-12 21:32:19,njRat,https://t.co/vUPxEKFwdg,246b43e3acbc6eda0d0b9992e729ea2312b6585c6a85e4a13c569e937adc3bd0,cynthial22-41711.portmap.host:1622
+2019-06-12 21:32:03,njRat,https://t.co/xnwCRh2k1e,b01c4cb9c6e8c970fd78d613569e958c61210ce3116f4fd3a865114bde738d65,127.0.0.1:1177
+2019-06-12 20:47:02,Njratgold,https://t.co/ivs1ujPGMS,ffd7ba9b8b42963ed46a72552dd6e5dc78fadb337478c42bee1a0cf00edf130b,192.168.0.17:2222
+2019-06-12 20:17:02,njRat,https://t.co/6PIX5VKKgd,1ae610be72a55aa59c44831584019ae86232f357a21abb33f15d7ee32d7fa8bd,192.168.0.17:2222
+2019-06-12 20:02:19,njRat,https://t.co/lkbBlU5onb,ee6362cca6738de2212197fef00022cad1120e4dd12307f871edc2cffb4504ab,192.168.0.17:2222
+2019-06-12 20:02:03,njRat,https://t.co/xjb3ps7PiC,ee6362cca6738de2212197fef00022cad1120e4dd12307f871edc2cffb4504ab,192.168.0.17:2222
+2019-06-12 19:14:59,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/eylTHHnyGS,40b65a571891aee563048fa20df4f4aba28f2d71cfb97f60f30164dccd60035e,217.8.117.16
 2019-06-12 16:17:03,Revenge,https://t.co/JbY0VRiwSV,fa4875967dc9092987b8649f0c6ee6e34c2a9ab8064bf5fa90702149f5d01e54,"bylgay.hopto.org:80,microsoftoutlook.duckdns.org:8080,soucdtevoceumcuzao.duckdns.org:8080,127.0.0.1:1000,sou"
 2019-06-12 14:47:03,njRat,https://t.co/WrxKuzuFKR,ff3aa921ace3745198e2b4489753a16ec2983248f32e045b929f5f100692fa23,127.0.0.1:5552
 2019-06-12 14:32:35,njRat,https://t.co/N4tTZFvgI8,11b784ad7622355eab268f69646c96ec4e6386e3abecaeac0050db3749b1b796,c3ByaG56LnAtZS5rcg!!:5552
