@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-06-13 16:24:34,Revenge,https://t.co/P1XE9jwRAM,ceb69a8e0e001df4dbbc86c052550ee432053d1ef36083676fa48f16c552b187,"bylgay.hopto.org:80,microsoftoutlook.duckdns.org:8080,soucdtevoceumcuzao.duckdns.org:8080,127.0.0.1:1000,sou"
+2019-06-13 15:35:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/mQnP3XFHs1,59ebf14c1a563ee6cc83174d3c9413571c2d96cf9906c49e836103b22d3816ad,serveo.net
+2019-06-13 12:17:03,njRat,https://t.co/1rpBRo610w,4eb22b9486b4c9cf3682fa9847c789abc4a9085ee6ecd4932616b82b341c496d,fakiuyouhhh.ddns.net:1177
+2019-06-13 10:47:02,njRat,https://t.co/nkNakIRM58,9be1dac78116342549f9a7a0f56a504b5223a42dda5ad1e9af193eb6ad51ee07,777ys.cc:5552
 2019-06-13 07:17:03,njRat,https://t.co/X0R3bl0tlh,2101c2c234cc32d25607f518e2b0d597c96fc4d0ea121221adf07c7d3ac88503,rattool.ddns.net:5552
 2019-06-12 22:47:03,njRat,https://t.co/bkWk5iCG9a,83d5140e7f79be73d28dfbaf93a02dae64fd29433638f62a00d4be4df073a5dd,127.0.0.1:1111
 2019-06-12 21:47:02,njRat,https://t.co/m68ZHBOii6,9e638ce1dc0c2e727bf3172f1006ed1dee25ffa9408aa56ceb652b806ecd4437,192.168.98.204:1622
