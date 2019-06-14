@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-06-14 13:45:20,PowerShell_Empire_Agent,https://t.co/ZuMEgmyJXb,3f995135338ef121fd550031899b0dd6b47c83bde9401069bf36d32486bebec4,192.168.1.2:80
+2019-06-14 13:40:29,PowerShell_Empire_Agent,https://t.co/C28NzPBMUU,82171919716295c6c3553af6f94365c253c1e3caf7467fb6d812aae8aae038af,192.168.43.173:80
+2019-06-14 12:47:03,njRat,https://t.co/mK36Z8WHQ5,829b6199e8ef112db88b37623582a9d94353dac51079a1e617ddaa3c10e6cdc6,"hellboyato.ddns.net:1177,hack.hopto.org"
+2019-06-14 11:55:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ZpFEnshNhk,fecc3483528f2df0bae91445e1934f84b4d7741eda86affb7a2cdf59244a55af,192.168.1.244:4444
 2019-06-14 08:32:02,njRat,https://t.co/zGEG4mn5J3,073dd697e8d7f64c88d33aa3889efedf4df6dbe43aa5c3b14ef2cb9e1995f71d,185.247.228.94:1111
 2019-06-14 00:46:55,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/y1ucVZeE1u,5c6ecc6dbacfbfb2b58936392443461af712c1340185899ac411afa724925da6,194.5.250.102
 2019-06-13 23:32:02,njRat,https://t.co/lKbYOTk2AL,7415479a06698f65c1b02d12c03c82e7e1556d4fe0c756e7e2ab80b0fc22c881,777ys.cc:5552
