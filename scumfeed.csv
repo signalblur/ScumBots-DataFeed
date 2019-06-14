@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-06-14 00:46:55,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/y1ucVZeE1u,5c6ecc6dbacfbfb2b58936392443461af712c1340185899ac411afa724925da6,194.5.250.102
+2019-06-13 23:32:02,njRat,https://t.co/lKbYOTk2AL,7415479a06698f65c1b02d12c03c82e7e1556d4fe0c756e7e2ab80b0fc22c881,777ys.cc:5552
+2019-06-13 23:02:02,njRat,https://t.co/H6A9jvHgEe,2c4cb99ef3b463d7325ec1f0768b8a686d43c5ec143f61f3bae7d6caeed6aed5,fakiuyouhhh.ddns.net:1177
 2019-06-13 22:17:02,njRat,https://t.co/AxA3fRkYAc,b5a4124fb1e247c07a902d3d3516bff0d10e786387134ff514253652ef0a4aa5,777ys.cc:5552
 2019-06-13 21:40:02,PowerShell_Empire_Agent,https://t.co/oiBxy8hSgn,6af1b896c5afa13af0329f1ca2a4bce91fc59b201becf9b47be9c1d0b962122e,172.25.154.122:80
 2019-06-13 19:40:30,njRat,https://t.co/6DMlu7FvY8,dd7fa09d66b9b2d43f59dd51ed2690be5b01a6b0332d882270b7a43e2da68e42,ru-moscow02.crypticvpn.com:6668
