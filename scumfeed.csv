@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-06-13 22:17:02,njRat,https://t.co/AxA3fRkYAc,b5a4124fb1e247c07a902d3d3516bff0d10e786387134ff514253652ef0a4aa5,777ys.cc:5552
+2019-06-13 21:40:02,PowerShell_Empire_Agent,https://t.co/oiBxy8hSgn,6af1b896c5afa13af0329f1ca2a4bce91fc59b201becf9b47be9c1d0b962122e,172.25.154.122:80
+2019-06-13 19:40:30,njRat,https://t.co/6DMlu7FvY8,dd7fa09d66b9b2d43f59dd51ed2690be5b01a6b0332d882270b7a43e2da68e42,ru-moscow02.crypticvpn.com:6668
+2019-06-13 19:11:15,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/xXGifaK6Fq,d0d7b6bc7457d15bc17d3df0e31f824ee18ba23a04d7f9146cc05db85ab9edd6,217.8.117.16
+2019-06-13 19:01:41,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/TmDp0JCtl0,49caae39cd2054ce89df1f5d6fc1662d97d52f5cc14da540745b996379626fdb,217.8.117.16
+2019-06-13 16:47:03,njRat,https://t.co/U7GynxfIVM,50f4d7a74d4871800904bcd93166ed0e4ed87d71f39f2c9d07bd78b4d940281d,MORFEY888-55156.portmap.host:55156
 2019-06-13 16:24:34,Revenge,https://t.co/P1XE9jwRAM,ceb69a8e0e001df4dbbc86c052550ee432053d1ef36083676fa48f16c552b187,"bylgay.hopto.org:80,microsoftoutlook.duckdns.org:8080,soucdtevoceumcuzao.duckdns.org:8080,127.0.0.1:1000,sou"
 2019-06-13 15:35:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/mQnP3XFHs1,59ebf14c1a563ee6cc83174d3c9413571c2d96cf9906c49e836103b22d3816ad,serveo.net
 2019-06-13 12:17:03,njRat,https://t.co/1rpBRo610w,4eb22b9486b4c9cf3682fa9847c789abc4a9085ee6ecd4932616b82b341c496d,fakiuyouhhh.ddns.net:1177
