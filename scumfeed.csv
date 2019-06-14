@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-06-14 08:32:02,njRat,https://t.co/zGEG4mn5J3,073dd697e8d7f64c88d33aa3889efedf4df6dbe43aa5c3b14ef2cb9e1995f71d,185.247.228.94:1111
 2019-06-14 00:46:55,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/y1ucVZeE1u,5c6ecc6dbacfbfb2b58936392443461af712c1340185899ac411afa724925da6,194.5.250.102
 2019-06-13 23:32:02,njRat,https://t.co/lKbYOTk2AL,7415479a06698f65c1b02d12c03c82e7e1556d4fe0c756e7e2ab80b0fc22c881,777ys.cc:5552
 2019-06-13 23:02:02,njRat,https://t.co/H6A9jvHgEe,2c4cb99ef3b463d7325ec1f0768b8a686d43c5ec143f61f3bae7d6caeed6aed5,fakiuyouhhh.ddns.net:1177
