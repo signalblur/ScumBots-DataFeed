@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-06-15 06:47:19,njRat,https://t.co/zP8tKKNcjQ,fb50b8dfe9e4b4ff8d51af7fb95e3e5ccdbde44a0bd9f2fd3d9e659e3c7d480c,3amo7y.ddns.net:1177
+2019-06-15 06:47:02,njRat,https://t.co/MV0HCRHsEt,fb50b8dfe9e4b4ff8d51af7fb95e3e5ccdbde44a0bd9f2fd3d9e659e3c7d480c,3amo7y.ddns.net:1177
 2019-06-15 02:15:15,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/TNwTtlXCYs,02c57cf967105455c24e1d30e14563458179a57f59d596a01c6fc5255cac4710,194.5.250.102
 2019-06-15 01:54:34,njRat,https://t.co/dKmtz7CuBL,2b4a3e7ceb99994ac0d5b88ee3fbc13a71530e1cbd7dc94801bb967438028d63,127.0.0.1:5552
 2019-06-15 01:54:16,njRat,https://t.co/KfsGbFqqDK,3bed0b62e598a63238fe80f9b9b35ce4f5da6b3b26650d92e7c8f29ee79a4db0,mumojuw.ddns.net:6522
