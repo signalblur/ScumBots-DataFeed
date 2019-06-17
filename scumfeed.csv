@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-06-17 14:18:14,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/BDUSeMGsZw,cc240793509558d03d8de7751e413b445c605718f0f6e5173df383940cb6826e,39.105.79.56:8080
+2019-06-17 14:02:03,njRat,https://t.co/OXAWu26NXr,42d7b11d2225927ab70bb9efa87343aacb5c069bb62db93824cb3b0faa301cb4,192.168.0.12:5552
+2019-06-17 12:47:02,njRat,https://t.co/NmULDS7M1V,963da65bcebef05a71b7905f8443b4913b8114d772e86a49a846fb8d265e7fd4,fakiuyouhhh.ddns.net:1177
+2019-06-17 12:32:03,njRat,https://t.co/DmL2JDL6yf,b9dad0029acfeaf20ef58e73d33cbe76f37b588f956e23e54003e90adf39ebd7,fakiuyouhhh.ddns.net:1177
 2019-06-16 12:17:36,njRat,https://t.co/c7rFKBkU8V,2d035c3dc1c3b1bb8399c176fa224d4c1b51a94a14670b2a1b8b0bbf16a0f7e7,fakiuyouhhh.ddns.net:1177
 2019-06-16 12:17:19,Revenge,https://t.co/tBNtp3MRwO,abaed6ecd016118f68f0e83cafe6f98d7d84776ff9da36e4119233cbc6052fe1,otpokehack.ddns.net:2014
 2019-06-16 12:17:02,Revenge,https://t.co/0Wugsof0jv,abaed6ecd016118f68f0e83cafe6f98d7d84776ff9da36e4119233cbc6052fe1,otpokehack.ddns.net:2014
