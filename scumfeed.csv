@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-06-17 19:17:19,Revenge,https://t.co/0HJDUYOlSf,47cdba99e026ed8b9de26acb1bd477639d0cd67ef33f37277d3faab3f891dbc9,chroms.linkpc.net:333
+2019-06-17 19:17:03,njRat,https://t.co/pbrtaCNOD0,a7778a68c6a9829c6359ba6934c36a3b628916489071cef33aa48864f6dce981,googlebpoot.duckdns.org:6443
+2019-06-17 19:10:02,PowerShell_Empire_Agent,https://t.co/yIryZp9naT,182c37dc60288c653c548c8ad61ff689914d5db58e304ff98f914cef02ba5818,192.168.214.147:443
+2019-06-17 18:17:02,njRat,https://t.co/7UU03G97pY,dae6ba337ffe4fd7f4a9a931cca70d9e79483d8608c2bc8f410e81b4f4e86460,googlebpoot.ddnns.net:6442
+2019-06-17 15:02:03,njRat,https://t.co/f2Mykku70j,72ab7fdebcc30f9fe8cf136c34e81269ba541e56516000fa642d54a4b56e8de3,127.0.0.1:1177
+2019-06-17 14:39:55,njRat,https://t.co/Lyaf56C2yL,98aaa12cac3eebefac01612a54663b28be57782235f3408f7c7306faa036456e,chroms.linkpc.net:11
 2019-06-17 14:18:14,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/BDUSeMGsZw,cc240793509558d03d8de7751e413b445c605718f0f6e5173df383940cb6826e,39.105.79.56:8080
 2019-06-17 14:02:03,njRat,https://t.co/OXAWu26NXr,42d7b11d2225927ab70bb9efa87343aacb5c069bb62db93824cb3b0faa301cb4,192.168.0.12:5552
 2019-06-17 12:47:02,njRat,https://t.co/NmULDS7M1V,963da65bcebef05a71b7905f8443b4913b8114d772e86a49a846fb8d265e7fd4,fakiuyouhhh.ddns.net:1177
