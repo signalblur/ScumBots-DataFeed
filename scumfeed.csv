@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-06-18 13:17:02,Revenge,https://t.co/joEyYayulf,dce95cae4064a4e775acf9714454103af5eecb32d922fb882396619c8cd79aba,"127.0.0.1:333,127.0.0.1:1789,"
 2019-06-18 08:17:03,njRat,https://t.co/FOyMja9Hyq,1cf27ddfd3568313d5847f96f7acf582a74a5c30541d9e584aff95702f4a5ca9,hiddenmyftp.duckdns.org:6443
 2019-06-18 05:32:03,njRat,https://t.co/gTduoBX8VJ,29bc03dd944e23b530ecc490ea1af3eb5815b54d74233c98a892bba99791dcda,192.168.0.17:5552
 2019-06-18 03:17:03,njRat,https://t.co/GMpH7hInS8,6c3a19c7467e34d600141016f92d92d8f8b5ed212598ae108ff649c099531bda,192.168.1.105:14922
