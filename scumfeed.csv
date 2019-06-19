@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-06-19 01:17:02,njRat,https://t.co/8iBgrFlkWk,a4951cf8701ac806e194837386151f0b7a5d0a00debb5089083139bcdeaab818,127.0.0.1:5552
+2019-06-18 23:47:18,NanoCore,https://t.co/vgqMhohTZ8,fd0f0d2fd5a82f916c4bc94152c5abc04029f616a181b5dd46322b2041b439e7,"127.0.0.1:1604,"
+2019-06-18 23:47:02,NanoCore,https://t.co/0KqVzGcy4S,35db1965c8422b48da5f4e2b76cadc206092a021acc78adb74ea0fc142d58112,"127.0.0.1:1604,"
+2019-06-18 23:32:19,NanoCore,https://t.co/ze2pM3frVM,afbf04a4f519720e9794c9e003dfc02d7719dba28b8323b03fb8136d5ac116cb,"127.0.0.1:1604,"
+2019-06-18 23:32:03,NanoCore,https://t.co/0T0kFF7VM2,afbf04a4f519720e9794c9e003dfc02d7719dba28b8323b03fb8136d5ac116cb,"127.0.0.1:1604,"
 2019-06-18 20:02:02,njRat,https://t.co/hcmPzNlkJz,12b7d984a2dbb7f129af2253ca362a3fb648998b25ef50d9eec7a5196de2af3c,haxorspamer.ddns.net:1177
 2019-06-18 18:47:02,njRat,https://t.co/Qq0ORRgwT5,4754b51a81534702fdbd828d0978fe81d18f9f58df108532664a50699b321ffc,fakiuyouhhh.ddns.net:1177
 2019-06-18 18:32:03,njRat,https://t.co/5Qzg7ZEBFv,e4825bee16e57ac8c924415a1fe5d635a6ea519dd51bb72c8ff6fee4185a2ebe,falcon-56657.portmap.host:56657
