@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-06-19 20:41:13,PowerShell_Empire_Agent,https://t.co/AWPun31zWi,65d483a3407bd26b9d188bf971ff8ffabcfde6835a6a618f3d5ddf66a4d70ef0,https://thephares.com:443
+2019-06-19 20:17:04,njRat,https://t.co/5CXX4m2yGp,b04a1eb7a9b7db0915555dfa034309e4d5352c3754d4307c1c9423499f247745,hakingpro.ddns.net:1177
+2019-06-19 20:02:05,njRat,https://t.co/Xq3broj5Jc,b120d486d359359870504edf2f8a3bf2f80e3a9613280928a87dfbccedf96c5d,ru-moscow02.crypticvpn.com:6668
+2019-06-19 16:17:02,njRat,https://t.co/sMSNKvBF55,9bed9d657a3b14661dd6e2f436cafca662f21bc942e742cbd38f637e6d753371,hakingpro.ddns.net:1177
+2019-06-19 16:10:03,PowerShell_Empire_Agent,https://t.co/Bz6Zbr8S0a,ed08c92bfb86d821d8a363a74f227ad5778cfb96891ce4b7d7a33e670dc443cf,happy.birthday.scumbots.org:27
 2019-06-19 13:32:02,njRat,https://t.co/jDWAsYsBFk,2b4080f3a9c4fb908c1cdf1174d91f478ea04fd6af20b00156bda0fce9624a8c,sikipon32.ddns.net:5552
 2019-06-19 11:32:02,njRat,https://t.co/X0NA02x8v4,090f7a95d67756ef2aa5afe6eca791c4466c4c829285edfdd82d9b811b023a2b,192.168.117.154:5552
 2019-06-19 10:17:19,njRat,https://t.co/LBVFp5AD8o,1714906f1d04d0f8f52c300296e0ec014fe02e53d28e7cdf24dd07b194ad2eb7,c3lzdGVtZT@yLmRkbn@ubmV0:1177
