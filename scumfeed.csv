@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2019-06-20 08:25:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ppOagNEhq2,1e5e73024316e1f875d94d624e7e41f745ee1c10be55ba15484a2b6a9c658691,3.14.212.173:11880
+2019-06-20 07:55:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/kvXhhcYS4S,e68d64ea1b33c953bad76d76e7e0b9d7a6d7b687fbae01fcdd167201622c920c,192.168.174.128
+2019-06-20 07:47:08,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/m9ZgjK0cim,a6c878bab5f2145e9c131196e46fa80724b525339b98fc882660e2156879b462,192.168.6.129
+2019-06-20 07:46:37,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/xP8PSlLJJE,5935f52643b5604cb03b4a5d7c29bddf76f6c066015826064ffd9fa407889e38,192.168.163.128
+2019-06-20 07:46:05,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/oDQAiWMFFe,c6434327f5589cb24e6ea717da5123eab8628e563b2b599e6df94eff4d424008,192.168.23.134
+2019-06-20 07:45:34,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/nKRBzblmiU,6a3c769a1040712193bbb32322b3a802b81515bd8eefe6a210f5b71647cc9619,192.168.20.128
+2019-06-20 07:45:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/SZppvd2ZBr,13ec9408131924fdecbf5962d8f8d1f61e9370182fe606fd58975b2b7fc508e3,192.168.13.138
+2019-06-20 04:17:19,njRat,https://t.co/l7CDLJwIp9,758684a01d9429f509cb87eea91dfa368094de5931123af0aca95639bf6102dc,192.168.1.77:1177
+2019-06-20 04:17:03,njRat,https://t.co/ZDCT5GoTUe,758684a01d9429f509cb87eea91dfa368094de5931123af0aca95639bf6102dc,192.168.1.77:1177
+2019-06-20 04:02:02,Njratgold,https://t.co/Sdr9dY82bX,a44de716069e889b8d0eada6390137301de018fe708208a352d6ad6cd9c5e94d,121.177.61.27:5552
 2019-06-19 23:17:02,njRat,https://t.co/axAReClH4p,a2fa8fc68563f23b27ed64fc9e63143ea8ce710c6c3a1336362c9125ad01e2b1,hakingpro.ddns.net:1177
 2019-06-19 22:17:04,Njratgold,https://t.co/PL4li3ryX5,87fd81ace3f1c9c9d02e69bcf4d68af00ac44369a914250acb7e211260c2ef0c,hiddenmyftp.duckdns.org:6442
 2019-06-19 21:03:05,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/1ipsUat78I,a630f39bc996f949a6bf66bbd26dca4cfc17a53c6ee62fcf52146f67bcd1d4cc,194.5.250.102
