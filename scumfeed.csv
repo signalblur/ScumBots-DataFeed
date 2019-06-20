@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2019-06-20 14:45:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/kkHmw3nEIc,c232c5b392af9d5880e5cdeb10a834248c4d895056b75ac32d3b2f6bb9b791e7,192.168.2.4:4141
+2019-06-20 14:17:03,njRat,https://t.co/6rJmrkQcX1,79e256dff28e5c9b5dcb73cf8346de1365c05ceec466e4cee0979bf5c2c56441,127.0.0.1:5552
+2019-06-20 13:47:02,njRat,https://t.co/PHhokSp4US,aa84373d9d018d62254546b574672e17b16c436f695be344492efc83897b8363,121.177.61.168:5552
+2019-06-20 13:32:03,njRat,https://t.co/LmQo23EFkM,4140e10674a1812052e133b589b6ea4b8039c604aee776faf8c1f928451a370a,acess55.ddns.net:5552
+2019-06-20 10:02:02,njRat,https://t.co/VVJnFHpMhL,f99da09c8acace0e06adde47e3ab097142d6fbcd21f5a5843e14e69e1b6c36c1,falcon-56657.portmap.host:56657
+2019-06-20 09:32:18,njRat,https://t.co/FiGNqADTbx,ac6e908fdf1a52acd2e8c68acadf5a00209ac41f939d422836b21ad886d9b042,m:19
+2019-06-20 09:32:02,Njratgold,https://t.co/L7Wo5BSOqN,7d74d3575ab3e8ce5f99624cd11e7f8cbbdd4dc782c79783fb35bace60bd32f7,hiddenmyftp.duckdns.org:6442
+2019-06-20 09:02:03,Njratgold,https://t.co/hr9oVaIroi,c31315a04c5724c85605cecb2ee44e5b768ded035ed2b36448ce446e1bfeb17c,hiddenmyftp.duckdns.org:6442
 2019-06-20 08:25:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ppOagNEhq2,1e5e73024316e1f875d94d624e7e41f745ee1c10be55ba15484a2b6a9c658691,3.14.212.173:11880
 2019-06-20 07:55:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/kvXhhcYS4S,e68d64ea1b33c953bad76d76e7e0b9d7a6d7b687fbae01fcdd167201622c920c,192.168.174.128
 2019-06-20 07:47:08,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/m9ZgjK0cim,a6c878bab5f2145e9c131196e46fa80724b525339b98fc882660e2156879b462,192.168.6.129
