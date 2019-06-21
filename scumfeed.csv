@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2019-06-21 06:02:02,njRat,https://t.co/mAcBUPKK5E,8887867610dec3a95f631911add90b0b4f5b491dcdd4bd85548cbd6258b35701,zizoulite.ddns.net:1177
+2019-06-21 03:10:42,Revenge,https://t.co/EUMMgdzWcG,fdf1b32a86213c8062be8f791b72a6c6efff765d65afbb1acd9364e8c9a5e76d,127.0.0.1:1452
+2019-06-21 03:10:24,Revenge,https://t.co/mELNefDUwH,1145e009fc900fb7ed286f4e1733cea2e3f342ae2e5fd1ad8244b60aa481855e,"cdtoriginal.ddns.net:5678,cdtoriginal.ddns.net:1155,office365update.duckdns.org:1155,office365update.duckdns.org:567"
+2019-06-21 03:10:06,Revenge,https://t.co/QwPwBPa5TA,b2af4ae89120d4b43abbb0917bcbc7e5c5919d6f6276c819496eb4b796c14a30,mlvps.ml:333
+2019-06-21 03:09:49,Revenge,https://t.co/tZ3HgWSmnH,fdf1b32a86213c8062be8f791b72a6c6efff765d65afbb1acd9364e8c9a5e76d,127.0.0.1:1452
+2019-06-21 03:09:33,Revenge,https://t.co/7MudOQ6QI0,cb8c9bf058c685fef62fef52745a77a4d6b1638e2e2d612d686e747b9642efee,internet.webredirect.org:1000
+2019-06-21 03:09:16,Revenge,https://t.co/GOVp81xgT7,ff5081ed277f251b9fd0434ca0c85428d0b910e93dad23f5a0b32a13f05e00c4,"185.84.181.102:5478,193.56.28.134:5478,"
+2019-06-21 02:58:06,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/dJ0MZfn0iO,ba6ef27a1666acf8024e7f0604d554ebed46b654b6f52eab61f2042d054ab4f5,163.172.146.141
 2019-06-21 01:17:03,njRat,https://t.co/mLQl7Ez5rp,e65098919359b6e783e4d13559147b454f2adc4f19e2e7fb5d08c2359cc853fd,192.168.0.12:2222
 2019-06-20 19:46:48,PowerShell_Empire_Agent,https://t.co/GxposEudJ8,0be2c2f207e933cd263a0f9295641a8c7fcf927fad015674fd37f4adc27adc37,91.200.103.24:443
 2019-06-20 19:41:28,PowerShell_Empire_Agent,https://t.co/NdAEoppnHo,0be2c2f207e933cd263a0f9295641a8c7fcf927fad015674fd37f4adc27adc37,91.200.103.24:443
