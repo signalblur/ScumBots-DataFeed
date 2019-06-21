@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-06-21 01:17:03,njRat,https://t.co/mLQl7Ez5rp,e65098919359b6e783e4d13559147b454f2adc4f19e2e7fb5d08c2359cc853fd,192.168.0.12:2222
 2019-06-20 19:46:48,PowerShell_Empire_Agent,https://t.co/GxposEudJ8,0be2c2f207e933cd263a0f9295641a8c7fcf927fad015674fd37f4adc27adc37,91.200.103.24:443
 2019-06-20 19:41:28,PowerShell_Empire_Agent,https://t.co/NdAEoppnHo,0be2c2f207e933cd263a0f9295641a8c7fcf927fad015674fd37f4adc27adc37,91.200.103.24:443
 2019-06-20 19:31:28,PowerShell_Empire_Agent,https://t.co/w1rDwT7yjO,bea472a69ce01d65ddbcd91191fdc34875ff20b85cae1dfc269225b98b566ebb,192.168.30.153:80
