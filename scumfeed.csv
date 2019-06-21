@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-06-21 12:43:13,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/n9rh7wryBL,8ab39b6355c3912df659a783608d6dca45219877a90bcd2ebf2b670dd4dc40de,89.144.25.55
+2019-06-21 10:05:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/A4YkKJP2Bo,2f907b2900e39503fe483de9c66bdf1dfd6884501b219fde1d4ed085aea7dc15,10.41.175.116:666
 2019-06-21 06:02:02,njRat,https://t.co/mAcBUPKK5E,8887867610dec3a95f631911add90b0b4f5b491dcdd4bd85548cbd6258b35701,zizoulite.ddns.net:1177
 2019-06-21 03:10:42,Revenge,https://t.co/EUMMgdzWcG,fdf1b32a86213c8062be8f791b72a6c6efff765d65afbb1acd9364e8c9a5e76d,127.0.0.1:1452
 2019-06-21 03:10:24,Revenge,https://t.co/mELNefDUwH,1145e009fc900fb7ed286f4e1733cea2e3f342ae2e5fd1ad8244b60aa481855e,"cdtoriginal.ddns.net:5678,cdtoriginal.ddns.net:1155,office365update.duckdns.org:1155,office365update.duckdns.org:567"
