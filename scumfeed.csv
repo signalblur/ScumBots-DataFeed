@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-06-22 08:17:02,njRat,https://t.co/FN5vg80ly3,817f72d22c5715fd8d10a2ae460ede4831a0d27bd4525a6c826975061771c3af,127.0.0.1:5552
+2019-06-22 04:47:02,njRat,https://t.co/WaVSftcmOH,8026f078e81913f137bc3a4b3064632f13ec292370cdfacf21cd989fa734970f,0.tcp.ngrok.io:12513
 2019-06-22 02:17:03,njRat,https://t.co/yYKfLEkwp0,4e21e8508e7f219a681194413ee93db25c20e9553592abf9769e233f24efccd1,haxorspamer.ddns.net:5552
 2019-06-22 02:02:35,njRat,https://t.co/B5ocJwblnZ,2d70d561d1f28bd336a55d3b6092a9755ff537bfe8931de978ccaa39a2feab29,wadie43.ddns.net:3333
 2019-06-22 02:02:19,njRat,https://t.co/rRxZh7xHpX,2d70d561d1f28bd336a55d3b6092a9755ff537bfe8931de978ccaa39a2feab29,wadie43.ddns.net:3333
