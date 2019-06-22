@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-06-22 14:40:03,PowerShell_Empire_Agent,https://t.co/NHVrMdff9L,598073fdef66258eb3b2a93004453fe2a5c951a3a5a0ffe8a5bb167abf9c5faf,192.168.0.109:80
 2019-06-22 08:17:02,njRat,https://t.co/FN5vg80ly3,817f72d22c5715fd8d10a2ae460ede4831a0d27bd4525a6c826975061771c3af,127.0.0.1:5552
 2019-06-22 04:47:02,njRat,https://t.co/WaVSftcmOH,8026f078e81913f137bc3a4b3064632f13ec292370cdfacf21cd989fa734970f,0.tcp.ngrok.io:12513
 2019-06-22 02:17:03,njRat,https://t.co/yYKfLEkwp0,4e21e8508e7f219a681194413ee93db25c20e9553592abf9769e233f24efccd1,haxorspamer.ddns.net:5552
