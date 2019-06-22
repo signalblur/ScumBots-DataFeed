@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-06-22 02:17:03,njRat,https://t.co/yYKfLEkwp0,4e21e8508e7f219a681194413ee93db25c20e9553592abf9769e233f24efccd1,haxorspamer.ddns.net:5552
+2019-06-22 02:02:35,njRat,https://t.co/B5ocJwblnZ,2d70d561d1f28bd336a55d3b6092a9755ff537bfe8931de978ccaa39a2feab29,wadie43.ddns.net:3333
+2019-06-22 02:02:19,njRat,https://t.co/rRxZh7xHpX,2d70d561d1f28bd336a55d3b6092a9755ff537bfe8931de978ccaa39a2feab29,wadie43.ddns.net:3333
+2019-06-22 02:02:02,njRat,https://t.co/eV1AH4QIOm,2d70d561d1f28bd336a55d3b6092a9755ff537bfe8931de978ccaa39a2feab29,wadie43.ddns.net:3333
+2019-06-21 22:02:03,njRat,https://t.co/Z4uxhRpgPs,a73bab08065b5452c8d473289be5858639185a8541faddb5cc6ad1bcbd639813,hellboyato.ddns.net:1177
+2019-06-21 21:25:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/aIe5T5Tbuv,6d0c91c5ebc537ce9aaf6252a23c25dba2d2358d7e1dce612a2533225edb86c8,89.105.195.201
 2019-06-21 20:17:03,njRat,https://t.co/OLW6zLLos8,1ed6333a5df6ff1a9e441ccea7716622bf38dd6e54fd9889ebdec9f91e87cc15,127.0.0.1:1177
 2019-06-21 17:45:34,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/85mibWqAUM,a5eaf5773031d1ff70cff08d8cab7fa4ca80905c02d8037afaac51fb68e077e1,192.168.23.134
 2019-06-21 17:45:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/jRWfgMWeBn,a5eaf5773031d1ff70cff08d8cab7fa4ca80905c02d8037afaac51fb68e077e1,192.168.23.134
