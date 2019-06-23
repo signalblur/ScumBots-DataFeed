@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-06-23 01:02:02,njRat,https://t.co/mFpAgLhARn,a8b805cfd22207dcaf02927355ed29864a990c72e09b85f5c784fa5982489709,hakingpro.ddns.net:1177
+2019-06-22 21:05:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/dnXvRMjhY4,b49424b092503d325a1f8e017eb22add3d841a132dd2ae60d726b3897b25a613,0.tcp.ngrok.io
 2019-06-22 19:47:02,njRat,https://t.co/An3cm2V0q2,4fd53e919919cb8c4c6f0f5e90c8925230db4c5b6e0d6d95f6c6dd11eca96178,haxorspamer.ddns.net:1177
 2019-06-22 18:32:02,njRat,https://t.co/zi6Qol1IbE,e848320155b9c69c494ad8654cd02023aa165cd6d6d3a91e69e56a9b591b84d2,batarijaru.hopto.org:27015
 2019-06-22 14:40:03,PowerShell_Empire_Agent,https://t.co/NHVrMdff9L,598073fdef66258eb3b2a93004453fe2a5c951a3a5a0ffe8a5bb167abf9c5faf,192.168.0.109:80
