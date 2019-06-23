@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-06-23 20:32:02,njRat,https://t.co/9bW2bqNHoG,52c42e5e8fec64b578efdca70021b3a74fcac15a1ee51823f17acb68928672d5,nadez.ddns.net:1177
+2019-06-23 19:17:02,njRat,https://t.co/6J6YO0eZGz,ff3bf866993a34c97609633edbf7af861381ecaee9e506dc0be2b355717713c2,192.168.0.85:6522
+2019-06-23 15:41:37,Lime-RAT,https://t.co/MAbTVpkHbi,363a654479fd2710e6b465a7c4a7156df151fc34df206e63294966e52cfdfa60,https://pastebin.com/raw/0kiLVnpt
+2019-06-23 15:32:02,Lime-RAT,https://t.co/XgrOYQsTII,cf78dac9b41b5cad7e571a8825da19963ac573b625a97c66247ad14ee7e1818a,https://pastebin.com/raw/0kiLVnpt
+2019-06-23 15:17:02,Lime-RAT,https://t.co/OEwNChxNq2,1f42067b807c94a05690a20c4b6ef9c72f7294bc6fc6e52d7776543ebe2cc8a9,https://pastebin.com/raw/0kiLVnpt
+2019-06-23 15:05:51,njRat,https://t.co/TseZmNAay3,f14d3b1ccf5cbdfe3796246f156994a10cdccf45eeef0f479b5ee86a49676260,soucdtevoceumcuzao.duckdns.org:6000
+2019-06-23 15:02:02,Lime-RAT,https://t.co/YDUFYphAow,53f49983e6fb2e9dc375c49fba05e802eaf39bff0fd15cec5bb88d9df2eb5cc6,https://pastebin.com/raw/0kiLVnpt
 2019-06-23 01:02:02,njRat,https://t.co/mFpAgLhARn,a8b805cfd22207dcaf02927355ed29864a990c72e09b85f5c784fa5982489709,hakingpro.ddns.net:1177
 2019-06-22 21:05:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/dnXvRMjhY4,b49424b092503d325a1f8e017eb22add3d841a132dd2ae60d726b3897b25a613,0.tcp.ngrok.io
 2019-06-22 19:47:02,njRat,https://t.co/An3cm2V0q2,4fd53e919919cb8c4c6f0f5e90c8925230db4c5b6e0d6d95f6c6dd11eca96178,haxorspamer.ddns.net:1177
