@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-06-25 11:56:31,NanoCore,https://t.co/EvAUk2a1B2,a658ec0e2411660ed9006e1117600c4239baecffb16ddd7122ca9ac30ac149fa,"soucdtevoceumcuzao.duckdns.org:54984,bylgay.hopto.org:54984,"
+2019-06-25 11:56:14,NanoCore,https://t.co/RI23roVP6Y,28720d7c4d05c3a6ac84f54c65e8d484e434ed8c543ede27c0d249067c81695e,"127.0.0.1:54984,127.0.0.1:54984,"
+2019-06-25 11:55:35,Revenge,https://t.co/0kI0xOWPbk,69999324c80bde178a3a8f3eb1bf4522c7198e3e5bf303b48ef841570bb5f537,"bylgay.hopto.org:80,microsoftoutlook.duckdns.org:8080,soucdtevoceumcuzao.duckdns.org:8080,127.0.0.1:1000,sou"
+2019-06-25 10:15:04,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ASblVCLjye,d2ad6d635040747ca247e306522a6685a60b386fa4a01dfd085a8ec83c5db6ce,179.43.159.76
 2019-06-25 08:45:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/r12EMXpwCW,5a16539f5fc48d83d6893c3319f9da454f4a1cc08a37f2b946444b33762154bc,179.43.160.219
 2019-06-25 07:15:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/rFUoBLEcIO,6fe7ae2c741d2b08f050f264f1b77f5979223dec597038a04247a75b487b08e4,179.43.160.219
 2019-06-24 20:47:03,Njratgold,https://t.co/1nE2sAcOiJ,86c0220cf8d497b501270515efbf7cba9bbdfb7a7b17ddffe82e4169dc890917,hiddenmyftp.duckdns.org:6442
