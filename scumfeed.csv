@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-06-26 00:45:06,njRat,https://t.co/2DSfm7cVWd,7b9966d77a8582cb298da9a4c21be2a9bb7f38c75bf5f4663099b7bba66eb0f0,esam70samir80.ddns.net:1177
+2019-06-26 00:35:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/mT3MD7v3vC,5950b80aa9404930bcb8c72f60d0fc41822e0629c08e354c6d25f00f9695823a,172.16.137.198
+2019-06-26 00:02:02,njRat,https://t.co/VTldxiLeJt,ff414bfa23b969fb80616afaff29deda38b39f140faf22307a435ec9af917fc1,127.0.0.1:1177
 2019-06-25 19:17:03,Njratgold,https://t.co/pUGur0kkVv,5082f4246c39850c4b495747bcb1e339d73f892b78ebed2b723460bd9c99abd4,hiddenmyftp.duckdns.org:6442
 2019-06-25 11:56:31,NanoCore,https://t.co/EvAUk2a1B2,a658ec0e2411660ed9006e1117600c4239baecffb16ddd7122ca9ac30ac149fa,"soucdtevoceumcuzao.duckdns.org:54984,bylgay.hopto.org:54984,"
 2019-06-25 11:56:14,NanoCore,https://t.co/RI23roVP6Y,28720d7c4d05c3a6ac84f54c65e8d484e434ed8c543ede27c0d249067c81695e,"127.0.0.1:54984,127.0.0.1:54984,"
