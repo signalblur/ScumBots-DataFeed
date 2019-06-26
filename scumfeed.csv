@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-06-26 20:17:04,njRat,https://t.co/x2nhBOXGcQ,7b7af2a83a2ed23eee303d31f8e9818d71a647ef588ebb9bd5a475425dd0977c,192.168.1.5:111
+2019-06-26 19:10:02,PowerShell_Empire_Agent,https://t.co/lXFddVMhKW,a2e86da190ae227a52788be139840d2379c9b43e99b1050ab602d99b0f9fea69,54.36.163.79:80
 2019-06-26 14:05:34,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/m6cb6cQYZH,f5d3a9e1ca911c49d2c400afa3596938e7d00a6bde1c2e4f458a3e188f4b66d0,10.0.2.15:4444
 2019-06-26 14:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/0mYhc2NC6v,7aaee2be72d1090a1f23b58f39045f5e9e93c8e4791e6c54a8b025c739849285,10.0.2.15:52574
 2019-06-26 13:40:11,atraps,https://t.co/E6nylklSYE,91bcd8abac31a732da7029ea1f8c43a4637061ee0db8eee0dfa805151e2081b9,ou07.myftp.biz:2223
