@@ -1,4 +1,24 @@
 date_identified,implant_type,url,hash,c2
+2019-06-26 14:05:34,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/m6cb6cQYZH,f5d3a9e1ca911c49d2c400afa3596938e7d00a6bde1c2e4f458a3e188f4b66d0,10.0.2.15:4444
+2019-06-26 14:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/0mYhc2NC6v,7aaee2be72d1090a1f23b58f39045f5e9e93c8e4791e6c54a8b025c739849285,10.0.2.15:52574
+2019-06-26 13:40:11,atraps,https://t.co/E6nylklSYE,91bcd8abac31a732da7029ea1f8c43a4637061ee0db8eee0dfa805151e2081b9,ou07.myftp.biz:2223
+2019-06-26 13:39:55,atraps,https://t.co/c2ykynKIjJ,2069f57b1bfe2f2dd5d11c00e3220f484a6702d4f443701a76e47453c37f2c43,127.0.0.1:70
+2019-06-26 13:39:38,atraps,https://t.co/Aa0CRK3mWU,3f4dc6e85addc41dec7d86ecaf5bace03ebb64608c2c3e26245553d673facf95,hussaryn-36811.portmap.host:36811
+2019-06-26 13:39:19,atraps,https://t.co/M2SNEFN78u,ec508d5e00b4a9c04d9a374dc951d6ecb736ba50abafa8d829baaf4aefb8453d,soucdtevoceumcuzao.duckdns.org:70
+2019-06-26 13:39:02,atraps,https://t.co/NlmAM3YKko,a1e306b40c0f9bac6ab56e08b3952ed1d13eac94203098f00538f382448c248d,192.168.0.17:3333
+2019-06-26 13:38:46,atraps,https://t.co/jE91qBUHfw,d5768859e3fac2acbbb0d3dd18e9e1940cf406d85eebf21ed920712f7887348d,42.113.157.120:1177
+2019-06-26 13:38:29,atraps,https://t.co/DBNnRSf7ea,a1e306b40c0f9bac6ab56e08b3952ed1d13eac94203098f00538f382448c248d,192.168.0.17:3333
+2019-06-26 13:38:13,atraps,https://t.co/TIwFo84TPi,4ab6ee52a6222c86ae5ed9c560851a541e0457a829e5afb17029c069e6c3daac,127.0.0.1:4783
+2019-06-26 13:37:56,atraps,https://t.co/DVdcIvL4i6,101e1d98319af8c20612e3a5ea9f29fec9c0ca845dadce42b01bc7d7544ba3eb,127.0.0.1:7707
+2019-06-26 13:37:40,atraps,https://t.co/TFCdH1cZWF,16a81176660814c92d66a65d0beab1141b8cdd3ca3bc9044e08580cf21d253c6,127.0.0.1:7707
+2019-06-26 13:37:24,atraps,https://t.co/2Imnrsw95y,4beafeef1918032def16092107a923a28c75ba3a8325afe67d2f22a1d7e2beaf,hussaryn-36811.portmap.host:36811
+2019-06-26 13:36:44,w0rm,https://t.co/7b8wPVSlCS,59dfb37c93808fcdfb76762dfc70d26929f88a0caf76a0675d7cea0539910926,soucdtevoceumcuzao.duckdns.org:700
+2019-06-26 13:36:28,w0rm,https://t.co/qJNkfUC9fa,4beafeef1918032def16092107a923a28c75ba3a8325afe67d2f22a1d7e2beaf,hussaryn-36811.portmap.host:36811
+2019-06-26 13:36:11,w0rm,https://t.co/uUEuCuFoyI,dd7a25b2f926caf2217c829570b7e413e9f247764626f1a8f78e0aeeaff73696,127.0.0.1:4783
+2019-06-26 11:11:11,Revenge,https://t.co/K6zk6ywi3I,3159e6efc794a8b40f27c7fd6c7e1d48a964dbbf5059323d703db6e9687c7831,"queda212.duckdns.org:242,127.0.0.1:242,"
+2019-06-26 10:20:10,Revenge,https://t.co/appC70j4ix,b752d21d4ccdeb864b3bd50b452627d5246efc44a2f4a285c1f2214fe41ea74d,"bylgay.hopto.org:80,microsoftoutlook.duckdns.org:8080,soucdtevoceumcuzao.duckdns.org:8080,127.0.0.1:1000,sou"
+2019-06-26 09:05:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/WoAwbEJ3QA,13ca76f52ed55f2d6bd7d45635c28f78ac663189e6609185df6575eb96e08164,3.14.212.173:18032
+2019-06-26 08:55:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/gJfLHDhsj8,72ec0976f694af3224f3d18eee5e9c497e387dbec5ea81b2279908896439fb51,192.168.159.132:443
 2019-06-26 00:45:06,njRat,https://t.co/2DSfm7cVWd,7b9966d77a8582cb298da9a4c21be2a9bb7f38c75bf5f4663099b7bba66eb0f0,esam70samir80.ddns.net:1177
 2019-06-26 00:35:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/mT3MD7v3vC,5950b80aa9404930bcb8c72f60d0fc41822e0629c08e354c6d25f00f9695823a,172.16.137.198
 2019-06-26 00:02:02,njRat,https://t.co/VTldxiLeJt,ff414bfa23b969fb80616afaff29deda38b39f140faf22307a435ec9af917fc1,127.0.0.1:1177
