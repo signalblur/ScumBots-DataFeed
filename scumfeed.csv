@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-06-27 20:55:31,njRat,https://t.co/nWz1UZR72I,ed7efb0601bea91db582e4f4b0f686b767504e5d27213d8b1beb1333612e3dd0,bylgay.hopto.org:9000
+2019-06-27 18:50:03,PowerShell_Empire_Agent,https://t.co/7ciUSCZ0ed,0fd3bb0c0069a4e4fa5f236c04a8a40a2c2e75ecdc9f05253537a0431ba82c61,192.168.33.254:4444
+2019-06-27 16:32:03,njRat,https://t.co/JMUs3L0Bdo,21eda3a993b81f2d8b1286ad37dda43b7260a8b084fd4d6bf3931690f16521b4,morocco1.hopto.org:5552
 2019-06-27 13:17:03,njRat,https://t.co/JrD3bNgWgM,3c6cc0afb0813651c15d8569ac619aeb213fdfe9adf9473576b0fb9571ae9472,127.0.0.1:5252
 2019-06-27 13:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/CesRfU8Ieh,e3907c8491529af8430d1b9ca1b3539902c69d20c2223e646a3a0d8c4ff71979,10.0.2.15
 2019-06-27 13:02:04,njRat,https://t.co/AaMzrLzKnE,25345abe63d8da8ad391edcf31e99eae92b2abc920bf16af2938252f74fe52ef,127.0.0.1:5252
