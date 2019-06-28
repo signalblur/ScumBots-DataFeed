@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-06-28 00:15:10,NanoCore,https://t.co/Emau2XB4El,3c52f5f8d98a4ef0f9679ef686f2affdc5b15e88872ded6e5edf34fb69c507f4,"soucdtevoceumcuzao.duckdns.org:54984,bylgay.hopto.org:54984,"
+2019-06-27 23:02:02,njRat,https://t.co/2VQLE7Ksvu,7999e3746c1dca231f0679775bbca881ce80e727de088786998a82fa2373a70d,119.59.112.212:80
+2019-06-27 21:47:02,njRat,https://t.co/siCxcljkeE,bae87cc1186379df811c1eb46b365da59a501311e300d2303537b229a96a9f57,thewayofthemagic.ddns.net:888
+2019-06-27 21:00:40,njRat,https://t.co/DF1Hpg4U7p,cf52f25ec09523169714736063591a1ad4e250f4fd81eb7f17bb8e36fa268f95,127.0.0.1:5252
 2019-06-27 20:55:31,njRat,https://t.co/nWz1UZR72I,ed7efb0601bea91db582e4f4b0f686b767504e5d27213d8b1beb1333612e3dd0,bylgay.hopto.org:9000
 2019-06-27 18:50:03,PowerShell_Empire_Agent,https://t.co/7ciUSCZ0ed,0fd3bb0c0069a4e4fa5f236c04a8a40a2c2e75ecdc9f05253537a0431ba82c61,192.168.33.254:4444
 2019-06-27 16:32:03,njRat,https://t.co/JMUs3L0Bdo,21eda3a993b81f2d8b1286ad37dda43b7260a8b084fd4d6bf3931690f16521b4,morocco1.hopto.org:5552
