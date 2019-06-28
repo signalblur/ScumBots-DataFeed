@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-06-28 11:02:03,njRat,https://t.co/NTbIT49VOz,52bd999cf5fb5df75393a5cb5f4a1c5fca1fb511aeffea85cbfbb5862cd70ff4,"server5319.us.to:5552,"
 2019-06-28 05:47:02,Revenge,https://t.co/31H15YJZhZ,a0ec5e6a7fcc92ae7965d8761610d75578852664ba79174df4d82a17bf586334,127.0.0.1:333
 2019-06-28 05:17:02,njRat,https://t.co/vn4Ff39v5d,505aee024fe15f9def181097edc7183014b05d5a597539bb9d167277e33f5d8e,"server5319.us.to:5552,"
 2019-06-28 05:02:03,Revenge,https://t.co/5ZXnz8vv4n,a0ec5e6a7fcc92ae7965d8761610d75578852664ba79174df4d82a17bf586334,127.0.0.1:333
