@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-06-29 08:17:03,Payload,https://t.co/w0D4SxZsiI,7578c59061a2cbbfc00ceb446d7564ec8447beaf27a5c3ee6334a64e9d5adf80,172.16.208.30:1337
+2019-06-29 07:17:03,njRat,https://t.co/EmQPJjtCKe,49a828f54bdb51ef71ce5e64f2b0994d7e68d52da0b5c4b586817634d929c897,"127.0.0.1:5553,"
+2019-06-29 06:02:03,Njratgold,https://t.co/Q4gBXltOst,71be26ea5e2981580eb67fbb838f52e5559e609f3c2cd31fa6b4aa98e0a8b2bf,hiddenmyftp.duckdns.org:6442
 2019-06-28 20:02:03,Payload,https://t.co/gQF2kpl22q,62a7da97c0e25cf8aab3665aaa65da6ab03caf733546cf2a7c06d2dcb85dd26d,192.168.178.35:1337
 2019-06-28 19:25:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/hEQAEUIc8i,70edb2202dd5683f853f22b0991a864f97256bbbe8c2baed5ec0078f3c3139be,5.51.30.229
 2019-06-28 17:32:04,njRat,https://t.co/MoO52MOLOJ,c7d239a24d8f03608fa2875aae793cac4957b5cca3e4baf11e358e011261c070,"127.0.0.1:5553,"
