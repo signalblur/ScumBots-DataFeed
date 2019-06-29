@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-06-29 20:32:02,njRat,https://t.co/KY4gSNnfLT,062170c1751f30f1d57104c2025efba843119fdcb693d64d36434fc140eba349,192.168.1.77:1177
+2019-06-29 20:17:02,njRat,https://t.co/Hl8OAYKQ1W,062170c1751f30f1d57104c2025efba843119fdcb693d64d36434fc140eba349,192.168.1.77:1177
+2019-06-29 19:02:02,njRat,https://t.co/sCErvv9885,91caeb52d2091ca57ddf227282305d66a5b5b364beaed6d55f78baba55f9d8ed,duyneask.ddns.net:2700
+2019-06-29 18:47:05,njRat,https://t.co/8IBOOrGjK6,91caeb52d2091ca57ddf227282305d66a5b5b364beaed6d55f78baba55f9d8ed,duyneask.ddns.net:2700
+2019-06-29 17:47:02,Lime-RAT,https://t.co/Mho2sE3qyo,d3c53d87bd97a3b49a53d260761318c6524105178c2bd804a1901cc249cc7d40,https://pastebin.com/raw/VpTc1uA5
+2019-06-29 16:17:03,njRat,https://t.co/AyOlhinEWK,d98adf11980f4970e72e12673207998f6cbf2b80884d4d776424d087e4dafd85,soolbin01.ddns.net:1177
 2019-06-29 12:32:03,Njratgold,https://t.co/YCrlNWf5oX,e7049c9d4353d17e85476520466a6392055ccd40932bf038f473aefb9ebe93f9,hiddenmyftp.duckdns.org:6442
 2019-06-29 10:47:03,njRat,https://t.co/gfPxTwGnKd,ef6632b17c79bfaac5a0ae9a0a1910b3373ffdcde66fe6a85e6f81b165e29b6a,*TI3LjAu*C4x:5552
 2019-06-29 08:17:03,Payload,https://t.co/w0D4SxZsiI,7578c59061a2cbbfc00ceb446d7564ec8447beaf27a5c3ee6334a64e9d5adf80,172.16.208.30:1337
