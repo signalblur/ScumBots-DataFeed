@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2019-06-30 20:30:39,Xtreme,https://t.co/QrQlbpvo0Z,8d7d9cc68038b884f47f3f9be30a56b4dc2cf70e242e6ed57b1cf75f3690cc46,"queda212.duckdns.org:81,"
+2019-06-30 20:26:53,njRat,https://t.co/5mP2MCYXkG,b5fe18e67328728a565a684f4283eba2271d82a8a7ec93b2aae65a83226370d0,"127.0.0.1:5553,"
+2019-06-30 20:20:24,njRat,https://t.co/Tb5cJ1YZaT,20adf29aac6e0c50bcd8c9294d5f649c8accfd6e3b56180b595e3dd9ceb5d0bd,192.168.0.12:4546
+2019-06-30 20:14:35,njRat,https://t.co/kJ1JgaQytM,20adf29aac6e0c50bcd8c9294d5f649c8accfd6e3b56180b595e3dd9ceb5d0bd,192.168.0.12:4546
+2019-06-30 20:06:03,Xtreme,https://t.co/uezAhyC1Z6,8d7d9cc68038b884f47f3f9be30a56b4dc2cf70e242e6ed57b1cf75f3690cc46,"queda212.duckdns.org:81,"
+2019-06-30 19:55:41,Xtreme,https://t.co/nOl0lm0D0V,8d7d9cc68038b884f47f3f9be30a56b4dc2cf70e242e6ed57b1cf75f3690cc46,"queda212.duckdns.org:81,"
+2019-06-30 19:43:36,Xtreme,https://t.co/rYv7Fm8cEC,8d7d9cc68038b884f47f3f9be30a56b4dc2cf70e242e6ed57b1cf75f3690cc46,"queda212.duckdns.org:81,"
+2019-06-30 16:04:23,atraps,https://t.co/VekYmNkkrf,224e01e161d0fc3475fc925376607e9d8e375f6df2ef9953437b07927287c9d8,127.0.0.1:700
+2019-06-30 15:32:02,njRat,https://t.co/Wl8M8zCQnm,e00557abd89f63632148e6c677c77b556cecb640a52f34ba3a3054ee1d08446a,soolbin01.ddns.net:1177
 2019-06-30 14:32:02,Lime-RAT,https://t.co/cF9H7bubbF,7f549312dda8441198e6a88933d0e291c250f83889980b69f989d63606db375c,https://pastebin.com/raw/bnwGGDG1
 2019-06-30 13:32:03,njRat,https://t.co/Rfgxbu9wE5,862e7a193c460fc778e70211f33c1294e2e93b4538e3eb1e6a963354c9c56c5b,hiddenmyftp.duckdns.org:5552
 2019-06-30 12:32:03,Njratgold,https://t.co/Gn43RvQoEm,6843283eac37807a37e9c6d7bdcd2849cb75f91c1cdebacaec0c6837bb554867,hiddenmyftp.duckdns.org:6442
