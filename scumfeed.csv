@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-06-30 03:17:02,Revenge,https://t.co/meArpqh2Tm,53607f73d6aadb0a6ab4471b986cbc8e9be9d45029b0ad2f921677c1b6676e45,127.0.0.1:333
+2019-06-30 03:02:02,atraps,https://t.co/1P5kSeltoU,5c0640a5f36cbb104717df3f186185de52f245f42d820830b8e018ea52f31ab2,127.0.0.1:8080
 2019-06-30 02:47:02,Lime-RAT,https://t.co/jCPRlc2ewB,5434f75c1ba994301fbd0f5dfd2775f82e031181dbec335fec2925206aac463b,https://pastebin.com/raw/GWFDsYF0
 2019-06-30 00:43:11,njRat,https://t.co/IDbsXOLmoq,93ed8591089138bd147d16b5461b8abe8c30f4d238d255ac3068d00bf8c16723,127.0.0.1:1177
 2019-06-29 23:51:20,njRat,https://t.co/ScuiiBbrH5,225bd066547b526e9bd0f5ae0ba100ac9d91441734a90da2eb55ac51d3f698bf,127.0.0.1:1177
