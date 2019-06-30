@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-06-30 02:47:02,Lime-RAT,https://t.co/jCPRlc2ewB,5434f75c1ba994301fbd0f5dfd2775f82e031181dbec335fec2925206aac463b,https://pastebin.com/raw/GWFDsYF0
+2019-06-30 00:43:11,njRat,https://t.co/IDbsXOLmoq,93ed8591089138bd147d16b5461b8abe8c30f4d238d255ac3068d00bf8c16723,127.0.0.1:1177
+2019-06-29 23:51:20,njRat,https://t.co/ScuiiBbrH5,225bd066547b526e9bd0f5ae0ba100ac9d91441734a90da2eb55ac51d3f698bf,127.0.0.1:1177
+2019-06-29 23:47:57,Revenge,https://t.co/NvAcphyDru,70f683a0a04ecf54d0e7fbbbe8e403486f478db7b5a39e786a5be2fd3c3aee06,93.90.193.146:213
+2019-06-29 23:47:02,njRat,https://t.co/3lH0V4c9Vv,10532eb628ccb02fcdeaa52dd6d230ef2e5a63649afff5dda17f7db3d0ff1575,soolbin01.ddns.net:1177
 2019-06-29 20:32:02,njRat,https://t.co/KY4gSNnfLT,062170c1751f30f1d57104c2025efba843119fdcb693d64d36434fc140eba349,192.168.1.77:1177
 2019-06-29 20:17:02,njRat,https://t.co/Hl8OAYKQ1W,062170c1751f30f1d57104c2025efba843119fdcb693d64d36434fc140eba349,192.168.1.77:1177
 2019-06-29 19:02:02,njRat,https://t.co/sCErvv9885,91caeb52d2091ca57ddf227282305d66a5b5b364beaed6d55f78baba55f9d8ed,duyneask.ddns.net:2700
