@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-07-01 01:30:43,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/vNqgGcex3i,f624769f651d2a093792cf817c7dbbbd432be4b81c58bce7b5d42ab128256572,116.206.228.203:7834
+2019-06-30 23:32:02,Lime-RAT,https://t.co/JLogRlfIyh,b4edd9f8ebadeca219ccb4516eb2d222b5481c661aef35eca4b944b7e62066a6,https://pastebin.com/raw/bnwGGDG1
+2019-06-30 22:17:03,njRat,https://t.co/sUDmAcLeA8,915cecef774601cfc6ef97c83715fe08590f9e3bfeff42fc6db23496bc20f802,by-sabotage123.duckdns.org:1177
+2019-06-30 22:10:02,PowerShell_Empire_Agent,https://t.co/Vprz6yaiih,d8556eb58ad94e467051cdfc9074574110f33b6c4bc67108688da93693e34162,10.0.0.140:80
 2019-06-30 20:30:39,Xtreme,https://t.co/QrQlbpvo0Z,8d7d9cc68038b884f47f3f9be30a56b4dc2cf70e242e6ed57b1cf75f3690cc46,"queda212.duckdns.org:81,"
 2019-06-30 20:26:53,njRat,https://t.co/5mP2MCYXkG,b5fe18e67328728a565a684f4283eba2271d82a8a7ec93b2aae65a83226370d0,"127.0.0.1:5553,"
 2019-06-30 20:20:24,njRat,https://t.co/Tb5cJ1YZaT,20adf29aac6e0c50bcd8c9294d5f649c8accfd6e3b56180b595e3dd9ceb5d0bd,192.168.0.12:4546
