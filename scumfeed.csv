@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-07-03 16:50:02,PowerShell_Empire_Agent,https://t.co/Hc5HiDHzBc,708c1de930b3734f1c876754da4d1df58317aed3da2cc4062c4963e43a48a1a9,192.168.242.129:80
+2019-07-03 16:32:04,njRat,https://t.co/q78qeoyBsF,e23f2286f7af5216754cc6bb1715d031c85250ca650e2fd1291b67e7dc36464c,falcon-56657.portmap.host:56657
+2019-07-03 15:32:02,njRat,https://t.co/89bqynAuJT,18612d405e12a52cc0598837c140ee536a1e008d15b033f32be10a3f8c5afc18,venot.ddns.net:1177
 2019-07-03 14:32:03,Lime-RAT,https://t.co/viv3OSmZQs,80c3b5afbf9a8209d481426dc3b9c6cc84d82013b804a3c301324cd072e5cde8,https://pastebin.com/raw/j4LprUAc
 2019-07-03 12:17:02,Lime-RAT,https://t.co/OEyXGrtbI9,6097286f77e05e7441ea1e9feab18db11c238d4c879db3ed7d4c69d3e306df93,https://pastebin.com/raw/YNXzG7Ap
 2019-07-03 11:17:02,njRat,https://t.co/qAgsXq910F,b4f1d54b86655591acb1242ef212b105d56d7d56dcff8a812ef5f8575394fc98,127.0.0.1:9023
