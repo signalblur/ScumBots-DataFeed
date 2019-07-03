@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-07-03 14:32:03,Lime-RAT,https://t.co/viv3OSmZQs,80c3b5afbf9a8209d481426dc3b9c6cc84d82013b804a3c301324cd072e5cde8,https://pastebin.com/raw/j4LprUAc
+2019-07-03 12:17:02,Lime-RAT,https://t.co/OEyXGrtbI9,6097286f77e05e7441ea1e9feab18db11c238d4c879db3ed7d4c69d3e306df93,https://pastebin.com/raw/YNXzG7Ap
+2019-07-03 11:17:02,njRat,https://t.co/qAgsXq910F,b4f1d54b86655591acb1242ef212b105d56d7d56dcff8a812ef5f8575394fc98,127.0.0.1:9023
+2019-07-03 10:47:02,njRat,https://t.co/0RDJrEQb1K,f3db64edf36044840665b6d9f5b771d5ab65871b717c95249cb1f1632f00f956,falcon-56657.portmap.host:56657
 2019-07-02 23:02:19,njRat,https://t.co/lBYIMRgbGM,0349ce56f193928e62e482c573d534bac5fe526a1d1fb103320c54466826faee,soolbin01.ddns.net:1177
 2019-07-02 23:02:02,njRat,https://t.co/sgnRxuVX7U,0f258007539ae95b2eacd8dd85fcf51bbdfdabcbdd9e8a5882c1484c1c9b0b7e,188.209.49.54:5552
 2019-07-02 21:02:02,NanoCore,https://t.co/txwvoSYZFJ,a042d45a0f493c8e752c760cf91d4322596bef0fa0e2b7885734b0592861f4b4,"nexosouls.ddns.net:1604,127.0.0.1:1604,"
