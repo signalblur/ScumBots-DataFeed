@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-07-06 18:31:54,Revenge,https://t.co/kqorcLsZGW,0c13269d72690a964fe78baf518fa5d4bb3a909a7cd6aae5429428fd862adcb7,yahakhan.duckdns.org:2990
 2019-07-06 12:50:03,PowerShell_Empire_Agent,https://t.co/WBiq6Nfn1K,3df4eadc61b424066f1c0127164c4906f296f55cc14e58df8ff7d87064c56cb6,192.168.29.67:80
 2019-07-06 11:17:02,njRat,https://t.co/Pq2cBaNLi0,91df9d11e99f82a8acce9605b877b54422b999c97a14dd3d0af3b588299c5dc3,127.0.0.1:5555
 2019-07-06 11:10:02,PowerShell_Empire_Agent,https://t.co/mxoPt9sxhk,25c7bded1e9e09558c2485f13214e18f44cdd57988ac5cd13f54806f39d9e00d,192.168.29.67:80
