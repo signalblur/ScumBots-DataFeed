@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-07-07 08:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/T7GUZDmVRe,903c5657b3c967230b3a330f6f3d896c7c8cd985ffb9b90ab59b42981303fc31,192.168.1.10
 2019-07-06 21:32:02,njRat,https://t.co/XijODNGCf8,1443623481d6980080a6df33261866f5ef4618f712537c6b613e4b287d6c4d8e,ahmed22wer.ddns.net:5552
 2019-07-06 18:31:54,Revenge,https://t.co/kqorcLsZGW,0c13269d72690a964fe78baf518fa5d4bb3a909a7cd6aae5429428fd862adcb7,yahakhan.duckdns.org:2990
 2019-07-06 12:50:03,PowerShell_Empire_Agent,https://t.co/WBiq6Nfn1K,3df4eadc61b424066f1c0127164c4906f296f55cc14e58df8ff7d87064c56cb6,192.168.29.67:80
