@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-07-08 09:47:19,njRat,https://t.co/JuzzpRNfHt,9be544789248561519d56a1b94ce74577ce6445e74aea8e7acc69123a0b9ab03,joko.kro.kr:5552
+2019-07-08 09:47:02,njRat,https://t.co/rrXB9ihUZV,54865455e3b0b230ec586a8d6fad114ef2a541c213c70e9ce09e7fc9a782cc89,joko.kro.kr:5552
+2019-07-08 09:32:03,njRat,https://t.co/T4MkHzLsdx,778f08c0025b3c9aa4b248f43e2abfe72d9f5dac112e2fdf5dd8ef4b7f436166,"127.0.0.1:5553,"
 2019-07-07 20:02:29,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/nvVpAtE27t,5c7054ad089e214eb292b88794dca3ce98fcece061d78a3c9f65d2ca41f355d5,77.138.7.127:443
 2019-07-07 18:02:02,NanoCore,https://t.co/qjzcuJ6pji,9dbe0c6be575d9396b688e2ba76712537c5c878a969b8b8e7f60436dc944ac14,"141.255.145.32:1604,127.0.0.1:1604,"
 2019-07-07 13:32:02,Lime-RAT,https://t.co/yD9m6PljFB,d826623066cdbe828eaf92a24a2327c315b2bf633053c1c5763e16836180e2d6,https://pastebin.com/raw/NvPAsz1f
