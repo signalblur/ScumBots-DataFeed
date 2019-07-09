@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-07-09 13:17:03,Lime-RAT,https://t.co/satf9Wt1Hs,78c0f97bf1e31fd8eaaabb35c590f4e315ecc67e39a604830819771501e759f1,https://pastebin.com/raw/Wr85M2fh
+2019-07-09 11:50:34,PowerShell_Empire_Agent,https://t.co/vOiX9DWVLv,640e774825a2b2fecce159f12c58c72318dc7ef441bdeee231343265733a33d6,10.0.2.15:80
+2019-07-09 11:50:03,PowerShell_Empire_Agent,https://t.co/jW6ZKX0j79,34f6f95c7772fc141329eb77b9708316bcb5252da25f31dbf8d77dd7763a0ddb,10.0.2.15:80
+2019-07-09 11:40:03,PowerShell_Empire_Agent,https://t.co/w51BsqK0zp,f712177a2b481c87d5ccd07d8b152507b8b2ae183fde43b9c62c9ef36e5d6db5,10.0.2.15:80
+2019-07-09 10:17:03,njRat,https://t.co/ExBo59vbhk,818e03879cd894d7d2136cdf9fbd28836553b476563b3b67bfd515137fd6ce41,127.0.0.1:1604
+2019-07-09 09:32:06,njRat,https://t.co/eH0JkduS1y,818e03879cd894d7d2136cdf9fbd28836553b476563b3b67bfd515137fd6ce41,127.0.0.1:1604
 2019-07-09 09:17:03,njRat,https://t.co/T4BnlGNuUQ,8e55de30d8983900f4419bfdaf3718b44149b6cb00afa3f9db7195cc746052ef,127.0.0.1:1604
 2019-07-08 09:47:19,njRat,https://t.co/JuzzpRNfHt,9be544789248561519d56a1b94ce74577ce6445e74aea8e7acc69123a0b9ab03,joko.kro.kr:5552
 2019-07-08 09:47:02,njRat,https://t.co/rrXB9ihUZV,54865455e3b0b230ec586a8d6fad114ef2a541c213c70e9ce09e7fc9a782cc89,joko.kro.kr:5552
