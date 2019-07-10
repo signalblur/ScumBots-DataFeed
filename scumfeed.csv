@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-07-09 20:10:03,PowerShell_Empire_Agent,https://t.co/Uz5bkQtQnO,eca48b51f4b65469225076b4a40d533d67507c63f6f9d5cf8b0638bfe58f0dce,10.0.2.15:80
+2019-07-09 19:02:19,Lime-RAT,https://t.co/hQMaNlwYkw,27ab63c2ec213fda5b8017afb5a612e83415d8ff747c58c1d4b16d5cefb6a18f,https://pastebin.com/raw/5Aa34YK2
+2019-07-09 19:02:02,Revenge,https://t.co/P3JvcH8NvR,f3cf972a3c6cd0773df078bf0d21b6556cfbb482ecc8b1ee1bb3ade44a5785d5,127.0.0.1:5552
+2019-07-09 18:02:04,Lime-RAT,https://t.co/C1PhG78YR2,e91a9be425c8a1b82a08823fbb603679171f0fa77f2c4b1245f111d072508e21,https://pastebin.com/raw/5Aa34YK2
+2019-07-09 17:50:11,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/AvgYwNobIl,20d837a9a06e48e99792be3149580f97662c298c6e0bbc95916472b53b3bf48d,31.220.43.160
+2019-07-09 17:47:02,njRat,https://t.co/gWeV725e5N,91df9d11e99f82a8acce9605b877b54422b999c97a14dd3d0af3b588299c5dc3,127.0.0.1:5555
 2019-07-09 13:17:03,Lime-RAT,https://t.co/satf9Wt1Hs,78c0f97bf1e31fd8eaaabb35c590f4e315ecc67e39a604830819771501e759f1,https://pastebin.com/raw/Wr85M2fh
 2019-07-09 11:50:34,PowerShell_Empire_Agent,https://t.co/vOiX9DWVLv,640e774825a2b2fecce159f12c58c72318dc7ef441bdeee231343265733a33d6,10.0.2.15:80
 2019-07-09 11:50:03,PowerShell_Empire_Agent,https://t.co/jW6ZKX0j79,34f6f95c7772fc141329eb77b9708316bcb5252da25f31dbf8d77dd7763a0ddb,10.0.2.15:80
