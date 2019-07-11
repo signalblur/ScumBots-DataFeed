@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-07-10 19:47:03,njRat,https://t.co/dmhm9JJalK,3f55b6225ea371c69c65a01c785d3b665d6a7ff000361f8a5ce05b08f6e30b27,xlightcx.ddns.nbet:5552
+2019-07-10 19:17:02,Revenge,https://t.co/VaPaThKa2t,95c7ea152c0f0e259e890edc0fd13cc9a928c98751bbe3c05106b325f3bc28a6,wh-32248.portmap.io:32248
+2019-07-10 19:10:02,PowerShell_Empire_Agent,https://t.co/EXuTa6Y2hZ,e03e89f870598ef7af15910f0d646a04d410b0d9adfc83b229610e2f106c8542,192.168.32.128:80
+2019-07-10 18:47:02,Revenge,https://t.co/HtjzPykfm3,95c7ea152c0f0e259e890edc0fd13cc9a928c98751bbe3c05106b325f3bc28a6,wh-32248.portmap.io:32248
+2019-07-10 15:59:40,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/31zgpA1Irh,c3b65a46ca4c263110a84f4d7feb5171ee24af8a9537ddf59d61a0de837f5932,190.166.86.4:4444
 2019-07-10 12:17:02,njRat,https://t.co/qY6vnD6A1J,dc249ee3e34edf93993cae8eb54d3b59b16b9ebd4642341b3de9fde1602b0597,127.0.0.1:1188
 2019-07-10 10:32:03,njRat,https://t.co/DX9UYiG1aX,a6970a24f305f5082134f179531600c9a72c8e67e1e25cfbbd098a710faf483a,192.168.0.116:6522
 2019-07-10 10:02:02,njRat,https://t.co/FVUNOaSxKP,91df9d11e99f82a8acce9605b877b54422b999c97a14dd3d0af3b588299c5dc3,127.0.0.1:5555
