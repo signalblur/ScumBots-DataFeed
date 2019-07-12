@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-07-12 01:15:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/aFOduQTVxx,84ad6a1638446eb81e907f6363d0cdf96caae953cff0652f1f9ab6a6d9f05c44,192.168.7.120:4444
+2019-07-12 00:25:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/823BriNt93,c48fbc3185d5013b8b232c16f703a9748557485447b6b46b8eae30c24379de9d,172.20.10.6
+2019-07-11 21:28:41,Xtreme,https://t.co/jnexNBJkCa,faddaf640cd63b3421eed1fdd567a688282fad1d2ee22fac7d527217855317bb,"127.0.0.1:81,"
+2019-07-11 21:28:22,njRat,https://t.co/mwc4GOglTN,831361679972add0e03dbbdf8b215bf3d4c93ebcc363ec1d9a2732a3fc361722,127.0.0.1:1177
 2019-07-11 20:50:03,PowerShell_Empire_Agent,https://t.co/0cxXOhp8lo,5c1ddff252306e285f33bbb53e7da3fda66a37922902e802c6a825804c233baa,192.168.33.254:8444
 2019-07-11 20:30:03,PowerShell_Empire_Agent,https://t.co/tNpLC2M7Jt,c2c21e82b268ff9e2dfff46800a85a1f7964bdeb98e220825d5ae56276c6b23c,192.168.33.254:8443
 2019-07-11 20:02:18,njRat,https://t.co/cvJ7b4GRY6,1820c543a379ba0a9590c8da743dce9336fbc9ecedd1b7279d6e9af6b304df01,127.0.0.1:5553
