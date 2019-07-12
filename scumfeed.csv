@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-07-11 20:50:03,PowerShell_Empire_Agent,https://t.co/0cxXOhp8lo,5c1ddff252306e285f33bbb53e7da3fda66a37922902e802c6a825804c233baa,192.168.33.254:8444
+2019-07-11 20:30:03,PowerShell_Empire_Agent,https://t.co/tNpLC2M7Jt,c2c21e82b268ff9e2dfff46800a85a1f7964bdeb98e220825d5ae56276c6b23c,192.168.33.254:8443
+2019-07-11 20:02:18,njRat,https://t.co/cvJ7b4GRY6,1820c543a379ba0a9590c8da743dce9336fbc9ecedd1b7279d6e9af6b304df01,127.0.0.1:5553
+2019-07-11 20:02:02,njRat,https://t.co/SnqE4t5j65,ed1c4957442bc82eccee755138948c40e8459dba8fcac2ba3b5912fda3e4ea0f,192.168.0.40:5552
+2019-07-11 18:30:03,PowerShell_Empire_Agent,https://t.co/JCPthKU25G,051a549e85a5f4b7a7020325c54a06a0b664e243e93de30e3b9f4133ac1b6a3f,192.168.33.254:4444
 2019-07-11 13:59:14,PowerShell_Meterpreter_Reverse_HTTP_x64,https://t.co/pkP7t5BjZO,82322d80784406e4126c8b8e0986d74c9913ca20fd3ae13d397de0c232a5f355,94.103.91.138
 2019-07-11 13:02:19,njRat,https://t.co/JplWCONrmp,d9bc805df5c0e34db4fbfd2b43eeec08170e546442ecd37221babda377793213,"127.0.0.1:5553,"
 2019-07-11 13:02:03,Lime-RAT,https://t.co/qFBslykGzc,78c0f97bf1e31fd8eaaabb35c590f4e315ecc67e39a604830819771501e759f1,https://pastebin.com/raw/Wr85M2fh
