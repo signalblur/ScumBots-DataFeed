@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-07-12 13:17:02,njRat,https://t.co/SNKViegwI1,35a52b86f087f1c01d9ebaf1d86949c3c76a2594322352bbfb3cb78cb9acfb6c,putakama.hopto.org:5552
 2019-07-12 08:17:03,Njratgold,https://t.co/qOtPPxb9jZ,ab22449433e1fb6592a8b15ef2163ce0d1b096037c72a98041b611f786123494,hiddenmyftp.duckdns.org:6442
 2019-07-12 07:32:02,Lime-RAT,https://t.co/7kg846Jyl8,bb4177c40a22a0b98a82f387dd1ef910ca592b117436dbd61a43a92a0bb1aa26,https://pastebin.com/raw/0QH4sEUY
 2019-07-12 01:15:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/aFOduQTVxx,84ad6a1638446eb81e907f6363d0cdf96caae953cff0652f1f9ab6a6d9f05c44,192.168.7.120:4444
