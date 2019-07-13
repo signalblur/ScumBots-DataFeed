@@ -1,4 +1,16 @@
 date_identified,implant_type,url,hash,c2
+2019-07-12 19:17:03,njRat,https://t.co/A5ZtQ6wvhY,f9d8dd9afb996ad583e41ed36a946d3490dea4a6710d5604ea4e9ce9a57e48a9,soolbin01.ddns.net:1177
+2019-07-12 18:40:02,PowerShell_Empire_Agent,https://t.co/tPJqBFYWJM,8da12177842b3da094bd78dacde99c218f38d30039a076159b8628470137b433,https://194.99.22.146:443
+2019-07-12 18:35:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/hPt14M0fse,cba16863b45ba76e96d01e4331a9a29566e96cb8d42f6feddbba719c844d0d22,192.168.43.44
+2019-07-12 18:20:03,PowerShell_Empire_Agent,https://t.co/mqDoNZRr3f,fd70b77456315ba2607eb57be03f80038924c24ea2ab56f5e08f839d61137e8f,https://94.140.125.248:443
+2019-07-12 18:02:35,Revenge,https://t.co/McgvmzYnuP,6ef867057a6260ee5309fec169feaa4b7f6e08e51f2dec85eb6decaea739b0b1,127.0.0.1:1604
+2019-07-12 18:02:19,Revenge,https://t.co/qavB5pc8Qg,b3074cdcea069be10773139f4cb8a533703e42cb68bb9beda189e9377bc71484,emanmostafa2019.ddns.net:1604
+2019-07-12 18:02:02,njRat,https://t.co/DklkzxCUzW,dafaa1fe0a36ffe0f4aef1cd0bc4c3ea311e921eed46f48b5dc0db0af4e7340d,192.168.1.7:5552
+2019-07-12 17:02:04,njRat,https://t.co/nYkUcFH9VA,dafaa1fe0a36ffe0f4aef1cd0bc4c3ea311e921eed46f48b5dc0db0af4e7340d,192.168.1.7:5552
+2019-07-12 16:32:03,njRat,https://t.co/EVOtn20CMC,b61fec5917184de83eec4e599d1da122d8d1448398d08fa2a8cf2a47f4d87dab,127.0.0.1:5552
+2019-07-12 16:20:02,PowerShell_Empire_Agent,https://t.co/YP1B97rwVP,2d289346e9b4ad974cff0dc82ef763d05b737a939cebb6c9c81da44f6fe078af,192.168.33.254:8443
+2019-07-12 16:05:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/898qW7WL9J,7ea097c445858504801a0294162b48f770351d0172a2d93a8a77ca2b28bd0e8f,10.232.18.33
+2019-07-12 15:47:02,njRat,https://t.co/RwB4ftNiTB,35a52b86f087f1c01d9ebaf1d86949c3c76a2594322352bbfb3cb78cb9acfb6c,putakama.hopto.org:5552
 2019-07-12 13:17:02,njRat,https://t.co/SNKViegwI1,35a52b86f087f1c01d9ebaf1d86949c3c76a2594322352bbfb3cb78cb9acfb6c,putakama.hopto.org:5552
 2019-07-12 08:17:03,Njratgold,https://t.co/qOtPPxb9jZ,ab22449433e1fb6592a8b15ef2163ce0d1b096037c72a98041b611f786123494,hiddenmyftp.duckdns.org:6442
 2019-07-12 07:32:02,Lime-RAT,https://t.co/7kg846Jyl8,bb4177c40a22a0b98a82f387dd1ef910ca592b117436dbd61a43a92a0bb1aa26,https://pastebin.com/raw/0QH4sEUY
