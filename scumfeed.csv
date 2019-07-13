@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-07-13 02:32:03,njRat,https://t.co/SNu9fPAn9M,49c2b9a0e9dc6150f1b3ef74a601a18bf9994138c7499f35406021c95498d99f,ovh.servehttp.com:5553
+2019-07-13 02:17:02,njRat,https://t.co/zE1k0GdG3o,3558394987b1ebe4502aeb4a28a80480791b20a41f6d5e826b7d87200ed7eed8,monta14.ddns.net:7777
+2019-07-13 01:47:02,njRat,https://t.co/ULAOMf37WX,3558394987b1ebe4502aeb4a28a80480791b20a41f6d5e826b7d87200ed7eed8,monta14.ddns.net:7777
+2019-07-12 23:02:03,Revenge,https://t.co/jUA0MwSSul,0255ad8051093c7466b38fe797a58956763b9ebb67c1f21f8e9d901035f02e1a,xlightcx.ddns.net:8090
 2019-07-12 19:17:03,njRat,https://t.co/A5ZtQ6wvhY,f9d8dd9afb996ad583e41ed36a946d3490dea4a6710d5604ea4e9ce9a57e48a9,soolbin01.ddns.net:1177
 2019-07-12 18:40:02,PowerShell_Empire_Agent,https://t.co/tPJqBFYWJM,8da12177842b3da094bd78dacde99c218f38d30039a076159b8628470137b433,https://194.99.22.146:443
 2019-07-12 18:35:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/hPt14M0fse,cba16863b45ba76e96d01e4331a9a29566e96cb8d42f6feddbba719c844d0d22,192.168.43.44
