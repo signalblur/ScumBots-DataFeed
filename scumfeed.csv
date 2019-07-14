@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-07-13 17:54:41,PowerShell_Empire_Agent,https://t.co/kSeemErUqi,725c8914b53dad441d6353e6b9f0e15460787485f002964b5c7cccc0faea7010,10.0.0.53:80
+2019-07-13 17:43:06,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Yv8afL1x4C,07646627a131a4197224d5c952498125c0f771002a1c8594d9ae94d04ed79bef,144.217.50.255
+2019-07-13 17:13:57,njRat,https://t.co/cp847xMZC7,d83eef692bc5590bcaf81f73bb6b004b031ab2aa893bc05184dee2189262d166,queda212.duckdns.org:333
+2019-07-13 16:43:24,Revenge,https://t.co/WovAZzN2gC,5e936a4477aef9324f154ba0b5ab31d50966d605be2e5ce4b4a1af89e683a1fa,emanmostafa2019.ddns.net:1604
+2019-07-13 16:43:07,Revenge,https://t.co/95702ESJBg,5e936a4477aef9324f154ba0b5ab31d50966d605be2e5ce4b4a1af89e683a1fa,emanmostafa2019.ddns.net:1604
 2019-07-13 06:32:02,njRat,https://t.co/KkWpZfUbcP,df7480651fa22248cd6af1a0347cc875c6a229cc0449d3609bac8d689725bcee,tayyam.ddns.net:3344
 2019-07-13 02:32:03,njRat,https://t.co/SNu9fPAn9M,49c2b9a0e9dc6150f1b3ef74a601a18bf9994138c7499f35406021c95498d99f,ovh.servehttp.com:5553
 2019-07-13 02:17:02,njRat,https://t.co/zE1k0GdG3o,3558394987b1ebe4502aeb4a28a80480791b20a41f6d5e826b7d87200ed7eed8,monta14.ddns.net:7777
