@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2019-07-15 17:17:21,njRat,https://t.co/jNTk4bEOjX,5970670bd3afead37221bae6cf8f0eaba5ef011c8084390315e4daddc23f372c,127.0.0.1:5552
+2019-07-15 17:17:04,Revenge,https://t.co/GwRsLGgrwS,97d37f1ddf1771c3d746f468b739fb477d5713ae76b73d7c6f3196a4fdbe8ce6,127.0.0.1:333
+2019-07-15 17:02:02,njRat,https://t.co/8wcUq5U73u,5970670bd3afead37221bae6cf8f0eaba5ef011c8084390315e4daddc23f372c,127.0.0.1:5552
+2019-07-15 16:49:36,njRat,https://t.co/k5rT7l5l3l,5ba9498bb61f8b5ed66676381dd8f5cc546dead2ccb6909d001a7a9e568595c0,192.168.0.40:4546
+2019-07-15 16:35:04,PowerShell_Meterpreter_Reverse_HTTP_x64,https://t.co/tOYnBl1sXl,756d52b45680a262878b5592de0f622c8aca1f5c5609630cf244b4a80ae8e187,kurosan.ddns.net
+2019-07-15 16:32:02,njRat,https://t.co/1AwmAdhCWr,5970670bd3afead37221bae6cf8f0eaba5ef011c8084390315e4daddc23f372c,127.0.0.1:5552
+2019-07-15 16:10:16,njRat,https://t.co/XvLP80VoWV,083447141bf9c6401de4acd953bcd6acc12e9ba959f0a87b240adf6a8a48ef45,soolbin02.hopto.org:1177
+2019-07-15 15:47:03,Lime-RAT,https://t.co/CnsKxASqjl,4c60f6f2a3fc8c53961f8b85f8697912ce771197e6496abea840dd8a33229380,https://pastebin.com/raw/F2m2N4TX
+2019-07-15 14:11:23,NanoCore,https://t.co/LkLc1tETtQ,d593022c4c35d832d4eba653fd0f6b3ce314b833bda3f1f1e2387bb7d3a5c77c,"soucdtevoceumcuzao.duckdns.org:54984,microsoftoutlook.duckdns.org:54984,"
 2019-07-15 10:47:02,Lime-RAT,https://t.co/MuMGPtDJtI,4c60f6f2a3fc8c53961f8b85f8697912ce771197e6496abea840dd8a33229380,https://pastebin.com/raw/F2m2N4TX
 2019-07-15 07:47:03,VirusRat,https://t.co/70aJh5nLna,007a735bde547f8fac64ced242a5e9a3b76d7de1c55ec28a33e7baa0daf7e63b,127.0.0.1:2222
 2019-07-15 06:17:02,Lime-RAT,https://t.co/jBseDPUblo,5c647beeb88a4931ed8179cb3e78c1584208ae5a321eb4753281801eddf3785d,https://pastebin.com/raw/F2m2N4TX
