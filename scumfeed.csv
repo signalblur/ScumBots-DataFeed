@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-07-15 10:47:02,Lime-RAT,https://t.co/MuMGPtDJtI,4c60f6f2a3fc8c53961f8b85f8697912ce771197e6496abea840dd8a33229380,https://pastebin.com/raw/F2m2N4TX
 2019-07-15 07:47:03,VirusRat,https://t.co/70aJh5nLna,007a735bde547f8fac64ced242a5e9a3b76d7de1c55ec28a33e7baa0daf7e63b,127.0.0.1:2222
 2019-07-15 06:17:02,Lime-RAT,https://t.co/jBseDPUblo,5c647beeb88a4931ed8179cb3e78c1584208ae5a321eb4753281801eddf3785d,https://pastebin.com/raw/F2m2N4TX
 2019-07-15 03:47:03,njRat,https://t.co/N9AsAEkQlF,5ba9498bb61f8b5ed66676381dd8f5cc546dead2ccb6909d001a7a9e568595c0,192.168.0.40:4546
