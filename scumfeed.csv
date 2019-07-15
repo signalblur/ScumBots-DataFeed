@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-07-15 07:47:03,VirusRat,https://t.co/70aJh5nLna,007a735bde547f8fac64ced242a5e9a3b76d7de1c55ec28a33e7baa0daf7e63b,127.0.0.1:2222
+2019-07-15 06:17:02,Lime-RAT,https://t.co/jBseDPUblo,5c647beeb88a4931ed8179cb3e78c1584208ae5a321eb4753281801eddf3785d,https://pastebin.com/raw/F2m2N4TX
+2019-07-15 03:47:03,njRat,https://t.co/N9AsAEkQlF,5ba9498bb61f8b5ed66676381dd8f5cc546dead2ccb6909d001a7a9e568595c0,192.168.0.40:4546
+2019-07-15 03:32:35,njRat,https://t.co/N204f39vmD,5ba9498bb61f8b5ed66676381dd8f5cc546dead2ccb6909d001a7a9e568595c0,192.168.0.40:4546
+2019-07-15 03:32:18,njRat,https://t.co/wPmHMk05mj,be1ab116e74a171f1b9712b8e55064b44b3921214fefb1b7ecf038767eb60ca3,119.59.112.212:80
+2019-07-15 03:32:02,njRat,https://t.co/hsRPTq7fVF,5ba9498bb61f8b5ed66676381dd8f5cc546dead2ccb6909d001a7a9e568595c0,192.168.0.40:4546
 2019-07-15 00:42:23,njRat,https://t.co/u979MNtINl,f89a0310d688c2e76a2a04ff777ce1d57c0537917eaf61e10adb5f51c792531f,nice3arab.ddns.net:2463
 2019-07-14 23:55:33,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/H0jtRnxPZ9,bf3a7c365bd9cb2f86a129d9aacf3f8f862841f026a04b04cacb4ec57f8effea,146.255.150.56:4444
 2019-07-14 23:55:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/YqPcqQE1R5,bf3a7c365bd9cb2f86a129d9aacf3f8f862841f026a04b04cacb4ec57f8effea,146.255.150.56:4444
