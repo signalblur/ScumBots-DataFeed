@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2019-07-16 01:47:03,njRat,https://t.co/weBib3J6m1,3e178abebeeddf9b3c6a6df4011f7b5adc5485074c94301467724afb2ca9bbe1,xlightcx.ddns.net:5552
+2019-07-16 01:32:03,Revenge,https://t.co/9FWmtDlZbc,8088b4b75673958f40e89573866f423b235a72e6d6342c35ce5d31707acb9141,xlightcx.ddns.net:8090
+2019-07-15 23:32:02,njRat,https://t.co/7VTvzgj9Qk,c971291c8171276d046319e688f377f95ceaef238bdbee8379d18132fe3edf5b,xlightcx.ddns.net:5552
+2019-07-15 23:02:52,njRat,https://t.co/Lp6fv1ij23,7c87376ba0dfd7ccca0d7f9d587f52f32acf1d98434dafd6b1ca33edeb35c6a6,netro800.ddns.net:1177
+2019-07-15 23:02:36,NanoCore,https://t.co/I6HqJJYS8b,8765bdbc6bf929d5ac9d0f4698698c1cecb39ceeed34f5fcc5faf5718c67c3d1,"nanobabo.ddns.net:1337,127.0.0.1:1337,"
+2019-07-15 23:02:19,njRat,https://t.co/YmmXWS7e8L,7c87376ba0dfd7ccca0d7f9d587f52f32acf1d98434dafd6b1ca33edeb35c6a6,netro800.ddns.net:1177
+2019-07-15 23:02:03,njRat,https://t.co/hTOzIWGSNB,c971291c8171276d046319e688f377f95ceaef238bdbee8379d18132fe3edf5b,xlightcx.ddns.net:5552
+2019-07-15 22:47:03,njRat,https://t.co/dXyGbiqLE8,55d6bef84e0d261ef1df3e4576c0ea4f6ed7d44e5cee1393402b25119a06a557,netro800.ddns.net:1177
+2019-07-15 22:32:03,njRat,https://t.co/gJuIB1hRSZ,c971291c8171276d046319e688f377f95ceaef238bdbee8379d18132fe3edf5b,xlightcx.ddns.net:5552
+2019-07-15 21:00:02,PowerShell_Empire_Agent,https://t.co/WoUIkY7Hsx,6d13212c09e9d8a4893c8dc5cec4c51f7ad1fc15fedc96c3f0f41f09ca16b78c,https://50.16.24.161:443
 2019-07-15 17:17:21,njRat,https://t.co/jNTk4bEOjX,5970670bd3afead37221bae6cf8f0eaba5ef011c8084390315e4daddc23f372c,127.0.0.1:5552
 2019-07-15 17:17:04,Revenge,https://t.co/GwRsLGgrwS,97d37f1ddf1771c3d746f468b739fb477d5713ae76b73d7c6f3196a4fdbe8ce6,127.0.0.1:333
 2019-07-15 17:02:02,njRat,https://t.co/8wcUq5U73u,5970670bd3afead37221bae6cf8f0eaba5ef011c8084390315e4daddc23f372c,127.0.0.1:5552
