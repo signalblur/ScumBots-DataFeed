@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-07-16 14:02:02,Revenge,https://t.co/K9DzmFWsfg,4eedd635bfc8179a73aacdc10b9099ffe229ce600dd644b07d69716e3c44d33e,127.0.0.1:213
+2019-07-16 13:02:19,Revenge,https://t.co/eA8arQO1BG,4eedd635bfc8179a73aacdc10b9099ffe229ce600dd644b07d69716e3c44d33e,127.0.0.1:213
+2019-07-16 13:02:02,Revenge,https://t.co/6nywxDZ5cd,4eedd635bfc8179a73aacdc10b9099ffe229ce600dd644b07d69716e3c44d33e,127.0.0.1:213
+2019-07-16 08:17:02,Lime-RAT,https://t.co/H9mse81FnU,6097286f77e05e7441ea1e9feab18db11c238d4c879db3ed7d4c69d3e306df93,https://pastebin.com/raw/YNXzG7Ap
 2019-07-16 08:02:02,Lime-RAT,https://t.co/KWAQQCv3rP,1c33ecb28f3a8c124c5f16c5585b0ca8d08c226166a9aa5f9e3d8985f760fe65,https://pastebin.com/raw/dvYeN8ik
 2019-07-16 06:47:03,njRat,https://t.co/AUaCua702l,932aca31d0811b9def3e71ceb0a81e6c2221e10c4187f6f2c049989d645f165a,xlightcx.ddns.net:5552
 2019-07-16 03:17:02,Revenge,https://t.co/geEu1BTUIq,27c9e5a4aff5261cf5e2b75a5046989bb6b0816d64787e6852f99fea85f24ce2,xlightcx.ddns.net:8090
