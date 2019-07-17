@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-07-17 18:02:03,njRat,https://t.co/sppqP0BoUJ,652a7503d5500a72250ded8835c68c766c95fc11877dadeb0c7b55b0e0f8931f,server.exe:55&lt;&lt;
+2019-07-17 17:32:20,njRat,https://t.co/o8YIijiZvE,c141f2aa5224696bb170b6e03f5ba69146d6433770f63eb91351d0d4346a36be,127.0.0.1:1188
+2019-07-17 17:32:03,njRat,https://t.co/LRfvFcccpw,0b5d4cf5ca7033f25df5bcbfbd55abf6e819b82c1d73490dba74ae02723015c4,192.168.0.40:4546
+2019-07-17 17:17:03,njRat,https://t.co/20KycZiaO3,cefc3c08a80f00fee4223807071888a5c374c36f96aa567d5e3c26bd38710ff8,server.exe:6666
+2019-07-17 17:02:03,njRat,https://t.co/MTmHb0nUWq,5ba9498bb61f8b5ed66676381dd8f5cc546dead2ccb6909d001a7a9e568595c0,192.168.0.40:4546
 2019-07-17 13:02:04,NanoCore,https://t.co/Wg2TjUpZKG,cc446898c6481f18af0e706401d068e664248fc4e72f845494b118857df221da,"soucdtevoceumcuzao.duckdns.org:54982,bylgay.hopto.org:54982,"
 2019-07-17 12:17:02,njRat,https://t.co/CVXyRzjfGk,699009e58ca80283f66a70e86abf56a640316db3770c176fddf5f4c1fb433ecd,mohamedsaeed.ddns.net:1177
 2019-07-17 11:02:02,njRat,https://t.co/hlmhc4ZkAV,25b9ca9d42d98856ecd546d5c85befaef10204e8df7f3cca260677e0da3719ac,amibas8722.ddns.net:1177
