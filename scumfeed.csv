@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-07-17 01:05:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/Ggg3tl9CfB,1d89cffaacb34a7536216912053efc02682e4afb854d3b1773cbbcb443414d12,10.0.0.227:6666
+2019-07-16 23:47:03,njRat,https://t.co/ul8ezhOePP,c81d5bcd3790a2a54843c604d048d4be1049597b7b433a47082a3c9d761630e4,xlightcx.ddns.net:5552
+2019-07-16 23:32:02,njRat,https://t.co/Xdjmr4go8u,9be5a4c17e545dbc52b5067c810c74ef2e36d69919aa909e99dd00c1cad25492,127.0.0.1:1177
+2019-07-16 23:17:02,njRat,https://t.co/hDt6hXPpaW,b94cbc407e20d4f5c08a921cb5a05abc811049f9b8a8c6211f21f5f58eb6af93,netro800.ddns.net:1177
+2019-07-16 20:47:02,NanoCore,https://t.co/BBLf0nsGef,1966ab7d1bbb4f0658e42b6381d9ce346777998cff7ce71976989d81d721f707,"nanobabo.ddns.net:1337,127.0.0.1:1337,"
 2019-07-16 19:47:02,njRat,https://t.co/YiGUUB86mu,92d0672b4e67ea21336edd6de83b10fd29bfb60be81f81f846b8f2c5dc9e53ec,server.exe:9996
 2019-07-16 19:11:49,njRat,https://t.co/r9yTqmINsM,b1ce9baeaea1a4ddc08a7d7aad7ea916ac29a22ee6a0f26eb35bbbd97fc69577,127.0.0.1:7400
 2019-07-16 19:11:32,njRat,https://t.co/Ptu4xGNrLv,69fa0ed925dc1900771c2fe1f3950c48cd7979ff6cb55d1a701c00ec3a26383d,127.0.0.1:7400
