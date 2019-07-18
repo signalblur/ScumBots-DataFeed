@@ -1,4 +1,22 @@
 date_identified,implant_type,url,hash,c2
+2019-07-18 13:48:12,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/XXjkbzK5kY,b04f58e8db6a8caabf065ebc5006295c82ae32e149097152970fc85ae676d2f5,209.126.106.228:80
+2019-07-18 13:38:10,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/t5iaZAsz2V,01c2574892e5f281039c1dd3696554ab9ab1ff7b92b2821aaa8c6de597592b57,193.108.106.50:443
+2019-07-18 13:29:38,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/1gcsY64EC8,f5b44b8fea6eb114db8864036947231ca1af907d1836deb7f88082ed4a3b002d,192.168.89.132
+2019-07-18 13:22:27,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/imZ2G1JhJE,74b282808e260a7151098a00da7a19a87648b50fdcfb4f8178b5717da72f714a,192.168.89.132
+2019-07-18 13:07:03,njRat,https://t.co/VvemENpoEn,0b5d4cf5ca7033f25df5bcbfbd55abf6e819b82c1d73490dba74ae02723015c4,192.168.0.40:4546
+2019-07-18 13:06:15,njRat,https://t.co/i7ujem6Olh,e41daecaf27a6ae0d685d31605173b4167c7a68c32cc7968de04278e4c28265d,server.exe:898:
+2019-07-18 13:05:20,njRat,https://t.co/rjEYUkFCBZ,0b5d4cf5ca7033f25df5bcbfbd55abf6e819b82c1d73490dba74ae02723015c4,192.168.0.40:4546
+2019-07-18 12:56:13,njRat,https://t.co/vKMReVAc08,0b5d4cf5ca7033f25df5bcbfbd55abf6e819b82c1d73490dba74ae02723015c4,192.168.0.40:4546
+2019-07-18 12:20:03,PowerShell_Empire_Agent,https://t.co/HWIU6ebHEj,624bd08db059bdc3753128c9c595c344a7d02f37fcbc2a1c8c8e805e38d4f7ad,192.168.0.14:80
+2019-07-18 12:05:06,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/iNZX2uBpJE,09bde5d45f1213b68eee250fb75317f496abb921b497d5d1bd609f8a809cda9e,192.168.0.14
+2019-07-18 11:47:20,njRat,https://t.co/zvUIsJS0xb,21701e6751566f26df639004943c4c49641dd6b18ad87a78cec2abe00912358a,127.0.0.1:5555
+2019-07-18 11:47:03,njRat,https://t.co/7L9mwvEIh2,dba5ed4488f7e7bc32072a88d4e60fd01ee312e3feebe040bc60151f61357e0f,xlightcx.ddns.net:5552
+2019-07-18 11:32:20,njRat,https://t.co/giJ9yzz3PO,91df9d11e99f82a8acce9605b877b54422b999c97a14dd3d0af3b588299c5dc3,127.0.0.1:5555
+2019-07-18 11:32:02,Revenge,https://t.co/kbrf111Keh,5d1fd8e75504b1475c90b8950321053c1abcce8e27c65cb507cd3ce6d5d6d6c4,127.0.0.1:3333
+2019-07-18 11:17:19,Revenge,https://t.co/NIoQ8VOZ3m,f45d9b564d7e5fb68daa0727d010bc46e0941be95c945e74cc0c48be9f979ee6,127.0.0.1:3333
+2019-07-18 11:17:02,njRat,https://t.co/XIM9nGVCwv,dba5ed4488f7e7bc32072a88d4e60fd01ee312e3feebe040bc60151f61357e0f,xlightcx.ddns.net:5552
+2019-07-18 10:17:03,Revenge,https://t.co/8R8sJotAmd,5d1fd8e75504b1475c90b8950321053c1abcce8e27c65cb507cd3ce6d5d6d6c4,127.0.0.1:3333
+2019-07-18 09:45:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/AUfSjiPaWo,63cc03e86ae058496c9c88641892a021035defd5bb826adb012157f53c407158,192.168.43.44
 2019-07-17 18:02:03,njRat,https://t.co/sppqP0BoUJ,652a7503d5500a72250ded8835c68c766c95fc11877dadeb0c7b55b0e0f8931f,server.exe:55&lt;&lt;
 2019-07-17 17:32:20,njRat,https://t.co/o8YIijiZvE,c141f2aa5224696bb170b6e03f5ba69146d6433770f63eb91351d0d4346a36be,127.0.0.1:1188
 2019-07-17 17:32:03,njRat,https://t.co/LRfvFcccpw,0b5d4cf5ca7033f25df5bcbfbd55abf6e819b82c1d73490dba74ae02723015c4,192.168.0.40:4546
