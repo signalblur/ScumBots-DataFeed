@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-07-20 08:02:03,Njratgold,https://t.co/sXwZClvNh0,99a56ca939ed2af26ac54e2fe72fd2a931239a102c833487dd42eecd911cc44d,127.0.0.1:1604
+2019-07-20 06:32:02,Njratgold,https://t.co/qmlWAoaQ2r,b3e4e19f536c9ba6d63d252b43e580e01c721227270f9b247c7c010fba6333d8,127.0.0.1:1604
+2019-07-20 04:17:03,Njratgold,https://t.co/1iXEhxo3wi,b3e4e19f536c9ba6d63d252b43e580e01c721227270f9b247c7c010fba6333d8,127.0.0.1:1604
+2019-07-20 02:35:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/oxbJceDThj,fa27c1b0a29a869a020907685b23f0b6048cad205ee4f8d016b42938c4e02e99,319cb582.ngrok.io
 2019-07-20 00:39:30,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ZC8jxfdw1e,d22b5b95a641bfa73788c8cf4956d8b78ace2274e19f667ca41971579e628d58,10.0.2.15
 2019-07-20 00:34:32,PowerShell_Empire_Agent,https://t.co/2zpeaT58Uv,5019c082f66ef29bae38dcf36c5c5108454931e2964ad52ea25ac5922ee6a285,172.20.20.198:8080
 2019-07-20 00:22:13,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/yxXYWUpirU,abe3d2e57ac912d9859da011b28461cc47c84d0929d9769983e740823081124c,10.0.2.15
