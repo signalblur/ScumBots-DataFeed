@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-07-21 16:47:02,njRat,https://t.co/27uC0U3B0m,b1ff6bfae9f7c0b6a97b865d8da0630342c36ae21337b3d506d1a5dc7baaf0bd,192.168.1.4:222
 2019-07-21 13:47:02,Njratgold,https://t.co/DbhMlVvFUw,393494ae3eed1f9d150139f0e19352fe6132ef96cf4234f009361f8d72bf03d5,ham131231.duckdns.org:1604
 2019-07-21 12:47:02,njRat,https://t.co/rlZr46HOu7,9c477328aaefe56baad554155112476dcbb1234f39090f809262d4f4ec968a79,server.exe:9996
 2019-07-21 12:32:03,njRat,https://t.co/MHR5bHGLa3,9de51d6cf146eb287d892ff93a7613941564a99b83eb1af18d6d42a3197698c2,xlightcx.ddns.net:5552
