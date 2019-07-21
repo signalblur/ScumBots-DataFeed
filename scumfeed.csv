@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-07-21 00:02:02,njRat,https://t.co/aocgvqlmM4,12980cd98ac55f67f8ad05e00e4a89bd64ffa1649629e67b2cd652aed6caf940,8701.viewdns.net:5556
+2019-07-20 23:17:03,njRat,https://t.co/kkhfmHCJ85,4a031589d3bfe5a8dac9e40f3a8f45de6b900af53cfc44289b75ceb95ace0d9c,soolbin02.hopto.org:1177
+2019-07-20 20:32:02,njRat,https://t.co/TgT5J2squd,8f95418d784b646ace41c141a07f99cef0cb3fa9cd7f19a6a9ef9bbe077a1d0b,soolbin02.hopto.org:1177
 2019-07-20 16:10:32,njRat,https://t.co/hUOyC4VGly,0b5d4cf5ca7033f25df5bcbfbd55abf6e819b82c1d73490dba74ae02723015c4,192.168.0.40:4546
 2019-07-20 14:47:02,njRat,https://t.co/L9QxqzrLmx,4ed6733bec4590c1f49adede3fc2d9471575520d3149589d4cba6f5b0c505212,127.0.0.1:6522
 2019-07-20 14:32:02,njRat,https://t.co/krkPramapP,d961c476ce47928ff6f364a35aa5a28cfb7acb8008dd91be1928b53148800604,127.0.0.1:6522
