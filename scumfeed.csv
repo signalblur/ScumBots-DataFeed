@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-07-22 14:08:01,njRat,https://t.co/httKzfLBk5,d5c08207f5fd26c889556cf453ba1bf94a893eec7f023491c4530d482b96f7f8,groups.us.to:968
+2019-07-22 12:17:02,njRat,https://t.co/i7j83DA73f,e2bb156fe7bb8be5c59679938584a5e8ad13699584bdbd4fed2696041ae224d4,127.0.0.1:1177
+2019-07-22 08:32:03,Lime-RAT,https://t.co/wW8mml6jOS,78c0f97bf1e31fd8eaaabb35c590f4e315ecc67e39a604830819771501e759f1,https://pastebin.com/raw/Wr85M2fh
 2019-07-22 00:32:02,njRat,https://t.co/h1tjW8bcJm,1c1ec67c66adc7d2fb5aa043f12937541b13488b0d8b9a920fb898d21aee1297,127.0.0.1:1177
 2019-07-22 00:17:04,njRat,https://t.co/DEpTkuy1AH,591b5f7b88c14d234581e7afeed12ba3af25ef8d5a4d2af93cdebe2e332fba25,127.0.0.1:5552
 2019-07-21 16:47:02,njRat,https://t.co/27uC0U3B0m,b1ff6bfae9f7c0b6a97b865d8da0630342c36ae21337b3d506d1a5dc7baaf0bd,192.168.1.4:222
