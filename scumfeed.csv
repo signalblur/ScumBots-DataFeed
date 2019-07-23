@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-07-23 08:55:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ZMlWI0mrfN,276043a5a7414821af5ebebfc187c579801c6bca2d63b974e4ead09f35dff0f2,10.0.64.146:22294
 2019-07-22 22:17:04,Xtreme,https://t.co/rD8GbyUzoN,65d7fe383f84653b63ce5bc62f0f01ede203f8e5907e740e255c3cdee73052c7,"127.0.0.1:4444,"
 2019-07-22 22:02:03,njRat,https://t.co/AR0RlzxWD5,9557735b6c7d14e9fd261b3a386527fcf9ff0704ec2073b3ee497be1ed82e9b1,paoduenti.duckdns.org:1177
 2019-07-22 20:47:19,njRat,https://t.co/32Luylbrqn,bcded8270140cf93af02e223f428bd3aa991d34861afa85eeb39d21d411d017e,192.168.0.40:4546
