@@ -1,4 +1,17 @@
 date_identified,implant_type,url,hash,c2
+2019-07-25 19:47:03,njRat,https://t.co/ZTJHgrnOR6,f6eff8cd981dbfa301963533dc8fd710115810184192d074b923a325f911a01d,server.exe:55&lt;&lt;
+2019-07-25 18:17:18,njRat,https://t.co/Y19f6qoRsf,6187b5a27777c9bbe43a496ddbc2e36eda494257dc2a103b8e14eb95b1407d90,server.exe:898:
+2019-07-25 18:17:02,njRat,https://t.co/P9RBHOojtT,b62bc810b2aba2c9df087c95709aa87bf9edd102f710802511fffb4c9da6e666,192.168.0.40:4546
+2019-07-25 17:32:02,njRat,https://t.co/637ljZJGrq,0b5d4cf5ca7033f25df5bcbfbd55abf6e819b82c1d73490dba74ae02723015c4,192.168.0.40:4546
+2019-07-25 17:17:04,njRat,https://t.co/U2AuEzWXrb,0d00917ad26282f95d9375aae36224d4edecc2e6fb5811cc5ba5beae315e7a75,server.exe:898:
+2019-07-25 17:02:03,njRat,https://t.co/mQfUniuDJ7,d0c675e114480a7bb435c1644c62b9452778fd3f72437106c9decb329eb7c04f,server.exe:898:
+2019-07-25 16:47:19,njRat,https://t.co/tKbpEIoeHq,d3811b1c47748db49177027af294b1b3c43f3aecb78a769fdc6bc19d7583a201,server.exe:898:
+2019-07-25 16:47:03,njRat,https://t.co/qSAbdPKOTD,42290803833a39c2ee3ea5d50cddb244993647a62f5976c3c670682e3b81f819,server.exe:898:
+2019-07-25 16:32:03,Revenge,https://t.co/zqP0kFTtMF,945e0cd75b837ea8a3997681ea79effcfaf8890f40eed75b37760c7a66dd1dbd,204.152.219.67:1003
+2019-07-25 16:17:37,njRat,https://t.co/A3IxpNvn0j,8b6758b2936067af777ac3cc30ebbb586692936ea6e0aad9769e1c991a21eb9b,server.exe:&lt;4&lt;4
+2019-07-25 16:17:20,njRat,https://t.co/49rZbTNygu,10a0d0de09b461401763faddddf08966883f5912e0508f2e0d643b74bc0a4c4a,server.exe:898:
+2019-07-25 16:17:04,Revenge,https://t.co/v5zozGKIcI,945e0cd75b837ea8a3997681ea79effcfaf8890f40eed75b37760c7a66dd1dbd,204.152.219.67:1003
+2019-07-25 16:02:03,njRat,https://t.co/a1WuUazVru,f6f48a0bed95e5cf5a1e79c68ac891d1d627501ac8f546e94310ffee65ebd4f0,server.exe:898:
 2019-07-25 13:30:02,PowerShell_Empire_Agent,https://t.co/CAQxjn9Hp2,c177d35f43a12f8f78e8aed1b1795af0d9d43267296e7c5163255757b9f0b1f1,198.211.113.157:80
 2019-07-25 03:02:03,njRat,https://t.co/It4GzWyzEK,9623b757f9bfb7243c637d7e3dc8bf593f1831903b881bc1d485822e77eccc95,server.exe:9996
 2019-07-25 02:53:07,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/4wnUSFffdj,d9b847896689cb0b5dc2b30045c674b6b97dd5427463683f2bdc0a991b130485,185.43.4.102:4445
