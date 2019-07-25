@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2019-07-25 02:17:02,njRat,https://t.co/pKxgMmw58x,562c37130ce706521c66d0d5fd04562a7bb64a29825ddb846c8ede01c8a44a83,server.exe:9996
+2019-07-25 02:15:51,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/9YVkVcx66W,bd5375bc77741435875b25efaf155d5f3155ab127de0126f69ab05c279597991,185.43.4.102:4444
+2019-07-25 02:08:42,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/INDUUWWn1n,81f3b066f6757af2b5ff5b906d19a5d0fae95eaa39bff328a8f9da6799eb836d,185.43.4.102:4445
+2019-07-25 02:05:34,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/i1xBctexs0,03458dde9bfcb3b475763d28211c7ee83a8928e9b1400c7d939bce1989c94257,185.43.4.102
+2019-07-25 02:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/FzwlV8W34s,82ac4b55a355be52685969f69b8ffbfbb717eac72af988535dcf096f65610d7d,185.43.4.102:4444
+2019-07-25 02:01:58,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/pIiHsm0ey6,7820a8f0356e9919523b72e781078b2694733e163a0d5e671f37d20e4c3e414f,185.43.4.102
+2019-07-25 01:32:02,Njratgold,https://t.co/vXAaAs4YKH,7c2d97a8a38422e367517a3e8667d2f76d7eb95d4c5606b2fb220c42e6bc17d9,RowBora-30196.portmap.io:30196
+2019-07-24 23:17:02,njRat,https://t.co/J5mybuiYls,33352f10f0043f623d54b1cbc17df8f7ce5f9d0927b09d243a381fc2d682e1e7,server.exe:9996
+2019-07-24 20:45:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/UqR0kHcOl2,fa47f1582b73a75bb8cbd735414e8822f5c55d00137fa4c582c1551fe845fada,193.70.21.80
 2019-07-24 20:02:19,njRat,https://t.co/BCGita7fKs,afe03eab0847789c662622bb7d7f8181ed6246255464cea6f7a2670b9f3b5152,server.exe:898:
 2019-07-24 20:02:03,njRat,https://t.co/2eFDg5CtM4,0695421b20374ab7e20b5d0a8d35e4c15a306878cfd646ec6f1a106237583a0f,server.exe:898:
 2019-07-24 19:47:03,njRat,https://t.co/HTw6apqCOo,412c142d509c0731ddf19931009afe1c9c79de5dff35dbb0f24af6d594e8c3cc,server.exe:898:
