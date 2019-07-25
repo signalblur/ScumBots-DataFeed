@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-07-25 13:30:02,PowerShell_Empire_Agent,https://t.co/CAQxjn9Hp2,c177d35f43a12f8f78e8aed1b1795af0d9d43267296e7c5163255757b9f0b1f1,198.211.113.157:80
 2019-07-25 03:02:03,njRat,https://t.co/It4GzWyzEK,9623b757f9bfb7243c637d7e3dc8bf593f1831903b881bc1d485822e77eccc95,server.exe:9996
 2019-07-25 02:53:07,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/4wnUSFffdj,d9b847896689cb0b5dc2b30045c674b6b97dd5427463683f2bdc0a991b130485,185.43.4.102:4445
 2019-07-25 02:17:02,njRat,https://t.co/pKxgMmw58x,562c37130ce706521c66d0d5fd04562a7bb64a29825ddb846c8ede01c8a44a83,server.exe:9996
