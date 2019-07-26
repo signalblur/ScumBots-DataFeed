@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-07-26 08:17:02,njRat,https://t.co/xUH55S2rEL,61e08b969478d95a0ba429b7f133bd424caac152929777e6183bfa83bd2d473c,server.exe:8989
+2019-07-26 08:02:02,njRat,https://t.co/MzDWcdOUkQ,61e08b969478d95a0ba429b7f133bd424caac152929777e6183bfa83bd2d473c,server.exe:8989
+2019-07-26 06:17:03,NanoCore,https://t.co/XTzeWnh0jj,b93dbca1a50a05f8879446793f64250b94459ba73342406bb885f74e896f8536,"5.188.9.57:7575,"
+2019-07-26 06:02:04,njRat,https://t.co/wCMFLvEElB,6961820be01a8741cfe8b8d5a60714e3727aabb6f221a02fb8bbd15a141a6629,groups.us.to:968
 2019-07-26 01:32:03,njRat,https://t.co/BotgpreFrW,6695fb5985e78ad9f448dc509ec7d2df7cbeb7de2f212bc123c3ef8ca44ab1d2,server.exe:898:
 2019-07-26 01:17:03,njRat,https://t.co/nkFDKsMuwQ,8afd72a7dad135d0932c02a29b59db3c255ec3f219007d7b4905a526364b5788,server.exe:898:
 2019-07-26 01:02:37,njRat,https://t.co/DEV7cfuKyM,f00706f4b0f8a6c140a71cad0f77144d66773a2c843223f4d99b25ed25d09c56,server.exe:9996
