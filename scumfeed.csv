@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-07-27 15:02:18,njRat,https://t.co/b9pDo44Yzz,ad0804b2e412156dcc9d2db08694eb7b3c36ecf243486f4f779c33d75d39c838,tiurabe123.ddns.net:1177
+2019-07-27 15:02:02,njRat,https://t.co/tpsWG2KtyQ,5f14b46510edbae8e15e87030830d430396c8af547372cd6e49a7d8ee68a5566,server.exe:55;;
+2019-07-27 14:44:22,Revenge,https://t.co/13G7Of7w0d,67df3986ff3ee0cb99f5d961180110da153f47ee489b708b47888572629c33d6,mondns.myftp.biz:213
 2019-07-27 04:17:02,NanoCore,https://t.co/x6ZSwCG9B4,0b92a971ea8619c9f8d7593b575f1c7acc6a3698a911b485a3e0fb16eab5d7bc,"iss6.ddns.net:53896,127.0.0.1:53896,"
 2019-07-27 03:32:03,NanoCore,https://t.co/9K1NolBNz3,75bca5c70dd7cef2238902feacd4adfbd8da74a6f029193367edfb55d7e733b6,"iss6.ddns.net:7777,127.0.0.1:7777,"
 2019-07-26 16:17:03,njRat,https://t.co/aZi1bdy0Su,94a84f2f6b5a670c7d046e653b725970d0fb6be8740868c85621fb2c9f7a1119,server.exe:9996
