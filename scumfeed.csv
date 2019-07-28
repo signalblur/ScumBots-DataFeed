@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2019-07-28 17:11:31,njRat,https://t.co/kswvoxI4q2,320f21df1a565791e7aa4b2c5c37cbd0cd2608c82bec5f85757d1fe70f299bfa,0.tcp.ngrok.io:19672
+2019-07-28 16:47:03,njRat,https://t.co/IicdlPVRZJ,2eb9a7616c966516af1baa48d5dc519fc4011c07617de05404873855d076fdaf,server.exe:9996
+2019-07-28 14:35:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/w7kbGA2C1p,8a9952135825734be1218e3e74d7ec9c1090bf820608d2384d0b357ce6464e07,192.168.23.134
+2019-07-28 14:25:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/38t0ciYqKq,8a9952135825734be1218e3e74d7ec9c1090bf820608d2384d0b357ce6464e07,192.168.23.134
+2019-07-28 14:17:02,Lime-RAT,https://t.co/OGd5sFgXuz,a7ca34c4f9a304524d5620fd3be04835ad5bd5ac35459b52933fdff8b1ecca9a,https://pastebin.com/raw/DDTVwwbu
+2019-07-28 13:47:18,njRat,https://t.co/MIGc0m9W73,2ead249d475a916ed9af19d0ef3cd57aebf27b159979f0d3ed63b01f0d262ba3,127.0.0.1:5552
+2019-07-28 13:47:02,njRat,https://t.co/7vBM0M2fuW,9322dcca6337cfcd39bb73b6b2f82d4c3ccee6a2f693715642eacd877f5db984,127.0.0.1:1177
+2019-07-28 13:32:03,njRat,https://t.co/uinbWX8wOx,b0f9a8f34308a48d533361ebf949a9c3439ccbb12dc73f43148903a6280f3671,127.0.0.1:5552
 2019-07-28 08:32:02,njRat,https://t.co/10WM8iRxNy,8145f5143fd4f3e5dae60dd1e7a77b0b1ef8eec3ac603a8795dd5d115139bf43,192.168.1.106:4444
 2019-07-28 07:32:02,njRat,https://t.co/cQiQnYYuHu,8145f5143fd4f3e5dae60dd1e7a77b0b1ef8eec3ac603a8795dd5d115139bf43,192.168.1.106:4444
 2019-07-28 05:32:02,njRat,https://t.co/mqfFXimfPL,cdbcec721c4c589c8972159155976227df0783dce5c2f551e7bffc43324df72e,server.exe::945
