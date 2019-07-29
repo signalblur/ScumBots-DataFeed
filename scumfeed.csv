@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-07-29 08:32:02,NanoCore,https://t.co/bZpca8Ch05,dd875112e9f75d9eeebb53d97497e3f0fbcf61523561dc9230ce1c827466d533,"nguyenlee.mooo.com:54985,127.0.0.1:54985,"
+2019-07-29 08:17:18,atraps,https://t.co/OEl4yRUYJT,78af0499d0786afdf5e6fc11e983dc2c92688b71b738713285ac1fa13adf7968,127.0.0.1:8080
+2019-07-29 08:17:02,atraps,https://t.co/Tj8ctQGbns,856efa76293c0e7a3a1f792cdd50825d811dc67ee59587fed698e9631cf1a4cc,192.168.1.6:8080
+2019-07-29 06:47:19,njRat,https://t.co/OTy3f9GYzX,4ce4c6e4ec97f99648f695f40bfc20bdb92d94ead356160bb34c1d378f583335,127.0.0.1:5552
+2019-07-29 06:47:03,njRat,https://t.co/wRuI6RMrUt,4ce4c6e4ec97f99648f695f40bfc20bdb92d94ead356160bb34c1d378f583335,127.0.0.1:5552
+2019-07-29 06:32:02,Lime-RAT,https://t.co/jdjmBDDyRe,93870bd57cf40ca24ce4723edf2aeb19910717181ec260deaa8223dac1aac252,https://pastebin.com/raw/XJEy4drw
 2019-07-29 01:17:02,njRat,https://t.co/8lVDCCjoQR,523679482aac9d6a4d53508d17ef98fac048d6d92c7cf585062d27ff8a0184e3,ipsms.ddns.net:8080
 2019-07-28 17:11:31,njRat,https://t.co/kswvoxI4q2,320f21df1a565791e7aa4b2c5c37cbd0cd2608c82bec5f85757d1fe70f299bfa,0.tcp.ngrok.io:19672
 2019-07-28 16:47:03,njRat,https://t.co/IicdlPVRZJ,2eb9a7616c966516af1baa48d5dc519fc4011c07617de05404873855d076fdaf,server.exe:9996
