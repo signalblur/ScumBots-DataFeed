@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-07-30 13:32:03,Lime-RAT,https://t.co/PS6N2OXrOF,bc5d3d76b21e3f47991de6b5f911788d9c80c64008317a0e9d5d91acc7cf3321,https://pastebin.com/raw/GSDekKGu
 2019-07-30 07:25:02,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/SUQ2JKMKEz,a8d3ab35d20c55e7b53886af7634679187ee7c4070aaeeb329557507c08a0e95,3.14.212.173:12313
 2019-07-30 05:17:03,njRat,https://t.co/enUn2th9WS,1085209d4404f5531fced5267c758f025945f4520a12eeffbfb3f38f37c58a2b,xlightcx.ddns.net:5552
 2019-07-30 01:02:02,njRat,https://t.co/j8p46QzZgI,1ef4b46a33f2982226b2ff89494a7533fcaa92efd7deb73e1ed94b0b7710d667,127.0.0.1:17000
