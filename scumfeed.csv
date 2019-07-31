@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-07-31 09:32:02,njRat,https://t.co/I9vwmW4zEo,beb7197eb7bd3229582df6036ead013e91dc097be5fecbc905e030d2e7e61a20,127.0.0.1:5552
+2019-07-31 00:23:44,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/M1cBtBLrWc,8e3eb75424ac34b4f5631d24b8736e9bda73d3ea9c27c526ba6438a8cf4bb4a3,3.17.202.129:12313
+2019-07-31 00:13:12,PowerShell_Empire_Agent,https://t.co/tJzSburU2Z,a086d99683f8e10b89fd3c6c0c55091a2d99d4abcea78735d769a197caf6f3cc,https://107.173.57.253:443
+2019-07-31 00:07:15,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/dNoj4BE9mV,03f2218dddb29a511d4d341ab80b5e7ead7d89f1a6c82fb2668b4fd57dda2deb,3.19.3.150:12313
 2019-07-30 21:17:03,njRat,https://t.co/CQBAczfkWG,5c997a310f5849ce222bc44e7acae1f9c5a19c5c4c1557253ab1a61a28f531b4,royal1500.ddns.net:6666
 2019-07-30 21:02:02,njRat,https://t.co/Of8NK2XM7h,c76a116bbcfd7d7b299e2234e2042681875afac67857b22229fc854e77dbbd05,ipsms.ddns.net:1337
 2019-07-30 18:32:02,NanoCore,https://t.co/A3NSdZqOeo,e1b9b7c382e0c554a5103b0d36600994a49c46c5a91fbcbe574e915f6641038c,"nanocore-rat.ddns.net:7005,nanocore-rat.ddns.net:7005,"
