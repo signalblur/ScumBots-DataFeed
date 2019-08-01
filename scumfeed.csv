@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-08-01 09:17:03,njRat,https://t.co/qfPIrh7RBJ,f7c0de43ce293f1fd1c63f679216f0b636b99a5c7ad0c4a56cf3b8ea4adfa54b,127.0.0.1:1335
+2019-08-01 08:35:02,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/IeAfDznO9H,2d750d98b77f2bfe55f745922aea4e811501f7e7934339f7cc21af8467dabe47,185.207.205.12:28741
+2019-08-01 08:15:03,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/KvtgqGzXwj,c1c5b6f6571ec87f9f873c75800d9412dd8290d841b518f5aeed03fe8f30b149,185.207.205.12:28741
+2019-08-01 07:32:02,njRat,https://t.co/Md22ulm9jR,4463055ce01312827f020c5b017dfe33f7cf03e3d7184d1e8b98ec70575fa9c2,127.0.0.1:1335
+2019-08-01 07:20:02,PowerShell_Empire_Agent,https://t.co/QzzeLtUQi5,9907b07579b685586cb34dbaa4acb49da12034d6f894964a910388e24c32246e,192.168.1.109:80
+2019-08-01 06:40:03,PowerShell_Empire_Agent,https://t.co/KmeqrgWzAp,5d9c2805354f3b0b89e0dd006430668fe01eef129e39ce4758ec83a4f6e2f4ed,192.168.1.200:80
 2019-08-01 05:17:02,njRat,https://t.co/1ZpUD2HpNM,d77c207ef517f3038257107e2a27f4577657125f2664925a707c5aed6e91aafb,server.exe:9996
 2019-07-31 23:32:02,njRat,https://t.co/LW9zpurqLr,98351e2d88141121b3c97929fdc9e620443957d9a58c6e989fed3f0734d82857,server.exe:76844
 2019-07-31 21:30:02,PowerShell_Empire_Agent,https://t.co/ZmFNCNsdUO,5a1846541d8e632806ba8044dc7ede7f25a6a7b611ac944ce7ab40a20acfa591,18.224.200.133:80
