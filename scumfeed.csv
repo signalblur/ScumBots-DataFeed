@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-08-01 21:10:03,PowerShell_Empire_Agent,https://t.co/u1S5OHvMyz,6b492304026e47ccb2bf6fd80e89d4b4ae891f3c17a9a6d474879b84bfff4295,192.168.2.100:80
+2019-08-01 18:30:03,PowerShell_Empire_Agent,https://t.co/BTr6oa1pNJ,458d4911a1d87843d170245ebbdd62c9179bb5234ed152823fa836ccfc6cac8a,192.168.2.100:80
 2019-08-01 16:47:03,njRat,https://t.co/Ph4eqH7fgl,47271124289448427a9d2f7a8fe41c92b6f863cde1b9217e4826fe57cb16c4e0,127.0.0.1:2222
 2019-08-01 15:40:02,PowerShell_Empire_Agent,https://t.co/719Sdl3BbQ,3252d2bfaf90ff550fd2b2c5a154057b5904f58f0ca075f02ba061ab39ee37fc,192.168.2.100:80
 2019-08-01 14:47:02,njRat,https://t.co/lPRPeSNSOp,21675560002b3dd359a149554e0031ce3fd681be6a7b295a2b9087b7fbbea9f0,redlan1.hopto.org:5553
