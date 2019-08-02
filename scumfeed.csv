@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-08-02 10:17:02,njRat,https://t.co/f2p1wbHx4J,f6310ec70ff810bfaf2ff0269a7e5418055e583a612eca20deef4436bc1fa643,referrals.webredirect.org:5552
+2019-08-02 09:15:02,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/9iAMX33RfC,19ef94feab4719b08dedde54e7e1c84392724f34b47ba3c212eaed801576399c,185.207.205.12:28742
 2019-08-02 04:47:03,njRat,https://t.co/b8LoNHNtiR,aa58104d05df0c0fc1756030652a604686b80745c441c39207e5af101291ceba,127.0.0.1:5353
 2019-08-02 03:03:22,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/9b1pgQNI1y,a6bd5fef02bbc7ab706b33cb180b856e1df11cae3f2d01e103ce076d0354744b,185.207.205.12:28741
 2019-08-01 21:10:03,PowerShell_Empire_Agent,https://t.co/u1S5OHvMyz,6b492304026e47ccb2bf6fd80e89d4b4ae891f3c17a9a6d474879b84bfff4295,192.168.2.100:80
