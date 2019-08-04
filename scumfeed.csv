@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-08-04 16:47:02,NanoCore,https://t.co/QMnja2PVpv,624ec9a6e22c69f5b86af3995dff70d3554ae9484a9c58d1e4b70414ce761984,"127.0.0.1:54984,"
+2019-08-04 16:02:03,njRat,https://t.co/CS3gDHWOkz,ecd1fca9de292a524035dc5e9d0fff6afed672f5f8388fc2b4f9ff786f805bc6,roro90.ddns.net:9999
+2019-08-04 14:02:02,NanoCore,https://t.co/x6dx10JoVb,0cf03ac93474d55abb0bea98cb9b57b3d2ddb6d6b1f6e6c3fac986c00b278980,"0.tcp.ngrok.io:16514,0.tcp.ngrok.io:16514,"
+2019-08-04 13:47:02,njRat,https://t.co/caBCdcZQ7m,de6e3e7a2196864e4c930a88bacd2daf55cdad22b751b12ffe3b32ae3d428b12,hitmanisbackfuckyou.hopto.org:1177
 2019-08-04 04:47:05,Beacon,https://t.co/K4U2qqqG0H,36d668c20ec1572b2d32e7d358e0964541a143ffb50468b032a33ccf1193d1b0,"156.236.102.78/en_US/all.js,"
 2019-08-04 03:17:03,njRat,https://t.co/oYbjanSgKd,a7ab3f47c78345ce2ddf0a2d0f01f0d6332eaf77c9c35a0b4d0611045fda6602,by-sabotage123.duckdns.org:1177
 2019-08-03 21:32:02,njRat,https://t.co/sFK7ChRaED,fd0f2dbe8ff1acc17377174dd2bf023fa790c7cff37fb56bf71064a14163f4f4,127.0.0.1:1177
