@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-08-03 21:32:02,njRat,https://t.co/sFK7ChRaED,fd0f2dbe8ff1acc17377174dd2bf023fa790c7cff37fb56bf71064a14163f4f4,127.0.0.1:1177
+2019-08-03 18:32:03,njRat,https://t.co/h5yNE2R4f0,6d4cb1f316d70e0801445caf828297efb13105f5bb51cae340c30d4f2289167c,server.exe:9996
 2019-08-03 08:32:03,Xtreme,https://t.co/s5lJLqnLdM,ed4ab63cadead16cf2cdf7d1c1b86af57869b3b301902a24a4061a548e3071db,"falcon-56657.portmap.host:56657,"
 2019-08-03 03:47:02,Njratgold,https://t.co/UjBX7pz2gL,0a9682e9f0209660f4411d00d423a68a07317f462c9922681f6943dcc735e857,3s.dkys.org:23802
 2019-08-03 01:47:02,njRat,https://t.co/RjWDKTX6ul,88a2c485ba16fd37d8245f8a78c6b1bb290559f65b2b22ff09c570b18f63b7d2,alxhack.ddns.net:4444
