@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-08-04 04:47:05,Beacon,https://t.co/K4U2qqqG0H,36d668c20ec1572b2d32e7d358e0964541a143ffb50468b032a33ccf1193d1b0,"156.236.102.78/en_US/all.js,"
+2019-08-04 03:17:03,njRat,https://t.co/oYbjanSgKd,a7ab3f47c78345ce2ddf0a2d0f01f0d6332eaf77c9c35a0b4d0611045fda6602,by-sabotage123.duckdns.org:1177
 2019-08-03 21:32:02,njRat,https://t.co/sFK7ChRaED,fd0f2dbe8ff1acc17377174dd2bf023fa790c7cff37fb56bf71064a14163f4f4,127.0.0.1:1177
 2019-08-03 18:32:03,njRat,https://t.co/h5yNE2R4f0,6d4cb1f316d70e0801445caf828297efb13105f5bb51cae340c30d4f2289167c,server.exe:9996
 2019-08-03 08:32:03,Xtreme,https://t.co/s5lJLqnLdM,ed4ab63cadead16cf2cdf7d1c1b86af57869b3b301902a24a4061a548e3071db,"falcon-56657.portmap.host:56657,"
