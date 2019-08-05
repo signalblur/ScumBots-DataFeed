@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-08-04 21:47:03,Xtreme,https://t.co/KmNhAq6llT,10bd7f93aac656aab14ee38ad8ef327bfc9068ee543f3fa09b10519b7d6b6480,"lilkzg.duckdns.org:1144,"
+2019-08-04 21:32:03,Lime-RAT,https://t.co/3CAwFsVY9E,c36dd02f66a45535c4151f7247b9a5b3dc2c6aeb081704160c89fff3cab88559,https://pastebin.com/raw/A7r6NZEG
+2019-08-04 20:17:03,njRat,https://t.co/EdKTAWtScI,d54e198ff753e705e0013fc7d4ed97e8fdd0bb4fc063c803ca676928f8aaf375,127.0.0.1:6667
 2019-08-04 16:47:02,NanoCore,https://t.co/QMnja2PVpv,624ec9a6e22c69f5b86af3995dff70d3554ae9484a9c58d1e4b70414ce761984,"127.0.0.1:54984,"
 2019-08-04 16:02:03,njRat,https://t.co/CS3gDHWOkz,ecd1fca9de292a524035dc5e9d0fff6afed672f5f8388fc2b4f9ff786f805bc6,roro90.ddns.net:9999
 2019-08-04 14:02:02,NanoCore,https://t.co/x6dx10JoVb,0cf03ac93474d55abb0bea98cb9b57b3d2ddb6d6b1f6e6c3fac986c00b278980,"0.tcp.ngrok.io:16514,0.tcp.ngrok.io:16514,"
