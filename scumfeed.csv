@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-08-06 16:29:31,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Sn92mpURnT,3ad9b3ce87fe23c863ec89034bb8d10cdcde1fdfc3013acc28bdceceeb0b8e91,23.82.128.23
+2019-08-06 16:17:02,Revenge,https://t.co/ojoQFlbXG9,0e5296c6cc87e851cf621921601f40a82a1daae0df4a78859ae4e717e5a12707,updatefacebook.ddns.net:13
 2019-08-06 03:47:02,njRat,https://t.co/lx5YvJRPec,e1ee46c4edc76230b6dadcf9f5cd19b31ee031f3e72ec00d1d2de2ae22325b8d,xlightcx.ddns.net:5552
 2019-08-05 20:02:02,Lime-RAT,https://t.co/cVto95sZb8,df4c30ec8582afce38f6c528a2445b387085b2b79084e6240b8cccca900c0632,https://pastebin.com/raw/EpU6dSjh
 2019-08-05 19:32:02,njRat,https://t.co/1y43MaU4HN,5ef6aa109e54d192ff4963922952e9fd55605e88a3518ea128418ff56ea8c2ec,127.0.0.1:5552
