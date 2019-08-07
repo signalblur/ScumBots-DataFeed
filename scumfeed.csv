@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-08-07 05:02:03,njRat,https://t.co/Kz6NEqzQLj,a74c8daba9d09887a9465cefd2e5f0ee38f3b60c8eaa6a729bd12b69fdfc0125,alotaibiandalo.ddns.net:1177
+2019-08-07 04:47:02,njRat,https://t.co/ZNiwHvaeWf,ab67d5f4bd566d85c443bbe6e2cc2477e7ae1a024bd057c32cb8f7728d1157de,alotaibiandalo.ddns.net:1177
+2019-08-07 03:47:02,njRat,https://t.co/6R05TsmSDT,ae9596a6003fd79554ccb2c48823e9f7e237d7a5aa7dee40f45fc6dd3267fe63,alotaibiandalo.ddns.net:1177
+2019-08-07 01:17:02,njRat,https://t.co/JsBWvqNxoe,577f25938e43309d24edb5e3442a3aa9e1c3d614e658ce768df8cfada3fc65fb,serveo.net:16753
+2019-08-07 00:02:03,njRat,https://t.co/CHyfbevuAp,a30b95378cdc4b96716d5a1f5e205fc162db9049920005caf6dab2228c7de9f1,anafor.ddns.net:1177
 2019-08-06 23:47:02,Njratgold,https://t.co/INkrTDJ2O3,dc4e30e4bb54b80dc5fc6b41dcedaac20da6d2fe3d6213403ab79d9f9335ea00,localcv.hopto.org:5588
 2019-08-06 23:02:02,njRat,https://t.co/jSs273SXN5,62052d056aa33777d1309735fde480fc541c5bba263c42f91b3c04406e948ce6,127.0.0.1:5522
 2019-08-06 16:29:31,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Sn92mpURnT,3ad9b3ce87fe23c863ec89034bb8d10cdcde1fdfc3013acc28bdceceeb0b8e91,23.82.128.23
