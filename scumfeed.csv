@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-08-06 23:47:02,Njratgold,https://t.co/INkrTDJ2O3,dc4e30e4bb54b80dc5fc6b41dcedaac20da6d2fe3d6213403ab79d9f9335ea00,localcv.hopto.org:5588
+2019-08-06 23:02:02,njRat,https://t.co/jSs273SXN5,62052d056aa33777d1309735fde480fc541c5bba263c42f91b3c04406e948ce6,127.0.0.1:5522
 2019-08-06 16:29:31,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Sn92mpURnT,3ad9b3ce87fe23c863ec89034bb8d10cdcde1fdfc3013acc28bdceceeb0b8e91,23.82.128.23
 2019-08-06 16:17:02,Revenge,https://t.co/ojoQFlbXG9,0e5296c6cc87e851cf621921601f40a82a1daae0df4a78859ae4e717e5a12707,updatefacebook.ddns.net:13
 2019-08-06 03:47:02,njRat,https://t.co/lx5YvJRPec,e1ee46c4edc76230b6dadcf9f5cd19b31ee031f3e72ec00d1d2de2ae22325b8d,xlightcx.ddns.net:5552
