@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-08-07 13:00:02,PowerShell_Empire_Agent,https://t.co/qz0ZT9IHF4,5285fa1ee2b14786a7848db89a4d1cae4388cb4f7eff82c77c8c0d2b2835bba2,10.0.2.2:80
+2019-08-07 12:30:02,PowerShell_Empire_Agent,https://t.co/WjdBnWG8Ho,df59a625c3c15934bb1890a2e0f007ff4f08d53e4b25e0a304e16ef80645d4aa,0.0.0.0:80
 2019-08-07 09:17:02,njRat,https://t.co/eGb3XKxFPX,268e81347b562a04823f54d1424c978fb19caded07cadb5c0ab5614db4f7de4d,127.0.0.1:5552
 2019-08-07 05:02:03,njRat,https://t.co/Kz6NEqzQLj,a74c8daba9d09887a9465cefd2e5f0ee38f3b60c8eaa6a729bd12b69fdfc0125,alotaibiandalo.ddns.net:1177
 2019-08-07 04:47:02,njRat,https://t.co/ZNiwHvaeWf,ab67d5f4bd566d85c443bbe6e2cc2477e7ae1a024bd057c32cb8f7728d1157de,alotaibiandalo.ddns.net:1177
