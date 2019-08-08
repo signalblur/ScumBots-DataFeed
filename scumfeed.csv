@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-08-07 22:32:02,njRat,https://t.co/UizzF6Rllx,38e1a197691dd02b132b8f79c054175a4f7bd8809a099e60aee8970d9690f0f0,serveo.net:16753
+2019-08-07 22:02:02,njRat,https://t.co/m3SduEim7y,38e1a197691dd02b132b8f79c054175a4f7bd8809a099e60aee8970d9690f0f0,serveo.net:16753
+2019-08-07 21:47:02,njRat,https://t.co/DcgjkS7CL7,3928694f063c735840f5e21314e90058c984e9367f9e87605fd2a92f89449f56,by-sabotage123.duckdns.org:1177
+2019-08-07 18:17:02,njRat,https://t.co/ydlWutb5Uc,179886fae5c083077288263f4fab049a6b52fa133161ee5a31b2202d2052920f,151.80.175.190:1515
+2019-08-07 17:50:49,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/aVCfwYNLZN,3d02cfafc6ff0b61fc0487cad0bd0b27d45485a6ab5c2542cef9784d9a40cd92,\\.\pipe\status_1024
 2019-08-07 13:00:02,PowerShell_Empire_Agent,https://t.co/qz0ZT9IHF4,5285fa1ee2b14786a7848db89a4d1cae4388cb4f7eff82c77c8c0d2b2835bba2,10.0.2.2:80
 2019-08-07 12:30:02,PowerShell_Empire_Agent,https://t.co/WjdBnWG8Ho,df59a625c3c15934bb1890a2e0f007ff4f08d53e4b25e0a304e16ef80645d4aa,0.0.0.0:80
 2019-08-07 09:17:02,njRat,https://t.co/eGb3XKxFPX,268e81347b562a04823f54d1424c978fb19caded07cadb5c0ab5614db4f7de4d,127.0.0.1:5552
