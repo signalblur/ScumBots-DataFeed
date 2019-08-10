@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-08-10 15:00:02,PowerShell_Empire_Agent,https://t.co/HPNHFCcn5m,9638f3c70d64673158d89c366e48778ed4c82e4653924c3ac2ab209abd457226,192.168.138.128:80
 2019-08-10 07:45:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/PNIgujvAY0,edc52cdadc840f4f02702e32ceab8745f9d3d78bd4badc35d598d38a9633ef2e,192.168.1.6:1555
 2019-08-10 04:47:02,njRat,https://t.co/6xpEm2PAGz,b30cb8c50cc623be8c00d6a99499fb6f57196613bf439f65b20f4999028f3d87,by-sabotage123.duckdns.org:1177
 2019-08-10 01:02:23,njRat,https://t.co/UACtNhcfWp,1b795e23d578c0d28246b3e09699ac8319d503c06bea8507d2211c3eb275f699,microsoft.myiphost.com:1313
