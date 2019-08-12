@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-08-12 17:02:02,njRat,https://t.co/izdE5sARtX,f550457c23841e5636aef2469c876087d06a6bb76501a005b66a0a1ac1a6409e,falcon-56657.portmap.host:56657
+2019-08-12 15:47:03,NanoCore,https://t.co/DBxnnZPWmK,1452b0c32a8a2f62ceb1b0c12e912b078a3e58b0669b90f689f5738452fb4a69,"51.15.190.184:6969,51.15.190.184:6969,"
+2019-08-12 14:47:02,njRat,https://t.co/zO93REpk2p,edfc228c8b5bd7f2e89b978db2c7c4b8a7769eeea4a38dbe6c2ebdb16f620834,127.0.0.1:5552
+2019-08-12 13:17:02,Revenge,https://t.co/LA7OkDvvJi,df74bfa28c587bf067bfbd1cea21569f5bf4add3b0cefe3d82450e0f22329ed1,tomynew.duckdns.org:666
 2019-08-12 11:02:02,Lime-RAT,https://t.co/MSGMEowOyG,211e57d00e0435a4e6e86645fae6245ed230b6ae7884204a7e672c340399cc1f,https://pastebin.com/raw/6KqwLgCC
 2019-08-12 10:02:08,njRat,https://t.co/m6lJPXYnon,76a99610cf2de77f0510c782d0f24775251caccb0f98b31194a3e321e316ce9f,jefcota.gws.kr:5552
 2019-08-12 08:47:03,njRat,https://t.co/dHB8h0DVEw,7c96108971d5d0448b0690fddee7dda6c7761563a59075b0bbe74debc8ea483b,127.0.0.1:5552
