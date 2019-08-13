@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-08-12 18:47:02,njRat,https://t.co/rNKBQNRYcg,961b19050fcaa55fdc4e527cd0fd580413eaeeef1665aa5f05bd5af440c0c196,celestemost.ddns.net:5552
 2019-08-12 17:02:02,njRat,https://t.co/izdE5sARtX,f550457c23841e5636aef2469c876087d06a6bb76501a005b66a0a1ac1a6409e,falcon-56657.portmap.host:56657
 2019-08-12 15:47:03,NanoCore,https://t.co/DBxnnZPWmK,1452b0c32a8a2f62ceb1b0c12e912b078a3e58b0669b90f689f5738452fb4a69,"51.15.190.184:6969,51.15.190.184:6969,"
 2019-08-12 14:47:02,njRat,https://t.co/zO93REpk2p,edfc228c8b5bd7f2e89b978db2c7c4b8a7769eeea4a38dbe6c2ebdb16f620834,127.0.0.1:5552
