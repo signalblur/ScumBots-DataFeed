@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-08-15 05:20:03,PowerShell_Empire_Agent,https://t.co/jy9ZkywMz2,3300e5e2a8aeae15bf83b0968a9e7f6f0de322c65141f8b24856fff202bfd7f0,192.168.1.101:8080
+2019-08-15 03:32:03,njRat,https://t.co/wYrd5Dj8YN,b5f15c98d20e5e35eb6414fcb7afa2ee32f1ca0629d8135704b51cb1ab0a5be3,javascrypt.ddns.net:5552
+2019-08-15 02:17:19,njRat,https://t.co/yn4w2likdf,725a2b985532160077fbfc20716ad615c723496dcfd5f3621a29defd2932d256,127.0.0.1:17000
+2019-08-15 02:17:02,njRat,https://t.co/7KLPs3dFV8,fe97a6f130a428aa77926127c20a33615900d12aaaeb01621e1d02a2bc963228,troyer11.duckdns.org:1155
 2019-08-14 16:32:03,NanoCore,https://t.co/qXxcsvwNyH,a51d11ca6d63a75a9d297feb30c41efdad921dd87c31f7480adceee1c257d751,"127.0.0.1:443,127.0.0.1:443,"
 2019-08-14 12:40:03,PowerShell_Empire_Agent,https://t.co/aUJXaBmlMu,77b47f26d1698570db5d04b5c49cbe9e9999d6eaf6c2c0fd5e9beef7a35282f9,192.168.1.120
 2019-08-14 12:30:02,PowerShell_Empire_Agent,https://t.co/hafWvr73Mc,3041e4e1c644379c9b2dd2d6a1577171dbc663cb59627bc615de4ce90b6a7aa7,192.168.1.123
