@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-08-15 12:00:02,PowerShell_Empire_Agent,https://t.co/mTHQIoJ9Mu,b98672f04c5812aadddf4737783dd0d8d2b8341ee27f34a3c246b48a2bbdac4f,https://192.168.0.114:80
+2019-08-15 11:50:02,PowerShell_Empire_Agent,https://t.co/kO3He6dvnQ,33231b0172408a1e2012559da0416deac7ac542276d3e2527d34fff7b0912637,https://192.168.0.114:80
+2019-08-15 11:45:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/0X9ezRMya6,30568302ab693369f9ad05129f8b57f3e910e2400469779786870551c6a19b19,attem83.duckdns.org
+2019-08-15 08:30:03,PowerShell_Empire_Agent,https://t.co/nPDvJMVhHc,dc03719a65fb3a2608c02dab05dd0e25f7a86f1c233d261be61c7311509765ab,192.168.1.120:8080
+2019-08-15 06:32:02,njRat,https://t.co/Z2zOrj4I5t,18e01214ce63d6ae726b8180c555d1075598627b3df80758a6998f258fabeeea,127.0.0.1:5552
 2019-08-15 05:20:03,PowerShell_Empire_Agent,https://t.co/jy9ZkywMz2,3300e5e2a8aeae15bf83b0968a9e7f6f0de322c65141f8b24856fff202bfd7f0,192.168.1.101:8080
 2019-08-15 03:32:03,njRat,https://t.co/wYrd5Dj8YN,b5f15c98d20e5e35eb6414fcb7afa2ee32f1ca0629d8135704b51cb1ab0a5be3,javascrypt.ddns.net:5552
 2019-08-15 02:17:19,njRat,https://t.co/yn4w2likdf,725a2b985532160077fbfc20716ad615c723496dcfd5f3621a29defd2932d256,127.0.0.1:17000
