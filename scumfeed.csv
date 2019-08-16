@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-08-15 21:02:19,njRat,https://t.co/ZXUSHMwGpw,4b32095b9d63238d95e87e3917751df76312e123fc2dc8c640a2db3ce70bc871,127.0.0.1:80
+2019-08-15 21:02:03,atraps,https://t.co/RmVVyMJvC9,ccd497e5466c59e8e561aaa400f120c70340dd51af3d7d71d94d5f3c1971d4d1,microsoftoutlook.duckdns.org:6606
+2019-08-15 20:40:02,PowerShell_Empire_Agent,https://t.co/tO8tqHeslL,bbeb8301f7f683c87124f542b0a4ea82401825ea76a376d20587cc9b3208d98f,192.168.1.101
+2019-08-15 19:32:02,njRat,https://t.co/auJiJwh5Fw,4b32095b9d63238d95e87e3917751df76312e123fc2dc8c640a2db3ce70bc871,127.0.0.1:80
+2019-08-15 18:02:02,njRat,https://t.co/lQd2RGuGzX,4b32095b9d63238d95e87e3917751df76312e123fc2dc8c640a2db3ce70bc871,127.0.0.1:80
 2019-08-15 17:47:02,Payload,https://t.co/AltJkfLmwv,f7bcb78ff307fbe7818d668d7ad78ba0d1f3f088482cb74f159c96d9761d1bdb,153.73.72.79:4444
 2019-08-15 12:50:03,PowerShell_Empire_Agent,https://t.co/UJjzLltyh6,3db200ab601f5724907ebdd9c36fa9dd473c6b6acc567e09545fca9e91c0b20b,https://192.168.1.137:8443
 2019-08-15 12:20:02,PowerShell_Empire_Agent,https://t.co/NX1VAGr2Pl,570f00f04b903eaceead6a239397afb544e9f4c264fa80cd098593b749cdf90b,https://192.168.1.137:8080
