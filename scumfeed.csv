@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-08-16 10:47:03,njRat,https://t.co/l5WyOiiZRc,a3de54b5e479bde8473e73a6a84dba9f80f87843b656d6a7ac30678e58b258b4,127.0.0.1:80
+2019-08-16 07:10:02,PowerShell_Empire_Agent,https://t.co/QQYo1GzuVY,ed972816653599c918b9c28f3799681005cbe442ab2485e46054f22be660db5d,noteyi.com:8886
 2019-08-16 01:00:07,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/G00xhviCw3,bbeecfd90d3ead01024ffe1cca6183ae6233de0d2d22007de55f994de177d412,192.168.15.19
 2019-08-15 21:02:19,njRat,https://t.co/ZXUSHMwGpw,4b32095b9d63238d95e87e3917751df76312e123fc2dc8c640a2db3ce70bc871,127.0.0.1:80
 2019-08-15 21:02:03,atraps,https://t.co/RmVVyMJvC9,ccd497e5466c59e8e561aaa400f120c70340dd51af3d7d71d94d5f3c1971d4d1,microsoftoutlook.duckdns.org:6606
