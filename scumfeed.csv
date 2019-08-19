@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-08-19 17:17:02,Lime-RAT,https://t.co/NnHMKlmfHQ,211e57d00e0435a4e6e86645fae6245ed230b6ae7884204a7e672c340399cc1f,https://pastebin.com/raw/6KqwLgCC
+2019-08-19 15:32:02,NanoCore,https://t.co/3sNd5t3cRf,374fce26dfd52073cd1c9abd5a501713da2e80edfad3311af48725f8fd4264dd,"nanocoreteststhep.ddns.net:1085,127.0.0.1:1085,"
+2019-08-19 12:47:02,Lime-RAT,https://t.co/g1uIPcTGaX,211e57d00e0435a4e6e86645fae6245ed230b6ae7884204a7e672c340399cc1f,https://pastebin.com/raw/6KqwLgCC
 2019-08-19 10:50:02,PowerShell_Empire_Agent,https://t.co/ljkBbYpB1N,c3241f6328bd593c2c424c760e61a67923954fb7e57828965fe865562d139886,172.16.11.208:4031
 2019-08-19 10:17:03,Lime-RAT,https://t.co/TLJSlcsIGY,211e57d00e0435a4e6e86645fae6245ed230b6ae7884204a7e672c340399cc1f,https://pastebin.com/raw/6KqwLgCC
 2019-08-18 08:17:03,NanoCore,https://t.co/1bI7tMUUyK,64fd24e05fb92ca6cff17e7c17b29c7dfafc95f5633e5fcadd3bb3875907016f,"184.57.168.28:1705,127.0.0.1:1705,"
