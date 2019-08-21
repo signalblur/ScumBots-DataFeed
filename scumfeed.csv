@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-08-21 12:17:19,njRat,https://t.co/XuPxeSUUxH,816a803599588bed0f480e0ae5aefeb9c8bce0ffe008d4721664171faecbf86b,kameles09.ddns.net:5552
+2019-08-21 12:17:03,njRat,https://t.co/lHXDaE71ji,beadaf1c4869ac9a24326a8da6db59baa9042130867b676c12ed09d63d4f8a61,kameles09.ddns.net:1177
 2019-08-21 09:32:03,Lime-RAT,https://t.co/TOfK9Qmedw,211e57d00e0435a4e6e86645fae6245ed230b6ae7884204a7e672c340399cc1f,https://pastebin.com/raw/6KqwLgCC
 2019-08-20 21:01:31,PowerShell_Meterpreter_Reverse_HTTP_x64,https://t.co/0wTuNu32H4,c5e84bcb0104eec50250a95b4129dbaad4d8516114ed226b82aeb093d7a418cd,167.71.181.91
 2019-08-20 19:32:03,njRat,https://t.co/6xIe1AZ0u1,d034c0c6a65b7b8544028b517887abdae20f10dab98133b4987127505a4afa69,rat24695.ddns.net:8888
