@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-08-20 21:01:31,PowerShell_Meterpreter_Reverse_HTTP_x64,https://t.co/0wTuNu32H4,c5e84bcb0104eec50250a95b4129dbaad4d8516114ed226b82aeb093d7a418cd,167.71.181.91
+2019-08-20 19:32:03,njRat,https://t.co/6xIe1AZ0u1,d034c0c6a65b7b8544028b517887abdae20f10dab98133b4987127505a4afa69,rat24695.ddns.net:8888
 2019-08-20 10:17:02,Lime-RAT,https://t.co/lAkgaHxl9x,211e57d00e0435a4e6e86645fae6245ed230b6ae7884204a7e672c340399cc1f,https://pastebin.com/raw/6KqwLgCC
 2019-08-20 09:32:02,njRat,https://t.co/ylnSqOZxTj,ee66490b07a6d63e48d358b00887457792a28c95aa02a47de4778df1a749af4d,peakyplinders.ddns.net:5552
 2019-08-19 17:17:02,Lime-RAT,https://t.co/NnHMKlmfHQ,211e57d00e0435a4e6e86645fae6245ed230b6ae7884204a7e672c340399cc1f,https://pastebin.com/raw/6KqwLgCC
