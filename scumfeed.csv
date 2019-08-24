@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-08-24 04:32:55,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/somWithnBu,cc7311d9cee2dab95698c942a7d14fca0556e457e48a597e7366811378f76bb8,192.168.0.154:4444
+2019-08-24 02:50:12,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/VE6SOGtcka,56c477feb805058e837fc02e94835a0b484baa513da2b00acfd7dafd2f6cbb27,185.244.150.240:443
+2019-08-24 01:54:34,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/gLkAoOicSp,d25c3bb172b47f484a359d1ff12e12745d9ec1ce5a2a4b97dbc582c829603fce,185.86.148.64
+2019-08-24 01:39:57,PowerShell_Meterpreter_Download_Exec_x86,https://t.co/CJjCh3GmNV,872c435e33e15ac66b79e2b6a8f27ddaa00317029a88b06b9195f2f17b25b466,https://cdn-07.anonfile.com/h1W3Ka3anf/8974c743-1566596634/scvhost.exe
+2019-08-24 01:39:25,PowerShell_Meterpreter_Download_Exec_x86,https://t.co/D7L85yvdTw,400f1380c13d78f5a0a420a5085aec3e14263c10e3c4569333e8990eeb1e08c7,https://www82.zippyshare.com/d/NJYYKGOv/11583/scvhost.exe
 2019-08-23 15:27:15,PowerShell_Empire_Agent,https://t.co/nSO2y7uTUl,a22afe329fd6305de87dcd14b13ca656058ae60063bc90bdad161dda0e696c31,0.0.0.0
 2019-08-23 12:10:02,PowerShell_Empire_Agent,https://t.co/XGyrkDjSB9,44500cec8410441f3a8d40745dd6164796d07dadbf0dd937ebce03b6aa0f089b,192.168.1.2:80
 2019-08-23 06:47:04,Lime-RAT,https://t.co/ZDLxLnCAWx,5c379eff50329954608685de1d3cfc9b9dd13ea503e2f5306f499c2d4f6803bd,https://pastebin.com/raw/J5060JZx
