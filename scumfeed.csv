@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-08-24 08:02:02,njRat,https://t.co/FWHwp7v1zi,fd88b4fb4712930cb27ce6766015f7f67c4bc4dfdaf08dacc20462ebc1028303,by-sabotage123.duckdns.org:1177
+2019-08-24 07:02:02,njRat,https://t.co/VSzJNykijz,bb0964edcfe323108d7477de06ca0c95ef2d4c5b21d0a2273f1b424ceb02f8f9,by-sabotage123.duckdns.org:1177
+2019-08-24 06:17:02,njRat,https://t.co/3jxOrEIooQ,f76ebbda398ef945d6860dcc59954ddd2c7feb47fef980313dee5cd52636279d,by-sabotage123.duckdns.org:1177
 2019-08-24 04:32:55,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/somWithnBu,cc7311d9cee2dab95698c942a7d14fca0556e457e48a597e7366811378f76bb8,192.168.0.154:4444
 2019-08-24 02:50:12,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/VE6SOGtcka,56c477feb805058e837fc02e94835a0b484baa513da2b00acfd7dafd2f6cbb27,185.244.150.240:443
 2019-08-24 01:54:34,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/gLkAoOicSp,d25c3bb172b47f484a359d1ff12e12745d9ec1ce5a2a4b97dbc582c829603fce,185.86.148.64
