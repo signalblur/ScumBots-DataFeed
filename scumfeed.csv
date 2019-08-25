@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-08-24 23:25:02,PowerShell_Meterpreter_Download_Exec_x86,https://t.co/aZVjKxS3MI,018ece09e89329e8ccd48a97954a9d355bf5cb7a6cde60162d0a5bc239e22683,https://www82.zippyshare.com/d/Chw3Ygjy/28370/dioporco.txt
+2019-08-24 23:15:02,PowerShell_Meterpreter_Download_Exec_x86,https://t.co/aJz2fIeFA2,ae7c69a8cc131b2d2952ae133043b0b7dd1a58dcb5fcffbd12634eb7b4ba1034,https://www102.zippyshare.com/d/XjUdLRSm/2750/diocane.exe
+2019-08-24 21:47:02,Lime-RAT,https://t.co/3VMggrc3jC,e3e7fd0c1c31753708b629e0f8f58cd764801c2363ede30b4442eac034e28ac5,https://pastebin.com/raw/j6f6hMWP
+2019-08-24 19:17:03,Revenge,https://t.co/wjXNjsEpQ1,c64ee1bb47b78cc210d6d68f18064d87eb9054e559cff85f49390af75cb304de,xlightcx.ddns.net:8090
+2019-08-24 18:32:02,Revenge,https://t.co/CgyL4IkKlj,db09369a6130ae227e653cbab85cc2c3ff53e47a5fb9f5a721cfb854189ed999,xlightcx.ddns.net:8090
 2019-08-24 18:02:03,Revenge,https://t.co/Bmpz8KEBGo,db09369a6130ae227e653cbab85cc2c3ff53e47a5fb9f5a721cfb854189ed999,xlightcx.ddns.net:8090
 2019-08-24 16:47:03,njRat,https://t.co/gFiCDtryMA,4209ff10572cfe1f6ce0b97afbdeac08371139b1c967e9c70458889f1433fccd,kameles09.ddns.net:5552
 2019-08-24 08:02:02,njRat,https://t.co/FWHwp7v1zi,fd88b4fb4712930cb27ce6766015f7f67c4bc4dfdaf08dacc20462ebc1028303,by-sabotage123.duckdns.org:1177
