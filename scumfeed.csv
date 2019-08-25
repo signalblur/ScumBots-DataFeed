@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-08-25 13:55:03,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/i6zduCpsoh,382c0b2b3fa9581fa3d11335035d87761ec925808611fe12838928ac3c7352a6,192.168.249.210:4444
 2019-08-25 02:47:02,njRat,https://t.co/RFkgOxoOGO,b897d0514763f5d0c8bfa00ca54d1b2a82361b7d6a9ebda0a7180291990d1f11,inf:clear
 2019-08-25 00:35:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/wl7LTXuOvy,5a715dc405a0866b6de25d8ef87e73442239502344230eea197f3f0247bc64a3,18.223.41.243:12313
 2019-08-24 23:25:02,PowerShell_Meterpreter_Download_Exec_x86,https://t.co/aZVjKxS3MI,018ece09e89329e8ccd48a97954a9d355bf5cb7a6cde60162d0a5bc239e22683,https://www82.zippyshare.com/d/Chw3Ygjy/28370/dioporco.txt
