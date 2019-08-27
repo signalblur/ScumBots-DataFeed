@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-08-27 11:47:02,njRat,https://t.co/EawCJYk8rN,b897d0514763f5d0c8bfa00ca54d1b2a82361b7d6a9ebda0a7180291990d1f11,inf:clear
+2019-08-27 11:32:19,njRat,https://t.co/GhoZPKppj8,b897d0514763f5d0c8bfa00ca54d1b2a82361b7d6a9ebda0a7180291990d1f11,inf:clear
+2019-08-27 11:32:03,njRat,https://t.co/g5JCJ0bHue,b897d0514763f5d0c8bfa00ca54d1b2a82361b7d6a9ebda0a7180291990d1f11,inf:clear
+2019-08-27 09:20:03,PowerShell_Empire_Agent,https://t.co/w9nZNMAnj1,09e4a7b0d3156e97f4dc4fea8fd7e23f9838251244079cde7240536cfd0d77b3,10.15.10.53:80
+2019-08-27 08:32:03,njRat,https://t.co/bM1JnipAz0,273c6a98bd5ccfb79929022982c64a2a9eaed7c1f7193d02ad0a203e0d2d926e,evil700.myq-see.com:1000
+2019-08-27 07:32:03,njRat,https://t.co/gMCN9byKJR,03242a015bbef5377786c9c556445d7e9d8b60694848ba3cf9b201152418e2e5,$:8080
 2019-08-27 00:35:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/XmOiLjMA1X,26be1d7151cb14ba4b63c65f29526b19f2a712faa47b1a5d2054393cdd5fba56,185.244.150.240:53
 2019-08-26 23:47:02,njRat,https://t.co/IRIefpLweg,e68656cae1c668d8f1954f8439904e0696340049dc35a35ffa2a62bd8d104ee2,127.0.0.1:8888
 2019-08-26 22:48:32,njRat,https://t.co/o3qyDctW5D,224c3d9f18804d960cac6571ef45a1e7f2fbbcb3325e572657d0e1df28f2e16c,MORFEY-50207.portmap.host:50207
