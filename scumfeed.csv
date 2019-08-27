@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-08-27 00:35:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/XmOiLjMA1X,26be1d7151cb14ba4b63c65f29526b19f2a712faa47b1a5d2054393cdd5fba56,185.244.150.240:53
 2019-08-26 23:47:02,njRat,https://t.co/IRIefpLweg,e68656cae1c668d8f1954f8439904e0696340049dc35a35ffa2a62bd8d104ee2,127.0.0.1:8888
 2019-08-26 22:48:32,njRat,https://t.co/o3qyDctW5D,224c3d9f18804d960cac6571ef45a1e7f2fbbcb3325e572657d0e1df28f2e16c,MORFEY-50207.portmap.host:50207
 2019-08-26 19:32:03,njRat,https://t.co/Xn1ql8bVMg,7f4f6bbebe2443bacbf2bd325662cd791be697da7cd6263ac200d2d94b0edf8f,salemtoumi39.hopto.org:5552
