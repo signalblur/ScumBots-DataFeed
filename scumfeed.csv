@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-08-28 17:21:15,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/OZ5dIzao2K,4a252bd99d1633948c2eba4875c9ae4aff1f1ddfe0a6354a87295811f4f08b1d,165.22.39.220
+2019-08-28 17:14:56,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/8ivQbZIKO7,1ccd2d71b3b54a7e3170da7f1e2ff90a99733700ce5cf89f0af05518011a0f6e,167.71.114.164
+2019-08-28 15:47:02,njRat,https://t.co/lXTBXTYvNR,a1f0d702f8043214721b74cc391dca0000a9265e9864ed632a767f31dee2025d,yourmailamazon99.redirectme.net:1177
+2019-08-28 14:02:19,NanoCore,https://t.co/qTyPL2Otwv,31aa6f7204f362e3add020539245494e1f6564b7589f877dcd880d26e87e223e,"nanocoreteststhep.ddns.net:1085,127.0.0.1:1085,"
+2019-08-28 14:02:03,NanoCore,https://t.co/cAXKf6oGlM,31aa6f7204f362e3add020539245494e1f6564b7589f877dcd880d26e87e223e,"nanocoreteststhep.ddns.net:1085,127.0.0.1:1085,"
+2019-08-28 11:02:02,Njratgold,https://t.co/mZratYvXAp,071689bf8fb1b11008290d5aba29dba7bf92a3216915cb06423593a8a7fd2594,malyasuo.duckdns.org:104
 2019-08-28 02:02:02,njRat,https://t.co/PTCKRzpuE5,86f42d90fbbd1c94926c4cb033e32fabb1236e0a326a6e04109bcfd4666348a1,server.exe:645=
 2019-08-28 00:17:02,NanoCore,https://t.co/AV4aPq9ELa,7a56982f2ad83f1faab2b3cda3cb772779e667f2ba329677a5c43b4eb41309d7,"nanocoreteststhep.ddns.net:1085,127.0.0.1:1085,"
 2019-08-27 21:17:03,njRat,https://t.co/7H1hu8ja4M,6412bc47bc3132a286ac03084a215b85cb73f6402450c44be7e8214d0be90e9a,127.0.0.1:5552
