@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-08-31 10:32:03,njRat,https://t.co/AWb5f7PQvL,d3672c51ed7b431c5e364a6e049fbc97e7985bfd525823b971a82cca1fa6fe51,hack312.ddns.net:1155
+2019-08-31 10:02:02,njRat,https://t.co/ZArxGdAu98,325d3c76e311041a4835bde2f427b3e6ca332d999a830fdeb678739d7e3fa244,hack312.ddns.net:1155
+2019-08-31 09:17:03,njRat,https://t.co/JdXaiFKoYQ,325d3c76e311041a4835bde2f427b3e6ca332d999a830fdeb678739d7e3fa244,hack312.ddns.net:1155
+2019-08-31 08:47:02,njRat,https://t.co/lwlFbMD4fN,50f4d7a74d4871800904bcd93166ed0e4ed87d71f39f2c9d07bd78b4d940281d,MORFEY888-55156.portmap.host:55156
 2019-08-31 04:47:02,njRat,https://t.co/PapIsrQf7i,e623c863da04b606e0908778976e124c18a6c50902bb491321915a1d326825a9,serveo.net:16753
 2019-08-30 23:15:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/fuDOW5Err9,0f8cc6823c8a5373de26eca602160ca457e411ae106559136f3cee46be481622,45.45.76.113:1337
 2019-08-30 21:02:03,njRat,https://t.co/VJrgH4dgqj,576486418e53134e9d8111aad955d22d61d4ddafa377e1388da291b6b9f9d51f,maxdz8000.zapto.org:1177
