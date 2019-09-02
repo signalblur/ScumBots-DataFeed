@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-09-02 06:17:03,Revenge,https://t.co/CQrpUbFgC2,4118e4757306e9c0d0a2e0b3d27ff6b7221a0cb9dce396bb730bc3cf6027db82,127.0.0.1:9036
 2019-09-01 21:02:02,njRat,https://t.co/SrrWsvBNG0,f09e69b25b7ef13014afe7ef369de48ae15d357e9e471e3be3d8da4997997f87,bbb2017.hopto.org:1177
 2019-09-01 17:47:02,njRat,https://t.co/o26f0zFSnR,ee765dd973f4a3a653336794cd1464fb0d679005a64d4d053776e75fe67967f0,hackanything.myftp.biz:1177
 2019-09-01 17:32:03,njRat,https://t.co/gGFj4WIVXg,ee765dd973f4a3a653336794cd1464fb0d679005a64d4d053776e75fe67967f0,hackanything.myftp.biz:1177
