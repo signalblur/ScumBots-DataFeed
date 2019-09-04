@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-09-04 00:32:03,NanoCore,https://t.co/4EIDjiBXee,341c1e0aaf2c0b503fff0b312bf699723609b6cc0c451db1d216d98818bb1d56,"nanocoreteststhep.ddns.net:1085,127.0.0.1:1085,"
 2019-09-02 16:17:02,njRat,https://t.co/pwSiwuBjRX,a9fd67a0f1e869e0bf5fdd731cddf15b3c29601779ed96bc051bcf88b3099cdf,kexxkok-47488.portmap.io:47488
 2019-09-02 15:17:03,njRat,https://t.co/MazHIlUOci,534af32706cc728c2a5574e7b6b6c529aee899dac6210dcb69be204a43f00cc9,127.0.0.1:7777
 2019-09-02 14:27:43,njRat,https://t.co/fM5oHSuCcu,ce294ee431ad2f47ecdeaa3cd5ef9aee2f4bc44fa074eabe5405df75a08cd317,localhost:11111
