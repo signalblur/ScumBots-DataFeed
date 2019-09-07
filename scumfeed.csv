@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-09-07 12:02:03,njRat,https://t.co/4DBDZtZL9w,4399ca69e496acac2b005bb7fd22fa0fa9c2c10a0d6337f8a346cbc8c379d0bb,"127.0.0.1:5553,abdou1212.ddns.net"
+2019-09-07 12:00:03,PowerShell_Empire_Agent,https://t.co/3MuU5aj0AV,07dfd439ad9efd24d65db4deb1d7b820fbfd9c67a10389d76b880b346bacdf33,10.211.55.4
+2019-09-07 11:47:02,njRat,https://t.co/Br1lTL1lHq,4ee56e3018c511736fea3c1f55cd01c26f0b3a26af8f41666ca2874c9a34ae44,127.0.0.1:5552
+2019-09-07 06:47:03,njRat,https://t.co/JLWwIPFV1v,ce68ba5476618cf9d842ca729ed5d789151e9d9f26801710d4ddcca262ef0678,chucky.linkpc.net:5552
 2019-09-07 05:32:03,njRat,https://t.co/H2lkeN5nT4,c1c14d7bac7d069029a68bf59b39c683bb512377ade15ca6aff696ba7d7a07cd,chucky.linkpc.net:5552
 2019-09-07 04:02:03,Revenge,https://t.co/nci8En4Qce,d895c2062c671f079373e3860149ecda58dce34b72f11e48e1bbf30af43b9d98,161.129.67.149:333
 2019-09-07 03:32:02,njRat,https://t.co/j94JVbVUAK,4755b4836cf060352f04a27f1cc9af2dba6f9b6a2103211237aaa716a0b1ad86,kshacker.ddns.net:5555
