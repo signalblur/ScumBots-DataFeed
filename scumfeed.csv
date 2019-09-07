@@ -1,4 +1,17 @@
 date_identified,implant_type,url,hash,c2
+2019-09-07 00:17:20,njRat,https://t.co/HYWAnQC4Dt,24c7a7a192652c29e36ecd11172c5d53a33146165132edb4c2f5299dd15a62a3,jstvirus.ddns.net:5553
+2019-09-07 00:17:03,njRat,https://t.co/yDDENtJDWO,24c7a7a192652c29e36ecd11172c5d53a33146165132edb4c2f5299dd15a62a3,jstvirus.ddns.net:5553
+2019-09-06 23:17:03,njRat,https://t.co/UcIWq2WDDe,8c0985bbe6a625a93cec61397a98de09290ad6d9b921bec9e39a289270ff10ff,micorosoft.ddns.net:1122
+2019-09-06 23:02:19,njRat,https://t.co/UROuFJrX9x,ee2ce3348dbbdaf23f1af6c7b0979a05b4e08ae5ac7fe583845ccc187ee0ad80,radi404.myq-see.com:1177
+2019-09-06 23:02:03,njRat,https://t.co/IyamSEKi3F,a36ab2680c8bf56c2379e4096925042da1432d341388846b7bcac3cd583e367c,micorosoft.ddns.net:1122
+2019-09-06 22:17:03,njRat,https://t.co/C97ryIvkAw,073c02061d8bf48068aee51a76d419ca98c99349d7420ceedd5ee12b14218015,chroms.linkpc.net:1996
+2019-09-06 22:02:03,njRat,https://t.co/usYLy5ihU9,50a826d1c91a0115c5d6a7bed954a35f4107f69587990b7047ddf5e367b97f68,"127.0.0.1:5553,"
+2019-09-06 21:02:02,njRat,https://t.co/sjmYEliGnu,b31ec0ae9590180b91220a65d62363dcb8be40671e24372f3a4818e711d1b4b9,apkandro.duckdns.org:1477
+2019-09-06 20:55:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/rkl3ujGTUw,90033a2ffa6c0dfb3e606a1207aa8e67d39f2740db9864f9b7dcc711777ae99f,104.154.246.115:443
+2019-09-06 19:47:19,njRat,https://t.co/7CN6mduJM9,cfccd3b869d45f16841174f1ba9ca0b5e5a4f1bcad02840a57a84321de46f7b4,"127.0.0.1:5553,"
+2019-09-06 19:47:02,njRat,https://t.co/5lnU6OgGtA,cfccd3b869d45f16841174f1ba9ca0b5e5a4f1bcad02840a57a84321de46f7b4,"127.0.0.1:5553,"
+2019-09-06 19:05:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/mLnSDU26TA,5a152a1ffd13baaa96fdd29912b4bbad03d2c14a16abed24d374db1b0d8a7f13,192.168.1.8:6666
+2019-09-06 18:47:02,njRat,https://t.co/zUvAPwyt5T,cfccd3b869d45f16841174f1ba9ca0b5e5a4f1bcad02840a57a84321de46f7b4,"127.0.0.1:5553,"
 2019-09-06 18:32:18,njRat,https://t.co/Ug2wLYuvE8,bae589ccc6791389aeb8bae845467abe5ffb982c30fab6e7073c152fb3a14c57,simou444.ddns.net:5552
 2019-09-06 18:32:02,njRat,https://t.co/wJrtlwr4Ay,bae589ccc6791389aeb8bae845467abe5ffb982c30fab6e7073c152fb3a14c57,simou444.ddns.net:5552
 2019-09-06 14:32:03,njRat,https://t.co/ceQlxe7tG9,b7067e7f16a0e70cc000f90539a5746169b3028229016f2798eb8ab58e61e9a5,wagdeasd.ddns.net:1177
