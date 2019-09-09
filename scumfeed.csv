@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-09-09 11:02:36,njRat,https://t.co/OiTsYLrnyQ,f68b537d8449920ec3e14b7c993180c23823f669e5b568f8dd8a81193e4803c1,"u3r1cglkqmfha2ek.duckdns.org:8080,"
+2019-09-09 11:02:20,njRat,https://t.co/70qaBA2PCP,f68b537d8449920ec3e14b7c993180c23823f669e5b568f8dd8a81193e4803c1,"u3r1cglkqmfha2ek.duckdns.org:8080,"
+2019-09-09 11:02:03,njRat,https://t.co/ZWXjU0ZF0k,f68b537d8449920ec3e14b7c993180c23823f669e5b568f8dd8a81193e4803c1,"u3r1cglkqmfha2ek.duckdns.org:8080,"
+2019-09-09 10:15:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/EnSKwmALhA,b0b22deb148921492a5414086843a444cffcb37f58847df850fcaea75579e9a2,172.16.194.131:5555
+2019-09-09 07:32:02,njRat,https://t.co/P0SGfUQR2g,87e2bf763a9b725214b0519aed3b89faff825a3185841ce3a264241adf8c7558,127.0.0.1:5152
 2019-09-09 04:32:03,njRat,https://t.co/CpBArFozB8,2828c6821c5cdd63d8b5913e0abd551d47ea2dee162e9ba1b6e9e7de21793886,referrals.webredirect.org:1177
 2019-09-09 04:03:10,njRat,https://t.co/nRehncDvGx,9e18694a6fec749ddbc36eab8e865e39e38987d5ff5ca8bad76d440f5656dbb2,nnjjrraatt.ddns.net:55553
 2019-09-09 04:02:54,njRat,https://t.co/4S4xoMTKeh,3d72fcb1587ad5e639a9e0ceac1c58258877a012a87a3ae687773f521e870be7,127.0.0.1:55553
