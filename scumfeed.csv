@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2019-09-08 21:02:03,njRat,https://t.co/SCATANiIw0,d08cde3a2ae43494b23ba5af02f4b3b4a3d96337bc451eb028ad8cfd137c7fab,youssefmostafa468.ddns.net:5552
+2019-09-08 19:11:54,njRat,https://t.co/WEyu1JE8uK,903007dba2538330815a2973391fa536228ad517fea4cc18afbf05e0c2cb6fae,forloan.ddnsking.com:1177
+2019-09-08 19:09:38,njRat,https://t.co/LSFQwwVAyj,09daec8c9442d2d15f0c450736a905354b5733eb46eacf76a32a66c3167a5c64,seniormezo12.sytes.net:8811
+2019-09-08 15:35:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/NKyw6dbx9L,e029e6091d5a26ea4da7661f19039d6f0ee3b43af1a4437eaef0ee5eabd33849,192.168.1.8:4444
+2019-09-08 15:17:02,Revenge,https://t.co/xPxlyADG3n,e27987597a5636243ce024151770a53aad7122748b47fb804e516086d1178645,naderklay.zapto.org:213
+2019-09-08 14:47:03,njRat,https://t.co/x2SIDYCHqz,7dab2c86b4aeb0d9ead1a466abefc636d431e6b9439ca6df1ef92c02c89b354f,127.0.0.1:5552
+2019-09-08 14:32:20,njRat,https://t.co/d0t4VKJSsC,0728e22028514330cfacd50d56d33ba1941aa354169f07672e95084b9446a492,wiindows.myvnc.com:6340
+2019-09-08 14:32:03,Revenge,https://t.co/J63LzjTzll,d7044e28830ed1b866a1e69a4fdc9a5ca8f0773f5f71ffcae1afa7699b3166ae,saadme18.ddns.net:81
+2019-09-08 13:32:02,njRat,https://t.co/7Fds5VZIck,25665db92ed42cd3d4f2de2d7cff1101e4235f60b0904e6df1d7cae3c26b1078,dzsfhnjzdflgkjfnl.p-e.kr:5757
 2019-09-08 11:32:20,njRat,https://t.co/vAhUppTvQO,28728e867cdcd0ec2595b666e8a4824e150514819d3326d06f201d849a4e2a89,chucky.linkpc.net:5552
 2019-09-08 11:32:03,njRat,https://t.co/eTcNW1AsXe,b03625f0f752e192ff3735207161a2bf7001d51f9d888ffdc83d3f3bccc2fe0f,127.0.0.1:5552
 2019-09-08 08:47:51,Revenge,https://t.co/8ujD738uHD,8153ed29af9e4e8c876fd0f12f232ead7ab34d290e6ea2b60512b268e3c8d46e,127.0.0.1:1443
