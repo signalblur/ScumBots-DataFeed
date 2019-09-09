@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-09-09 18:32:02,njRat,https://t.co/L37468o4Al,60b473823126295a815bbd23ec3c6f855e345a67d63adf7aa6ca824757cd6290,vogelmi.linkpc.net:1177
+2019-09-09 15:17:04,NanoCore,https://t.co/Z6mUUhMQ5t,1f036120f8c3e3de461300d3d7ab1155eacc11f814cd5f9b62a440b4accdc741,"nanocoreteststhep.ddns.net:1085,127.0.0.1:1085,"
 2019-09-09 11:02:36,njRat,https://t.co/OiTsYLrnyQ,f68b537d8449920ec3e14b7c993180c23823f669e5b568f8dd8a81193e4803c1,"u3r1cglkqmfha2ek.duckdns.org:8080,"
 2019-09-09 11:02:20,njRat,https://t.co/70qaBA2PCP,f68b537d8449920ec3e14b7c993180c23823f669e5b568f8dd8a81193e4803c1,"u3r1cglkqmfha2ek.duckdns.org:8080,"
 2019-09-09 11:02:03,njRat,https://t.co/ZWXjU0ZF0k,f68b537d8449920ec3e14b7c993180c23823f669e5b568f8dd8a81193e4803c1,"u3r1cglkqmfha2ek.duckdns.org:8080,"
