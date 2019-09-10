@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2019-09-10 00:32:02,njRat,https://t.co/LsI8Brixwd,7ce17be2646173b9c1e0dcdef92ce883e55584380bed8f073e58a5bd5d5259cc,stevens222.ddns.net:1057
+2019-09-09 22:00:02,PowerShell_Empire_Agent,https://t.co/CLsNDgCyP7,1acaaf08ad3788f4599b6dd2ce5ff12d414cbb8c00397f876e2d8dee81cbb45a,192.168.0.15:80
+2019-09-09 21:55:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ia8lAqSFdy,11cec68d79073123b7ba39fc1faf09e49b589193af7c58afc6662c7c929059d1,192.168.1.4:59507465716345299339914804
+2019-09-09 20:54:31,njRat,https://t.co/TNvcHkEjkv,3286ca38f9738a46412e28999988def02472a26b3f1e8f45fd7622d7b8b30922,simou444.ddns.net:5552
+2019-09-09 20:54:15,njRat,https://t.co/C7tdprg2iR,4358cac2f0ba17da80481f7c1110c7f44623043e0e97820afc6e9c12a7fa3830,midou8687.ddns.net:1177
+2019-09-09 20:47:06,njRat,https://t.co/7nPtgnRCu5,3286ca38f9738a46412e28999988def02472a26b3f1e8f45fd7622d7b8b30922,simou444.ddns.net:5552
+2019-09-09 20:39:21,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/e7jIwZeU4t,db3caf2cc03e43f6e6f0a184e1ea39c589ed13dbae126a16b3dbc4e87f49f868,37.48.83.137
+2019-09-09 20:38:50,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/J1eJVBpVxD,0140dac5f79ab728bd73d2c5a0da44c60af233b303b467ead807fc4bedee36a7,185.147.15.27
+2019-09-09 19:32:03,NanoCore,https://t.co/6d2BLj7lPy,d192b3dc5b80426c272a4e88aae0e08efc99a5d78e97dfe3b834857d1c2afb32,"rat24695.ddns.net:8080,rat24695.ddns.net:8080,"
 2019-09-09 18:32:02,njRat,https://t.co/L37468o4Al,60b473823126295a815bbd23ec3c6f855e345a67d63adf7aa6ca824757cd6290,vogelmi.linkpc.net:1177
 2019-09-09 15:17:04,NanoCore,https://t.co/Z6mUUhMQ5t,1f036120f8c3e3de461300d3d7ab1155eacc11f814cd5f9b62a440b4accdc741,"nanocoreteststhep.ddns.net:1085,127.0.0.1:1085,"
 2019-09-09 11:02:36,njRat,https://t.co/OiTsYLrnyQ,f68b537d8449920ec3e14b7c993180c23823f669e5b568f8dd8a81193e4803c1,"u3r1cglkqmfha2ek.duckdns.org:8080,"
