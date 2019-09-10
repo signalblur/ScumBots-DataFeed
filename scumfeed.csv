@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-09-10 18:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Z0p6TlDYWu,6af9ce3c201a860c44690525c235d8ba4588d2847d94585ae7d83a66c88e122d,165.22.172.69
+2019-09-10 17:25:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/SXfvV2QORT,7d3e0920558e702fa44cf1a4bcb3809bb6f213f757a409b857a71d02c542969c,192.168.147.128:4444
+2019-09-10 16:45:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/KAppSxsjPh,bb8d56a7f3b24574978a5d3640289ef5c83a0e57335672bf73a7a2cd54f88712,S.C.U.M
+2019-09-10 16:26:51,njRat,https://t.co/mv3gm0pRHd,b6a9e8fbeeefe53a6f35570a69d172a75c5f8ccfef6c3ef5a9e7556a8d60bb36,10.8.29.250:43606
+2019-09-10 15:55:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/FqQ6yLLHLI,aac4bb8a6e153c0499f0a85cb4e981a07b8d8d045bc59574931d59d903a830ad,8.8.8.8
+2019-09-10 15:47:02,njRat,https://t.co/hR4bByxHKF,d6bbb256496f82452486bb398075255ab75e5fa86cbab7100c9a7ff2944f3d10,mrsmox6110.ddns.net:5552
+2019-09-10 12:56:26,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/8jzpoJ5VZO,183e2e764530fe838bdd05e34a199d5a48071439f5be8f238f56cc73396ecef0,6.6.6.98:3904117499082193208
 2019-09-10 10:02:02,njRat,https://t.co/Mdi0rikWVd,3fa9c62806abcf998afc98b5b29101717df84cb0f6515f265af3328352ba30ab,nice3arab.ddns.net:2463
 2019-09-10 07:17:05,Payload,https://t.co/C18skua6Vl,5291c62ea5b5e6e0078d7036ee19f39e27d0562c4bc9dfbcbdf60081601ddacb,172.16.194.131:1357
 2019-09-10 03:17:02,njRat,https://t.co/7Fr2bMEbTd,81aaea2ef8c1580433a6f219d37a6b20833e26d27da398fe8169ee9b494dde4f,windowsdwm.ddns.net:789
