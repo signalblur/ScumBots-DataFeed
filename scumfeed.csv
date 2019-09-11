@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-09-11 00:02:02,njRat,https://t.co/gba0oeOTgN,fb54a7c129bd5c125406e107ec3bb66703c6d2033cf4d6f5cc029d04f7bd6a10,chatabata.ddns.net:5552
+2019-09-10 22:47:19,njRat,https://t.co/MXIyiN8bId,9ca585a95b9e2a06aa44d5cbc04e7ba10853d26e76d450a4cfa44d4f2d96079f,c18hay.ddns.net:5552
+2019-09-10 22:47:03,njRat,https://t.co/uqBqF7toSX,9ca585a95b9e2a06aa44d5cbc04e7ba10853d26e76d450a4cfa44d4f2d96079f,c18hay.ddns.net:5552
+2019-09-10 21:47:03,njRat,https://t.co/b9wWiPTvgj,cd129cd22a259cabcdbb5e3e46a795fe5ea2521c1c2dcfbfa3770268a4175829,7hacking.ddns.net:5553
+2019-09-10 21:05:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/fhD2NnJVUh,f9c838f39a2f5442c03b446e80edceea3c843ecc25c3b8c8a04d728362a13219,verify
+2019-09-10 20:32:19,njRat,https://t.co/BVAaOVqvjW,7100eb1737b4e94f50db77d19bb0b2a05a633abf8ca45f512dc1dc5d02bfca30,simou444.ddns.net:5552
+2019-09-10 20:32:03,NanoCore,https://t.co/qZibUBLJOg,d59c38c0de69de838745cf301a8acd65040968041cf2f05ce1aa3a48cf6ec355,"myratzhacke.ddns.net:9033,127.0.0.1:9033,"
 2019-09-10 18:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Z0p6TlDYWu,6af9ce3c201a860c44690525c235d8ba4588d2847d94585ae7d83a66c88e122d,165.22.172.69
 2019-09-10 17:25:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/SXfvV2QORT,7d3e0920558e702fa44cf1a4bcb3809bb6f213f757a409b857a71d02c542969c,192.168.147.128:4444
 2019-09-10 16:45:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/KAppSxsjPh,bb8d56a7f3b24574978a5d3640289ef5c83a0e57335672bf73a7a2cd54f88712,S.C.U.M
