@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-09-11 16:05:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/rrANHbeELN,7f603fd533d11e6a31b5caf97132391d75f7d6f5f3001386462276d2ebb1671c,1��2/
+2019-09-11 15:32:03,njRat,https://t.co/7i5JKVnHI1,2af96884bc5112b364f9583bcdee3148da984adffb7bf310309005e3a3ca1006,hermano.linkpc.net:5552
+2019-09-11 15:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/O30DA2ecJJ,4c9f2b607af64874ce32b9c43ccb16f4f35542b9da0bb7082bbf3a769b75698a,2130706433/
+2019-09-11 14:04:07,njRat,https://t.co/BNoQwxzU3m,b878638e1266c8cd2d7aa1f5a794031dccd8531547a94bab2970e1b8072ff9f7,xnxxxnxx2020.ddns.net:1177
+2019-09-11 13:02:03,njRat,https://t.co/dt8pH0MS4I,a26b731f3ac72fd2fed74f84f2bd72a4f70e2d8d8e458febf3011ee8023a6c6b,127.0.0.1:5552
+2019-09-11 12:50:02,PowerShell_Empire_Agent,https://t.co/Cl1qz2i0LV,8a2fd4beaf426194d4131e226238b15e5d0d298428b117ef71e434e8c583b85c,185.244.42.134
 2019-09-11 06:32:02,njRat,https://t.co/3RvaXDQU0X,987f55e8de22f1c7c3d59d3a6253ad4055dd62d0a8fe600e8f526fa6b6dd6018,10.8.29.250:43606
 2019-09-11 03:47:02,njRat,https://t.co/OeU1FDjFwz,676dc906efb82309b67c512fcac3c06a0e95044109deb482eead9fa3260faa23,becharaka.myq-see.com:2463
 2019-09-11 00:02:02,njRat,https://t.co/gba0oeOTgN,fb54a7c129bd5c125406e107ec3bb66703c6d2033cf4d6f5cc029d04f7bd6a10,chatabata.ddns.net:5552
