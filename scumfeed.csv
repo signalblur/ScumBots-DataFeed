@@ -1,4 +1,15 @@
 date_identified,implant_type,url,hash,c2
+2019-09-12 16:38:15,njRat,https://t.co/bNJDd68OPD,a90d8ae4dc90dd547179eb3d36e4801d359eaf57ac4ec17589309728555d6a89,hapito60.hopto.org:8811
+2019-09-12 15:58:12,njRat,https://t.co/fRadlYAJcD,9a81bdb718cbf2ba4a6fedbee2e466732a5d5a409941318166dce9b50447ba31,"59.12.72.13:4444,"
+2019-09-12 15:47:03,njRat,https://t.co/5zZHQT61aa,a90d8ae4dc90dd547179eb3d36e4801d359eaf57ac4ec17589309728555d6a89,hapito60.hopto.org:8811
+2019-09-12 15:32:36,njRat,https://t.co/f68LfNq5Z8,2949d9fb64c1c44927750efd8af5a012a1a6095f0680ad5e40c1b8182d8fd006,"59.12.72.13:6555,"
+2019-09-12 15:32:19,njRat,https://t.co/hNIquGiO8v,469533b91d70337a35ff5d5f2662ec2a7e43f8d9e0b603a0e7757e13ff85605c,"59.12.72.13:4444,"
+2019-09-12 15:32:02,njRat,https://t.co/6Nbo8I14tN,b74ab9969a7ece7c05bb3cdb344eff624a27fe64f7cabdd21160436247df1ec5,"127.0.0.1:5553,59.12.72.13"
+2019-09-12 15:17:03,njRat,https://t.co/6SP9WEmFlL,8a64a629cee19b194e129cf21d2415473a5072373124a93e31384172aad8b49d,"127.0.0.1:5553,59.12.72.13"
+2019-09-12 15:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/jmDPOhxDon,0545a308aa3a60a6b2d96e98159152a7afd9ca8b4f1f59b3dbf76814ceb54e11,#NationalVideoGamesDay
+2019-09-12 14:47:02,njRat,https://t.co/0zfIpuoIjw,1d31b6dd553064c26ea63d5d391307dd74e3e6c2a2ce6293b1a14e39e23eadec,59.12.72.13:4444
+2019-09-12 14:32:03,njRat,https://t.co/OShRRJkrT2,6c06dfbd84fec821f9016f8125c2b29b50be94e2bf15b474de6abe36a85e41bb,"127.0.0.1,59.12.72.13:6522"
+2019-09-12 13:10:50,GruntStager,https://t.co/bfyB67p0bK,d3105cb2728021244bb25a06c3b7dcdbc693c0515d09aabedebe6c20a0ac72e0,52.199.197.146:80
 2019-09-12 02:48:11,PowerShell_Empire_Agent,https://t.co/cFhShm2o1b,e23f4c9398f1ad03870969bbd6f1dda51459f4efa7c2b70d408c1e44e615e0d7,https://amazon34.duckdns.org:443
 2019-09-12 02:39:02,Njratgold,https://t.co/SOqpCLoDwh,a52a19f05e8e098f4c03b275b863d922c28e2bbc69d7cc0bf67078999cd23de6,hasanyuksel.duckdns.org:1002
 2019-09-11 22:47:03,njRat,https://t.co/vxaLrz1fUl,479adfa930126ad7efa7b127a5fe0797d6b28ae264bff683300dfd5afd56ad4a,192.168.1.65:5552
