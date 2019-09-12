@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-09-11 22:47:03,njRat,https://t.co/vxaLrz1fUl,479adfa930126ad7efa7b127a5fe0797d6b28ae264bff683300dfd5afd56ad4a,192.168.1.65:5552
+2019-09-11 22:02:02,Revenge,https://t.co/qYFjmJupL8,5df6df57a962b8b82a433f729d351488cbaa3dd0bc1754da5102ffea93842b52,192.168.1.65:333
+2019-09-11 21:47:02,Revenge,https://t.co/GyifayF4Q1,5df6df57a962b8b82a433f729d351488cbaa3dd0bc1754da5102ffea93842b52,192.168.1.65:333
+2019-09-11 21:32:19,njRat,https://t.co/x0Z57M8MS6,f550457c23841e5636aef2469c876087d06a6bb76501a005b66a0a1ac1a6409e,falcon-56657.portmap.host:56657
+2019-09-11 21:32:03,Revenge,https://t.co/Jh9PPead4m,5df6df57a962b8b82a433f729d351488cbaa3dd0bc1754da5102ffea93842b52,192.168.1.65:333
 2019-09-11 16:05:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/rrANHbeELN,7f603fd533d11e6a31b5caf97132391d75f7d6f5f3001386462276d2ebb1671c,1��2/
 2019-09-11 15:32:03,njRat,https://t.co/7i5JKVnHI1,2af96884bc5112b364f9583bcdee3148da984adffb7bf310309005e3a3ca1006,hermano.linkpc.net:5552
 2019-09-11 15:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/O30DA2ecJJ,4c9f2b607af64874ce32b9c43ccb16f4f35542b9da0bb7082bbf3a769b75698a,2130706433/
