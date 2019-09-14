@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-09-13 13:08:08,njRat,https://t.co/71xbq56mvb,a76d60c0372287af684fa96c03ef3ffac6ebea29ff98198d82c64a09c9339a20,falcon-56657.portmap.host:56657
 2019-09-13 06:47:03,njRat,https://t.co/dKTpJffnZe,353fbe5f0e5fc867158a99c29526d5f1c4e807e328c8b976c2a7fb89d15391f4,192.168.1.65:5552
 2019-09-13 05:32:02,Revenge,https://t.co/EX3RJdpcQ0,618de4f141948339f8f7420dd47e19a40221591ca36c6da323cb26cd1f7f5fd4,javascrypt.ddns.net:333
 2019-09-13 05:17:02,Revenge,https://t.co/L7I4SwzZkD,6419f58faf8fa99adee404852999d785b2bb251a34b334e9393b6a727054effb,127.0.0.1:333
