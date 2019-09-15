@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-09-14 21:59:44,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/cmZUMBhowZ,444ee89d4e4627f41fdf31db25d2c6c677b57b1878ea284ca1c193c2455cf15d,188.165.62.17
+2019-09-14 21:53:01,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/irNzWTZ4CU,dc0f97c7f622a6926e9b2ad572e4defa7f3d0018ca432e6c96d7e1dc85ade204,159.246.29.114:443
+2019-09-14 21:47:35,njRat,https://t.co/omKryGIBi7,69bcd086d9065f28f30f018c6b1348905375a51e467f731f20d6577e63cf7559,sabri444.linkpc.net:5552
+2019-09-14 21:47:18,njRat,https://t.co/RUODIDPUJC,a18840ab3ab69de4bb77add4d3250989f2c49dbc0f1bd290c6fb02993cbc62b6,unaccpetable.publicvm.com:789
+2019-09-14 21:47:02,njRat,https://t.co/OkHUXuGVEH,e9a543cb9830de61a778b9a27eda15c88558e4cda00c32f0a156deb54ad264f3,unaccpetable.publicvm.com:789
+2019-09-14 21:43:06,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/4iC4pOqk1i,8fc3d4751b68b8e7cca687753df71f1a37ceb7f7375f6651c574418be54ad265,159.246.29.114:443
+2019-09-14 21:32:02,njRat,https://t.co/yaA3afG1rn,69bcd086d9065f28f30f018c6b1348905375a51e467f731f20d6577e63cf7559,sabri444.linkpc.net:5552
 2019-09-14 16:47:02,Revenge,https://t.co/RDOD9JwOiY,fb5df774603a32e13a8532300dae5b02c60c600146d1fa1951c4f5b4b2d31f80,192.168.1.6:333
 2019-09-14 16:32:20,Revenge,https://t.co/OMDRTUnktY,fb5df774603a32e13a8532300dae5b02c60c600146d1fa1951c4f5b4b2d31f80,192.168.1.6:333
 2019-09-14 16:32:04,Revenge,https://t.co/QwIXLdZlUn,fb5df774603a32e13a8532300dae5b02c60c600146d1fa1951c4f5b4b2d31f80,192.168.1.6:333
