@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-09-16 12:42:56,njRat,https://t.co/nEB5ziRytd,c52d76e32484eef20b113efeeaf557ff1aa013cc8e1c9b9fbb07f2e52c1ddf58,samirtissa22020.ddns.net:5552
+2019-09-16 12:42:39,njRat,https://t.co/MSqSjzHhIM,c52d76e32484eef20b113efeeaf557ff1aa013cc8e1c9b9fbb07f2e52c1ddf58,samirtissa22020.ddns.net:5552
 2019-09-16 03:53:24,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/kgu675WqRK,2739dbab5cece912c215302609f7bbe79f51a54af66397573a33dd8fed0a799a,onezero0.net
 2019-09-16 03:38:52,njRat,https://t.co/3EpPP789UP,e295c1a0890eaaa31583cba23ebce9f12dd090a1801c13852b70d9efa2281309,groups.us.to:968
 2019-09-16 03:38:36,njRat,https://t.co/MrbQqyacG4,d5791f1cc360c665cd40d0ec65f0b89edd296850dfb65cb9a38cd0d5ee908dd2,pirados.ddns.net:1117
