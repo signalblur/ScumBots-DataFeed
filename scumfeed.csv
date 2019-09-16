@@ -1,4 +1,17 @@
 date_identified,implant_type,url,hash,c2
+2019-09-16 03:53:24,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/kgu675WqRK,2739dbab5cece912c215302609f7bbe79f51a54af66397573a33dd8fed0a799a,onezero0.net
+2019-09-16 03:38:52,njRat,https://t.co/3EpPP789UP,e295c1a0890eaaa31583cba23ebce9f12dd090a1801c13852b70d9efa2281309,groups.us.to:968
+2019-09-16 03:38:36,njRat,https://t.co/MrbQqyacG4,d5791f1cc360c665cd40d0ec65f0b89edd296850dfb65cb9a38cd0d5ee908dd2,pirados.ddns.net:1117
+2019-09-16 03:38:20,njRat,https://t.co/hbXyBnoO5e,eb82077a6f85db2d5979b65f34656594ae6e652905234a9e4a0ae5f91d34b137,blackshadow22.ddns.net:1604
+2019-09-16 03:38:02,njRat,https://t.co/EowPjsaflw,acb17890a7ce575382ff73ba5ad6228fced4e95817046cbbc4ce701f0e3b8cc0,groups.us.to:968
+2019-09-16 03:37:45,njRat,https://t.co/ngm1FyGSXQ,aac213a79323209bf9bbdfe9ebfba71d889b10caf571b504405df3c8580a4397,213.213.206.18:3333
+2019-09-16 03:37:26,njRat,https://t.co/8glDTl5Ro4,65890121118cd4f73132f0c181e80c92405f4f0ba51dda68341f03cf96c1a874,max404.ddns.net:1177
+2019-09-16 03:37:10,njRat,https://t.co/12uY9vTfbZ,61c50c14db8fc7d2b2546eb0205d9a7614d098d5d9581b064c85faa8e37eeb12,127.0.0.1:1177
+2019-09-16 03:36:53,njRat,https://t.co/rdxyKkUDJm,99210299d36027f81d990b78e88d03907db5c78dc759860e5ee103a25127cf76,newlook23.sytes.net:8811
+2019-09-16 03:36:37,njRat,https://t.co/CcnMgbHA9N,6c17e7571739482147e113d287ccf3f31efa31bccc0b9fee6797dadebd03f6d3,groups.us.to:968
+2019-09-16 03:36:20,njRat,https://t.co/D04zb9auAf,4b94d9f94f00f05ec8bdc646ebe56d21d8215f33eb53e07e53e0744218cdf4c3,windowsnet.ddns.net:5558
+2019-09-16 03:32:03,njRat,https://t.co/zhajM2IIL4,5b92c16308c25f9f31f382331053604517934adf4d3edd7d4c2dd8eaf63b758f,newlook23.sytes.net:8811
+2019-09-16 03:02:03,njRat,https://t.co/dtAojtsBqY,941938490be26923ae9075a8e0b66363ff569d233caf71121e2454cf6a928eb6,unaccpetable.publicvm.com:789
 2019-09-15 22:32:19,njRat,https://t.co/lXpsXcpx74,69bcd086d9065f28f30f018c6b1348905375a51e467f731f20d6577e63cf7559,sabri444.linkpc.net:5552
 2019-09-15 22:32:02,njRat,https://t.co/BRn7rmGyWN,69bcd086d9065f28f30f018c6b1348905375a51e467f731f20d6577e63cf7559,sabri444.linkpc.net:5552
 2019-09-15 21:53:06,njRat,https://t.co/DOL2lyRY5m,4603861042969fc7b6a055668e63cabc60d8b7a0618a60dea588ee2e515bc00b,iwarlock.duckdns.org:6522
