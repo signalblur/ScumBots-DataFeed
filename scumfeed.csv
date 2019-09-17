@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-09-16 23:17:02,njRat,https://t.co/8EoDyBPnDL,a76d60c0372287af684fa96c03ef3ffac6ebea29ff98198d82c64a09c9339a20,falcon-56657.portmap.host:56657
 2019-09-16 12:57:58,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/5B61iIViQP,2239a44324800cea4af50bc252bd7c4fccc1b262da9d7167ba30e9c96b0b43e6,192.225.226.14
 2019-09-16 12:42:56,njRat,https://t.co/nEB5ziRytd,c52d76e32484eef20b113efeeaf557ff1aa013cc8e1c9b9fbb07f2e52c1ddf58,samirtissa22020.ddns.net:5552
 2019-09-16 12:42:39,njRat,https://t.co/MSqSjzHhIM,c52d76e32484eef20b113efeeaf557ff1aa013cc8e1c9b9fbb07f2e52c1ddf58,samirtissa22020.ddns.net:5552
