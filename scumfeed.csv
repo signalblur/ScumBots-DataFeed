@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-09-17 23:32:03,njRat,https://t.co/BEmk4Jdt92,31e72d383c17cbf0d64de296071601c1b4937d9a59e59f6a4aa7d022d3da4b6c,ahmed2016.ddns.net:6522
+2019-09-17 23:02:03,Revenge,https://t.co/3czAvJATaS,3189814662ce1096547757ed0d60a331f7b6f1199bf879858dc27ef0777d920c,"omnibeesweb.duckdns.org:333,omnibeesweb.hopto.org:333,192.168.1.65:333,"
+2019-09-17 22:02:02,njRat,https://t.co/wcgFlyNqo8,ac2bfe657027dc0ee571ef90817264d735a5db42ff27c153412a80ffa7c75ba3,ahmed2016.ddns.net:6522
+2019-09-17 20:02:03,njRat,https://t.co/qM1KoNKhye,5015e6aaaa71f34dae98c175f635fa8d98ca65cf90915e7074e106a9adc2bd5a,127.0.0.1:5552
 2019-09-17 14:07:38,GruntStager,https://t.co/UJBrRx2MS2,1e40303c64ce9aaf481c32f10cff70bade16059f77c4172c3bce1872fac0d899,5.200.18.88:8080
 2019-09-17 14:03:42,GruntStager,https://t.co/woOIn20pgI,e101a9dfb80dcee576de2e0a0383d3ccdda14ac45cc792315040455b1dd2b24a,5.200.18.88:80
 2019-09-17 14:02:20,GruntStager,https://t.co/o3F3xk9qN8,e101a9dfb80dcee576de2e0a0383d3ccdda14ac45cc792315040455b1dd2b24a,5.200.18.88:80
