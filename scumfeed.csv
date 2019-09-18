@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-09-18 08:02:02,NanoCore,https://t.co/0cu3RGBVDS,39da99bf16ac935c9c4bf8854b1785fcf4f4b0372188743fa68ad4b7a2c2c5df,"192.168.1.112:4444,"
 2019-09-18 04:02:02,Revenge,https://t.co/1xqDGC93Re,2fc5217c461e357cef6f9aa68cb752a6834c01a34c25fc133b5a7aa8a540055d,winuptade.homesecuritypc.com:443
 2019-09-18 03:47:02,Revenge,https://t.co/0dAqYpPxG9,91f9b17f5c1ea13cc7f34285d5861baed6154726387359124a07f13b45864b37,127.0.0.1:443
 2019-09-17 23:32:03,njRat,https://t.co/BEmk4Jdt92,31e72d383c17cbf0d64de296071601c1b4937d9a59e59f6a4aa7d022d3da4b6c,ahmed2016.ddns.net:6522
