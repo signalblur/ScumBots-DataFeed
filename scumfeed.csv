@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-09-20 03:02:03,Revenge,https://t.co/204F0Qf3N9,19c0eb450a20ef2bef0ea294321cb024f5123c0de617f2aca71a4d630d8c4e4f,omnibeesweb01.hopto.org:333
+2019-09-19 21:02:03,njRat,https://t.co/lmgy1WXAPL,e981608db8175a25618735763e6d991246d14200e824c6d7218bafe386c6df80,127.0.0.1:5050
 2019-09-19 18:32:03,njRat,https://t.co/nXhQdrMCAy,753aa4249391bed772e77449dc4521ef7a1165509cf4b3edc59008bdad85a6df,127.0.0.1:5050
 2019-09-19 15:32:02,njRat,https://t.co/jtABzLzUKA,87f5caeec0f9daf2ba0eba47b9cd0e32f4038e3dcde2ca942a2574adf2e1d311,malakala.ddns.net:6201
 2019-09-19 12:53:39,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/UJlA0pIEgF,27dc86adc3a732429b418ee7fd196e39435fd27ae204194bcf36dbcf9e2d0da4,10.0.1.46:4444
