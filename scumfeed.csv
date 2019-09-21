@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-09-20 19:47:03,NanoCore,https://t.co/MrdeL7h23C,8f6e656b987db671f959eac5ef4b0e9ce4aa99d6342ce3587fe8135b7fcc5543,"127.0.0.1:54984,127.0.0.1:54984,"
 2019-09-20 15:32:03,Revenge,https://t.co/YiLL7HLjaD,1823465324d74195ab2586e578edf9c402ff9a968561eb25d21fe966dfa5a5e8,omnibeesweb01.hopto.org:333
 2019-09-20 15:17:02,Revenge,https://t.co/H4588OuGx3,952472e0fb8ef9503e3337b4a40d438b6a60ecbcaa3743a64c9ba44b8b835b5b,omnibeesweb01.hopto.org:333
 2019-09-20 12:17:02,njRat,https://t.co/VyQ4u74Smm,39c24dcbdba2085b881b46edcc8593f76908febd98376107d0c3a0ae07071ea8,server.exe:5:48
