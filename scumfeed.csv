@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-09-21 06:47:03,njRat,https://t.co/jeiXmwfjeR,45ad45b977c49306c9ee9e484da5b41f85683ac27d6e18017f1d623c3a5c79ce,grgrgrgr.ddns.net:1177
+2019-09-21 02:43:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/SiWUB5wnAD,e7a158f5b0f3a7f40f1471beea1f87e379f2d53fbe88410ce3cec809e9e407a0,onezero0.net
+2019-09-21 01:43:00,njRat,https://t.co/XRSqyJKEg1,32e47e389864e289156a319f488af0dd167f08226136bdde8e7528529a87ea3a,127.0.0.1:2011
 2019-09-20 19:47:03,NanoCore,https://t.co/MrdeL7h23C,8f6e656b987db671f959eac5ef4b0e9ce4aa99d6342ce3587fe8135b7fcc5543,"127.0.0.1:54984,127.0.0.1:54984,"
 2019-09-20 15:32:03,Revenge,https://t.co/YiLL7HLjaD,1823465324d74195ab2586e578edf9c402ff9a968561eb25d21fe966dfa5a5e8,omnibeesweb01.hopto.org:333
 2019-09-20 15:17:02,Revenge,https://t.co/H4588OuGx3,952472e0fb8ef9503e3337b4a40d438b6a60ecbcaa3743a64c9ba44b8b835b5b,omnibeesweb01.hopto.org:333
