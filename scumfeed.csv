@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-09-21 11:02:03,njRat,https://t.co/yTmiIsjqYU,6f8aabc3225c6e04d194f4999db14b3f434c3272584ce43db89ab7cd29a94100,njratv8-5.duckdns.org:4444
+2019-09-21 10:02:03,njRat,https://t.co/hOs5qpLHDW,60dd9259ac9e9b3de1e42dde8d4f7e77131cab33e8aa63baa957a8eede9f9087,njratv8-5.duckdns.org:4444
+2019-09-21 09:17:02,Revenge,https://t.co/hHVufKELTn,58c4e8659cc30d52173d632f947899d03c94ca8f1819bdfdec3904c6af8e931a,3.19.114.185:11400
+2019-09-21 08:32:02,njRat,https://t.co/vFqGrHepJz,0c4e4b9ab7d61181731d008684353552c899103cfb3ab56b22b1d461f9f2aaa4,"127.0.0.1:5553,"
+2019-09-21 08:02:03,njRat,https://t.co/tr6jxfxQJW,0c4e4b9ab7d61181731d008684353552c899103cfb3ab56b22b1d461f9f2aaa4,"127.0.0.1:5553,"
 2019-09-21 06:47:03,njRat,https://t.co/jeiXmwfjeR,45ad45b977c49306c9ee9e484da5b41f85683ac27d6e18017f1d623c3a5c79ce,grgrgrgr.ddns.net:1177
 2019-09-21 02:43:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/SiWUB5wnAD,e7a158f5b0f3a7f40f1471beea1f87e379f2d53fbe88410ce3cec809e9e407a0,onezero0.net
 2019-09-21 01:43:00,njRat,https://t.co/XRSqyJKEg1,32e47e389864e289156a319f488af0dd167f08226136bdde8e7528529a87ea3a,127.0.0.1:2011
