@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-09-24 12:32:20,njRat,https://t.co/Ew2xaWcrlE,04b071c39bbb671713b97c50bbaeb19e11b1279fa39331bdb545b4148b2fc146,oaelgsar.myq-see.com:1177
+2019-09-24 12:32:03,njRat,https://t.co/WISMiHMNo5,22524694f2e9c8ffeef1d8bb2cb0567f480b8a28670759e7b0ad293ac70a5f53,oaelgsar.myq-see.com:3973
+2019-09-24 08:25:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/vBD971JgsJ,151ff693e2cd4675748085eea5f9ba31a05468d111c81feb5c1f7ddea4a9683d,141.255.159.11:444
+2019-09-24 07:55:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/LHC5EFtBLz,ea60a962d78510ef33ef2619ca153a374a1d0f612df6e02b9e12c6c51031c3d4,141.255.159.11:4444
 2019-09-23 19:25:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/1x1VKLBX6U,035bb04a34d71e6b2e4f21bd0190e9d7e0f0560b1a3c315031c1c65574bda36b,192.168.1.149
 2019-09-23 18:32:03,njRat,https://t.co/ZcG0eTkktA,ee38d8437b7253fbe7f1c457daae0235a94fce0b55208b3a59c4988195e0ceaf,ratty.hopto.org:5552
 2019-09-23 18:02:04,njRat,https://t.co/CAfkpZjMMw,e24dc3e674a42153962f296222b77ad9f5bbacd9259ebe9495c0d67ce329bd5a,ratty.hopto.org:5552
