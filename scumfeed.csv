@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-09-24 18:17:07,RAT,https://t.co/0tT8kqJt5g,6633e6933d4ab073f145226714f360dbcf0bc1f7bd878b880f256bad5654e276,"127.0.0.1:2404:pass,"
+2019-09-24 15:17:03,njRat,https://t.co/YMlodUDRW1,f948cc43b17f0cfd253f36a11472f8b6c9c2fd2c98b9ba67fcdf166367d6a807,ail2001.ddns.net:2001
 2019-09-24 12:32:20,njRat,https://t.co/Ew2xaWcrlE,04b071c39bbb671713b97c50bbaeb19e11b1279fa39331bdb545b4148b2fc146,oaelgsar.myq-see.com:1177
 2019-09-24 12:32:03,njRat,https://t.co/WISMiHMNo5,22524694f2e9c8ffeef1d8bb2cb0567f480b8a28670759e7b0ad293ac70a5f53,oaelgsar.myq-see.com:3973
 2019-09-24 08:25:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/vBD971JgsJ,151ff693e2cd4675748085eea5f9ba31a05468d111c81feb5c1f7ddea4a9683d,141.255.159.11:444
