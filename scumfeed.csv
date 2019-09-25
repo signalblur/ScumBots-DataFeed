@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-09-25 22:47:02,njRat,https://t.co/yQ0MHjXzQQ,bb59b7cc811b2db1a4b8a49757e5304725c4ef9e45420fc0dbd0058d25e488bc,"3asker.ddns.net:5553,"
+2019-09-25 21:50:06,njRat,https://t.co/eveK0Osh8f,bb59b7cc811b2db1a4b8a49757e5304725c4ef9e45420fc0dbd0058d25e488bc,"3asker.ddns.net:5553,"
+2019-09-25 21:47:03,njRat,https://t.co/nKLOFBZqLJ,5e0a4c9449c9c3023ec7ab7be13a33cfdce5e8eb2aaabf284d8749d68b1281c7,127.0.0.1:4321
+2019-09-25 21:32:03,Revenge,https://t.co/Zdq4L7QH2a,52ca969d7189f75bf1640d06e767d31679db519bc87dcb72cb911113b6e0aee8,noraip111.ddns.net:1177
 2019-09-25 16:44:39,njRat,https://t.co/Bxci2ZkFLd,253df4b1c7cba2fc54ccd939acc7fe7fc266c935ec606827bf1f1cba1aee1482,atribute.duckdns.org:43648
 2019-09-25 15:55:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/be0f8YbSQX,71e297769520575fb721345a11e52705cfe6f218b6f80ae69b6cc9c6a23ff57e,192.168.1.33:4444
 2019-09-25 15:17:04,njRat,https://t.co/AO5b5Ce0IN,53c6fe3fc259ede7513868abec0530c51f7008ab64867bed378c4e06012cafaa,0.tcp.ngrok.io:10153
