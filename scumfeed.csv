@@ -1,4 +1,15 @@
 date_identified,implant_type,url,hash,c2
+2019-09-25 01:02:03,njRat,https://t.co/9VmqcY3MXD,e9695919ecebd93beb4f611fc8fccb19f1886cf1d3b072fd47ddb548c3d7fc7a,unaccpetable.publicvm.com:789
+2019-09-24 22:40:02,PowerShell_Empire_Agent,https://t.co/Q8SzJ75Mbj,48fe23d3b985677f58ddf180c0efdffb09c9ea596439e6c39252194a62c261c8,192.168.33.254:5555
+2019-09-24 21:40:03,PowerShell_Empire_Agent,https://t.co/daxYTbrg2M,e0a46d3f7491fda6005e212c81758b4bf9096e1aea6178ecd62765cdb5d9e7ae,192.168.33.254:1234
+2019-09-24 21:32:07,DarkComet,https://t.co/92PqGBQ1Ot,bd93072eec977cf2145e1d38fae99f53bf471d5c72af3ac3b85a398aef4021e9,"crack4fun.hopto.org:5555/,"
+2019-09-24 21:20:02,PowerShell_Empire_Agent,https://t.co/hFHSUocNtW,ae8f4757438816dc7004c12fe5004cce31b8e2b948a34265a5f169d06db6ae3a,192.68.33.254:7777
+2019-09-24 21:10:02,PowerShell_Empire_Agent,https://t.co/rHj69Z556Z,8bb481ae42afdf146685d371c5d6473618b1b6cd46c523ce7e3ca1ac763a6ca7,192.68.33.254:7777
+2019-09-24 21:00:03,PowerShell_Empire_Agent,https://t.co/asEkcG6Vgx,52da5a64a295bab9e0bddb7a098efde24556708d24ee2b7bf6461b5e704c2a9a,192.68.33.254:7777
+2019-09-24 20:47:03,njRat,https://t.co/snbZf6uwuG,fee82fcfad54da98a777611a456c6b61b9186782004d0aa36cc91917d162d628,hackanything.myftp.biz:1177
+2019-09-24 20:40:02,PowerShell_Empire_Agent,https://t.co/JFtkmpjYkS,de228f41555fe7b7b086dc8ebde5034ecaaf09919fe35508cf7cb56f9a23094a,192.168.33.254:5050
+2019-09-24 20:30:04,PowerShell_Empire_Agent,https://t.co/gP8S2Txl1s,1a00e887f05f8190c580c5036e1bcd204c60ff20f551ea125dc0b2f9c8964765,192.68.33.254:7777
+2019-09-24 20:20:03,PowerShell_Empire_Agent,https://t.co/V2FB3lY2Sx,9c935bd03d6ec37d9e0f4258e991f3692221b4efa060635398f49a7516848cb0,192.168.33.254:80
 2019-09-24 18:17:07,RAT,https://t.co/0tT8kqJt5g,6633e6933d4ab073f145226714f360dbcf0bc1f7bd878b880f256bad5654e276,"127.0.0.1:2404:pass,"
 2019-09-24 15:17:03,njRat,https://t.co/YMlodUDRW1,f948cc43b17f0cfd253f36a11472f8b6c9c2fd2c98b9ba67fcdf166367d6a807,ail2001.ddns.net:2001
 2019-09-24 12:32:20,njRat,https://t.co/Ew2xaWcrlE,04b071c39bbb671713b97c50bbaeb19e11b1279fa39331bdb545b4148b2fc146,oaelgsar.myq-see.com:1177
