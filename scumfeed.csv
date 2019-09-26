@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-09-26 00:17:03,njRat,https://t.co/bGZ3uj1hFw,13ee0d1151b4fcf9e805b98e072bef91c8f2a5741c520d6e9c84234d89926d32,127.0.0.1:5552
 2019-09-25 22:47:02,njRat,https://t.co/yQ0MHjXzQQ,bb59b7cc811b2db1a4b8a49757e5304725c4ef9e45420fc0dbd0058d25e488bc,"3asker.ddns.net:5553,"
 2019-09-25 21:50:06,njRat,https://t.co/eveK0Osh8f,bb59b7cc811b2db1a4b8a49757e5304725c4ef9e45420fc0dbd0058d25e488bc,"3asker.ddns.net:5553,"
 2019-09-25 21:47:03,njRat,https://t.co/nKLOFBZqLJ,5e0a4c9449c9c3023ec7ab7be13a33cfdce5e8eb2aaabf284d8749d68b1281c7,127.0.0.1:4321
