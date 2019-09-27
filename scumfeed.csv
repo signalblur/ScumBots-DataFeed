@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-09-27 14:09:27,PowerShell_Empire_Agent,https://t.co/b1Jb6vw4I6,50a9c73ce6698a6fe0ca18dfb3956ce8ec085f198a7e1ce7160c6412b22a8116,192.168.1.33:80
+2019-09-27 14:02:03,njRat,https://t.co/1j4jl7kLcj,9ed0da7178018ed5ad1e4b63ffd7e4e85ddb3508fb221a7155634497f94da09a,127.0.0.1:5552
+2019-09-27 14:00:02,PowerShell_Empire_Agent,https://t.co/wsDOzb4NLX,8f3c94da1e571ad0dc24dd788b2fd1de9a6a481875f6241daefc0bb33811c75c,192.168.1.33:80
+2019-09-27 13:27:05,PowerShell_Empire_Agent,https://t.co/B7drgtACcq,9979092384c7cb9cbf2a85af51a1261cd00b30bf3256832756fdc6aca1968386,192.168.1.64:80
+2019-09-27 13:02:36,njRat,https://t.co/PrdYyFYuQn,7d0426c8f0af2ecd8ba1f220b0d2f3360bc80876dff3ac7e0ec424070667782c,Server.exe:5552
+2019-09-27 13:02:20,njRat,https://t.co/gr5RylEezO,0192bf302ac15b05599bf5a42ab78fbcf23f8a78e47f352445a1f510e3fbe79d,Server.exe:5552
+2019-09-27 13:02:03,njRat,https://t.co/jDr77HuwHe,7d0426c8f0af2ecd8ba1f220b0d2f3360bc80876dff3ac7e0ec424070667782c,Server.exe:5552
 2019-09-26 22:20:03,PowerShell_Empire_Agent,https://t.co/Jdk3FA14fP,a5eb28d06b7643fc10bfbf60c5759c03b7a450f88a1469e63ece9fda4e4ea8a2,https://192.168.14.102:443
 2019-09-26 21:20:03,PowerShell_Empire_Agent,https://t.co/HYEnmXDtjS,a92e72e1d0d82182f964885aae0f1a346a1736ba0981094016b055ec17f18b63,https://192.168.14.102:443
 2019-09-26 21:10:03,PowerShell_Empire_Agent,https://t.co/iL0xHEkIdD,cf2c3eb62626d0aabd7b6f37f4f579b22ea3757d4391f372bcf3038f7a3c2224,https://10.0.2.15:443
