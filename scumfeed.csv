@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-09-26 22:20:03,PowerShell_Empire_Agent,https://t.co/Jdk3FA14fP,a5eb28d06b7643fc10bfbf60c5759c03b7a450f88a1469e63ece9fda4e4ea8a2,https://192.168.14.102:443
+2019-09-26 21:20:03,PowerShell_Empire_Agent,https://t.co/HYEnmXDtjS,a92e72e1d0d82182f964885aae0f1a346a1736ba0981094016b055ec17f18b63,https://192.168.14.102:443
+2019-09-26 21:10:03,PowerShell_Empire_Agent,https://t.co/iL0xHEkIdD,cf2c3eb62626d0aabd7b6f37f4f579b22ea3757d4391f372bcf3038f7a3c2224,https://10.0.2.15:443
+2019-09-26 19:02:19,njRat,https://t.co/gOWtzEysiW,769b9049983ef9b6dedfcc714532d2f84f3ae3e1fdf752c7841363d144ee67d8,gnona2000.ddns.net:3973
+2019-09-26 19:02:03,njRat,https://t.co/2olw32rcS1,769b9049983ef9b6dedfcc714532d2f84f3ae3e1fdf752c7841363d144ee67d8,gnona2000.ddns.net:3973
 2019-09-26 15:32:03,njRat,https://t.co/aumK6MTY5V,9fd65ce19dfe3c7a686fdf78e6f9382ccee9a36fe45577f1cd2bc45f7ed08ed1,ail2001d.ddns.net:2001
 2019-09-26 15:02:03,njRat,https://t.co/yHprZ4x3Ed,111a2c624324d5d8ca2564a2bfe22eead0db2d20e7aad87f44cb2f8e74092baf,ail2001d.ddns.net:2001
 2019-09-26 14:17:20,njRat,https://t.co/HZdR6zjl6I,7b98ccf13e3a8aad87e660a3f433e9df784bb3e3e6202617d381ecc46cfdbd07,127.0.0.1:5552
