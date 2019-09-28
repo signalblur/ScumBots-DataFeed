@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-09-28 13:32:03,njRat,https://t.co/FtdbCs3xyP,cc12d23ed3eae10f128e96bfb1f68eb5a832047ef9c24f084b1b4a9cd3291a75,alirhman30.ddns.net:1177
+2019-09-28 13:10:02,PowerShell_Empire_Agent,https://t.co/QrN6zPBh5o,b9ba58cf957f943baa37ea283fa2c20d95578fe816a19ceaaf022ba4fc7bab48,https://192.168.14.102:443
+2019-09-28 12:40:02,PowerShell_Empire_Agent,https://t.co/j5J17kmVrn,5447bec622fe79e53066c49761389c2af53544e65e83c1e8b2e71ab389e54772,https://192.168.14.102:443
+2019-09-28 11:17:03,njRat,https://t.co/NCtAjkpvHR,f52b4cf82a05e02fd128379727663587f7f03f7e916213fca2c1142a76d31a37,ails2001.hopto.org:2001
 2019-09-28 11:02:03,njRat,https://t.co/5O4z3FBOer,1ceed3380b9ae7c41134c9b8591e4be3e3639b9f93e02a63454240e26b107fb5,ails2001.hopto.org:2001
 2019-09-28 08:32:35,njRat,https://t.co/T7ZrlCOvay,174993f00901bf74bc4d15a97f4c263651d2ad32589f3bb05cd9c92e6a60be74,127.0.0.1:7400
 2019-09-28 08:32:19,njRat,https://t.co/EMnoSSLPoP,174993f00901bf74bc4d15a97f4c263651d2ad32589f3bb05cd9c92e6a60be74,127.0.0.1:7400
