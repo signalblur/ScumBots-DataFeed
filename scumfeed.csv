@@ -1,4 +1,15 @@
 date_identified,implant_type,url,hash,c2
+2019-09-29 14:38:29,atraps,https://t.co/29hDQ2JLVH,d79213aeb5759e03d4fcc9dbaaea20a3f9276c2c1a99300bc3943fe1c2730f45,kultakulli11.ddns.net:5353
+2019-09-29 14:38:12,atraps,https://t.co/V6KeVhM9bE,f9995ef741301260637638880d2ce58428ae5f27cbd6aa31123767ea51609233,googleq.myq-see.com:448
+2019-09-29 14:37:56,atraps,https://t.co/qmT30OT6xT,91cf2dbd0cf5ed90712a736e834ae637fd9f1906cbf1d83b7253fdcd4c859924,kultakulli22.ddns.net:5353
+2019-09-29 14:37:40,atraps,https://t.co/W5bca7Iwdv,37ca065567d4c760539c937699ea2300343ce597896aec3e0e10e20362ee098b,kultakulli22.ddns.net:5353
+2019-09-29 14:37:24,atraps,https://t.co/Z5DMGFZUAx,91cf2dbd0cf5ed90712a736e834ae637fd9f1906cbf1d83b7253fdcd4c859924,kultakulli22.ddns.net:5353
+2019-09-29 14:37:07,atraps,https://t.co/COuFUYKkOF,d79213aeb5759e03d4fcc9dbaaea20a3f9276c2c1a99300bc3943fe1c2730f45,kultakulli11.ddns.net:5353
+2019-09-29 14:02:36,Revenge,https://t.co/9z2Rbox1PG,23109754df4cf5b62c23a0ee943f27768e254453b2fe1b95724e9f696d6418b1,chupaminhpika.hopto.org:333
+2019-09-29 13:46:51,njRat,https://t.co/FFAfhGdBV9,b1cf16cb1110a4fe08c0445e0d2697cfb5c1fbbe6b75cbe9e6cc8ce0e0e6d11a,microsoftcorporation32.duckdns.org:5558
+2019-09-29 13:46:35,Payload,https://t.co/oy6EemP8kD,5cef51fd171221b1d26f3f443f3966e61a49fb3b669f21df02182fe57befe302,192.168.1.5:4444
+2019-09-29 13:46:18,njRat,https://t.co/G7OdOF4F6S,174993f00901bf74bc4d15a97f4c263651d2ad32589f3bb05cd9c92e6a60be74,127.0.0.1:7400
+2019-09-29 13:46:01,Payload,https://t.co/M3YyI3atLI,5cef51fd171221b1d26f3f443f3966e61a49fb3b669f21df02182fe57befe302,192.168.1.5:4444
 2019-09-28 13:32:03,njRat,https://t.co/FtdbCs3xyP,cc12d23ed3eae10f128e96bfb1f68eb5a832047ef9c24f084b1b4a9cd3291a75,alirhman30.ddns.net:1177
 2019-09-28 13:10:02,PowerShell_Empire_Agent,https://t.co/QrN6zPBh5o,b9ba58cf957f943baa37ea283fa2c20d95578fe816a19ceaaf022ba4fc7bab48,https://192.168.14.102:443
 2019-09-28 12:40:02,PowerShell_Empire_Agent,https://t.co/j5J17kmVrn,5447bec622fe79e53066c49761389c2af53544e65e83c1e8b2e71ab389e54772,https://192.168.14.102:443
