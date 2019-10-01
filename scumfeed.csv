@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-10-01 16:47:03,Revenge,https://t.co/DcOcD6pxSi,a2342137213507805322098175b998cd09d68673f475b31cc944f939623014e9,mastercocacolavb6.hopto.org:333
+2019-10-01 15:47:03,Revenge,https://t.co/NfdFEI54ke,af3e12c06c85c020a0543b060482a69b7e8e102089b0e6987fa2b66e0cb91a90,3.14.212.173:15297
+2019-10-01 15:12:21,njRat,https://t.co/YBGQZ69bf0,c5e97e52df4763a44b03c81f6de2410b9f323692ed3a1df7ebde4f731aba50eb,pandatop1.ddns.net:5552
 2019-10-01 01:17:03,njRat,https://t.co/uzddNSHhAi,7be42a516bdc4f9fc2cbc76ead0cdffd947aab2b2d551c7bd5c0adee413f6931,server.exe:77:4
 2019-09-30 21:32:03,atraps,https://t.co/jwZqefuBDn,58659fe7f536cd157d8131b01cd7994c3a0370e3073681e0ecbcc6eb6325fc87,127.0.0.1:
 2019-09-30 21:02:20,njRat,https://t.co/9SjLMFz89q,8ac57b361031f88c88084235727eebb51458ffd79789f379ea233c941fa2b1b3,127.0.0.1:5552
