@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-10-02 10:47:03,njRat,https://t.co/eUD23ujz4C,09fec39c27d90aa815891966320d214dcb7190b215543e7f58bf80cd601e8f09,"127.0.0.1:5553,"
 2019-10-02 03:02:04,njRat,https://t.co/E6DogZrrSp,99ec068fcbe53a9922a3e46b53b1b74caf7c8f22f50aa0c51d336d18cb5be2fa,lolka343.ddns.net:6522
 2019-10-02 02:52:36,njRat,https://t.co/dFG8b70RGT,48ced24aec766537bde3d877bbdf227f30a782a4e3e532eefaa6cd5214391b1e,"127.0.0.1:5553,thecountsimo.zapto.org"
 2019-10-02 02:52:19,NanoCore,https://t.co/081HNMuDD9,6a4b48ac0538665b09fdc94bec7ffa668f44279dcaf29b06cb9304be6accf9ea,"lol35.ddns.net:5555,127.0.0.1:5555,"
