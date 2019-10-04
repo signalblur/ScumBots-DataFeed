@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-10-04 03:02:03,Lime-RAT,https://t.co/yMqaeH8eDR,005d9aa1541b1f4ce894297c7095a686d2b133e55b6de9bf7fa4122139792d12,https://pastebin.com/raw/npPTvmdP
+2019-10-04 02:47:04,Lime-RAT,https://t.co/TKTsHRYugy,005d9aa1541b1f4ce894297c7095a686d2b133e55b6de9bf7fa4122139792d12,https://pastebin.com/raw/npPTvmdP
 2019-10-03 18:17:02,atraps,https://t.co/q0uZplXWAB,5f9b368da1871d363c0e6cdb41b360694ca91d712931ef3a90cafe11a5a2d227,127.0.0.1:
 2019-10-03 18:02:04,atraps,https://t.co/Exe1Of4d5a,5f9b368da1871d363c0e6cdb41b360694ca91d712931ef3a90cafe11a5a2d227,127.0.0.1:
 2019-10-03 16:17:02,Revenge,https://t.co/iP8L03TOqZ,79c68bdb85c9c79206ab994e9bbe3aeffdb56f2def9024f8d10290b61cfc97db,mozila-system.duckdns.org:333
