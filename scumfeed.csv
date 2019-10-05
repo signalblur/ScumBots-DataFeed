@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-10-05 15:47:03,njRat,https://t.co/KP16lmJ4dv,ea4dd73254e9e31dfeacd5bbc8ab6c8f7c1cdc47a371a2283c730add5a8e3e5a,mrsmox61100.ddns.net:5552
+2019-10-05 15:02:03,NanoCore,https://t.co/l5yz4hAeVs,c64fab6e584f44d50d913c40e4e4a49909015229019fc74e579a0f011f428d6f,"realfake.ddns.net:5552,127.0.0.1:5552,"
+2019-10-05 13:21:12,GruntStager,https://t.co/1H4zZlnK83,e3800824a9f21f051e4893874042114f6e6a9c7e1a0f95ca24461371c7ee9711,192.168.56.114:80
 2019-10-05 05:47:03,njRat,https://t.co/PpCmMYIfyQ,4e53a85ffcd67aa17a9095fed29916765742e0a8ab5aa2d4daf9a5333750855e,127.0.0.1:1177
 2019-10-04 23:02:19,njRat,https://t.co/B5KePsQ3oW,15b3a6017865a9f1c7aceaa869ae0eaa3d723f1305405dc4c1fb336cd11ccc35,svend888.ddns.net:5522
 2019-10-04 23:02:02,Revenge,https://t.co/7abrBKbGVU,1587d3d53f65004c1b2fa0d4b83b992a9046c8cc212d25e221e32c4064bc229e,bibilafrite.ddns.net:6598
