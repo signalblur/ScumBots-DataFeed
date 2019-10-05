@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-10-05 05:47:03,njRat,https://t.co/PpCmMYIfyQ,4e53a85ffcd67aa17a9095fed29916765742e0a8ab5aa2d4daf9a5333750855e,127.0.0.1:1177
 2019-10-04 23:02:19,njRat,https://t.co/B5KePsQ3oW,15b3a6017865a9f1c7aceaa869ae0eaa3d723f1305405dc4c1fb336cd11ccc35,svend888.ddns.net:5522
 2019-10-04 23:02:02,Revenge,https://t.co/7abrBKbGVU,1587d3d53f65004c1b2fa0d4b83b992a9046c8cc212d25e221e32c4064bc229e,bibilafrite.ddns.net:6598
 2019-10-04 21:17:02,njRat,https://t.co/ST8mu0kYY5,305e994439774525135da59a4dba85ab173f6b85156feecae06509eee6525185,0.tcp.ngrok.io:17267
