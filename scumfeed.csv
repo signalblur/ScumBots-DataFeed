@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2019-10-06 23:07:51,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/0asy7HeKse,9939f2767b44461eae10a270326c721fef1df32f74f4060bd5705997de5e4380,159.89.214.31
+2019-10-06 22:47:05,Payload,https://t.co/jHljftd9YZ,07f424350df916d4087cc0b9f485ef44e8c67e437fc2987b0ce05985185c9ddc,185.92.74.29:35555
+2019-10-06 17:17:02,njRat,https://t.co/HVdrqjkcmC,f1f067088c8b6b7b169a214b1b138c90add56bf7e3901e33b4a0f6df575d637b,encrypto.ddns.net:1805
+2019-10-06 16:47:03,Payload,https://t.co/8dzaQDIbjc,94b010a95a0ed940f80cce1f4efe5dc248f65a99dee4bdb3d28f87d512cb92e8,185.92.74.29:4444
+2019-10-06 16:32:19,njRat,https://t.co/cSaKpyGxaG,f1f067088c8b6b7b169a214b1b138c90add56bf7e3901e33b4a0f6df575d637b,encrypto.ddns.net:1805
+2019-10-06 16:32:03,njRat,https://t.co/x3EmL8mCFS,f1f067088c8b6b7b169a214b1b138c90add56bf7e3901e33b4a0f6df575d637b,encrypto.ddns.net:1805
+2019-10-06 12:08:54,Revenge,https://t.co/ja6audeMkt,94a17851e0174cd0f17146f05757ed1d227c45b3f1c07b7f6a449ea57753cf8a,144.76.134.221:333
+2019-10-06 12:08:37,Revenge,https://t.co/hqeYJWXL5h,4a555a8138b5dba3b576a4fbb4139e2f5c06d9276d53613fde9ab32207610bc6,144.76.134.221:333
+2019-10-06 11:57:07,njRat,https://t.co/eB3hBJHzaM,a0357ee3fb1ecaf28da411a2967d5aa7876bcb7a17a5e23c8c301f0439271b89,microsoftlogin.linkpc.net:1122
+2019-10-06 11:47:03,NanoCore,https://t.co/L8EyZfQRKo,e5e04e1e0683b1224f395faf2c5a84b9e6f13e391dc7955f9ee3ea08f15cab7e,"connectings.ddns.net:54984,94.107.59.249:54984,"
 2019-10-05 15:47:03,njRat,https://t.co/KP16lmJ4dv,ea4dd73254e9e31dfeacd5bbc8ab6c8f7c1cdc47a371a2283c730add5a8e3e5a,mrsmox61100.ddns.net:5552
 2019-10-05 15:02:03,NanoCore,https://t.co/l5yz4hAeVs,c64fab6e584f44d50d913c40e4e4a49909015229019fc74e579a0f011f428d6f,"realfake.ddns.net:5552,127.0.0.1:5552,"
 2019-10-05 13:21:12,GruntStager,https://t.co/1H4zZlnK83,e3800824a9f21f051e4893874042114f6e6a9c7e1a0f95ca24461371c7ee9711,192.168.56.114:80
