@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-10-07 16:25:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/k50rbqFVTu,55c6465e5f1885b6a209931e83be2959c0cdb3199772cdba9f5bcd816c71027d,3.17.202.129:13147
+2019-10-07 16:05:04,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/9GM7WqZOn0,55c6465e5f1885b6a209931e83be2959c0cdb3199772cdba9f5bcd816c71027d,3.17.202.129:13147
 2019-10-07 02:32:02,Revenge,https://t.co/DVITVId8Xy,e4fadb2a8e448c20915692754ed15ae0d5c41202ad375508f56d846d571de024,mozilaupdate.duckdns.org:333
 2019-10-07 02:17:02,Revenge,https://t.co/SyXMxrScle,5dfcca3ab6578823d9ebb489f3088256ebeb04aa6661d173c6029e3087811d6e,mozilaupdate.duckdns.org:333
 2019-10-07 00:17:02,njRat,https://t.co/IgsgVdeM5s,f116b5943a14ba2f1c23a574ca990958e69007ccb5f6a2485de07959bd1cc9d4,hie200.ddns.net:5552
