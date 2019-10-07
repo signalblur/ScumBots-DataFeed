@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-10-07 02:32:02,Revenge,https://t.co/DVITVId8Xy,e4fadb2a8e448c20915692754ed15ae0d5c41202ad375508f56d846d571de024,mozilaupdate.duckdns.org:333
+2019-10-07 02:17:02,Revenge,https://t.co/SyXMxrScle,5dfcca3ab6578823d9ebb489f3088256ebeb04aa6661d173c6029e3087811d6e,mozilaupdate.duckdns.org:333
+2019-10-07 00:17:02,njRat,https://t.co/IgsgVdeM5s,f116b5943a14ba2f1c23a574ca990958e69007ccb5f6a2485de07959bd1cc9d4,hie200.ddns.net:5552
+2019-10-06 23:45:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/UnHogx8FyG,1a6da4362968b1658f7647b4bfd14aa394134a3b67898cf61f15e4331a8b3756,127.0.0.1:4444
+2019-10-06 23:23:21,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/1zRPMGsiQG,9b799cb7c02cfb72ee09f10c00bf83eb0b946943d2ad4e32e91aa309bc4b1fdd,192.168.43.189
 2019-10-06 23:07:51,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/0asy7HeKse,9939f2767b44461eae10a270326c721fef1df32f74f4060bd5705997de5e4380,159.89.214.31
 2019-10-06 22:47:05,Payload,https://t.co/jHljftd9YZ,07f424350df916d4087cc0b9f485ef44e8c67e437fc2987b0ce05985185c9ddc,185.92.74.29:35555
 2019-10-06 17:17:02,njRat,https://t.co/HVdrqjkcmC,f1f067088c8b6b7b169a214b1b138c90add56bf7e3901e33b4a0f6df575d637b,encrypto.ddns.net:1805
