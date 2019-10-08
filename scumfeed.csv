@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-10-08 05:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Kvy5yCik5h,77ea85578514b1f79e5a3f8cd2ca05671c51156ea013f2fa0857f58c8bacc2be,psycho.ooguy.com
+2019-10-08 05:05:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/dPNBge0daX,fcf3e60483a863e9ded55811c48de1768c6de0454c4b41e3ad0fcf2429d67650,psycho.ooguy.com
+2019-10-08 04:53:53,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/573W5mtdxj,86f15a163c05344b2701125f1ff0df69e8a25f99ac6f2069aeb36edee2c2352e,psycho.ooguy.com
+2019-10-08 02:17:19,njRat,https://t.co/NHlObPpCAO,7b38a2e7647b12b69395ac10ed635b0edd4a90625f374cbe4be4210f462c4bae,192.168.1.3:5552
+2019-10-08 02:17:02,njRat,https://t.co/EFokcASDFH,7b38a2e7647b12b69395ac10ed635b0edd4a90625f374cbe4be4210f462c4bae,192.168.1.3:5552
 2019-10-07 23:17:03,njRat,https://t.co/asbgm1H6EQ,ef0efa3806b2f925ee1d9900b308c50a0c1e6aa446e5b95926ef5eb0b4377f07,youbit.ddns.net:7414
 2019-10-07 21:17:03,Revenge,https://t.co/H6yj453QKc,aaa1b57d316df7f0390d735e0a8c70c5776f49e67cf7bd830f0f69affeb5d041,mozila-system.duckdns.org:333
 2019-10-07 20:47:02,Revenge,https://t.co/9Uk3nvCaVB,5961b07b4ce67fbd5450e53ed28e7065750bd8f3b7eb3bf935582d9272500c38,mozila-system.duckdns.org:333
