@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-10-07 23:17:03,njRat,https://t.co/asbgm1H6EQ,ef0efa3806b2f925ee1d9900b308c50a0c1e6aa446e5b95926ef5eb0b4377f07,youbit.ddns.net:7414
+2019-10-07 21:17:03,Revenge,https://t.co/H6yj453QKc,aaa1b57d316df7f0390d735e0a8c70c5776f49e67cf7bd830f0f69affeb5d041,mozila-system.duckdns.org:333
+2019-10-07 20:47:02,Revenge,https://t.co/9Uk3nvCaVB,5961b07b4ce67fbd5450e53ed28e7065750bd8f3b7eb3bf935582d9272500c38,mozila-system.duckdns.org:333
+2019-10-07 19:14:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/5hWDbQpvTE,3fb60cd190dc87f6ceae26771eef2df8d472de3984cf7d134ea332dd45153d15,198.199.89.56
+2019-10-07 18:35:54,Revenge,https://t.co/jKv7rXaHIi,75e46ff46951d9ecef182222edacfb059c13ea394d3cf18e58719138893a78dd,hover.dyndns.org:2011
 2019-10-07 16:25:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/k50rbqFVTu,55c6465e5f1885b6a209931e83be2959c0cdb3199772cdba9f5bcd816c71027d,3.17.202.129:13147
 2019-10-07 16:05:04,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/9GM7WqZOn0,55c6465e5f1885b6a209931e83be2959c0cdb3199772cdba9f5bcd816c71027d,3.17.202.129:13147
 2019-10-07 02:32:02,Revenge,https://t.co/DVITVId8Xy,e4fadb2a8e448c20915692754ed15ae0d5c41202ad375508f56d846d571de024,mozilaupdate.duckdns.org:333
