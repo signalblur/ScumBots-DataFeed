@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-10-08 17:02:02,Revenge,https://t.co/EQZQi0x75D,6d6cf57ec8456c3f99719d231d00876e3d6e608c66eb3baf99db09be8294e2f9,mozila-system.duckdns.org:333
+2019-10-08 16:45:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/ZNGabKUjCM,226829e6d88c1105435bfa239cd9c8f49961b5f30c614ad211ab79069667e237,134.209.52.88
 2019-10-08 05:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Kvy5yCik5h,77ea85578514b1f79e5a3f8cd2ca05671c51156ea013f2fa0857f58c8bacc2be,psycho.ooguy.com
 2019-10-08 05:05:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/dPNBge0daX,fcf3e60483a863e9ded55811c48de1768c6de0454c4b41e3ad0fcf2429d67650,psycho.ooguy.com
 2019-10-08 04:53:53,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/573W5mtdxj,86f15a163c05344b2701125f1ff0df69e8a25f99ac6f2069aeb36edee2c2352e,psycho.ooguy.com
