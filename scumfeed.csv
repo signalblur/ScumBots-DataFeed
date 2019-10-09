@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-10-09 11:15:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/TLcxJ0HMGG,3fb60cd190dc87f6ceae26771eef2df8d472de3984cf7d134ea332dd45153d15,198.199.89.56
 2019-10-08 21:40:32,njRat,https://t.co/0yUYrrcISM,d13a92a17b088940487a29d1ae49bde011135a0bdbbd76e158df699f2a2b5cd4,droneyou.ddns.net:7414
 2019-10-08 17:02:02,Revenge,https://t.co/EQZQi0x75D,6d6cf57ec8456c3f99719d231d00876e3d6e608c66eb3baf99db09be8294e2f9,mozila-system.duckdns.org:333
 2019-10-08 16:45:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/ZNGabKUjCM,226829e6d88c1105435bfa239cd9c8f49961b5f30c614ad211ab79069667e237,134.209.52.88
