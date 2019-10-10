@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-10-10 16:37:42,Revenge,https://t.co/BDwFi4D7MP,5603c530374c5f72a9b1c9b27aa80ffcf671448456dce2d9bb6c60711612d68b,mastercocacola.duckdns.org:333
+2019-10-10 16:02:03,njRat,https://t.co/0YNmdqblJw,8527c7d6db07b640a0a41e4d870329caac565a081289e0caffa6fbeceefa1cf5,an0nym0s.ddns.net:1177
+2019-10-10 14:20:04,PowerShell_Empire_Agent,https://t.co/xzLZSKcplW,c3cee8c54dd24181e533cf6bfd621a214f69b36b2954bc3234e9e2baf53181f9,https://192.168.0.150:80
+2019-10-10 12:02:03,njRat,https://t.co/mANawALkXf,8414aafb9449be5a78cad9bf5777dee98f276dc6a13a00189f21111690d75441,an0nym0s.ddns.net:1177
+2019-10-10 11:47:03,njRat,https://t.co/9SgQyDC7ns,d1f7339c5867a04a9800f6dc8e3be047b7bf28bdd8c5f1dabe753057e01324c6,an0nym0s.ddns.net:1177
 2019-10-10 11:08:42,Revenge,https://t.co/wG3Q8cRD0j,3a2a5a242928e6e7380a1df862c86d64219f48be214e042bd366995e6d40be29,okfdjsdlfjdlsjfds.duckdns.org:35619
 2019-10-10 07:47:03,Revenge,https://t.co/rv4L8iucUr,a1317e7524b55cea35143fb9f8935ad8d558f87dd820bfd3b9e81188d89f02a5,mastercocacola.duckdns.org:333
 2019-10-10 07:32:03,Revenge,https://t.co/9bmqFjwHhx,bf885b29326cedbba752fbd345bc175193c6e4e52766e369f9dcc2a04a4dd9cb,iexplorer-vps.duckdns.org:333
