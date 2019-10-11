@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-10-10 20:17:03,Revenge,https://t.co/ud8b7vKp1M,bcce3e34bac7429116f34f78776c86d19b1b8da10ac961dddf3100a58096531b,mastercocacola.duckdns.org:333
+2019-10-10 20:10:03,PowerShell_Empire_Agent,https://t.co/U8gvs25jRC,cb84bbe8a6b81fe08015cfa4bd33582164d965aafaa6402b1f2a11abff333430,185.252.147.241:80
 2019-10-10 16:37:42,Revenge,https://t.co/BDwFi4D7MP,5603c530374c5f72a9b1c9b27aa80ffcf671448456dce2d9bb6c60711612d68b,mastercocacola.duckdns.org:333
 2019-10-10 16:02:03,njRat,https://t.co/0YNmdqblJw,8527c7d6db07b640a0a41e4d870329caac565a081289e0caffa6fbeceefa1cf5,an0nym0s.ddns.net:1177
 2019-10-10 14:20:04,PowerShell_Empire_Agent,https://t.co/xzLZSKcplW,c3cee8c54dd24181e533cf6bfd621a214f69b36b2954bc3234e9e2baf53181f9,https://192.168.0.150:80
