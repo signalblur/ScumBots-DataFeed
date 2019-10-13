@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-10-13 15:29:38,njRat,https://t.co/88hxFc3ngg,16e5088ae6178b6f86d577410b8d8584c447edc87fbb2c7a19d8d9d14b835fe0,alzaeem.ddns.net:2001
+2019-10-13 15:25:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/A6AVe3Ed9A,cba4f61aede8fc8af6820533a65a1535183543d217b498d74397a3a7212557d7,192.168.0.8:4444
+2019-10-13 14:50:04,PoshC2,https://t.co/vHQ0XvuQnR,5b2256448326ad6fccb2bb7050159a0d0cb5be90b128d2db4933795cdfc5097f,https://mscrl.microsoft.com:443
+2019-10-13 12:25:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/kACBDUUar0,2acb61aa29b5dc3a1a49836eeb8611a9687d4998f4a7a4dc191a8fbd7e9cd8c6,192.168.0.8:4444
 2019-10-13 06:55:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/x0RCUVQesL,8bd0ebf0f05c3e348b1dcdd0ee9d3e5d3b151038ca1c8fc99eb921786256f367,tronium.ddns.net
 2019-10-13 05:05:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/vis1PeMuAZ,e6f2f353a8c9172dcadc503efb5d2ea586bd469159988d64e0e4a112eb9d8a07,192.168.43.179
 2019-10-13 04:35:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/JEf9DC71vo,e6f2f353a8c9172dcadc503efb5d2ea586bd469159988d64e0e4a112eb9d8a07,192.168.43.179
