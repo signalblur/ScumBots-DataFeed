@@ -1,4 +1,17 @@
 date_identified,implant_type,url,hash,c2
+2019-10-12 23:17:03,njRat,https://t.co/5QfsBc43i0,a6ba3a8dd3de1644341f6cdbee7ff2e9bd9b0a405d2fac9f6a12f00de7a43fb6,microsoftcorp32.ddns.net:5558
+2019-10-12 22:47:03,njRat,https://t.co/dA2ZtkNoMV,3f0dd565c2d909424b1e370bf4cde02ed1e88616926f18dc071a87dc149abc60,javaschedulerupdater.duckdns.org:5558
+2019-10-12 22:32:52,njRat,https://t.co/LV8xerNAvc,704ea33d51ae7d0c4af24a8150d8c79e99da0efd021726bebcf41de2ca47800c,"kshacker.ddns.net:443,"
+2019-10-12 22:32:36,njRat,https://t.co/B52Eme064y,704ea33d51ae7d0c4af24a8150d8c79e99da0efd021726bebcf41de2ca47800c,"kshacker.ddns.net:443,"
+2019-10-12 22:32:19,njRat,https://t.co/bHX2NASmdE,704ea33d51ae7d0c4af24a8150d8c79e99da0efd021726bebcf41de2ca47800c,"kshacker.ddns.net:443,"
+2019-10-12 22:32:03,njRat,https://t.co/kK1WBapbaY,704ea33d51ae7d0c4af24a8150d8c79e99da0efd021726bebcf41de2ca47800c,"kshacker.ddns.net:443,"
+2019-10-12 22:24:10,Payload,https://t.co/CrwxkB8JT4,54ff01bdb236cc07d62aec568180c744df44008bd8acf5fac08cbe65c243455b,192.168.127.134:8080
+2019-10-12 22:02:02,Lime-RAT,https://t.co/xLkOZIuNYP,bd6b4e7f7053d41fb598b6b17f21e3f06897b0fe6d7977c84701440dca45864a,https://pastebin.com/raw/sg8DfGfY
+2019-10-12 21:32:03,Payload,https://t.co/RABIyuDo1f,54ff01bdb236cc07d62aec568180c744df44008bd8acf5fac08cbe65c243455b,192.168.127.134:8080
+2019-10-12 20:47:04,Payload,https://t.co/hCRsoEgwP7,54ff01bdb236cc07d62aec568180c744df44008bd8acf5fac08cbe65c243455b,192.168.127.134:8080
+2019-10-12 19:32:03,njRat,https://t.co/IK1D2RhyiX,65bad29fcabaaa47b2ed177b214b5b5bea033be657de2b253d3a107e34071db1,coppers.sytes.net:1997
+2019-10-12 19:02:03,njRat,https://t.co/Bfa2zDMK6g,65bad29fcabaaa47b2ed177b214b5b5bea033be657de2b253d3a107e34071db1,coppers.sytes.net:1997
+2019-10-12 18:17:05,Revenge,https://t.co/nGsIq6UKx4,61711d0bc5631bc14db57e8f3b3f7d5271bfcdc94426a32238563f1241d28598,144.76.134.221:333
 2019-10-12 16:47:04,njRat,https://t.co/pinKJgSIew,65bad29fcabaaa47b2ed177b214b5b5bea033be657de2b253d3a107e34071db1,coppers.sytes.net:1997
 2019-10-12 15:55:32,PoshC2,https://t.co/vTM6MCUaC6,5c1c0963a4c8d34ff855951eb95314b4a18c2745aed3c63b54e231111be27e70,https://3.8.236.109:443
 2019-10-12 15:25:41,PowerShell_Empire_Agent,https://t.co/X8mmCtNIpY,df3905532b7da4023896cb3b035a5c058be9d4dde9c7c829b2823665a334047f,https://advhack.ddns.net:443
