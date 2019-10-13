@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-10-13 05:05:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/vis1PeMuAZ,e6f2f353a8c9172dcadc503efb5d2ea586bd469159988d64e0e4a112eb9d8a07,192.168.43.179
+2019-10-13 04:35:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/JEf9DC71vo,e6f2f353a8c9172dcadc503efb5d2ea586bd469159988d64e0e4a112eb9d8a07,192.168.43.179
+2019-10-13 03:35:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/jN3sQAJ3Ta,d7d6fa91b016ba7f3ee03d904db6a3d7c8b638b325c23174660e7a50256ff17e,192.168.43.179
 2019-10-12 23:17:03,njRat,https://t.co/5QfsBc43i0,a6ba3a8dd3de1644341f6cdbee7ff2e9bd9b0a405d2fac9f6a12f00de7a43fb6,microsoftcorp32.ddns.net:5558
 2019-10-12 22:47:03,njRat,https://t.co/dA2ZtkNoMV,3f0dd565c2d909424b1e370bf4cde02ed1e88616926f18dc071a87dc149abc60,javaschedulerupdater.duckdns.org:5558
 2019-10-12 22:32:52,njRat,https://t.co/LV8xerNAvc,704ea33d51ae7d0c4af24a8150d8c79e99da0efd021726bebcf41de2ca47800c,"kshacker.ddns.net:443,"
