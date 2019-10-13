@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-10-13 06:55:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/x0RCUVQesL,8bd0ebf0f05c3e348b1dcdd0ee9d3e5d3b151038ca1c8fc99eb921786256f367,tronium.ddns.net
 2019-10-13 05:05:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/vis1PeMuAZ,e6f2f353a8c9172dcadc503efb5d2ea586bd469159988d64e0e4a112eb9d8a07,192.168.43.179
 2019-10-13 04:35:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/JEf9DC71vo,e6f2f353a8c9172dcadc503efb5d2ea586bd469159988d64e0e4a112eb9d8a07,192.168.43.179
 2019-10-13 03:35:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/jN3sQAJ3Ta,d7d6fa91b016ba7f3ee03d904db6a3d7c8b638b325c23174660e7a50256ff17e,192.168.43.179
