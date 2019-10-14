@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-10-14 12:32:04,NanoCore,https://t.co/AA7oAjODni,86a1253a418cecd2ff1f48da40f1fe3fe79d61bf54b4d03e0eba86f2ad4bae38,"0.tcp.ngrok.io:17589,0.tcp.ngrok.io:17589,"
 2019-10-14 11:17:04,Payload,https://t.co/7MyWAJLNim,08b12a36f6206283d53d88c7c7659cfeb12c2868f68e62810b856c5b05664038,192.168.1.102:7410
 2019-10-14 08:47:03,Revenge,https://t.co/y2eYGNTtDA,a7f55fb5b19e784e7286cf36422ee13a65c8391e3b139e6f48d4c618d60ecdb6,mozilaupdata.duckdns.org:333
 2019-10-14 08:35:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/l7PLla8XwB,5c3c6eacd772c0fefc41c17c675a018b9d7770ec9b7919be35f002c6438d1fa9,192.168.188.142
