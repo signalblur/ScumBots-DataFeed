@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-10-15 16:01:04,njRat,https://t.co/v2LlqtCOOO,92814fb3c7fd7d72dd4c86e18e9e1f7b0175fb05e03bc7a4fe0faf5473f7da61,127.0.0.1:1177
+2019-10-15 14:17:03,njRat,https://t.co/LmWNJyywbw,734baca6a7a02653df45483100956d86cdacc86033be48070efa4ec5f1de539c,sandboxupdate.myq-see.com:2002
+2019-10-15 12:02:03,njRat,https://t.co/ajcGgdRbxh,f5c484b3cd062719073ecb2f7478d2bab51322c51efc3c679c15a56152b5b857,sunnycom.thddns.net:9770
 2019-10-15 07:32:03,Revenge,https://t.co/10bmewTZ1z,b73d7bea1e8a7d0202770cf93a5aee2a3a98fd91e66a0b51f5715f323722c223,checkininternet.duckdns.org:333
 2019-10-14 20:47:03,njRat,https://t.co/RpBVAZhCwS,2a468d581815be0b3de6eb31f3fa861bc28a3d33ef0ea4c5cd3a353794299353,bedwiking.ddns.net:1177
 2019-10-14 19:10:08,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/jypU612Gkd,286b32cb47875e1ee3e28d265ef8354ad7bee9a939e34468c1651b5744c666a2,tronium2.ddns.net
