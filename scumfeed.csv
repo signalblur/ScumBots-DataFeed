@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-10-14 20:47:03,njRat,https://t.co/RpBVAZhCwS,2a468d581815be0b3de6eb31f3fa861bc28a3d33ef0ea4c5cd3a353794299353,bedwiking.ddns.net:1177
+2019-10-14 19:10:08,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/jypU612Gkd,286b32cb47875e1ee3e28d265ef8354ad7bee9a939e34468c1651b5744c666a2,tronium2.ddns.net
 2019-10-14 12:32:04,NanoCore,https://t.co/AA7oAjODni,86a1253a418cecd2ff1f48da40f1fe3fe79d61bf54b4d03e0eba86f2ad4bae38,"0.tcp.ngrok.io:17589,0.tcp.ngrok.io:17589,"
 2019-10-14 11:17:04,Payload,https://t.co/7MyWAJLNim,08b12a36f6206283d53d88c7c7659cfeb12c2868f68e62810b856c5b05664038,192.168.1.102:7410
 2019-10-14 08:47:03,Revenge,https://t.co/y2eYGNTtDA,a7f55fb5b19e784e7286cf36422ee13a65c8391e3b139e6f48d4c618d60ecdb6,mozilaupdata.duckdns.org:333
