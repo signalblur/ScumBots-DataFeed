@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-10-16 16:17:04,njRat,https://t.co/2G7wKzzzJe,2d754719920b6be8bc05d6823a56fb513fececfba264d5f813da6b711a235878,bedwiking.ddns.net:1177
 2019-10-16 10:32:04,NanoCore,https://t.co/aDUu0Ukgxr,8dfcace086362c01da101db8209e6dbeb2192000fa0ee13839abf58db52b48b4,"bobby2-44294.portmap.host:58780,127.0.0.1bobby2-44294.portmap.host:58780,"
 2019-10-16 10:17:14,NanoCore,https://t.co/9qC7wGpR86,6fff6b65d428a938d080dec0f3de871a46393b4c434e12ba622b8c7cf1c7f2fd,"bobby2-44294.portmap.host:58780,bobby2-44294.portmap.host:58780,"
 2019-10-16 07:17:03,Revenge,https://t.co/hVfNz2FnZY,ef85803d9b6fb5b3042fbd1def648c476d01819838737204bf95dae27c23add1,18.216.157.58:333
