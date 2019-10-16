@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-10-16 02:21:06,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/5cYOAY2ba8,d5c4b06d9700df2bbe8660b8dab921d5941cef6f0aee68265267d0f129fa1bff,103.133.139.41
 2019-10-15 22:17:03,njRat,https://t.co/tbjZqnCen4,eec6a948c9ad078d150e484e58442e332a172b5df126ab17f74e9e812c4b331e,bedwiking.ddns.net:1177
 2019-10-15 21:02:03,GruntStager,https://t.co/hR6ICG3TK3,c492b00ce1b8ea66f0aacd311b1419d73ae56137589cdaff7235febe4d0225ac,10.100.40.253:8081
 2019-10-15 20:47:04,njRat,https://t.co/nWLJcChPO7,9f5ba76d45eadf993622630ed6061d4e7e1bec299affec19706177155c50c56e,192.168.8.111:1177
