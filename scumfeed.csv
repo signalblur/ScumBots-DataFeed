@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-10-17 11:02:04,njRat,https://t.co/ut9mbxVc2h,d55eb17b95419223b4ded8ae48a6b82a631a3041be2ff85cded9fb418be53b9b,127.0.0.1:5555
+2019-10-17 10:32:04,njRat,https://t.co/0ITpZAhtId,fa908e7d8c4e15767b6726010a38a1d59b15a31274d0593c0269e0f2591951fe,Lolikot-43158.portmap.host:43158
 2019-10-16 23:32:37,njRat,https://t.co/xjSrTdpLxa,6cfc8add6eb4e6b00250f76ff95a5475d7255f2f6f79830f1823290a3313a422,fucky.duckdns.org:7414
 2019-10-16 23:32:20,njRat,https://t.co/ediOcwae8s,98c5dbdd9a35127a2d61fd1d75008473eb572356b6de24bcff2f7daad71e7b26,127.0.0.1:3324
 2019-10-16 23:32:03,njRat,https://t.co/eKQRG2PtaG,98c5dbdd9a35127a2d61fd1d75008473eb572356b6de24bcff2f7daad71e7b26,127.0.0.1:3324
