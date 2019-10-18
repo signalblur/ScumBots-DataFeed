@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-10-17 22:32:03,Revenge,https://t.co/KfLmAuXKRz,8d7115c44d786900ad2c83c537ad7fef721e8a4b17bd36e1cb999e9b41f0715a,"127.0.0.1:333,:,"
+2019-10-17 22:02:03,NanoCore,https://t.co/XXh0vqI3BS,bdbf3f2841bce578562e621e8015eacc7702b7489fca1e6c0bf7b3f8d61139b4,"groups.us.to:54984,"
+2019-10-17 21:17:20,NanoCore,https://t.co/H1UR2Pf7c8,bdbf3f2841bce578562e621e8015eacc7702b7489fca1e6c0bf7b3f8d61139b4,"groups.us.to:54984,"
+2019-10-17 21:17:03,Revenge,https://t.co/of5ko9XQdb,5f0dd19d0ee9a3f5506abf4b14dad0545c21d459d1d5297d0d79986a354d4c25,"127.0.0.1:333,cyber0x.ddns.net:333,:,"
+2019-10-17 19:17:03,njRat,https://t.co/uqCnOTRNH4,29053c336f2d44b6e58a6cef6116310cd4a8c979aa324c4e96c0c19f1143a491,bedwipro.ddns.net:1177
 2019-10-17 13:32:04,Payload,https://t.co/MzzmAbvjja,cb5874307246c97981d4ac5493c093135d7f5f4029a438733d0de93529fb57ef,192.168.101.40:4444
 2019-10-17 13:28:25,PowerShell_Empire_Agent,https://t.co/kxva27fruv,f603eb61326f219d49b71b836eaf8949804c40d2a221cb576ce871bb8293b090,https://web.saudivisions.org:443
 2019-10-17 13:25:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/zDCvaz7qdJ,a0ffdcfc7ecd04ebf9ac5de0c769c2cd7d477f6bb4679c96a9093d0154188dd1,192.168.1.46:445
