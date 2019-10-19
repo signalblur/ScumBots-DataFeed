@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-10-18 22:02:14,njRat,https://t.co/4FkBP9YMLb,734044ea9acf5aaab0bf32b15b65f825902579815380864b569be2f452d9c053,127.0.0.1:1177
+2019-10-18 21:02:03,Lime-RAT,https://t.co/QnoIgHZE2R,90749c718ec7fcd5394549b398a293bd657040d7f4dca19dc4c043038eb1e205,https://pastebin.com/raw/Cz9rpwNe
 2019-10-18 15:42:38,njRat,https://t.co/WR5FtgHCwr,19025ae074a682d66241d1bfba66f695022d2ab7559c2970dad40578c6d39a3b,127.0.0.1:1177
 2019-10-18 15:42:20,njRat,https://t.co/YPkQZGl3MW,b697175c63bb3b52c6d1ec72dad47c788a194641090a90b6658de6f01715cab3,updatesystem.linkpc.net:3003
 2019-10-18 15:42:03,njRat,https://t.co/i74jiomdQa,846d49c7c1df175ea53a2083ba2078d5ab046522433a2315fdd0dbbeb9d7e3a9,gamerus.publicvm.com:1237
