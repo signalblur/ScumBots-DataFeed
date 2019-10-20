@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2019-10-20 17:32:04,Payload,https://t.co/iNAun2vIy6,cd8b19cbe08a2ace933b9f3e631d4752c1f8f56e04646c03510877cda5c87e3d,193.161.193.99:49202
+2019-10-20 15:20:03,njRat,https://t.co/2mXa4txXVq,26a7aed2a9444799b8cd70c7c4605e8118982fba62a7417d9168d2b90a284b73,sphinx1.ddns.net:3110
+2019-10-20 15:13:32,njRat,https://t.co/O8wQkRYFJD,26a7aed2a9444799b8cd70c7c4605e8118982fba62a7417d9168d2b90a284b73,sphinx1.ddns.net:3110
+2019-10-20 14:49:17,njRat,https://t.co/Ny4pH8NF4c,7e6dce4194b7f42515cfe70a26a19cf018b66fd4522a0f10c46fac5bf884aad2,sandboxupdate.myq-see.com:2002
+2019-10-20 13:10:03,PowerShell_Empire_Agent,https://t.co/OxgRDiutwG,f0967763195e166f4d095bd7fba882315c021f7fa6aa632fe7f5d91be6655af5,192.168.0.172
+2019-10-20 12:50:34,PowerShell_Empire_Agent,https://t.co/63bXZ5ZcuJ,38120ec50104dfd5e83262591fe6cdccfc472caf5183ac4bfe3a27a482eb3217,192.168.0.172
+2019-10-20 12:50:03,PowerShell_Empire_Agent,https://t.co/eNmFyXbzTn,38120ec50104dfd5e83262591fe6cdccfc472caf5183ac4bfe3a27a482eb3217,192.168.0.172
+2019-10-20 12:02:03,njRat,https://t.co/SxkNL5mzJF,253f6233db41ca59d31bb300800cdde20aed6ff19c2ffbb0a7bc431819903581,127.0.0.1:5552
 2019-10-20 09:32:03,Revenge,https://t.co/k9H6ywjzjh,a07835e6d8f7f7f85fa6132a7fd3ba6f775e893222fa21ba4fbecec73fdef7e5,"iexplorer-sistem.duckdns.org:333,"
 2019-10-20 09:02:03,Revenge,https://t.co/rfgEJMvqsv,8a6b07978d521c6bf34c066a006dd49cbb4729643eea5ff0c783d37907de5c3a,
 2019-10-20 00:17:03,njRat,https://t.co/O1gz09X2EN,47289809a2c74d167393febbcb7c410b1b41be056a8ac9af217963ffcec656b9,nartart.zapto.org:5553
