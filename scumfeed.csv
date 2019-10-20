@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-10-19 21:32:03,NanoCore,https://t.co/DRzjvjmV9x,e0f4adaadf8b4df17ea2ad80cb9b376c0572f3a6b0ef8f668d19bf979302d56a,"0.tcp.ngrok.io:14753,127.0.0.1:14753,"
+2019-10-19 21:25:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/a2Tco4tWjO,f40de8c79e88163b04142967cd6283c3eefcfaaafa662603f289be0bc4a3146a,192.168.0.51:4444
+2019-10-19 20:47:03,Revenge,https://t.co/sRunAsCNNH,7c46d30154a5e10dce891a001f246771a1c967d4cb0cf3ce2754aef1366546b7,"193.161.193.99:56282,"
 2019-10-19 14:47:03,njRat,https://t.co/ukFyg7klnD,3ba1fd7aeadf7c42dda564954d23ed5fcdccfd65e9c5067189b7d21d97078562,connectddns.ddnsgeek.com:5550
 2019-10-19 05:30:03,PowerShell_Empire_Agent,https://t.co/1dU6zyBm9C,6ee2267372588972c663aa6f68785514ac1efe5d78ff36b72cf3032f9c29ef63,174.138.3.97:80
 2019-10-19 03:32:03,njRat,https://t.co/O04tOyyzmp,10b5b25e43d2ae85ad355229a573799939993dde7773b95c09da0c6cd2635a1e,weichdsfiass201209xklsnxnso.duckdns.org:2023
