@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-10-20 00:17:03,njRat,https://t.co/O1gz09X2EN,47289809a2c74d167393febbcb7c410b1b41be056a8ac9af217963ffcec656b9,nartart.zapto.org:5553
 2019-10-19 21:32:03,NanoCore,https://t.co/DRzjvjmV9x,e0f4adaadf8b4df17ea2ad80cb9b376c0572f3a6b0ef8f668d19bf979302d56a,"0.tcp.ngrok.io:14753,127.0.0.1:14753,"
 2019-10-19 21:25:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/a2Tco4tWjO,f40de8c79e88163b04142967cd6283c3eefcfaaafa662603f289be0bc4a3146a,192.168.0.51:4444
 2019-10-19 20:47:03,Revenge,https://t.co/sRunAsCNNH,7c46d30154a5e10dce891a001f246771a1c967d4cb0cf3ce2754aef1366546b7,"193.161.193.99:56282,"
