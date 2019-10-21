@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-10-21 05:02:03,Njratgold,https://t.co/Xp94NstAVy,fcb340660cf631b80ad38337680888955b92945ce35890925fc59d3ac56403bd,samyuo2.myq-see.com:1177
+2019-10-21 04:02:04,Njratgold,https://t.co/MvUEGI6Qoe,30ccf4337bb0ea0c8148aa12d507f1ed3e823d7661ebdccfc6a3cd1a1833247e,samyuo2.myq-see.com:1177
+2019-10-21 03:32:03,njRat,https://t.co/wD8csK8T1s,3fa0e8ea6ee1f27495d8cdb59ca6d6962192eaa4adb34c041a868be684eca4fc,samyuo2.myq-see.com:8080
+2019-10-21 01:47:10,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/lMBXG0Px0Z,18feb6e56656cbc7f939fa45f636ae8f9d25e977d53e7735be75073124e75b13,amazon3407.mooo.com
+2019-10-21 01:22:10,Payload,https://t.co/UEb7FzifDP,cd8b19cbe08a2ace933b9f3e631d4752c1f8f56e04646c03510877cda5c87e3d,193.161.193.99:49202
 2019-10-20 18:17:20,Payload,https://t.co/uBqSPjKDe0,cd8b19cbe08a2ace933b9f3e631d4752c1f8f56e04646c03510877cda5c87e3d,193.161.193.99:49202
 2019-10-20 18:17:03,Revenge,https://t.co/k9lE52ge2K,62739eb74e09bcc5fadb006e518882bdc930e89de0984b1b38be86984081fe87,"192.241.133.27:5555,"
 2019-10-20 18:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/GFoxs05TrC,50c8d49b1199fa90f754dc5963d0a1ee6f7b21ed4a8038da0a2fbf1dc969ec89,172.24.0.24:5555
