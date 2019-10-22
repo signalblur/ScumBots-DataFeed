@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2019-10-22 11:32:19,njRat,https://t.co/cN9itmm86Z,f066b4cd2f45eb0c79adbb98eba0fae8add18e91d48710eb8134fde7d8ef53f8,samyuo2.myq-see.com:8080
+2019-10-22 11:32:02,Revenge,https://t.co/A1VX79pJGc,e061dd602777acf6400fa4cb0396e639cd358f4d3f3d0b22c3af7e1269a780e6,"imaneblueyes.ddns.net:333,"
+2019-10-22 10:47:03,Revenge,https://t.co/aLuSFQBMMF,b5114ad4e87529bc43eda2b9a037c4ac49736a60c234570cda486cca5b0df6ec,"iexplorer-sistem.duckdns.org:333,"
+2019-10-22 09:45:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/pevUGUQdWY,d2ee9d4e1def6482c92b3132a246e2df24e9e28eaf9d925c292e8775ed888cb3,192.168.0.111:4444
+2019-10-22 08:55:34,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/jLXZxaADjK,5ba7d9d3db9fbe0d5b72817383508d1b6244f3a1228f698766d608b471c694c4,127.0.0.1:4444
+2019-10-22 08:55:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/IqqtmPon6d,767bc9dc6ef387638e3f647a0a490186f96a348bda5a404ae0c0522b8c79df7f,192.168.0.108:4444
+2019-10-22 08:32:03,Njratgold,https://t.co/GKdlwkNOYk,4bb19bd8f1dda915637ab29aba9d86161b6052148cf49c8e66ac9e3e2b730079,samyuo2.myq-see.com:1177
+2019-10-22 07:02:03,njRat,https://t.co/Jx1FrdYLp5,1649ba5c32281006a5f523ce36451740a53dfc24c562dbd52a1146dd35d1c6b7,127.0.0.1:1606
+2019-10-22 05:47:03,Njratgold,https://t.co/0IFmtf6hys,f5eeb869f9c9d81f04dfa75e8d3115ddf4fe5764cad90a46c360564dd3688a7d,samyuo2.myq-see.com:1177
 2019-10-21 21:47:03,Revenge,https://t.co/TPCEaKw28B,de8085b902043f49189094d8cf7a9a539adaaee228f2fba77f42c29ea2a43155,_:
 2019-10-21 20:02:04,njRat,https://t.co/IQbE0byNXc,bc72c54bcdf1697508d2a984a7bdc8c1e28227dbbfca1f38c6c85589c87832f8,bbb2017.duckdns.org:1177
 2019-10-21 19:17:20,njRat,https://t.co/iprdYqjOLP,8b6719b0a163f18764c0c973bdcb279c1fd9aca7afe8c9d0bc44ed94a14f156c,mgrmking.ddns.net:1177
