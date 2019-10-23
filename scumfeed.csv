@@ -1,4 +1,16 @@
 date_identified,implant_type,url,hash,c2
+2019-10-22 21:32:04,njRat,https://t.co/o3NyV8Cq0W,fe9826954aa8b57f9a1fb7aac232a3076ed9a7431bedefdf05bf3b64b0ad2fb8,193.161.193.99:56282
+2019-10-22 21:02:03,Revenge,https://t.co/nfmginpjU7,f56a1cb0303d2765e8b11d499547e972f312d30d504d6417de3caf40631e6e58,"gamerusa.duckdns.org:2012,"
+2019-10-22 20:47:36,Revenge,https://t.co/jHFnMDkBpW,2bae79e4d59de9783864d3eecd9a0ab49a84c55e9ead8ddb317040ba2300b9d5,"148.251.11.102:333,"
+2019-10-22 20:47:19,Revenge,https://t.co/yqSukL6tUC,f56a1cb0303d2765e8b11d499547e972f312d30d504d6417de3caf40631e6e58,"gamerusa.duckdns.org:2012,"
+2019-10-22 20:47:03,Revenge,https://t.co/T6NpGsf95e,f56a1cb0303d2765e8b11d499547e972f312d30d504d6417de3caf40631e6e58,"gamerusa.duckdns.org:2012,"
+2019-10-22 20:32:03,Revenge,https://t.co/yQ8r2DBImN,2bae79e4d59de9783864d3eecd9a0ab49a84c55e9ead8ddb317040ba2300b9d5,"148.251.11.102:333,"
+2019-10-22 19:50:03,PowerShell_Empire_Agent,https://t.co/fLrmrGahko,6583c5f24c4c0a0546258111c4da04434ec21260653cba9a004595ded7cc63bf,10.0.0.5:80
+2019-10-22 19:47:04,Revenge,https://t.co/lesfHTryPo,5731160cfcf6df214cf0c36007a3fb905202ae142ca5578858d8c54628698bab,"imanevpn.ddns.net:333,"
+2019-10-22 19:29:50,Njratgold,https://t.co/Vi0T3AQ3PT,4bb19bd8f1dda915637ab29aba9d86161b6052148cf49c8e66ac9e3e2b730079,samyuo2.myq-see.com:1177
+2019-10-22 19:17:03,Revenge,https://t.co/FsRLHuhiaH,1ca8920bea1f097d251f8d9b6a7d40dd6b2053e08aab6edd4c5538ff7d1f4a21,"imanevpn.ddns.net:333,"
+2019-10-22 19:02:03,Revenge,https://t.co/mh7qlQpq3W,0cab62209b3e7ddc221bea75b54a9a7d28e3414aa912df3216d590d39bb82297,"iexplorer-sistem.duckdns.org:333,"
+2019-10-22 18:42:25,njRat,https://t.co/EFpa3An8oF,7fd88b8b3977fafd49ff26a7dc822b91526eb96c4baa2e433321c87686198ed7,127.0.0.1:44
 2019-10-22 16:47:37,Revenge,https://t.co/Yko5J50QGX,8840eb8471571014d568e9cbd7b3ceb4d5871422c207213a761add115c4e984b,"imanevpn.ddns.net:333,"
 2019-10-22 16:47:20,Revenge,https://t.co/7KfQH8mZck,9e5be54a076961252f20dca0acfd27aec1b95b972baeb40d5ab19c4eb8640e3d,"imanevpn.ddns.net:333,"
 2019-10-22 16:47:03,njRat,https://t.co/ze6n3GfOdO,a606c75de6b374644e73458771d218f22d55cfffba8f2a23d8611e4e9e6a0a0b,imanevpn.ddns.net:110
