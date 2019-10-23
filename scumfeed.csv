@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-10-23 02:46:25,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/T4f6JKOVZO,2d4c77e48b3a22053e1d82dbf318c1feff19b276a23a9778604b8b37fbc0cdce,176.119.29.36
+2019-10-23 01:17:03,njRat,https://t.co/UclVIabiTS,761b48efde8f49eb5a8fef9afd238f2f7d16c558e4bdc6105e6946a87d2a0ab4,37.252.4.124:
+2019-10-23 00:02:03,njRat,https://t.co/qXWCuaE7gX,df569a62e97ea5917e5a1b459ccd369f1a6aa351e2e6b8d0189c0cbf7cb51b21,192.168.1.4:120
 2019-10-22 21:32:04,njRat,https://t.co/o3NyV8Cq0W,fe9826954aa8b57f9a1fb7aac232a3076ed9a7431bedefdf05bf3b64b0ad2fb8,193.161.193.99:56282
 2019-10-22 21:02:03,Revenge,https://t.co/nfmginpjU7,f56a1cb0303d2765e8b11d499547e972f312d30d504d6417de3caf40631e6e58,"gamerusa.duckdns.org:2012,"
 2019-10-22 20:47:36,Revenge,https://t.co/jHFnMDkBpW,2bae79e4d59de9783864d3eecd9a0ab49a84c55e9ead8ddb317040ba2300b9d5,"148.251.11.102:333,"
