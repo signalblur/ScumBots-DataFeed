@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-10-23 16:32:03,njRat,https://t.co/2GLkoHkqyW,4cb2aab340e952efc0ab91c484ddfae27ea9643710182211a1772c9a1cfc6848,ahmadking.ddns.net:1177
+2019-10-23 16:17:02,njRat,https://t.co/k0NCeDE0ku,1ff0d7f153563ef772f26ca6073ef5e32b5ab6243fe8e020d114c88b832258a9,bqsq-q.ddns.net:1177
+2019-10-23 16:02:03,njRat,https://t.co/nHHsvRQw8f,1ff0d7f153563ef772f26ca6073ef5e32b5ab6243fe8e020d114c88b832258a9,bqsq-q.ddns.net:1177
+2019-10-23 14:47:04,Njratgold,https://t.co/FaS4RHYRKt,924f4f84515856e36aac16e30fbcb8b1561299de1d622156c016c4dbd6b9c942,samyuo2.myq-see.com:1177
+2019-10-23 14:02:19,Njratgold,https://t.co/QKuqgISrbC,ce5f00d9be60f8ed227d0c9900b36d3a2dd42df46ab964691bc0f548c9b1231f,samyuo2.myq-see.com:1177
+2019-10-23 14:02:03,Njratgold,https://t.co/lBzWvutbAu,ce5f00d9be60f8ed227d0c9900b36d3a2dd42df46ab964691bc0f548c9b1231f,samyuo2.myq-see.com:1177
+2019-10-23 11:17:03,Njratgold,https://t.co/IM1ydQAb4x,3440cb1e10a0cd2c87ef52fc584cfca7c9118ebba09981368f8ac3cf3c001645,127.0.0.1:1177
 2019-10-23 02:46:25,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/T4f6JKOVZO,2d4c77e48b3a22053e1d82dbf318c1feff19b276a23a9778604b8b37fbc0cdce,176.119.29.36
 2019-10-23 01:17:03,njRat,https://t.co/UclVIabiTS,761b48efde8f49eb5a8fef9afd238f2f7d16c558e4bdc6105e6946a87d2a0ab4,37.252.4.124:
 2019-10-23 00:02:03,njRat,https://t.co/qXWCuaE7gX,df569a62e97ea5917e5a1b459ccd369f1a6aa351e2e6b8d0189c0cbf7cb51b21,192.168.1.4:120
