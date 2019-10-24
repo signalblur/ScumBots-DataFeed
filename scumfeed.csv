@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-10-23 20:47:04,njRat,https://t.co/uYhGpLXdtm,7f9b02d988ab12706b5fc29dd7f268c63c544ab7d535849b947fbaaa69128da4,bqsq-q.ddns.net:1177
+2019-10-23 19:00:35,PowerShell_Empire_Agent,https://t.co/Hcv4TVbb0K,0cb03c84ea1461443ec1ad90c452edebdf8119eaf1427467dc5cd7e1406dbdb4,192.168.1.100:8081
+2019-10-23 19:00:03,PowerShell_Empire_Agent,https://t.co/PSlPMIorKg,5137fd45ec31065be8a88d88673bc989da4f9ea3564d83e96c9112cc7c08f555,192.168.1.3:80
 2019-10-23 16:32:03,njRat,https://t.co/2GLkoHkqyW,4cb2aab340e952efc0ab91c484ddfae27ea9643710182211a1772c9a1cfc6848,ahmadking.ddns.net:1177
 2019-10-23 16:17:02,njRat,https://t.co/k0NCeDE0ku,1ff0d7f153563ef772f26ca6073ef5e32b5ab6243fe8e020d114c88b832258a9,bqsq-q.ddns.net:1177
 2019-10-23 16:02:03,njRat,https://t.co/nHHsvRQw8f,1ff0d7f153563ef772f26ca6073ef5e32b5ab6243fe8e020d114c88b832258a9,bqsq-q.ddns.net:1177
