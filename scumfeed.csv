@@ -1,4 +1,18 @@
 date_identified,implant_type,url,hash,c2
+2019-10-24 22:02:03,atraps,https://t.co/H0xiCCx7T4,af5ae8671e20687391c6cc7bcf8ea526138360ba04826a580615017aaa0caa36,gamerusa.duckdns.org:1234
+2019-10-24 21:50:50,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/Bmn7JPhfs1,0e820f1731da32897f6540284c417925f6ecfa5f9fae177ea3b2e1e1ab89bb4c,192.168.243.132:6969
+2019-10-24 21:23:20,PowerShell_Empire_Agent,https://t.co/K5nlBxOUTS,4ed095bebca5d522c4281b5387b9f9a4a80545cb0f8e72f71ab32b5c9a3f35f8,192.168.156.15:8585
+2019-10-24 21:21:59,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/rZiEJhS7sc,9b1c39dfc35ee4db5ad4689c3fef0b402557dfe6a4bec8875f5feb6d956f0fc0,10.10.30.184:6868
+2019-10-24 21:05:52,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/R5Vgzt1k6P,9b1c39dfc35ee4db5ad4689c3fef0b402557dfe6a4bec8875f5feb6d956f0fc0,10.10.30.184:6868
+2019-10-24 19:47:03,njRat,https://t.co/vgtKwxNADW,fdc872e49b1238ea9f889f72bf545bbbd8cffcffceecbf0d3f9c8849e01d057e,bood.ddns.net:1337
+2019-10-24 19:02:03,njRat,https://t.co/XtvlzhlpKI,355c296183e8a5036d5f97823421ee23a2f98ef3fd87ba9c427e03124431108b,127.0.0.1:1177
+2019-10-24 18:25:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/D460Un6NUJ,299667b802122cb1e35f8dac30f78c24e8db95a18012f79dd937d8909cc3483c,192.168.200.16:5555
+2019-10-24 18:15:35,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/qWCkQcR4HZ,5b2cc6a797787708fb3a0230530652cb6a501644a2d6cf0ed01bcc8eaa3a7cb3,192.168.200.16:4444
+2019-10-24 18:15:04,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/5WvtOr7KQD,bf7467196f544a2665b1b1ca2a463a1e6d86a5ca2697436bc671e6d85905de03,192.168.200.16:443
+2019-10-24 18:05:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/z6g6FaiosH,cb4ea2202ec7349a5b3925163498d1e11727f49f353dd921aef948fd11052efc,192.168.200.16
+2019-10-24 17:55:34,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/OgWnVFsbJm,aae0784aa35a3816c52489f250ceaf7706e450f6fdf1d882c058caf84028cce7,192.168.200.16:5555
+2019-10-24 17:55:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/im6wFpmKhM,efc2109a58d2227856ed3882b8a5a0addd264422f8fc6e3747d90871caf53bb1,192.168.200.16
+2019-10-24 17:45:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/K283pURTpg,dd43c1330ed2bfeee8e7bb787f61b712d4b2f48165f34353b53dc14b291aa219,192.168.200.16
 2019-10-24 17:35:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/8TNRTc1LKU,2369f5614f8e003c1d9e27c4f2cf31952fd2e13c5983d01e929ef2bf01352d6b,192.168.200.16:4444
 2019-10-24 16:17:03,njRat,https://t.co/nQlV3ASSFD,68a0a65c274b3240b6d4366587e00c8657fd592a366fa420f84151c24aa54903,teamwork2019.ddns.net:2222
 2019-10-24 13:55:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/45Div6sm9w,9b1c39dfc35ee4db5ad4689c3fef0b402557dfe6a4bec8875f5feb6d956f0fc0,10.10.30.184:6868
