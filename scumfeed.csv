@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2019-10-26 17:17:03,njRat,https://t.co/4vh8VILWMA,f0098493d52588bee6e14042372ae9582bb1f8739ef3aebff6da03cbee3a39be,ak2012.ddns.net:553
+2019-10-26 17:02:36,Revenge,https://t.co/fGtfF7eapQ,2461196d40e2b1082f85dcbf6b536de21cf1e80a18ba84279d5ed40e1700225d,"127.0.0.1:5050,"
+2019-10-26 17:02:19,Revenge,https://t.co/9s7s57tfeU,2461196d40e2b1082f85dcbf6b536de21cf1e80a18ba84279d5ed40e1700225d,"127.0.0.1:5050,"
+2019-10-26 17:02:03,Revenge,https://t.co/06uUMMmlsi,2461196d40e2b1082f85dcbf6b536de21cf1e80a18ba84279d5ed40e1700225d,"127.0.0.1:5050,"
+2019-10-26 16:53:24,Revenge,https://t.co/5OQwMTgWTO,2461196d40e2b1082f85dcbf6b536de21cf1e80a18ba84279d5ed40e1700225d,"127.0.0.1:5050,"
+2019-10-26 16:53:07,GruntStager,https://t.co/HycH1mtLZ5,fd5a453e785afea2dc6ecd0565335e24f41bfd943a824b325ffcbff8d594e0a8,192.168.4.2:80
+2019-10-26 16:05:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/eZBYL3cBPK,f883dd3a4fce85cad2330041505cf55b244468d9a003574c663c7dfe38e988b4,192.168.0.4
+2019-10-26 14:02:02,njRat,https://t.co/O4ifMyCCNF,8abec4a69869b07c977c692e0cfb0a13790fefcac6f501803da8cefb50e3a8e7,127.0.0.1:443
+2019-10-26 12:47:02,njRat,https://t.co/CFJneLMN9E,77b6393d6628adac55bded18ebd97940bb3992b0011d2d6d2452a340fef5b5f9,naderuser.ddns.net:1234
+2019-10-26 12:02:03,njRat,https://t.co/rJirlNDN7J,f0098493d52588bee6e14042372ae9582bb1f8739ef3aebff6da03cbee3a39be,ak2012.ddns.net:553
 2019-10-26 11:17:03,Revenge,https://t.co/KVLIkjZ5Z1,2461196d40e2b1082f85dcbf6b536de21cf1e80a18ba84279d5ed40e1700225d,"127.0.0.1:5050,"
 2019-10-26 05:25:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/xKO0H9Q13W,9d2dddb56ea8841ce9c9d4e263d2b1939fa8e840953f14bcd372b79c1e8a033d,192.168.1.128
 2019-10-25 19:15:04,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/QImSAWxwm0,dfe13b3f6a09ec40c29e144bf50bde6c17d788c8a2725d4aadc9a6cd1cc5de9b,72.177.60.152
