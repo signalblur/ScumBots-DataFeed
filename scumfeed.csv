@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-10-26 11:17:03,Revenge,https://t.co/KVLIkjZ5Z1,2461196d40e2b1082f85dcbf6b536de21cf1e80a18ba84279d5ed40e1700225d,"127.0.0.1:5050,"
 2019-10-26 05:25:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/xKO0H9Q13W,9d2dddb56ea8841ce9c9d4e263d2b1939fa8e840953f14bcd372b79c1e8a033d,192.168.1.128
 2019-10-25 19:15:04,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/QImSAWxwm0,dfe13b3f6a09ec40c29e144bf50bde6c17d788c8a2725d4aadc9a6cd1cc5de9b,72.177.60.152
 2019-10-25 19:02:21,Revenge,https://t.co/AREGodkYba,69468f99a13e0269cfdf70d2aa79e4e3e70f5b9b38e50bb85180a36568e083d6,_:
