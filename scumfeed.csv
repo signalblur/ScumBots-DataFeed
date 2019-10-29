@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-10-29 16:55:03,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/22f43fClkp,bbaba49f5d2b1935529f7e72e63cb96c0caa65e3f5113629512c650d3d2c2bd4,165.227.85.160:3389
+2019-10-29 16:25:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/Moa7fTi5gy,d368f6d8efbe512fab08c6d16e96a76d2ac7693067dd17030845f9fab55a4089,67.205.165.194
+2019-10-29 16:17:02,njRat,https://t.co/wfP177ORao,9801c0934b7f2fc1f050b1907e7dcfd8b556e2b83eb9b52e43ab2117bfc4df91,192.168.80.131:6669
+2019-10-29 15:47:06,DarkComet,https://t.co/j7O0746pL5,f27c82bd6fe49515efb0f44863c79d5dad6b0b4749ba1aac7a85ed44664d6b90,"192.168.1.100:1604/,"
 2019-10-29 10:47:03,Revenge,https://t.co/7JW2ftPaFr,83b714f7c40a5f68c0f36722097abcc2135395dca1f541c4e6eb9f122524f0a1,"18.216.157.58:333,"
 2019-10-29 02:02:02,njRat,https://t.co/vFdMJonTxi,4f3de4dc6cbebf6ebb0dcc95bc516269bf998588df272d6b4b3fe4b5deb5895f,chromehandle.ddns.net:1604
 2019-10-28 21:17:02,njRat,https://t.co/aThFO0fSxK,44e2be5e9e1ca29b6951c5b6acf746bc51543ea4aaa9edbfce9ad601ce379ba8,osaam2015.ddns.net:5552
