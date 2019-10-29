@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-10-29 10:47:03,Revenge,https://t.co/7JW2ftPaFr,83b714f7c40a5f68c0f36722097abcc2135395dca1f541c4e6eb9f122524f0a1,"18.216.157.58:333,"
 2019-10-29 02:02:02,njRat,https://t.co/vFdMJonTxi,4f3de4dc6cbebf6ebb0dcc95bc516269bf998588df272d6b4b3fe4b5deb5895f,chromehandle.ddns.net:1604
 2019-10-28 21:17:02,njRat,https://t.co/aThFO0fSxK,44e2be5e9e1ca29b6951c5b6acf746bc51543ea4aaa9edbfce9ad601ce379ba8,osaam2015.ddns.net:5552
 2019-10-28 19:15:05,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/jU3ExCJfEJ,9701400b0d6d977e53727c571844c008d3700c6494ec1ea8480f0f164cb85261,192.168.1.11:443
