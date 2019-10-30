@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-10-30 17:00:35,PowerShell_Empire_Agent,https://t.co/QSTCdV6M9p,0cbab37206c59298db6112946ce326b80640cdb14ab58f263f484fce5d91589c,192.168.1.7:80
+2019-10-30 17:00:04,PowerShell_Empire_Agent,https://t.co/2tgIHqaSDt,2f01d870482bfd952076ec7a16509dc06f9dc99e3c3bbf5a877eb68e0504f533,192.168.0.4:80
+2019-10-30 15:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ettSl3Swis,0a134f5b4989b59faf1aadefffba49767a3acc8cbef3ffc157eb6e11ea6eb3bc,192.168.2.173
+2019-10-30 12:44:01,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/3mmDtq6VMQ,a2f99a19ca4dbe1e23b73c4ad2e804e5170eee5ad32552163906731936f08254,10.0.2.15:445
 2019-10-30 10:47:03,Revenge,https://t.co/bgnekoXfpO,f8dcf6bdd7b4b64eee2c23d75644f513d4482bc69b65c1ded34c0bd30bd4d131,"18.216.157.58:333,"
 2019-10-30 02:17:02,njRat,https://t.co/1ePHhfG63H,6ad1cb0df9bf3e8480f984a39e84d910e516c1759037433db4c00f4632cc96bd,192.168.80.131:6789
 2019-10-30 02:02:02,njRat,https://t.co/Z5YDsH6oZ1,1318d3260f4072f058259736b96352f99e24c65a3bd1ac4f3cccb09b3beeac27,192.168.80.131:7878
