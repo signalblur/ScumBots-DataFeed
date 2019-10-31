@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-10-30 21:02:03,Pony,https://t.co/1OAqIQNdlN,1b52c61ccd921c4dcdf0f78e8dd6895e84fab0ad34d5f308ee541ba16167497b,"vman21.com/ac1/gate.php,"
+2019-10-30 18:32:03,njRat,https://t.co/haAzc4yWUx,0bff0332379f0167b24bb6d4d0608c75408f607c420e2261ca8ca234054703f9,umutdeniz-24132.portmap.host:24132
 2019-10-30 17:00:35,PowerShell_Empire_Agent,https://t.co/QSTCdV6M9p,0cbab37206c59298db6112946ce326b80640cdb14ab58f263f484fce5d91589c,192.168.1.7:80
 2019-10-30 17:00:04,PowerShell_Empire_Agent,https://t.co/2tgIHqaSDt,2f01d870482bfd952076ec7a16509dc06f9dc99e3c3bbf5a877eb68e0504f533,192.168.0.4:80
 2019-10-30 15:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ettSl3Swis,0a134f5b4989b59faf1aadefffba49767a3acc8cbef3ffc157eb6e11ea6eb3bc,192.168.2.173
