@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-10-31 17:02:03,Revenge,https://t.co/iAPVIhkxTD,96a008b46c9acacccb03a31c01c9c28dac64b621eb819b8c92f242288207973a,"d0rian2022.ddns.net:2022,"
+2019-10-31 15:17:03,Njratgold,https://t.co/Dk6TquZzfO,91a466500abd59ae06a258fe916d2231045fb7ff42456e999a947a92be46ee20,127.0.0.1:1177
+2019-10-31 15:02:03,njRat,https://t.co/MbHtpQQL3u,f05490f9641c07701c39bf9bd55603f8b2b41976b70ac19d07e73f9f8fa8e3b7,samyuo2.myq-see.com:117
+2019-10-31 14:41:25,PowerShell_Empire_Agent,https://t.co/MnaukN3Ghs,6b5a48533a2576db51abc31eee5a8e8b974ab447deddb92708fe9a0924bd8991,122.165.139.138:80
+2019-10-31 14:26:16,PowerShell_Empire_Agent,https://t.co/cZ8lMR77q9,abbbad8893014cc23b435c3340ee14a0ea1ae9c67690686cfc39e6df22576963,https://ajax.microsoft.com:443
 2019-10-31 04:02:03,njRat,https://t.co/axzpPVurI0,cdba7f9a84f61364e54688fce77138f73b21dbb27057ecaf9225cedb3b149dd9,samyuo2.myq-see.com:117
 2019-10-31 03:47:03,Revenge,https://t.co/GeB4CvRTyx,7ea70cacc29c00fe8fdbc952c1d062537fbff619d6ee125ac1bac95b83bc9f08,"gamerspro.duckdns.org:2016,"
 2019-10-31 00:25:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/CxLFa4llXl,3a11455099adfadc8a0fdcffd726adaf4301e4915b62bf3adbd3b34fa5f0d138,192.168.15.41:7070
