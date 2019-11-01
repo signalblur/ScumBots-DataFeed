@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-11-01 14:30:03,PowerShell_Empire_Agent,https://t.co/k2zvwubLfN,613ba39f0055ee712cef76745dd1e105cca6d363a44160a65faaba941098fc48,18.223.41.243:17192
+2019-11-01 14:02:04,Njratgold,https://t.co/zCb2IDjzq7,a69a781c217370274bcd31a8faa37b6de6d6a6ccec56b549b6c95fd047be012e,samyuo2.myq-see.com:1177
+2019-11-01 13:18:51,PowerShell_Empire_Agent,https://t.co/vnWHgbdNCR,d7009786e261e7b43a70136b2b01a9f93cf8b5e1aaeb21d8c9dd94b6fbbed99d,f52a9f38.ngrok.io:80
+2019-11-01 13:05:04,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/HL0y5dIb8e,c11221cbc912a76967b157555124299c3d6a4f678e0611758877eac3972dc8db,192.168.0.110:4444
 2019-11-01 11:47:02,njRat,https://t.co/cdO6b7AgCZ,9844d3720d085dacb5e6ab1b897e51ddba69b5d82f281823b72d063eda704aa5,192.168.80.131:6789
 2019-11-01 11:02:02,njRat,https://t.co/tdj6k2UlUe,6fbcb79ebefdec935d1a9a1c240768da692093d37155c6c9eda55bbe9d9e6fae,127.0.0.1:5552
 2019-11-01 06:32:03,Revenge,https://t.co/v0Y34wAuA1,840ed7eb0e1b6c8c3b3fcba5de2c09561ab514f14ca22bdafd4bf2aee72fbc45,"18.216.157.58:333,"
