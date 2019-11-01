@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-11-01 11:47:02,njRat,https://t.co/cdO6b7AgCZ,9844d3720d085dacb5e6ab1b897e51ddba69b5d82f281823b72d063eda704aa5,192.168.80.131:6789
+2019-11-01 11:02:02,njRat,https://t.co/tdj6k2UlUe,6fbcb79ebefdec935d1a9a1c240768da692093d37155c6c9eda55bbe9d9e6fae,127.0.0.1:5552
+2019-11-01 06:32:03,Revenge,https://t.co/v0Y34wAuA1,840ed7eb0e1b6c8c3b3fcba5de2c09561ab514f14ca22bdafd4bf2aee72fbc45,"18.216.157.58:333,"
 2019-10-31 19:30:34,PowerShell_Empire_Agent,https://t.co/qfjxNlXsF5,c9258d538698cd24f39a25684f2cf65d7fc150570b5c0fcbb490a8c759af4c8f,f52a9f38.ngrok.io:80
 2019-10-31 19:30:03,PowerShell_Empire_Agent,https://t.co/HdS6EAOEYS,c9258d538698cd24f39a25684f2cf65d7fc150570b5c0fcbb490a8c759af4c8f,f52a9f38.ngrok.io:80
 2019-10-31 17:02:03,Revenge,https://t.co/iAPVIhkxTD,96a008b46c9acacccb03a31c01c9c28dac64b621eb819b8c92f242288207973a,"d0rian2022.ddns.net:2022,"
