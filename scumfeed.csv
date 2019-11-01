@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-10-31 19:30:34,PowerShell_Empire_Agent,https://t.co/qfjxNlXsF5,c9258d538698cd24f39a25684f2cf65d7fc150570b5c0fcbb490a8c759af4c8f,f52a9f38.ngrok.io:80
+2019-10-31 19:30:03,PowerShell_Empire_Agent,https://t.co/HdS6EAOEYS,c9258d538698cd24f39a25684f2cf65d7fc150570b5c0fcbb490a8c759af4c8f,f52a9f38.ngrok.io:80
 2019-10-31 17:02:03,Revenge,https://t.co/iAPVIhkxTD,96a008b46c9acacccb03a31c01c9c28dac64b621eb819b8c92f242288207973a,"d0rian2022.ddns.net:2022,"
 2019-10-31 15:17:03,Njratgold,https://t.co/Dk6TquZzfO,91a466500abd59ae06a258fe916d2231045fb7ff42456e999a947a92be46ee20,127.0.0.1:1177
 2019-10-31 15:02:03,njRat,https://t.co/MbHtpQQL3u,f05490f9641c07701c39bf9bd55603f8b2b41976b70ac19d07e73f9f8fa8e3b7,samyuo2.myq-see.com:117
