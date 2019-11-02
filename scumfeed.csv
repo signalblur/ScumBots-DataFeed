@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2019-11-01 23:45:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/QPd17k9alg,024d0b0afc43adbaa57bbf1a118206bf059a08e742fbaecd4c7e3d7bcf135119,192.168.214.2
+2019-11-01 23:25:04,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/bNjDT4KBIl,05d1bc71e5ae1a26562e5be3877cb605ab2b33bbd01cd0bacfdaf375e1242737,192.168.56.1
+2019-11-01 23:16:06,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/GnU5z1qWAv,47d91d523f97a5d02ac170fce345f4739fe222fcd05647808208043838e01c16,10.0.50.201
+2019-11-01 23:15:34,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/qhQD30Sgf2,fba05ed6ce7b4bed65a100f4dd68fede22d3650d4f9daeb8f4e663dcb38abdf9,10.0.50.156
+2019-11-01 23:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Pb4lvgLNCS,2d112b0f01d6a222d71c61eab8026791763d9c570ddddf53dd20ad9d1b15513c,10.0.50.176
+2019-11-01 21:47:04,njRat,https://t.co/FMKZ9NPTBO,6432210cb229d7a992b4339b69c5ac9a6eb6f3cca14e06d58395bd936a5246fe,danielgomesb.hopto.org:5552
+2019-11-01 21:20:04,PowerShell_Empire_Agent,https://t.co/Y7ccXiUBDU,8eb80a0689b5b43581f380b04ee4ed183e75804080861ff9e0e8d5d50f0e3491,10.0.0.6:80
+2019-11-01 19:10:03,PoshC2,https://t.co/Ls1FwFVRi2,f90945eb1237192322be4ad6eafd7cfc5ad4ad8e2762e8898757a98b94b08c19,https://c2.viris.eu:443
 2019-11-01 14:30:03,PowerShell_Empire_Agent,https://t.co/k2zvwubLfN,613ba39f0055ee712cef76745dd1e105cca6d363a44160a65faaba941098fc48,18.223.41.243:17192
 2019-11-01 14:02:04,Njratgold,https://t.co/zCb2IDjzq7,a69a781c217370274bcd31a8faa37b6de6d6a6ccec56b549b6c95fd047be012e,samyuo2.myq-see.com:1177
 2019-11-01 13:18:51,PowerShell_Empire_Agent,https://t.co/vnWHgbdNCR,d7009786e261e7b43a70136b2b01a9f93cf8b5e1aaeb21d8c9dd94b6fbbed99d,f52a9f38.ngrok.io:80
