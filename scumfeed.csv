@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-11-02 05:17:02,Revenge,https://t.co/qqNiETEbe1,d1ec8f55edd07cca9ff30216cdf383e3fc258655845c9328fb26ff1ff0461b26,"gamerspro.duckdns.org:2016,"
+2019-11-02 00:32:02,njRat,https://t.co/a0aJ1KhOI5,111eb0ab55f07b092613850a36e6f5799ca8d8ee5a70a69bbc71ef7f4cf57925,sbaedrman00.ddns.net:3973
 2019-11-01 23:45:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/QPd17k9alg,024d0b0afc43adbaa57bbf1a118206bf059a08e742fbaecd4c7e3d7bcf135119,192.168.214.2
 2019-11-01 23:25:04,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/bNjDT4KBIl,05d1bc71e5ae1a26562e5be3877cb605ab2b33bbd01cd0bacfdaf375e1242737,192.168.56.1
 2019-11-01 23:16:06,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/GnU5z1qWAv,47d91d523f97a5d02ac170fce345f4739fe222fcd05647808208043838e01c16,10.0.50.201
