@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-11-03 01:45:10,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/Tn47CCQk9X,d17a0df15aada8712b3ace571c1d32aebdf9762dcb16f534c512729f346b5ac6,18.223.41.243:19650
 2019-11-02 18:08:15,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/6kbMbtKuz1,d7e2ea354836dc122bf8f64c9462a417243b29866a9bb2b834097c087778ca2a,198.44.250.251
 2019-11-02 17:49:16,PowerShell_Empire_Agent,https://t.co/cb16GU9li7,fa2494bcc26ed1b8b18d97cfb4a71c8f4daa5b340876027cfccf392bd497b778,https://ajax.microsoft.com:443
 2019-11-02 05:17:02,Revenge,https://t.co/qqNiETEbe1,d1ec8f55edd07cca9ff30216cdf383e3fc258655845c9328fb26ff1ff0461b26,"gamerspro.duckdns.org:2016,"
