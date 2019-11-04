@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-11-04 03:02:03,Revenge,https://t.co/D1x5UsTyrI,52cda805c64d3ef2def9781a23ef165b709d820d5d102521ca36a3b8c1652788,"gamerspro.duckdns.org:2017,"
+2019-11-04 01:02:34,njRat,https://t.co/VRTLfyf8II,c21bae3cdbea2675701def2d336f3f3aed0b168e6249af1531a910772fac754e,127.0.0.1:5552
+2019-11-04 01:02:18,njRat,https://t.co/0KW7uVSets,5cde27dad539e436f398f1111391fe83255ea107937e2161d8e00e2e00a9f067,127.0.0.1:5552
+2019-11-04 01:02:02,njRat,https://t.co/g2Rx6jzQym,5cde27dad539e436f398f1111391fe83255ea107937e2161d8e00e2e00a9f067,127.0.0.1:5552
+2019-11-04 00:47:03,njRat,https://t.co/xAEjkFoxpe,c21bae3cdbea2675701def2d336f3f3aed0b168e6249af1531a910772fac754e,127.0.0.1:5552
 2019-11-03 07:32:02,njRat,https://t.co/ms4Wjt6Wlp,09a66d5b43d7136ad9766a96eab53e8b51eb59b6efc93a2d686e90d998ef8434,172.16.10.93:6969
 2019-11-03 01:45:10,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/Tn47CCQk9X,d17a0df15aada8712b3ace571c1d32aebdf9762dcb16f534c512729f346b5ac6,18.223.41.243:19650
 2019-11-02 18:08:15,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/6kbMbtKuz1,d7e2ea354836dc122bf8f64c9462a417243b29866a9bb2b834097c087778ca2a,198.44.250.251
