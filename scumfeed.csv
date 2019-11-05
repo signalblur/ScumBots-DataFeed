@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-11-04 22:47:03,njRat,https://t.co/XdX6RRtFcJ,a070bb11bca3a10d8f2482ecb1c517ce919a254403cb9de57feaee0e29ef86d2,sira7md.ddns.net:5552
+2019-11-04 21:47:03,njRat,https://t.co/A9uD34Zae6,f1be0c1a2d326870372df5810a6b9bcbd74abe2cbc6321fa8244b884935b4a7f,pro111.ddns.net:4000
+2019-11-04 20:32:20,njRat,https://t.co/zUCZ4Fa6Xi,039f374ce64a70a99b5b632549ac385f5f840a695150d4a6e9f7fdeae5d387dc,127.0.0.1:5552
+2019-11-04 20:32:04,njRat,https://t.co/uAKEnKrZk9,ae1508af476bb0bd09d6eb6c73c045509604d24d3427fe24e1080fc6ec0c31ba,127.0.0.1:5552
+2019-11-04 18:05:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/cA1qPTuQqh,847bda9c315f64a910bf8c33328d089fc402a716c195ddcc9e70249fe46e07b3,165.227.85.160
 2019-11-04 16:55:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/vAtdxiZs1j,b7bd2be7057a28b904983e2c4e806b7991bb2cc8808122403c01aabdbed9c698,67.205.165.194
 2019-11-04 16:47:03,Revenge,https://t.co/5AujgbVuT0,dc71d4b7daad64100ffac6b360405ed6be50556a05c1ad8b12415e96a5ed8a7c,"193.161.193.99:56282,"
 2019-11-04 14:32:03,njRat,https://t.co/mIK9JuQDMt,32733750854e9647119c05445c127ca8cd70427f71366fc9e4f226e2cc9276e0,sonsoz1-42532.portmap.host:42532
