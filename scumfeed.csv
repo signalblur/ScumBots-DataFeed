@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-11-05 11:17:03,njRat,https://t.co/Q0KQUPGxZy,b4f3a049b1d80b8a159025909aa71b13dfaa0cd33e5dbf59deae2d25f5c91a3e,njpablo.ddns.net:1605
+2019-11-05 09:32:20,njRat,https://t.co/fngR9Ub18Z,b4bb9678656da4a5d162835b7f9a14ca0306aafd9c803467c19c5680386b81a7,javaupdate.hopto.org:5552
+2019-11-05 09:32:03,Revenge,https://t.co/5JbKVKbK7x,10a555d4308575404fd9666c52d7a5bff4d75d0fca7adc8a7a9218e2bea0d784,"javaupdate.hopto.org:1000,"
+2019-11-05 09:17:20,njRat,https://t.co/ZFq98tQWA9,fc6fdd66cf64958b22fefab46fe936166c218afcdf0f76a1c857600e0f5bab41,javaupdate.hopto.org:300
+2019-11-05 09:17:03,njRat,https://t.co/sbPNNMl9DJ,2dbed82c0fa8ffa6fcf40521ea5458596b8b4a8b160b1558b5cf7347331d3935,javaupdate.hopto.org:300
+2019-11-05 09:02:03,njRat,https://t.co/WV23t5iXZc,8e67ad6d937ca8313051445b9528621ea30bad9fdb068a1278e235e3d1ce0328,javaupdate.hopto.org:5552
 2019-11-05 03:32:03,njRat,https://t.co/2jgF41xTAW,e46d2018eac9cf530994f909e4ddce1c78c91113886342d25f275675811e2353,77.78.103.51:553
 2019-11-05 03:17:03,njRat,https://t.co/VEyCErb4tc,e46d2018eac9cf530994f909e4ddce1c78c91113886342d25f275675811e2353,77.78.103.51:553
 2019-11-05 01:03:11,Revenge,https://t.co/NViB13EFVQ,7e71b591e3fe86e8e5c2255cdc6b9d50a649724d9c04621517dfdad885308acf,"185.19.85.137:101,"
