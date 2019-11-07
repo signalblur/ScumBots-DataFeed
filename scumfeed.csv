@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-11-06 19:32:03,njRat,https://t.co/Yayc7I89r9,d0ba2c003cb44a1b94a3accb7d30a4d05ea235b50aea72c91156286c1f2e8bd0,benekopaccc-40921.portmap.host:1019
+2019-11-06 19:17:03,njRat,https://t.co/EfPrFEc9gO,f726d35ab10e9ee1dc9d6f480b26933437999421d641bc4bceb293e09fa6f227,benekopaccc-40921.portmap.host:40921
+2019-11-06 19:02:03,Njratgold,https://t.co/6CGwueEB9X,1930e7e43bffa1257a90eb6a0292733029364a36b223d30b63a2ada53e1d3cda,sder.ddns.net:1177
 2019-11-06 17:43:06,AbsoluteRAT,https://t.co/fZ5ZqPOIx3,b25744a172e718b61f0758ee02a91683b6154376e3eff2cd1f25d5541a154290,127.0.0.1:1177
 2019-11-06 17:42:49,AbsoluteRAT,https://t.co/nVxx85l6Jh,a0de7d68f3a2375920335a9e4a25e8590a11e55968379179fd7d2715a647182b,127.0.0.1:1177
 2019-11-06 17:42:33,AbsoluteRAT,https://t.co/Y5yvrBYoQq,a214a30225428679027ddab5e9dce22e4f25b8d2babd3bbfa6a989f944db8182,127.0.0.1:1177
