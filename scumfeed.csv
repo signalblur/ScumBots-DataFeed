@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-11-07 11:02:03,Lime-RAT,https://t.co/7TZaQhzDMs,8625d749dfac256d340559e12b567b02a1bd6e60055c857c20529fb080433eaf,https://pastebin.com/raw/P1mymm72
+2019-11-07 08:02:03,Njratgold,https://t.co/U0DrFDsLnR,f62a8b5e19d3da0fb0f372502e6c15d99ddb79e365e8d9b810d077ed9d5296c1,sder.ddns.net:1177
 2019-11-06 19:32:03,njRat,https://t.co/Yayc7I89r9,d0ba2c003cb44a1b94a3accb7d30a4d05ea235b50aea72c91156286c1f2e8bd0,benekopaccc-40921.portmap.host:1019
 2019-11-06 19:17:03,njRat,https://t.co/EfPrFEc9gO,f726d35ab10e9ee1dc9d6f480b26933437999421d641bc4bceb293e09fa6f227,benekopaccc-40921.portmap.host:40921
 2019-11-06 19:02:03,Njratgold,https://t.co/6CGwueEB9X,1930e7e43bffa1257a90eb6a0292733029364a36b223d30b63a2ada53e1d3cda,sder.ddns.net:1177
