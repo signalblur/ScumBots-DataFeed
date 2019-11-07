@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-11-07 17:47:03,NanoCore,https://t.co/2OfTDffr3q,cb8d337d43264d8afd2e728650fc51a549e5e7a92dbbda335dcfef4a8f7276a7,"127.0.0.1:1880,"
+2019-11-07 16:32:04,njRat,https://t.co/AefRmyCamh,f056b0445ca0f29324cf79fc7b564453c33b7615bda17e30f1a23405127d6d42,192.168.3.104:5555
+2019-11-07 15:47:03,njRat,https://t.co/OTfdwUIeao,0dff4dc0a981cc9fbc9edb3650a227bc8b4a1021d3813d11280d56f34788593b,smata.zapto.org:5552
+2019-11-07 15:02:03,njRat,https://t.co/3CYcjprwnV,958cc7262fac99a9eaf8fc21704831429d024c0509facec6a5899ee64c7a6e6d,192.168.3.104:5552
+2019-11-07 14:17:05,PowerShell_Empire_Agent,https://t.co/EL1lHqxmqR,0f37680c7fe78c7944b82958cc9a0e202a9fb86a5b3c698044ddb8b8d976dd96,https://142.93.116.248:443
 2019-11-07 11:02:03,Lime-RAT,https://t.co/7TZaQhzDMs,8625d749dfac256d340559e12b567b02a1bd6e60055c857c20529fb080433eaf,https://pastebin.com/raw/P1mymm72
 2019-11-07 08:02:03,Njratgold,https://t.co/U0DrFDsLnR,f62a8b5e19d3da0fb0f372502e6c15d99ddb79e365e8d9b810d077ed9d5296c1,sder.ddns.net:1177
 2019-11-06 19:32:03,njRat,https://t.co/Yayc7I89r9,d0ba2c003cb44a1b94a3accb7d30a4d05ea235b50aea72c91156286c1f2e8bd0,benekopaccc-40921.portmap.host:1019
