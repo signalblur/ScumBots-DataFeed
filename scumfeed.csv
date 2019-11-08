@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-11-08 01:17:02,njRat,https://t.co/zSGsiHOvSA,3203877149b4943d86a44b38340d9ade1e7007734a7be4778d8898c149267be3,192.168.7.37:5555
 2019-11-07 18:47:36,NanoCore,https://t.co/br6ctQhSxZ,f52c2748059bd6d4170cab664239137c181d37d62c76ecf8914e1fe787cd874f,"benekopaccc-40921.portmap.host:40921,"
 2019-11-07 18:47:19,njRat,https://t.co/tL2FlQyuan,3f04a8a7f8ab287266a14f662c9dcccfc39ee49f656dc7d6811dac0808388f17,thistoolkillanimals.myftp.biz:1177
 2019-11-07 18:47:02,NanoCore,https://t.co/HkDjq05pU7,f52c2748059bd6d4170cab664239137c181d37d62c76ecf8914e1fe787cd874f,"benekopaccc-40921.portmap.host:40921,"
