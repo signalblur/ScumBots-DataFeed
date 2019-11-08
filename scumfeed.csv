@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-11-08 08:17:06,DarkComet,https://t.co/WHhb3CQGtW,428d2ac435838afa89bb3e8e3cc6455ac52347bf517508b4ebb867bdcac5b717,"fluxdarkcmt-34777.portmap.host:22406/,"
 2019-11-08 01:17:02,njRat,https://t.co/zSGsiHOvSA,3203877149b4943d86a44b38340d9ade1e7007734a7be4778d8898c149267be3,192.168.7.37:5555
 2019-11-07 18:47:36,NanoCore,https://t.co/br6ctQhSxZ,f52c2748059bd6d4170cab664239137c181d37d62c76ecf8914e1fe787cd874f,"benekopaccc-40921.portmap.host:40921,"
 2019-11-07 18:47:19,njRat,https://t.co/tL2FlQyuan,3f04a8a7f8ab287266a14f662c9dcccfc39ee49f656dc7d6811dac0808388f17,thistoolkillanimals.myftp.biz:1177
