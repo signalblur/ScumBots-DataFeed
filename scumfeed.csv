@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-11-09 11:17:02,Lime-RAT,https://t.co/53FkcIdSec,c17507457366de025bfd1bc437ce0486b8c8d5adc7c474d6950303dd79a4de73,https://pastebin.com/raw/PmdhKv0x
+2019-11-09 09:25:02,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/rHPddvguE6,607d06dd56462660381b6d62aa1b9b107e6c99b2388ea1d3fd796034edfcf0c7,104.238.181.194
+2019-11-08 23:59:48,Revenge,https://t.co/0PluqhbG39,0141d05dfc3f718d638ce46d13099493cf56f5f64ab6414652174e850bbb4bc3,"192.168.0.44:2222,"
+2019-11-08 23:59:32,njRat,https://t.co/2VIrw8HTh8,c11e54bc1e427436f0d72cfe9893ec148b8b8b842fa610c6f9ec2fbd63cb712d,die595tack067-47428.portmap.host:47428
+2019-11-08 23:59:14,Revenge,https://t.co/HPLw0nplyB,e750367f9c62813797ebd1f486b589bd237f9675da0a7c836f42cf1c3756dda3,"die595tack067-47428.portmap.host:47428,"
+2019-11-08 23:58:58,Revenge,https://t.co/GroVeSCD2E,e750367f9c62813797ebd1f486b589bd237f9675da0a7c836f42cf1c3756dda3,"die595tack067-47428.portmap.host:47428,"
 2019-11-08 23:58:42,Revenge,https://t.co/S31NxAL8Fx,0141d05dfc3f718d638ce46d13099493cf56f5f64ab6414652174e850bbb4bc3,"192.168.0.44:2222,"
 2019-11-08 23:58:25,Revenge,https://t.co/36SS17uy1F,e750367f9c62813797ebd1f486b589bd237f9675da0a7c836f42cf1c3756dda3,"die595tack067-47428.portmap.host:47428,"
 2019-11-08 23:58:08,Revenge,https://t.co/mK4unzbhOK,025d96f9f2c0c203bbf32dfd2dc131f1712ce1abbaf23cc83a6066952eca7c87,"192.168.0.44:2222,"
