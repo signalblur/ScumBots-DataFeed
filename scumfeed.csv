@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-11-10 05:55:04,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/jL3s7ElFNV,91d2feae5dc1241a8d147d2ec7b8c222da6adc2a8d9ab5f34d1c3c2cbd5eca44,192.168.181.129
+2019-11-10 05:47:03,njRat,https://t.co/Cb9K1ghIOD,23032efaa7e94f6ab5699f52e31a6511068bb88b701704e916a7977bf511149e,127.0.0.1:55
+2019-11-10 05:46:36,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/I15KpXcEdN,4d0cdfc5a99ad768209e0c1e341d88c6b3e1a8697d7d4df1a0b4346c19648776,192.168.196.129
+2019-11-10 05:46:05,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/SDpX6W4m64,25234f694b6800e217c646aad33b938a811304ef6849538b9e1254af93a79ed8,192.168.124.128
+2019-11-10 05:45:33,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/BE6hr8ZKVw,26a91c49b14d0402035a582e3780ec316cd05a48c7a4e1def5ae7f1c28b06791,198.168.181.130
+2019-11-10 05:45:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Un7CtBjd8u,74c07fa4131ab764c58d248dee8c921d36ffb0cf993a01d88cd532243a948793,192.168.126.128
+2019-11-10 05:35:34,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/mWwrZxKYNQ,ce3b492bd131971facf0c09d84ef2233cc6bcb9d09e4650b754fdaa51d93ca45,172.16.49.129
 2019-11-10 05:35:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/NUnKMO9XIl,67c7b5675ee00485cdff6538a7b8c753f7234ec358e8c383607be1ac67c779c3,192.168.65.128
 2019-11-10 05:25:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/UhPXEQuoWL,65a07ec8f264dc0406b09dee84e06c1ab3eb168dd5628f6633394ccc1dde4129,192.168.181.130
 2019-11-10 05:15:34,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/qj1lzPv1gL,ce3b492bd131971facf0c09d84ef2233cc6bcb9d09e4650b754fdaa51d93ca45,172.16.49.129
