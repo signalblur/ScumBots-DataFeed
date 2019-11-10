@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2019-11-09 22:17:03,njRat,https://t.co/OpJSYkZXiK,b1e24fade5ec864dd39e071f185fa71156ab35cf02c6f75febfeb792200bcab5,192.168.1.4:5552
+2019-11-09 21:02:02,njRat,https://t.co/yufhnQbQTf,1ff2a3a65cf7903dcc27d1e11938418f11b01c987d768552bec67f22007cedc3,192.168.1.14:1177
+2019-11-09 20:47:02,njRat,https://t.co/6529gb6Og0,bf7841812e2c35248e4f4c5830049dfc31e7afeb23b84f7d05f0eb9acb6918ff,rohoraha.ddns.net:1177
+2019-11-09 20:32:03,Revenge,https://t.co/UedPR0uiWF,025d96f9f2c0c203bbf32dfd2dc131f1712ce1abbaf23cc83a6066952eca7c87,"192.168.0.44:2222,"
+2019-11-09 19:02:52,Revenge,https://t.co/CVXnSkncU9,025d96f9f2c0c203bbf32dfd2dc131f1712ce1abbaf23cc83a6066952eca7c87,"192.168.0.44:2222,"
+2019-11-09 18:55:21,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/cIVYean4rF,437b9b4b07db56a8f323386e0434b0e351aeb599420664deedc4c6be36285fd9,206.189.69.35
+2019-11-09 18:44:37,PowerShell_Empire_Agent,https://t.co/VOrOL3rdhn,f5cf1e6495efb9bf5c26dfca63a20aa8bd15af9b4529d4294f071ec1bf1b9562,192.168.122.74:80
+2019-11-09 18:35:28,njRat,https://t.co/dK5YAlh5js,8c480e864aca5c2657a129afd883c43e6fe15b6b1b739d6649381b6eb748e661,rohoraha.ddns.net:1177
+2019-11-09 18:32:03,Revenge,https://t.co/E28cSYWD4X,025d96f9f2c0c203bbf32dfd2dc131f1712ce1abbaf23cc83a6066952eca7c87,"192.168.0.44:2222,"
+2019-11-09 18:17:04,njRat,https://t.co/J4z5ZFsM0g,8c480e864aca5c2657a129afd883c43e6fe15b6b1b739d6649381b6eb748e661,rohoraha.ddns.net:1177
 2019-11-09 15:32:03,Revenge,https://t.co/Xm2j3exFlW,025d96f9f2c0c203bbf32dfd2dc131f1712ce1abbaf23cc83a6066952eca7c87,"192.168.0.44:2222,"
 2019-11-09 15:17:18,Revenge,https://t.co/LabHn7OKoE,025d96f9f2c0c203bbf32dfd2dc131f1712ce1abbaf23cc83a6066952eca7c87,"192.168.0.44:2222,"
 2019-11-09 15:17:02,Revenge,https://t.co/xMspju5JHg,025d96f9f2c0c203bbf32dfd2dc131f1712ce1abbaf23cc83a6066952eca7c87,"192.168.0.44:2222,"
