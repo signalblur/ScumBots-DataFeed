@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-11-12 05:32:02,njRat,https://t.co/a7Ogc6odM6,e206f88f74c8991945a2acc09a0c9fa8815fc737349c761fbb9397ce124715a8,kexxkok-47488.portmap.io:47488
+2019-11-12 05:02:02,njRat,https://t.co/O0LIXZDc1H,5c948d43584e8ee126f09fd873a007332910196ee1471e7fcc21607c60b8be22,kexxkok-47488.portmap.io:47488
+2019-11-12 02:32:20,Njratgold,https://t.co/FrZKi07e6w,bc6a5bbfa0fc12dd7496a29436a02dc258fcef96f263ebc69eba79a0cd341002,buceta12.duckdns.org:1133
+2019-11-12 02:32:03,Njratgold,https://t.co/9eMSofk6vd,bc6a5bbfa0fc12dd7496a29436a02dc258fcef96f263ebc69eba79a0cd341002,buceta12.duckdns.org:1133
+2019-11-12 01:04:31,PowerShell_Empire_Agent,https://t.co/d2ijiMoKuk,f9f6b1ddc27667f5abf37ce7763642e85b8611056c1e6158c7bed9723d889172,192.168.122.101:80
+2019-11-12 01:02:20,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/FG24Rf2xbi,d22e4734221f3481ba4f2f818d32ee40b23e5deae75f7778ef295131248f54f4,7812.000g.0000.0.toor.t.ck68.co
 2019-11-11 21:07:22,njRat,https://t.co/62AsyvogNE,9a907cfb890e29e55290410a2b61c73f449577abc0211d4427904eb3bb50f5f8,fethi009.ddns.net:1177
 2019-11-11 21:05:40,Revenge,https://t.co/KyOvqdTTRK,025d96f9f2c0c203bbf32dfd2dc131f1712ce1abbaf23cc83a6066952eca7c87,"192.168.0.44:2222,"
 2019-11-11 21:05:24,AbsoluteRAT,https://t.co/Jie9EJwgMK,a6b0548563c009c24de1f8903cf63945640db5c768bd4e152aaab388f51f7157,192.168.0.44:1177
