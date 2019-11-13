@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-11-12 18:50:42,njRat,https://t.co/ZbBpgJmVtW,1259426fb9b8684fc09992a279e8e472d769f9291136085a86c875ad6b2e9bb9,poesia.hopto.org:222
+2019-11-12 18:50:25,njRat,https://t.co/K6WmocCDQW,a5fb8bc1a99ed520742b5c2a9cf8b0211a573cf291014f61693c04e48bf448e0,poesia.hopto.org:1177
 2019-11-12 12:40:03,PoshC2,https://t.co/ACh7AHiczf,e41c650d17d4bf41bc9e08a9bf7037c482b959a1593bc2bbc1079251b6a768fe,https://trailiant-cdn.azureedge.net:443
 2019-11-12 12:30:03,njRat,https://t.co/SW6rHxHtwd,88dcb6686f823736b375d6a4b96d342438e87fc9cbb152c55685fbdb3aba87cd,1.240.63.85:5552
 2019-11-12 12:29:47,Revenge,https://t.co/6Cy8iV3sd7,4e4f51adafdc22a859e0b54852304a0f430f74351c126d285deca8d8ec12e295,"queda212.duckdns.org:242,"
