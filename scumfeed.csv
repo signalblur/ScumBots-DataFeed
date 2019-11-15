@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-11-14 23:17:03,Payload,https://t.co/1y9L3U2TBE,97663bfef1ed659bd4c975e2e859bcc82d066172d8b06da4f3fbbb36e3c228ef,5.94.121.244:4444
+2019-11-14 23:02:19,NanoCore,https://t.co/bTRl5RgVWk,beb9f2b01f58aceb52bb2f5f495fc772f5f07a47c6c51c1ad156e5d5f091e505,"192.168.1.16:54984,127.0.0.1:54984,"
+2019-11-14 23:02:03,Revenge,https://t.co/G4TypJalUN,6dfc3c58d220baed939aeaf5d1bae66803eb51806662edad4998c01996eef521,"192.168.1.16:81,,"
+2019-11-14 20:13:10,PowerShell_Empire_Agent,https://t.co/phMZJjq5Z2,f9f6b1ddc27667f5abf37ce7763642e85b8611056c1e6158c7bed9723d889172,192.168.122.101:80
+2019-11-14 20:11:43,Lime-RAT,https://t.co/Ot9JeRRUYh,c761e8a27765eeba7f5afeef1e400cfe450d2e40c0abe0dda4c4259b63eb9ac4,https://pastebin.com/raw/Wwz9Vwbz
+2019-11-14 19:02:03,NanoCore,https://t.co/cXxwMBplFs,01fcb55c9b48b0bbe819ee74e1cc84b806db70e106224a0fc89ce881494e0d70,"krypticonrat.ddns.net:1608,127.0.0.1:1608,"
 2019-11-14 17:17:02,njRat,https://t.co/1o0MK9ryMj,cb19585660e323d7a0b187e55e33ffba85fba49c52e4f0a6f59d0cf69118ae47,ratcracked.hopto.org:5552
 2019-11-14 17:02:02,njRat,https://t.co/LsqsmhDCwG,4349b2107b4b91a384fa441e7a34aaaefa3a605f76287925146545b2b42d56fa,127.0.0.1:5552
 2019-11-14 16:47:19,NanoCore,https://t.co/JHBmBrVp6r,d9f63935317a1cb007562bb151459cce71ed835f2f190e0421d22863b3062244,"krypticonrat.ddns.net:1608,127.0.0.1:1608,"
