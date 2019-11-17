@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-11-16 19:02:03,Payload,https://t.co/NTuDppIlq7,6e703bc2c05a2927b7133286a9085e983b6e77109696f3adfec1afe4c70e33a3,10.10.14.19:4444
 2019-11-16 17:32:03,NanoCore,https://t.co/xt36MjBe76,060ceefdefcb93cb53e0c0296d968680b2cc0249436626bb0bae544e495c8e71,"imvegas.ddns.net:25565,imvegas.ddns.net:25565,"
 2019-11-16 16:32:02,njRat,https://t.co/HpJQc4pPMw,36173bf7e2537a2f635b3fcd7d89de516db85afd36b52ea76007c140b826a8e8,nzasa.ddns.net:5552
 2019-11-16 15:45:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/Q2omiPhvMz,f050056da29c2e09cfd0d81cf92afe0fed96e79685a3a5cf0f59467f360c9535,186.10.116.109:4455
