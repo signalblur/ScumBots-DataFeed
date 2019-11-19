@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-11-19 16:47:03,njRat,https://t.co/xOHjjbob7W,6865c229dbff33578ef3879645dd80296a76d99e09a8ef8990ce30f283ad42be,127.0.0.1:1605
+2019-11-19 13:55:48,GruntStager,https://t.co/suQBhvA2Ma,1f188e608dde1ecb0806b6474be334e78a64ba1365f5b32d84807775f0c5b28f,192.168.29.129:80
+2019-11-19 12:17:02,Revenge,https://t.co/R2BRfikWnA,4ca3c87a41991fb9c7cd7091553adc95cc14f37ba3494b0cacdc9350a26b74c2,"triple777.ddns.net:8080,"
 2019-11-19 10:47:03,Revenge,https://t.co/yYAiUKCUOs,0601c2604ad2daafeeb88eb1b4610e215ed85e7bdb00a94181aa00e3d1551ea5,"masterlovecocacola.ddns.com.br:333,,"
 2019-11-19 09:30:02,PowerShell_Empire_Agent,https://t.co/6Lxfyty8dz,2b6d77e40ef649bb1e9c79a0a47f22bce51594161220a662a3b260d52037ada5,snow.linkpc.net:8080
 2019-11-19 09:00:03,PowerShell_Empire_Agent,https://t.co/s9D99rDmTZ,a95efada31571cf1ad91e48f87b64776e75088b97acd6e158654c78644c41548,snow.linkpc.net:8080
