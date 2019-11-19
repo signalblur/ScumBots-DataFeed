@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-11-19 03:47:04,njRat,https://t.co/BtrxMqYXmM,8fdebc6cc5d62a23033075374dbb7cc5c5527a01c44a710ae69c8de8937fd60f,201.46.39.58:1338
+2019-11-19 02:27:08,njRat,https://t.co/K491EltgvS,2174178addb3644ecbd349300bf2f08a2a3d97d3c4c577d2dce828ae98171ad7,127.0.0.1:25565
 2019-11-18 20:17:03,njRat,https://t.co/V9II4JBvtP,48ea11c825a3879ca7bd394366e8d89b08cc8aca92edafe870ee3cae60f3dea4,553636.duckdns.org:222
 2019-11-18 19:10:03,PowerShell_Empire_Agent,https://t.co/Hm8ZPBHWO6,ab75941be7da265f2c7d3a368c27a308b550a435da2d29be5fdde96ddc16c985,https://snow.linkpc.net:8080
 2019-11-18 18:06:38,Revenge,https://t.co/xAmSRppyMp,8e702ce83b5358c1367b6c2c6e4122e1b34229ca41d39473808d8c6ea79cdfc7,"vaiseferrarnoob.duckdns.org:333,"
