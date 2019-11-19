@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-11-19 10:47:03,Revenge,https://t.co/yYAiUKCUOs,0601c2604ad2daafeeb88eb1b4610e215ed85e7bdb00a94181aa00e3d1551ea5,"masterlovecocacola.ddns.com.br:333,,"
+2019-11-19 09:30:02,PowerShell_Empire_Agent,https://t.co/6Lxfyty8dz,2b6d77e40ef649bb1e9c79a0a47f22bce51594161220a662a3b260d52037ada5,snow.linkpc.net:8080
+2019-11-19 09:00:03,PowerShell_Empire_Agent,https://t.co/s9D99rDmTZ,a95efada31571cf1ad91e48f87b64776e75088b97acd6e158654c78644c41548,snow.linkpc.net:8080
+2019-11-19 08:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/i5IElG8C3S,2806acdde854c86b1e36df34a99545cdea47accef0aa2780f2105b6a97394cc9,192.168.1.139
 2019-11-19 03:47:04,njRat,https://t.co/BtrxMqYXmM,8fdebc6cc5d62a23033075374dbb7cc5c5527a01c44a710ae69c8de8937fd60f,201.46.39.58:1338
 2019-11-19 02:27:08,njRat,https://t.co/K491EltgvS,2174178addb3644ecbd349300bf2f08a2a3d97d3c4c577d2dce828ae98171ad7,127.0.0.1:25565
 2019-11-18 20:17:03,njRat,https://t.co/V9II4JBvtP,48ea11c825a3879ca7bd394366e8d89b08cc8aca92edafe870ee3cae60f3dea4,553636.duckdns.org:222
