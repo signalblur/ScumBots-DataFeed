@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-11-18 20:17:03,njRat,https://t.co/V9II4JBvtP,48ea11c825a3879ca7bd394366e8d89b08cc8aca92edafe870ee3cae60f3dea4,553636.duckdns.org:222
+2019-11-18 19:10:03,PowerShell_Empire_Agent,https://t.co/Hm8ZPBHWO6,ab75941be7da265f2c7d3a368c27a308b550a435da2d29be5fdde96ddc16c985,https://snow.linkpc.net:8080
+2019-11-18 18:06:38,Revenge,https://t.co/xAmSRppyMp,8e702ce83b5358c1367b6c2c6e4122e1b34229ca41d39473808d8c6ea79cdfc7,"vaiseferrarnoob.duckdns.org:333,"
+2019-11-18 18:04:22,Revenge,https://t.co/80vLAYgzSV,8e702ce83b5358c1367b6c2c6e4122e1b34229ca41d39473808d8c6ea79cdfc7,"vaiseferrarnoob.duckdns.org:333,"
+2019-11-18 17:58:47,GruntStager,https://t.co/it6IE1Fjk9,d0be2bbfec95e3e5e2bd0d8a1ce30548172ffe7b6447b0e01d2cac7f62df5938,calof.pagekite.me:80
+2019-11-18 17:56:49,njRat,https://t.co/GKh3Vzp9kZ,31f966fa56c0d4861c996f59919d0afb1601a5fd3210e000829ba15314fdf1a1,soheib35.ddns.net:5552
 2019-11-18 15:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/uzLe5mQoc4,cf98296a2da452e8ad52de21641a3ea1a0e8dae4fc2fbbce8567fa059db288bb,192.168.1.111
 2019-11-18 12:17:03,njRat,https://t.co/fHtY4rO04v,4154d6c08813ad32aec75c89337ba2e13a9489150ff5900c46681fdecc37c3f5,127.0.0.1:3627
 2019-11-18 10:47:03,Revenge,https://t.co/CykODiIfFx,49d45cff6f588c20191eaf0925089c11706c7e423a7e6156f677c50d1425b1c1,"masterlovecocacola.ddns.com.br:333,,"
