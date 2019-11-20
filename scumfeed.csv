@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-11-19 21:17:03,njRat,https://t.co/TyAlQPR548,9961f2daec3ff6c20a45dee86c6bcebdbcf9ad11e9e9ffc61feb510bcee6fd3a,nza:5552
+2019-11-19 21:02:03,Revenge,https://t.co/M7hfeX52mQ,d9c59ce5c2eea63dcfe577d91115d36e8c619e5cd08faf59b0ed8da626dd711b,"127.0.0.1:3333,,"
+2019-11-19 20:32:03,Revenge,https://t.co/C2YFfC4Srd,d9c59ce5c2eea63dcfe577d91115d36e8c619e5cd08faf59b0ed8da626dd711b,"127.0.0.1:3333,,"
+2019-11-19 20:11:43,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/fQM7w6ULCb,e058e5f3100b46ff75f092d024dfe86657d22ce92a7d050125577e025766e5a5,df98fdslkjfs.red
 2019-11-19 16:47:03,njRat,https://t.co/xOHjjbob7W,6865c229dbff33578ef3879645dd80296a76d99e09a8ef8990ce30f283ad42be,127.0.0.1:1605
 2019-11-19 13:55:48,GruntStager,https://t.co/suQBhvA2Ma,1f188e608dde1ecb0806b6474be334e78a64ba1365f5b32d84807775f0c5b28f,192.168.29.129:80
 2019-11-19 12:17:02,Revenge,https://t.co/R2BRfikWnA,4ca3c87a41991fb9c7cd7091553adc95cc14f37ba3494b0cacdc9350a26b74c2,"triple777.ddns.net:8080,"
