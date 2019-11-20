@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-11-20 14:17:03,Revenge,https://t.co/KtBPpebNyx,e791bac8bddbcd9ae69ecc83d8f5afd201aea1ce853f290e2daabee41b30a03f,"192.168.233.143:666,,"
+2019-11-20 12:32:02,Revenge,https://t.co/NzfEQnOeDY,d9c59ce5c2eea63dcfe577d91115d36e8c619e5cd08faf59b0ed8da626dd711b,"127.0.0.1:3333,,"
 2019-11-20 11:47:03,Revenge,https://t.co/lAdXXpF3k0,d897c82a581c918c674bb1827328b558cff5e41d4c7d8c60b44508b92633ba71,"masterlovecocacola.ddns.com.br:333,,"
 2019-11-20 11:32:02,Revenge,https://t.co/Lg4BPHXCO3,41303c676a73b893966d0f2dfb3ea7e0aaac822e599c8fc2006a494909864c28,"192.168.253.1:3333,"
 2019-11-20 10:55:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/qkcGiUKoYd,0c7161f797f7937bdba1f9ed34834328771b42c48647a0fdd9cc1372b7ab8c60,192.168.100.200
