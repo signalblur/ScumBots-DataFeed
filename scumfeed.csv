@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-11-21 11:45:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/h69wdMwtUL,6eaaf204eb04a2401c3e87c69d58935f8ac594a9f0ea238e8f2523ce95d21926,192.168.100.4:5555
+2019-11-21 11:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/UVyUMl06ct,eb1bf127baf7fb9fb6d8207339351927884e093653ff898e70b09492c199e278,192.168.100.200
+2019-11-21 11:05:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ivZSU061Lj,09c3263f44c81061d3f403ce228eabf43269d1800d12acc015aa255efcf9e441,192.168.100.4:4444
 2019-11-21 02:32:02,njRat,https://t.co/X6kwGN3U2t,301c5c8b8491ab086f1aa9b0a08ca846572ed13e1621b09178efeacf9e0b4d74,YXN1LmhvcHRvLm9yZw!@#$!!@#$!:94
 2019-11-20 18:45:52,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/LxzGIXY2ez,15db7880e5b29a740ac44a6420f9ecc836ac9762ec7087b842848dfefe4cb02b,7812.000g.0000.0.toor.t.ck68.co
 2019-11-20 18:27:43,PowerShell_Empire_Agent,https://t.co/L0Pdo1e9RJ,ca2298cad09b06b901ba9687e67d86e078656951e939ea154983caa8cbad8fb6,https://ajax.microsoft.com:443
