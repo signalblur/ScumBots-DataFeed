@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-11-21 02:32:02,njRat,https://t.co/X6kwGN3U2t,301c5c8b8491ab086f1aa9b0a08ca846572ed13e1621b09178efeacf9e0b4d74,YXN1LmhvcHRvLm9yZw!@#$!!@#$!:94
+2019-11-20 18:45:52,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/LxzGIXY2ez,15db7880e5b29a740ac44a6420f9ecc836ac9762ec7087b842848dfefe4cb02b,7812.000g.0000.0.toor.t.ck68.co
+2019-11-20 18:27:43,PowerShell_Empire_Agent,https://t.co/L0Pdo1e9RJ,ca2298cad09b06b901ba9687e67d86e078656951e939ea154983caa8cbad8fb6,https://ajax.microsoft.com:443
+2019-11-20 18:17:03,njRat,https://t.co/LG5L6vsR8C,1fee886015243649ba0a9429cf0180c1122fb879541effa75a67d72c32b4bc60,94.23.190.214:5000
+2019-11-20 18:15:12,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/ezMJdC7WNH,bdd9501f78a76f4d52bf2f7df8742892d717670b3dd7f92cecf9efeeb10f876f,185.62.56.199
+2019-11-20 18:02:03,Revenge,https://t.co/ZaeQFydARP,6d5793897f0d445be676199db8ad96808540b3aa9154868c950055183a6702ac,"127.0.0.1:3333,"
 2019-11-20 14:17:03,Revenge,https://t.co/KtBPpebNyx,e791bac8bddbcd9ae69ecc83d8f5afd201aea1ce853f290e2daabee41b30a03f,"192.168.233.143:666,,"
 2019-11-20 12:32:02,Revenge,https://t.co/NzfEQnOeDY,d9c59ce5c2eea63dcfe577d91115d36e8c619e5cd08faf59b0ed8da626dd711b,"127.0.0.1:3333,,"
 2019-11-20 11:47:03,Revenge,https://t.co/lAdXXpF3k0,d897c82a581c918c674bb1827328b558cff5e41d4c7d8c60b44508b92633ba71,"masterlovecocacola.ddns.com.br:333,,"
