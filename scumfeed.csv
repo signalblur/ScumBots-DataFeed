@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2019-11-21 16:17:03,AbsoluteRAT,https://t.co/4MLL1CcG9Z,7ba9b342659c08ee67e4e19faac63e88c9c78591051da73fa23b29d5618ddc14,127.0.0.1:1177
+2019-11-21 16:02:02,AbsoluteRAT,https://t.co/buVvt3nxPd,7ba9b342659c08ee67e4e19faac63e88c9c78591051da73fa23b29d5618ddc14,127.0.0.1:1177
+2019-11-21 15:50:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/i9yjqRzSEN,15db7880e5b29a740ac44a6420f9ecc836ac9762ec7087b842848dfefe4cb02b,7812.000g.0000.0.toor.t.ck68.co
+2019-11-21 15:47:19,AbsoluteRAT,https://t.co/VsKUH9LNzM,7ba9b342659c08ee67e4e19faac63e88c9c78591051da73fa23b29d5618ddc14,127.0.0.1:1177
+2019-11-21 15:47:03,AbsoluteRAT,https://t.co/TRBGwbcTkJ,7ba9b342659c08ee67e4e19faac63e88c9c78591051da73fa23b29d5618ddc14,127.0.0.1:1177
+2019-11-21 15:44:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/wPoFHH6aKS,34a3ce7dc9e817de0e4fa20acca6a15cbcef2f776abb9761c92bd681c23e310e,172.20.10.12:4446
+2019-11-21 15:32:02,AbsoluteRAT,https://t.co/a8bJopN3Xa,7ba9b342659c08ee67e4e19faac63e88c9c78591051da73fa23b29d5618ddc14,127.0.0.1:1177
+2019-11-21 14:40:03,PowerShell_Empire_Agent,https://t.co/jh2vW55Juf,a08d5b963ffa9c97e26e1de6207e20d350c51f571cbbf481ad56bd0d3222b0f4,r16.pl:8100
+2019-11-21 13:35:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/gX53IuGOs2,824c979046ebc8956db591cfe53522c7f4d761f9ce823f73847feec2e35a899b,85.152.6.30:8080
 2019-11-21 11:45:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/h69wdMwtUL,6eaaf204eb04a2401c3e87c69d58935f8ac594a9f0ea238e8f2523ce95d21926,192.168.100.4:5555
 2019-11-21 11:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/UVyUMl06ct,eb1bf127baf7fb9fb6d8207339351927884e093653ff898e70b09492c199e278,192.168.100.200
 2019-11-21 11:05:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ivZSU061Lj,09c3263f44c81061d3f403ce228eabf43269d1800d12acc015aa255efcf9e441,192.168.100.4:4444
