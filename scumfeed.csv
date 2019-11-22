@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2019-11-21 22:55:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/Prqc9w0gW3,fe09b07bb4fb785eab71b0ba3e215aed301261285e5b11a94331fbd78159bbfd,185.147.15.21
+2019-11-21 22:17:03,Revenge,https://t.co/k3zlXyrg65,88222092637a5d8751601efa235af42c04536f67014d1a688e23de0ed49269e7,"190.159.103.11:8080,"
+2019-11-21 19:04:59,PowerShell_Empire_Agent,https://t.co/pr7izeW7xG,3158a33d57265c86fb64674d28d7728861b15d7980b43a34a9a2f3dfcfaeec19,https://cdn-09.www.localarea-search.com:443
+2019-11-21 19:01:51,PowerShell_Empire_Agent,https://t.co/0x463uRg79,12d223387fd7ee0bfce86871b070c49e1f3833ef6b027ba68975380f7c68896c,www.rewe-aktionen.de:80
+2019-11-21 18:58:15,PowerShell_Empire_Agent,https://t.co/zI1pEbBNc9,7866d847c1ed3ea78b65b0b684a7702614f8b7a19d7dd66f29af0fae997d336b,https://www.myperfnow.com:443
+2019-11-21 18:52:14,PowerShell_Empire_Agent,https://t.co/fCiK67Dhs7,500349fda00897c5b5cac62f9b570d23dfe374fe530c6203e6908a560b5cda6f,digital-securite.ovh:8080
+2019-11-21 18:48:03,PowerShell_Empire_Agent,https://t.co/6TXGadvsjs,bf4ac971d570c978c26f12ffad7429a77d0983415f6ce55c8f0148e0b2f92e6d,https://socialpolicies.org:443
 2019-11-21 16:17:03,AbsoluteRAT,https://t.co/4MLL1CcG9Z,7ba9b342659c08ee67e4e19faac63e88c9c78591051da73fa23b29d5618ddc14,127.0.0.1:1177
 2019-11-21 16:02:02,AbsoluteRAT,https://t.co/buVvt3nxPd,7ba9b342659c08ee67e4e19faac63e88c9c78591051da73fa23b29d5618ddc14,127.0.0.1:1177
 2019-11-21 15:50:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/i9yjqRzSEN,15db7880e5b29a740ac44a6420f9ecc836ac9762ec7087b842848dfefe4cb02b,7812.000g.0000.0.toor.t.ck68.co
