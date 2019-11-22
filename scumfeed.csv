@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-11-22 17:47:19,njRat,https://t.co/yTb5cJmZ5A,d633718ea5b793de63ecf45d0a72a900eb502f58bb3cdb5623664700e4e2801c,1337.viewdns.net:8888
+2019-11-22 17:47:03,njRat,https://t.co/NymwlTsuqh,7dfc777fe6901b8d6d029a68f1323ef6b410c1723ccf73b1a21fa770ff334301,1337.viewdns.net:8888
+2019-11-22 14:32:02,njRat,https://t.co/dkNZAEutih,211e761bd2bb6a5fcfaa67e31003c30252473fdbaf534375d3c3c7046a2381c4,192.168.1.20:1177
 2019-11-21 22:55:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/Prqc9w0gW3,fe09b07bb4fb785eab71b0ba3e215aed301261285e5b11a94331fbd78159bbfd,185.147.15.21
 2019-11-21 22:17:03,Revenge,https://t.co/k3zlXyrg65,88222092637a5d8751601efa235af42c04536f67014d1a688e23de0ed49269e7,"190.159.103.11:8080,"
 2019-11-21 19:04:59,PowerShell_Empire_Agent,https://t.co/pr7izeW7xG,3158a33d57265c86fb64674d28d7728861b15d7980b43a34a9a2f3dfcfaeec19,https://cdn-09.www.localarea-search.com:443
