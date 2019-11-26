@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-11-25 20:47:03,Revenge,https://t.co/yeBXPrHfyU,f14f38be4276dae95adac041fc93128040a084f8068043be679cd5803f3eaa8a,"techsupp.duckdns.org:8080,"
 2019-11-25 10:47:02,Revenge,https://t.co/FB5Zg63bae,487cb00f2c04716b6078e31e8951266429191fb1ae8d3bcdd49965fa9c25136a,"masterlovecocacola.ddns.com.br:333,,"
 2019-11-24 23:47:02,njRat,https://t.co/FWD9liuyKb,d6aab9128f9f0cfcf9649969159e2c9e7877646804bd952b173742ec26c9a07a,127.0.0.1:545
 2019-11-24 23:35:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Y1OylhQPGt,af509042d8ec02dd4211e752107819cc6fc0842f97f4d449af96ac5aa68791f1,10.0.1.15
