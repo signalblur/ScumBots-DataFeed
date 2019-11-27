@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-11-26 17:07:59,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/W72Mj7nmXI,a66cfcc64f7ec10915c70cee8e02bfdf34745bf42e7b97ac638356ef156c67fc,165.227.85.160
+2019-11-26 15:47:03,njRat,https://t.co/dVV6VrJwrN,7367a1c0f8a4753d75b21cf12079730a29ebfee5c86e147ad217b791450ddd98,plutoniy.hopto.org:1604
 2019-11-26 02:47:03,Revenge,https://t.co/kx9TbeliES,9faedacae810400679e24e4281d60b629a22983af73bf2331f8c23a8444ed72e,"masterlovecocacola.ddns.com.br:333,,"
 2019-11-25 20:47:03,Revenge,https://t.co/yeBXPrHfyU,f14f38be4276dae95adac041fc93128040a084f8068043be679cd5803f3eaa8a,"techsupp.duckdns.org:8080,"
 2019-11-25 10:47:02,Revenge,https://t.co/FB5Zg63bae,487cb00f2c04716b6078e31e8951266429191fb1ae8d3bcdd49965fa9c25136a,"masterlovecocacola.ddns.com.br:333,,"
