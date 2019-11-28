@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-11-28 01:45:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/6manL88B6A,b381b86eea28631276102d1a2f9bf88a75450448451c11236c761c8e0ea50228,8x.duckdns.org
 2019-11-27 20:02:04,Revenge,https://t.co/0gg7lrmmms,64df767976455d62f7ec3e2ea4c03a3a73534b7434eded55aeeb0f8821980cbb,"192.168.1.6:333,,"
 2019-11-27 17:34:35,REvil,https://t.co/7YHfWh4Yw2,4d7bb7fc137d4e4db98835612daa8e4f36b365dad71bd5c763521d7e8a29915a,"radishallgood.com,gardenpartner.pl,letsstopsmoking.co.uk,imajyuku-sozoku.com,dieetuniversiteit.nl,traitware.com,agendatwentytwenty.com,sma"
 2019-11-27 17:34:13,REvil,https://t.co/GDy2n7fdza,b7e7878b4f87f1b29fb3c7002d90196c69bffe1eb70ae08d2563b79e1bc41a06,"richardkershawwines.co.za,pxsrl.it,ceocenters.com,kiraribeaute-nani.com,log-barn.co.uk,biodentify.ai,limmortelyouth.com,epsondriversforw"
