@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-11-28 18:17:02,njRat,https://t.co/G9eQPzjmrQ,f8464434022a5910067a3262a777acff8c3f2d3b62c9aad1de8ca92ab6567724,"nodiosena.ddns.net,kurtm.blackunix.com,kano.blackunix.com,kill.blackunix.com,irc2.blackunix.com,shell.blackunix.net,ts.bla"
 2019-11-28 16:45:34,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/hJfjlpELzL,d87017d1cece58ac4126ddf4585130d9fd691bb87e33dd367c498dd5d9446698,192.168.0.231:4444
 2019-11-28 16:45:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/EUJyCssisW,d87017d1cece58ac4126ddf4585130d9fd691bb87e33dd367c498dd5d9446698,192.168.0.231:4444
 2019-11-28 16:17:03,njRat,https://t.co/tJNDCPRB3b,7286ef9ce804f9dc910f6502cc52bc8130bb9673a35a8d97f1b706bb0ab4666a,exe.revres:5050
