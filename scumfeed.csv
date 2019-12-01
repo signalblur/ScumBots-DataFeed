@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-12-01 09:20:03,PowerShell_Empire_Agent,https://t.co/a0mSgYIYTb,ffbbc89f9a0d2f57b7e540ed05659377d4106fac05a41db55ab918412affbd5d,10.0.2.15:80
+2019-12-01 08:47:03,Njratgold,https://t.co/X65LP0k6yV,7ef3650f38282a1d65b3a12de5cf18a56075eab35676a6723d6140af9bb066d9,GodLike-22045.portmap.io:8080
 2019-12-01 01:47:40,PowerShell_Empire_Agent,https://t.co/aXNkPJxAiq,f9f6b1ddc27667f5abf37ce7763642e85b8611056c1e6158c7bed9723d889172,192.168.122.101:80
 2019-12-01 01:17:04,njRat,https://t.co/AAmjmuPOcZ,ba19d91251a9b50e4eb6404dd771e5024b12c90c9e260cded154c092d946429e,kokuz55.ddns.net:5555
 2019-11-30 22:07:04,njRat,https://t.co/6MiLNiCX0X,96b7d63d961d771639995b66a0738fa5d9462ac046022a33b0d888446b9baa76,meterpreter2408.ddns.net:4783
