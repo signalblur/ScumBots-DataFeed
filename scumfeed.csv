@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-11-30 22:07:04,njRat,https://t.co/6MiLNiCX0X,96b7d63d961d771639995b66a0738fa5d9462ac046022a33b0d888446b9baa76,meterpreter2408.ddns.net:4783
+2019-11-30 20:02:03,njRat,https://t.co/x6rKMYTlXo,716751797498c28f4cd315cd9690f666f5ada46ec33441aff674dfb41a98cfba,meterpreter2408.ddns.net:4783
+2019-11-30 19:47:03,njRat,https://t.co/yUfbs9XAlB,376005583b3fa992f78575dc23deb3760b7621d9f189a45e49dd057b5fb0682d,meterpreter.ddns.net:4783
 2019-11-30 17:00:05,PowerShell_Empire_Agent,https://t.co/Zt2BB8vpAO,e34979119e6c4e4577c85178a923c91fc5d2eb9ed75cb7987d4fea75cf36b767,192.168.1.91:80
 2019-11-30 16:13:58,PoshC2,https://t.co/oPEZhHkbOi,afb46cd7278a77cfb28903bf221e68134f55032138850d6fefe70945dc8abfcf,https://213.227.155.25:443
 2019-11-30 16:06:45,PowerShell_Empire_Agent,https://t.co/oC12CjZzFu,e1158f34cfdef80693bb118488b178632506c7077e1d9fc3ccd6d3e7d8dbe246,192.168.79.136:80
