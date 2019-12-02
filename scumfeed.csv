@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-12-02 06:54:16,Revenge,https://t.co/alr0UV4Aq7,56e7d483f90485280300cffec75fe55c26aaadd1c67f560ef2152b1405157dd3,"MORFEY-50207.portmap.host:50207,,"
+2019-12-02 03:47:03,Revenge,https://t.co/p0cYUomPNY,73fbd810fa776ebc63a7f7e5300dc87731aca3eb16dc63ea0c19a9a1eb2fda48,"192.168.1.8:2222,"
 2019-12-01 22:17:03,njRat,https://t.co/FT99gCEkZz,ede2ea35bc269bc7757fa5a96048b39ecf9986cc262331ded8014ca851400001,mrn7r18.ddns.net:1177
 2019-12-01 22:08:30,njRat,https://t.co/Hvkv2XwnLY,4752d077b379211e926e5637702ba5b1b190b08ea4fe7fdd541dad38f1eda11e,mrn7r18.ddns.net:1177
 2019-12-01 22:02:03,REvil,https://t.co/aR4Edlg0GL,7549bc8a7c896dae3f1026dfeeba7d4e0990b896e8715cef55f88763b2aa3908,"juergenblaetz.de,liveyourheartout.co,livedeveloper.com,tesisatonarim.com,santastoy.store,scietech.academy,four-ways.com,bmw-i-pure-impulse."
