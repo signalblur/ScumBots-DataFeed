@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-12-03 16:17:03,REvil,https://t.co/lAcvyBlr1b,51cb071e76dd031fe158a41b77a8c76d1fd2f29e6ffbc1ea46f6d9b2f1a55440,"enews-qca.com,keyboardjournal.com,pays-saint-flour.fr,dentallabor-luenen.de,floweringsun.org,zwemofficial.nl,atrgroup.it,hoteltantra.com,h"
+2019-12-03 15:05:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/3FgdXYweXh,7d32a4a6d697e156abb4d1ecd6f92767941053a998601eba709fdc93cdf8223a,176.121.14.216
+2019-12-03 14:32:04,REvil,https://t.co/dxtJAo8XXA,51cb071e76dd031fe158a41b77a8c76d1fd2f29e6ffbc1ea46f6d9b2f1a55440,"enews-qca.com,keyboardjournal.com,pays-saint-flour.fr,dentallabor-luenen.de,floweringsun.org,zwemofficial.nl,atrgroup.it,hoteltantra.com,h"
+2019-12-03 14:02:03,njRat,https://t.co/dX8NlPDQoD,df12c13ac148434e0f1fa39f60a9755c15d910d3a94936e02c8dd548bd66efd2,esgn.ddns.net:1415
 2019-12-03 05:14:56,PoshC2,https://t.co/H7tPJWdElx,8ff6f90e8914d7095b98ce3b394302cb32c61f7a782e486afe6393eeedb72601,https://217.61.108.110:443
 2019-12-03 03:40:05,PoshC2,https://t.co/BtybY0KjBy,15b1254fb10cfd70ba556f1c881efc8150437afa47108048b945803a022be3e5,https://217.61.108.110:443
 2019-12-03 03:10:02,PoshC2,https://t.co/ZkpdKY5vVS,48159d01af40f34b4a0bbddbde744ad3f0190902003444162facf3b318ab74fe,https://192.168.213.134:443
