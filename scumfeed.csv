@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-03 05:14:56,PoshC2,https://t.co/H7tPJWdElx,8ff6f90e8914d7095b98ce3b394302cb32c61f7a782e486afe6393eeedb72601,https://217.61.108.110:443
+2019-12-03 03:40:05,PoshC2,https://t.co/BtybY0KjBy,15b1254fb10cfd70ba556f1c881efc8150437afa47108048b945803a022be3e5,https://217.61.108.110:443
+2019-12-03 03:10:02,PoshC2,https://t.co/ZkpdKY5vVS,48159d01af40f34b4a0bbddbde744ad3f0190902003444162facf3b318ab74fe,https://192.168.213.134:443
 2019-12-02 22:58:00,njRat,https://t.co/7mOVOWbrhL,64caedaa1c7657ffaeb02d47dfe96130ef3a4bf1cf6bde56fcdae45fbab8343d,sandboxupdate.myq-see.com:2002
 2019-12-02 19:44:22,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/jfupbxK5gX,e7ac69eecbca0c58fdc6b7e1febc6cebc5265da8d5e423b811f1001cd1cfb0d5,telastex.net
 2019-12-02 19:43:51,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/KaqljeE4Mx,e7ac69eecbca0c58fdc6b7e1febc6cebc5265da8d5e423b811f1001cd1cfb0d5,telastex.net
