@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-12-04 15:10:03,PowerShell_Empire_Agent,https://t.co/P4xyybVCsC,fb2c88566cbddb57e0ee6d082e0f2f9674fca05f57c41fde49dee1f872993088,10.0.0.148:12999
 2019-12-04 01:39:16,njRat,https://t.co/ClMaRTgp4S,c9df001cc9f964030925a23dc587fe6b73c2c2b3dce1ce27b344ea2523c7c804,youngb1.kro.kr:5050
 2019-12-04 00:45:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/ygT1gDxiXv,42ba370427c163b0f3fd56111b42841a8ab0a876e77425d480df143d6f32b1ea,185.147.14.234
 2019-12-03 22:32:02,NanoCore,https://t.co/gsR7JOEFFT,26718eb4af304a012fcade666817b3231c8852d854b2019a10e48dadb073be7a,"zaza100.ddns.net:1337,zaza100.ddns.net:1337,"
