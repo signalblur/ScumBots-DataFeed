@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-04 21:17:03,Revenge,https://t.co/PjBLkCoH97,f641fe81f09b5300d4d5dc89fd13525704cdce59ac9a929360d62ed2b66d6804,"192.168.1.3:333,,"
+2019-12-04 21:02:02,njRat,https://t.co/PGNxX3AJV9,21437306b02df2ef7b178457b1112dc7d51f1de7d5453f935d96e1728d3b0e8a,192.168.1.18:3698
+2019-12-04 20:25:25,njRat,https://t.co/KNgRwz8Xy7,5bf4e2b5c2004b310c17ac3600e29a93920072a25657d4de84438b4312d555e5,192.168.1.4:1337
 2019-12-04 15:10:03,PowerShell_Empire_Agent,https://t.co/P4xyybVCsC,fb2c88566cbddb57e0ee6d082e0f2f9674fca05f57c41fde49dee1f872993088,10.0.0.148:12999
 2019-12-04 01:39:16,njRat,https://t.co/ClMaRTgp4S,c9df001cc9f964030925a23dc587fe6b73c2c2b3dce1ce27b344ea2523c7c804,youngb1.kro.kr:5050
 2019-12-04 00:45:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/ygT1gDxiXv,42ba370427c163b0f3fd56111b42841a8ab0a876e77425d480df143d6f32b1ea,185.147.14.234
