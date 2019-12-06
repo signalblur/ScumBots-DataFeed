@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-06 17:41:56,njRat,https://t.co/Scf4l7sReY,99268b439c9b41d74beae65000d08c54ebe2c7438dbc80c273c85684f83c9b35,192.168.1.4:1337
+2019-12-06 17:41:39,njRat,https://t.co/2UpGmC2uU0,8665c0204b39af00b383eb8b3999795ea03c5a3a10d4eb58035b44c9d7cfdd46,154.202.2.109:1177
+2019-12-06 17:32:03,NanoCore,https://t.co/rToSzO25s8,ad5c2223166859c196b192af7c5663cb0c38c6c9d1fe5369a131277876d7886e,"www.officemicrosoft.net:9080,www.officemicrosoft.net:9080,"
 2019-12-06 11:20:02,PowerShell_Empire_Agent,https://t.co/hozFhELZ8g,b2e1889de0e4831d12b39542d5a9315d368e065bb41ab89a88fcc13a41711859,192.168.3.88:80
 2019-12-06 08:02:19,njRat,https://t.co/q0n4azFSZF,f6c7694536b71bfbc8d901c43696a827e213a63b8ad5f2dbbca093210c27f8b4,kexxkok-47488.portmap.io:47488
 2019-12-06 08:02:03,njRat,https://t.co/JtjNKfBJRK,f6c7694536b71bfbc8d901c43696a827e213a63b8ad5f2dbbca093210c27f8b4,kexxkok-47488.portmap.io:47488
