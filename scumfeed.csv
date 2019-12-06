@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-06 11:20:02,PowerShell_Empire_Agent,https://t.co/hozFhELZ8g,b2e1889de0e4831d12b39542d5a9315d368e065bb41ab89a88fcc13a41711859,192.168.3.88:80
+2019-12-06 08:02:19,njRat,https://t.co/q0n4azFSZF,f6c7694536b71bfbc8d901c43696a827e213a63b8ad5f2dbbca093210c27f8b4,kexxkok-47488.portmap.io:47488
+2019-12-06 08:02:03,njRat,https://t.co/JtjNKfBJRK,f6c7694536b71bfbc8d901c43696a827e213a63b8ad5f2dbbca093210c27f8b4,kexxkok-47488.portmap.io:47488
 2019-12-06 04:57:36,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/83jrwszfqa,54d89f8546029ae2ff49483c87da35c751588cca475267760b3183494c8244f5,176.121.14.216
 2019-12-05 19:17:03,njRat,https://t.co/KkJNsNSPFl,a547b5526b2617c40c4852a5e859a6db79e90bc43d39f63a318816400e3046b3,talabeb0.ddns.net:3210
 2019-12-05 17:32:03,Revenge,https://t.co/9FFpxyMhWv,579dddb5b420ac1e3e0a7fb69aea0ce133a1abb19649e9077d9fad2587dee80f,"alien007.my-firewall.org:8080,"
