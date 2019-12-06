@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-12-06 04:57:36,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/83jrwszfqa,54d89f8546029ae2ff49483c87da35c751588cca475267760b3183494c8244f5,176.121.14.216
 2019-12-05 19:17:03,njRat,https://t.co/KkJNsNSPFl,a547b5526b2617c40c4852a5e859a6db79e90bc43d39f63a318816400e3046b3,talabeb0.ddns.net:3210
 2019-12-05 17:32:03,Revenge,https://t.co/9FFpxyMhWv,579dddb5b420ac1e3e0a7fb69aea0ce133a1abb19649e9077d9fad2587dee80f,"alien007.my-firewall.org:8080,"
 2019-12-05 14:02:04,njRat,https://t.co/FjLBuASXRb,99268b439c9b41d74beae65000d08c54ebe2c7438dbc80c273c85684f83c9b35,192.168.1.4:1337
