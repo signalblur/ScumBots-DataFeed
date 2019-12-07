@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-12-07 04:02:05,Revenge,https://t.co/CD6Kdj1Gr1,488932cf6d6e1c24f4e39937e88f69b6abb8d9806744958022922025f81638fa,"alien007.my-firewall.org:8080,"
 2019-12-06 23:47:19,njRat,https://t.co/mNSxu2m6eY,3e7ace18b5597bb67047ea527f5e63464b63ee30504ebe115b34f690fda12a85,alien007.my-firewall.org:8080
 2019-12-06 23:47:03,njRat,https://t.co/VLqSqOijZ2,3e7ace18b5597bb67047ea527f5e63464b63ee30504ebe115b34f690fda12a85,alien007.my-firewall.org:8080
 2019-12-06 23:38:57,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/o059BsWPHr,3341c687107c8e248e25e7956d85e75a5463db48d4d850bd581892631594e3ae,176.121.14.216
