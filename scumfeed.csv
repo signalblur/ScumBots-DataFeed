@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-12-08 04:16:55,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/pg3SviEqX3,4d9ac78815c86a6bca874e007e635143766b0fd043476e5e29f4956a3e8b23b3,updateqdb.com
+2019-12-07 23:32:04,NanoCore,https://t.co/KeVGen0njU,9c2c69a11771e0cbe4a62c0407243ca8aae4105f6dd863cb2df7fdda55bc00ab,"rizelol-51335.portmap.host:41435,127.0.0.1:41435,"
+2019-12-07 20:47:20,Njratgold,https://t.co/7qIbCbbRRT,bfe8462ff612bf99528ff76a4ff2d7efbc537ba6e1de0fdead5f85742a716275,kingspy.dynu.com:55
+2019-12-07 20:47:03,njRat,https://t.co/8gYwWDFglN,e74ebf942145b478a203b390aac60c852716a3992aa5e6d2551b39afc8957fdb,kingspy.dynu.com:5552
+2019-12-07 19:02:05,NanoCore,https://t.co/OSdqdFrHbZ,ec9439fdcc2920beb9fc3d8185c6c8ff38b5a70744080271c6375d9227f433d9,"rizelol.ddns.net:1608,127.0.0.1:1608,"
 2019-12-07 15:32:03,njRat,https://t.co/03iubwBV9N,da878860bdf1245e2902c65207ecf21c9af1160c33473a0aa8e46b0063a8ac06,leaf360.ddns.net:1996
 2019-12-07 06:55:02,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/RzJMHewDoc,e7ac69eecbca0c58fdc6b7e1febc6cebc5265da8d5e423b811f1001cd1cfb0d5,telastex.net
 2019-12-07 04:02:05,Revenge,https://t.co/CD6Kdj1Gr1,488932cf6d6e1c24f4e39937e88f69b6abb8d9806744958022922025f81638fa,"alien007.my-firewall.org:8080,"
