@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-12-07 15:32:03,njRat,https://t.co/03iubwBV9N,da878860bdf1245e2902c65207ecf21c9af1160c33473a0aa8e46b0063a8ac06,leaf360.ddns.net:1996
 2019-12-07 06:55:02,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/RzJMHewDoc,e7ac69eecbca0c58fdc6b7e1febc6cebc5265da8d5e423b811f1001cd1cfb0d5,telastex.net
 2019-12-07 04:02:05,Revenge,https://t.co/CD6Kdj1Gr1,488932cf6d6e1c24f4e39937e88f69b6abb8d9806744958022922025f81638fa,"alien007.my-firewall.org:8080,"
 2019-12-06 23:47:19,njRat,https://t.co/mNSxu2m6eY,3e7ace18b5597bb67047ea527f5e63464b63ee30504ebe115b34f690fda12a85,alien007.my-firewall.org:8080
