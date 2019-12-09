@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-12-08 21:17:04,Revenge,https://t.co/EyPKoNKxaf,ea31827023ed9c6d4a1f0662750789dfa465825657b8c85814d2131d9af61f0a,"gbmbdmm.chickenkiller.com:50779,,"
+2019-12-08 19:02:04,njRat,https://t.co/mwpnM77v1v,04bb118fbd8c24331ebe4ac99dd6684ed874897b88056aa138228fc6b4e8331f,falcon-56657.portmap.host:56657
+2019-12-08 18:47:36,njRat,https://t.co/l17ViPKPaV,04bb118fbd8c24331ebe4ac99dd6684ed874897b88056aa138228fc6b4e8331f,falcon-56657.portmap.host:56657
+2019-12-08 18:47:19,njRat,https://t.co/Qw52POrgss,04bb118fbd8c24331ebe4ac99dd6684ed874897b88056aa138228fc6b4e8331f,falcon-56657.portmap.host:56657
+2019-12-08 18:47:03,njRat,https://t.co/v5WGiXcQB9,04bb118fbd8c24331ebe4ac99dd6684ed874897b88056aa138228fc6b4e8331f,falcon-56657.portmap.host:56657
 2019-12-08 04:16:55,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/pg3SviEqX3,4d9ac78815c86a6bca874e007e635143766b0fd043476e5e29f4956a3e8b23b3,updateqdb.com
 2019-12-07 23:32:04,NanoCore,https://t.co/KeVGen0njU,9c2c69a11771e0cbe4a62c0407243ca8aae4105f6dd863cb2df7fdda55bc00ab,"rizelol-51335.portmap.host:41435,127.0.0.1:41435,"
 2019-12-07 20:47:20,Njratgold,https://t.co/7qIbCbbRRT,bfe8462ff612bf99528ff76a4ff2d7efbc537ba6e1de0fdead5f85742a716275,kingspy.dynu.com:55
