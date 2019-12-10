@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-12-10 03:02:03,Lime-RAT,https://t.co/tOego9jtqX,3aab2599616c4b03bee9c8ef7e2598954ec49e21527e1e750d3afad4c1d93bfa,https://pastebin.com/raw/iRjhpqQL
+2019-12-10 02:47:20,njRat,https://t.co/vjjgb8MEJY,3df0506d8addfdefd56f986e07a3f884b9f6ff9a9e6cae52d914b5c36da33c78,adminhost.myq-see.com:25
+2019-12-10 02:47:03,njRat,https://t.co/QirVzd4Idi,29aed6e602667bf09585c868fd84e8f9f4714c53a285402df7251c0aa94774fa,127.0.0.1:25
+2019-12-10 02:00:03,PowerShell_Empire_Agent,https://t.co/3pBWRXwTsQ,3e7e93b94dc8596baee41979f3c97514c9989d37e8815e7e841dbd2f96bf01e9,134.209.84.8:8082
 2019-12-09 23:32:03,Lime-RAT,https://t.co/NA9du1It5P,3aab2599616c4b03bee9c8ef7e2598954ec49e21527e1e750d3afad4c1d93bfa,https://pastebin.com/raw/iRjhpqQL
 2019-12-09 20:32:03,njRat,https://t.co/eCKq15V0mp,9652ac04fab3b032d9f7993a7a43c48ec8d821fcfb096737c2f3dd18c16effa4,moam23.ddns.net:1177
 2019-12-09 19:47:03,njRat,https://t.co/bZua2ANAjV,9a70e3ac63cbcf7b7f2bba23a141a67f3c66b9504194dde48c18d28ed1716318,193.161.193.99:25163
