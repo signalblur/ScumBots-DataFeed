@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-12-09 23:32:03,Lime-RAT,https://t.co/NA9du1It5P,3aab2599616c4b03bee9c8ef7e2598954ec49e21527e1e750d3afad4c1d93bfa,https://pastebin.com/raw/iRjhpqQL
+2019-12-09 20:32:03,njRat,https://t.co/eCKq15V0mp,9652ac04fab3b032d9f7993a7a43c48ec8d821fcfb096737c2f3dd18c16effa4,moam23.ddns.net:1177
+2019-12-09 19:47:03,njRat,https://t.co/bZua2ANAjV,9a70e3ac63cbcf7b7f2bba23a141a67f3c66b9504194dde48c18d28ed1716318,193.161.193.99:25163
+2019-12-09 19:02:03,Revenge,https://t.co/cZkDsGUaNu,f317c56ee41b7bd828dcf4c175ea531a2d037517a9b97869682599b1a1c89924,"daqexploitfree.duckdns.org:333,,"
 2019-12-09 17:06:59,njRat,https://t.co/bQaD0tNbKt,b6164ffcafcc3d8948650615342f174cf1240783670778a2acbbf68fb9b88d2d,google-drive.myq-see.com:3589
 2019-12-09 17:02:06,njRat,https://t.co/38CXZsoT4P,ed8ed60fee3df5d88c168a6fca08ff6eeff6169868f21dd8c15fe10d671760b8,falcon-56657.portmap.host:56657
 2019-12-09 14:47:43,njRat,https://t.co/XhEmkIkOB1,5cdb4fabc1115dd78903402a0f7c7cd1bffeaf9f52f112cb3d4595518c0a0713,adminsrc.serveirc.com:25
