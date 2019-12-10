@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-10 14:54:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/g1CsZNHAJu,96e835b2523d070772f26a69e4541eba1473a1dd9a94a1ce055d0ccb720ed03d,92.84.116.3:1911
+2019-12-10 14:27:11,njRat,https://t.co/ZHXBxRTNK1,ea6fc66f1e3effe8fce7e332536f282d73ef9e62405c1c8c57a6b4a5a76bfc09,"14.48.6.22:8458,"
+2019-12-10 14:18:14,njRat,https://t.co/oBdpuXf8bb,ea6fc66f1e3effe8fce7e332536f282d73ef9e62405c1c8c57a6b4a5a76bfc09,"14.48.6.22:8458,"
 2019-12-10 09:40:03,PowerShell_Empire_Agent,https://t.co/dFu6MPRQVB,c5a6e547122364a85c3c083b491a5333c724990172ec8d2e3a199a5af00ba98f,178.62.22.77:80
 2019-12-10 03:02:03,Lime-RAT,https://t.co/tOego9jtqX,3aab2599616c4b03bee9c8ef7e2598954ec49e21527e1e750d3afad4c1d93bfa,https://pastebin.com/raw/iRjhpqQL
 2019-12-10 02:47:20,njRat,https://t.co/vjjgb8MEJY,3df0506d8addfdefd56f986e07a3f884b9f6ff9a9e6cae52d914b5c36da33c78,adminhost.myq-see.com:25
