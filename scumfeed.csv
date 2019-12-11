@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-12-10 19:50:04,PowerShell_Empire_Agent,https://t.co/cZgeJxCFmW,9c06cb71db408d3b98ffff83cbc1bb742d9a5318ce49de907519392e55796d3d,//birok.tplinkdns.com:80
 2019-12-10 14:54:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/g1CsZNHAJu,96e835b2523d070772f26a69e4541eba1473a1dd9a94a1ce055d0ccb720ed03d,92.84.116.3:1911
 2019-12-10 14:27:11,njRat,https://t.co/ZHXBxRTNK1,ea6fc66f1e3effe8fce7e332536f282d73ef9e62405c1c8c57a6b4a5a76bfc09,"14.48.6.22:8458,"
 2019-12-10 14:18:14,njRat,https://t.co/oBdpuXf8bb,ea6fc66f1e3effe8fce7e332536f282d73ef9e62405c1c8c57a6b4a5a76bfc09,"14.48.6.22:8458,"
