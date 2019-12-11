@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-11 17:02:02,Revenge,https://t.co/j5nMItIyGS,482987588807ea9cf00280a063a1be6f2c849b74cdbe16a4f2e0d374020ac9b1,"192.168.1.2:333,,"
+2019-12-11 14:34:25,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/e2OWPn4ckc,3341c687107c8e248e25e7956d85e75a5463db48d4d850bd581892631594e3ae,176.121.14.216
+2019-12-11 14:32:03,njRat,https://t.co/6BpF1MknT4,18f7bfcd60a37236dfdad8e06b54cf875ed6f1d5efeb0ab95be5b044b52ab997,192.168.1.4:1337
 2019-12-11 10:17:02,Revenge,https://t.co/wnxBlzd3nZ,d82637085273dcea62d6b5e281983354520d1fedea869ca116890450d847ce17,"127.0.0.1:333,"
 2019-12-10 19:50:04,PowerShell_Empire_Agent,https://t.co/cZgeJxCFmW,9c06cb71db408d3b98ffff83cbc1bb742d9a5318ce49de907519392e55796d3d,//birok.tplinkdns.com:80
 2019-12-10 14:54:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/g1CsZNHAJu,96e835b2523d070772f26a69e4541eba1473a1dd9a94a1ce055d0ccb720ed03d,92.84.116.3:1911
