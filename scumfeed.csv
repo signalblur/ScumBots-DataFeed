@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-12-13 18:02:03,njRat,https://t.co/25kPqwqTQ6,27fd4e57a089240d785a1cb8bd1ddc1f021fa78d6b6b919b374d3838f7dc0269,127.0.0.1:1144
+2019-12-13 16:25:24,REvil,https://t.co/V6VVMKn5VP,d6a0b7812b3ee8fbf81d40db94094facc25645689f4109e5d7983e8cb49990ec,"easydental.ae,kombi-dress.com,sambaglow.com,acb-gruppe.ch,tutvracks.com,abulanov.com,c-sprop.com,alharsunindo.com,speiserei-hannover.de,"
 2019-12-13 01:46:25,PowerShell_Empire_Agent,https://t.co/NRSp2EFY0N,f91a9c5284ca37ece5b264fa34ff708cae8a9f7a6f4957b328f34da629dc790d,https://azershop.org:443
 2019-12-12 20:57:50,PoshC2,https://t.co/m8AcB3lPjp,ed100f046533664ab225cac14b169e7c4bbce2eb175b8a11bf845319801bec99,https://do.skype.com:443
 2019-12-12 20:17:06,Revenge,https://t.co/ZLci7U9x6g,3fdab20920a01798fa7153eb6524bf2f078961b06f599dd4274fbf8dee8eeaf5,"alien007.my-firewall.org:8080,"
