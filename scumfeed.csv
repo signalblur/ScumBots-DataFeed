@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-12-14 11:55:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/yaupju7ReD,b0a3ab8489664a96f68770a9534fe595cbcb41b186b0c089d7fe947a9a8687fc,192.168.43.78:880
+2019-12-14 11:45:05,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/9CjCxxkwb2,b0a3ab8489664a96f68770a9534fe595cbcb41b186b0c089d7fe947a9a8687fc,192.168.43.78:880
 2019-12-14 00:17:02,njRat,https://t.co/vd6kT17dDi,3d64f95a55e83d55c8f182d787a044889388ce6dd28f3f54373d22b84d74e7c7,127.0.0.1:5552
 2019-12-13 23:47:19,njRat,https://t.co/dMfcC2CF92,bf56cad93332aa1ca9cef1863192686573f50a05e442247d6f96a3cfa07588d3,google-drive.myq-see.com:3589
 2019-12-13 23:47:03,njRat,https://t.co/pjZYSFCsST,bf56cad93332aa1ca9cef1863192686573f50a05e442247d6f96a3cfa07588d3,google-drive.myq-see.com:3589
