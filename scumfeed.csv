@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-12-14 18:17:03,REvil,https://t.co/lNxdBvje6n,12bb06bc5da9d7f24634bb37a809ad69896c2eb47b7957846124fe09fbf573bf,"angelsmirrorus.com,voice2biz.com,bagaholics.in,letterscan.de,kookooo.com,thenalpa.com,arazi.eus,sprintcoach.com,selected-minds.de,alcye"
 2019-12-14 11:55:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/yaupju7ReD,b0a3ab8489664a96f68770a9534fe595cbcb41b186b0c089d7fe947a9a8687fc,192.168.43.78:880
 2019-12-14 11:45:05,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/9CjCxxkwb2,b0a3ab8489664a96f68770a9534fe595cbcb41b186b0c089d7fe947a9a8687fc,192.168.43.78:880
 2019-12-14 00:17:02,njRat,https://t.co/vd6kT17dDi,3d64f95a55e83d55c8f182d787a044889388ce6dd28f3f54373d22b84d74e7c7,127.0.0.1:5552
