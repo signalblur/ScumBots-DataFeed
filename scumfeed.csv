@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-12-16 06:47:06,njRat,https://t.co/5Ac9UkqF0T,eade1ac035bf815efc69d9d267671c59c57870f1fb602004838d91a0456c59d7,18.188.14.65:17774
 2019-12-15 17:17:03,njRat,https://t.co/Rsk0yEFc1c,979be84a6854898d4cab0b41b9ea57873b2842a20f5168a6d320e3d30c39aa1a,antivir.myq-see.com:88
 2019-12-15 14:02:05,Revenge,https://t.co/LF36RGQzko,ae8d20d5b490e43334f8338d3907f02030a2b41332ac23bbce2d450017bc8326,"fal92.duckdns.org:8152,,"
 2019-12-15 13:32:03,njRat,https://t.co/cpXNxgxYrt,e06504e2b6a3c071ddfa501bc2ca79cef15738c44c2b5a85f1f73720490ca5f2,fa1con-44457.portmap.host:46552
