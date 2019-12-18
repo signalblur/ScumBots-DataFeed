@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-12-18 01:32:04,GruntStager,https://t.co/YPx4P2Jzx2,f8b3966c40758c05636a009284d7986cc19254cca50605913008e4356beb526f,10.12.122.73:5050
+2019-12-18 00:56:05,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/8nCKXrzVAy,ae69ce10e05a32631316f45c8ea98e191e9348f7297a86359c2aa2ae7ce3d97f,176.121.14.216
+2019-12-18 00:49:12,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/TQ8nHYV9d2,b702c1d3e6f64232b752e175885220978e0966f751833ac0e02605191241923a,192.168.0.157:4782
+2019-12-18 00:47:02,njRat,https://t.co/PSjJtBbSqP,c35c36cf912cf871bb50134d1ef3862e98605bc9384cae044c48ff67596b5f41,bomba55.ddns.net:5555
 2019-12-17 19:45:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/jwQOs3Biaa,42183487a8e22ad7b31587aad88730bb1101112e8de1aa3f489484bd53d69062,185.147.15.13
 2019-12-17 13:15:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/w12Ym4TBNn,7b77520b4c33bdbd09d9766ab6865d9877de3cba6b117cd4581fa655ba4994ea,18.188.14.65:12260
 2019-12-17 04:35:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/2RtRnHaGsc,a63113aa5c77a94243ce55096fceffe3cf6810b01b326627c8cbb59dace1f795,185.147.15.12
