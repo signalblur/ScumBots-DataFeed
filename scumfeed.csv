@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-12-19 18:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/SW66CFw6bU,015e4186658c8408d7cf5df8495ee080e28a156c88d984b371e58f7403e3e7d7,10.100.11.101:8885
+2019-12-19 16:30:03,PowerShell_Empire_Agent,https://t.co/mrHRtD6Wsb,3303302bfb1d90ad3eaf83dca02eebe711fea9fc1740fd8ee556ffc9726ebaeb,51.68.136.67:80
+2019-12-19 15:17:20,njRat,https://t.co/iOvOyI5J8G,cc5ef0d3ee08cf1198eae8c9d18f2b05ab5a1a5d75859ecec5b61b7a043cc189,bomba55.ddns.net:5555
+2019-12-19 15:17:02,njRat,https://t.co/Pxn1smKGbQ,d2bd360be56fe74c7ff67d649bf5c67b33d865fec30cc5d79d631f0e534d0ae0,bomba55.ddns.net:5555
+2019-12-19 15:00:04,PowerShell_Empire_Agent,https://t.co/mrHRtDoxQL,3303302bfb1d90ad3eaf83dca02eebe711fea9fc1740fd8ee556ffc9726ebaeb,51.68.136.67:80
 2019-12-18 23:47:03,Lime-RAT,https://t.co/4arbLJoJ6r,09cc20dff89994d288efc228389e024bc694bf49a8c2aa973933c044c22f6dc6,https://pastebin.com/raw/pFTvCp54
 2019-12-18 21:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/KjA5fyr9ka,fe50ffc23c9a1263b3f77f6363327c39b561d993db3df5094aa78cf55c7b47ec,18.223.41.243
 2019-12-18 19:02:03,njRat,https://t.co/FbHvuEsLrd,d8bd5686116a8d5ab4cd8d4b10d40f50fd2630e76476ede7386c95546f0d8ea2,ktama.linkpc.net:2932
