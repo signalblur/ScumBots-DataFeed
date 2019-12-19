@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-18 23:47:03,Lime-RAT,https://t.co/4arbLJoJ6r,09cc20dff89994d288efc228389e024bc694bf49a8c2aa973933c044c22f6dc6,https://pastebin.com/raw/pFTvCp54
+2019-12-18 21:15:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/KjA5fyr9ka,fe50ffc23c9a1263b3f77f6363327c39b561d993db3df5094aa78cf55c7b47ec,18.223.41.243
+2019-12-18 19:02:03,njRat,https://t.co/FbHvuEsLrd,d8bd5686116a8d5ab4cd8d4b10d40f50fd2630e76476ede7386c95546f0d8ea2,ktama.linkpc.net:2932
 2019-12-18 15:12:03,njRat,https://t.co/G09LDWQru5,a2255e7e044347a938ea116ba33b72b5ec5a62914e0b33a90c081e67c2e9afa5,bomba55.ddns.net:5555
 2019-12-18 01:32:04,GruntStager,https://t.co/YPx4P2Jzx2,f8b3966c40758c05636a009284d7986cc19254cca50605913008e4356beb526f,10.12.122.73:5050
 2019-12-18 00:56:05,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/8nCKXrzVAy,ae69ce10e05a32631316f45c8ea98e191e9348f7297a86359c2aa2ae7ce3d97f,176.121.14.216
