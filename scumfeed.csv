@@ -1,5 +1,8 @@
 date_identified,implant_type,url,hash,c2
-2019-12-19 18:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/SW66CFw6bU,015e4186658c8408d7cf5df8495ee080e28a156c88d984b371e58f7403e3e7d7,10.100.11.101:8885
+2019-12-19 22:32:08,njRat,https://t.co/ndoZ89r0a4,fa9a3c3368afabb005793da7673120f728f05c66f72c35f6c2582c3356b24fe4,127.0.0.1:7777
+2019-12-19 22:02:02,njRat,https://t.co/oUJIjQAYnZ,3b551f24930c79b3b15f711814ca1c05d0cbe251d08eed7f26d974a4bc876436,127.0.0.1:1177
+2019-12-19 20:02:03,njRat,https://t.co/b7v13cAHw5,5147ab9970313aae00bbb50a3563cf2acc87c1abef2751dcbcd6c995ec1221ff,201.46.39.58:1338
+2019-12-19 19:50:32,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/SW66CFw6bU,015e4186658c8408d7cf5df8495ee080e28a156c88d984b371e58f7403e3e7d7,10.100.11.101:8885
 2019-12-19 16:30:03,PowerShell_Empire_Agent,https://t.co/mrHRtD6Wsb,3303302bfb1d90ad3eaf83dca02eebe711fea9fc1740fd8ee556ffc9726ebaeb,51.68.136.67:80
 2019-12-19 15:17:20,njRat,https://t.co/iOvOyI5J8G,cc5ef0d3ee08cf1198eae8c9d18f2b05ab5a1a5d75859ecec5b61b7a043cc189,bomba55.ddns.net:5555
 2019-12-19 15:17:02,njRat,https://t.co/Pxn1smKGbQ,d2bd360be56fe74c7ff67d649bf5c67b33d865fec30cc5d79d631f0e534d0ae0,bomba55.ddns.net:5555
