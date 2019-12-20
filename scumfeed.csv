@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-12-20 06:17:03,REvil,https://t.co/UZ4AZTCoYZ,515e79a2813ecc480d47480275b18426e281d77488ac2dce669f00dc41d4b6ce,"kristianboennelykke.dk,axisoflove.org:443,vvego.com,gbk-tp1.de,nginx.com,mind2muscle.nl,centuryvisionglobal.com,mac-computer-support-hamburg"
+2019-12-20 05:47:21,REvil,https://t.co/UZ4AZTkO7r,515e79a2813ecc480d47480275b18426e281d77488ac2dce669f00dc41d4b6ce,"kristianboennelykke.dk,axisoflove.org:443,vvego.com,gbk-tp1.de,nginx.com,mind2muscle.nl,centuryvisionglobal.com,mac-computer-support-hamburg"
+2019-12-20 05:47:04,njRat,https://t.co/kbbyabNOOj,86d539861c1316a6d0e33f711fd7d331c86104eba26fd51a4a2554b6d9de60a5,wogusnn.ddns.net:5554
+2019-12-20 04:47:03,njRat,https://t.co/kbbyabwdWL,86d539861c1316a6d0e33f711fd7d331c86104eba26fd51a4a2554b6d9de60a5,wogusnn.ddns.net:5554
+2019-12-20 04:17:03,REvil,https://t.co/i2wyEKbBsL,5cb49636a0d759cf24bd19ce17003a62f1e8d4d076844b9110af8b9172413508,"explora.nl,bluelakevision.com,santastoy.store,subyard.com,gosouldeep.com,jlwilsonbooks.com,greatofficespaces.net,mediogiro.com.ar,slidee"
 2019-12-19 22:32:08,njRat,https://t.co/ndoZ89r0a4,fa9a3c3368afabb005793da7673120f728f05c66f72c35f6c2582c3356b24fe4,127.0.0.1:7777
 2019-12-19 22:02:02,njRat,https://t.co/oUJIjQAYnZ,3b551f24930c79b3b15f711814ca1c05d0cbe251d08eed7f26d974a4bc876436,127.0.0.1:1177
 2019-12-19 20:02:03,njRat,https://t.co/b7v13cAHw5,5147ab9970313aae00bbb50a3563cf2acc87c1abef2751dcbcd6c995ec1221ff,201.46.39.58:1338
