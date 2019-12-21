@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-12-21 12:02:03,njRat,https://t.co/a2SOjUkDht,a5766fb6dd1fbcbdba43e9a7245f5a78c6a6dd06c6563ed877d88bee552bbc3b,camera-ip.myq-see.com:3589
+2019-12-21 09:02:19,Revenge,https://t.co/YWL16aG3yQ,ef5291352ea66217f141b59bf7566bab2b4049f1a116ac2c875df5bbaea61ef5,"192.168.1.5:2302,,"
+2019-12-21 09:02:02,Revenge,https://t.co/1Nq4HD7oht,b8fdfb2ded9004859493773c3b20dc6253ce0ddc683fc690e4b13765ab0c537d,"192.168.1.20:2302,,"
+2019-12-21 07:15:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/n1dR5o5dW2,8a4d7a659cb51cd00d43128fe928f21530da9856da7fa01a8eb2d49fd593732b,192.168.1.104:443
+2019-12-21 07:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/NOeGdGyQ88,ee80eb9a11bb77898660b9396fde3b6d65c1bac81862102ca96e59590cbc1b64,192.168.1.104:443
 2019-12-20 21:25:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/hSorBLJSO5,cd598e24a44d56bfc053459031bce61bb25d7775475fd8a443291800ec606bcf,192.168.1.149
 2019-12-20 20:47:03,Revenge,https://t.co/1Nq4HD7oht,b8fdfb2ded9004859493773c3b20dc6253ce0ddc683fc690e4b13765ab0c537d,"192.168.1.20:2302,,"
 2019-12-20 11:47:03,REvil,https://t.co/i2wyEJU04b,5cb49636a0d759cf24bd19ce17003a62f1e8d4d076844b9110af8b9172413508,"explora.nl,bluelakevision.com,santastoy.store,subyard.com,gosouldeep.com,jlwilsonbooks.com,greatofficespaces.net,mediogiro.com.ar,slidee"
