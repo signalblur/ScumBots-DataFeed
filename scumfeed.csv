@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-12-22 18:25:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/jl4dhCQLfj,e79d9aba3770f71a23e7dff7e942c0d7ecbb226115f530c7e7dabb648bd95feb,192.168.1.172:666
+2019-12-22 17:30:04,PowerShell_Empire_Agent,https://t.co/pJLIxFi2zR,ee1926153e816d701e0c298b185dcf0f6057fb51433ea8315f5c3872cfe7ccd9,192.168.1.172:80
+2019-12-22 13:47:03,Revenge,https://t.co/CTblII01ZC,760fe05f7c86415ca54a0c94fb4a7eea384002e432a28a1c7dc2ef8ec0d38ddf,"192.168.1.2:333,,"
+2019-12-22 13:32:03,njRat,https://t.co/ZLzruG4jhR,91b47ecc0687068846f1913779bccc02faa3d33178e567ade3943885fb538747,rangerahmed.ddns.net:1177
+2019-12-22 13:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/90VuUHwm0Y,be0956de5e449c80191124981a8785732bcbea8d52e9747ba0657003e671c459,217.160.11.220:443
 2019-12-22 02:17:03,njRat,https://t.co/DWT9xfXl68,72531d2c713b92c6544e457bbff7e5bee35baa43db35ea820cac6a86501b8e21,chrismas.sytes.net:9876
 2019-12-22 00:15:11,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/jUk3zNagl3,1a5ac75a6854b98d402ab5b35c62e6a1360a7ac6ff909106b218714102d3d65e,revisesoft.com
 2019-12-22 00:06:41,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/tPkgefe2PS,38fe3aae07ee3efbb9d2b82e8385f356989cd5ebbd668fe9b673c6c99e114a37,revisesoft.com
