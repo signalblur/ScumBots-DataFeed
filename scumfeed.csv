@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2019-12-22 02:17:03,njRat,https://t.co/DWT9xfXl68,72531d2c713b92c6544e457bbff7e5bee35baa43db35ea820cac6a86501b8e21,chrismas.sytes.net:9876
 2019-12-22 00:15:11,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/jUk3zNagl3,1a5ac75a6854b98d402ab5b35c62e6a1360a7ac6ff909106b218714102d3d65e,revisesoft.com
 2019-12-22 00:06:41,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/tPkgefe2PS,38fe3aae07ee3efbb9d2b82e8385f356989cd5ebbd668fe9b673c6c99e114a37,revisesoft.com
 2019-12-21 23:57:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/iVUSrcDzPI,38fe3aae07ee3efbb9d2b82e8385f356989cd5ebbd668fe9b673c6c99e114a37,revisesoft.com
