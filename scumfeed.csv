@@ -1,5 +1,25 @@
 date_identified,implant_type,url,hash,c2
-2019-12-21 14:47:02,njRat,https://t.co/0fGuI5je15,ed2ea0bd098d052df3f7f41f7e2266595d731cd1182742fee7b80f0d9608fd31,heybabe159.myftp.biz:7744
+2019-12-22 00:15:11,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/jUk3zNagl3,1a5ac75a6854b98d402ab5b35c62e6a1360a7ac6ff909106b218714102d3d65e,revisesoft.com
+2019-12-22 00:06:41,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/tPkgefe2PS,38fe3aae07ee3efbb9d2b82e8385f356989cd5ebbd668fe9b673c6c99e114a37,revisesoft.com
+2019-12-21 23:57:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/iVUSrcDzPI,38fe3aae07ee3efbb9d2b82e8385f356989cd5ebbd668fe9b673c6c99e114a37,revisesoft.com
+2019-12-21 23:32:19,Revenge,https://t.co/ntIu2v9zmb,760fe05f7c86415ca54a0c94fb4a7eea384002e432a28a1c7dc2ef8ec0d38ddf,"192.168.1.2:333,,"
+2019-12-21 23:32:03,Revenge,https://t.co/PBsDo1nuzW,34e0152ddb46cd7acd5cc40a460f4380a5955671d8c19eb35f63a59cab5da998,"camera-ip.duckdns.org:443,,"
+2019-12-21 23:14:34,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/y1a7K5Td5W,592c40649bfc8de045534f616af8bade0a2ab5e14db71d36f15d6806c1f1372d,192.168.1.91
+2019-12-21 23:10:25,njRat,https://t.co/WLbcaaB6qU,a5766fb6dd1fbcbdba43e9a7245f5a78c6a6dd06c6563ed877d88bee552bbc3b,camera-ip.myq-see.com:3589
+2019-12-21 23:10:08,njRat,https://t.co/oSoBbAvAgn,dc9b60c3a859c5e7985edd469b9874a2c0551a37fc7ed10e6d754ea668c953f6,127.0.0.1:5554
+2019-12-21 23:09:51,Revenge,https://t.co/YWL16aG3yQ,ef5291352ea66217f141b59bf7566bab2b4049f1a116ac2c875df5bbaea61ef5,"192.168.1.5:2302,,"
+2019-12-21 23:09:35,njRat,https://t.co/xKw2vQsWbt,ce0edd425616470904e281b5973a8728b54f10115a41027f7a4972d3d9473ca4,"127.0.0.1:5554,"
+2019-12-21 23:09:19,njRat,https://t.co/a2SOjUkDht,a5766fb6dd1fbcbdba43e9a7245f5a78c6a6dd06c6563ed877d88bee552bbc3b,camera-ip.myq-see.com:3589
+2019-12-21 23:09:03,njRat,https://t.co/kZIZAU7Ubz,6644c9273ff660fc1cac453866755b3de33417ba5ab776e70035fc6bf292f121,127.0.0.1:5552
+2019-12-21 23:06:06,njRat,https://t.co/0fGuI5je15,ed2ea0bd098d052df3f7f41f7e2266595d731cd1182742fee7b80f0d9608fd31,heybabe159.myftp.biz:7744
+2019-12-21 23:05:19,Revenge,https://t.co/oKC9tuzwrQ,760fe05f7c86415ca54a0c94fb4a7eea384002e432a28a1c7dc2ef8ec0d38ddf,"192.168.1.2:333,,"
+2019-12-21 23:03:53,njRat,https://t.co/PkDvABL1j0,64fc207ebe16e7eaff94671a627f0822205617043296757b8a848e9434fade6e,"wogusnn.ddns.net:5554,"
+2019-12-21 21:15:02,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/dIO8mQGrkd,5b84efc171529ec83896e309a975447de5c38bed85e8117d68547257507f9705,192.168.1.149
+2019-12-21 19:27:07,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/dIO8mQY2IN,5b84efc171529ec83896e309a975447de5c38bed85e8117d68547257507f9705,192.168.1.149
+2019-12-21 19:26:35,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/o2GjddwgzZ,2d8b1b3e08c621965890e5c19d7d5c91e3dbcdefc3b0ee7eb7e7a2b02985be45,192.168.1.104:443
+2019-12-21 19:26:04,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ldDwwG2zqe,58a7c613581909b3e9cf6093d5f158007bc3721a32552630fb1fcf1319c5600f,192.168.1.104:444
+2019-12-21 19:25:33,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/NOeGdGyQ88,ee80eb9a11bb77898660b9396fde3b6d65c1bac81862102ca96e59590cbc1b64,192.168.1.104:443
+2019-12-21 19:25:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/n1dR5o5dW2,8a4d7a659cb51cd00d43128fe928f21530da9856da7fa01a8eb2d49fd593732b,192.168.1.104:443
 2019-12-21 14:02:03,njRat,https://t.co/MMVMqkzwyf,7dcf0a74ddf9bb665f651981d98d3968778e92d15e1f7c4bcbeb2cb3ec39e2a9,"127.0.0.1:5554,"
 2019-12-21 12:02:03,njRat,https://t.co/a2SOjUkDht,a5766fb6dd1fbcbdba43e9a7245f5a78c6a6dd06c6563ed877d88bee552bbc3b,camera-ip.myq-see.com:3589
 2019-12-21 09:02:19,Revenge,https://t.co/YWL16aG3yQ,ef5291352ea66217f141b59bf7566bab2b4049f1a116ac2c875df5bbaea61ef5,"192.168.1.5:2302,,"
