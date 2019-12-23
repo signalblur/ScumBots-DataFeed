@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-22 22:02:03,njRat,https://t.co/RmDwpspqgz,0a0e9e3d9509a7e5d34024de6207a1934e01aa1722b60396002d07b84d0c1a3b,"127.0.0.1:1177,"
+2019-12-22 21:17:03,REvil,https://t.co/52TGsTMqEp,1e1589de70ea7ebad976aa1c1ebdb32e0695ee268aa5f7f8ac834ed3960a4803,"arazi.eus,amco.net.au,peppergreenfarmcatering.com.au,cymru.futbol,rs-danmark.dk,drvoip.com,aheadloftladders.co.uk,vapiano.fr,geitoni"
+2019-12-22 19:17:04,REvil,https://t.co/SMT7xFFSbY,bb7707d5672a409d7b69356ca1f2ed947bc5c76a683431c8b636e60845fa17ed,"whoopingcrane.com,jakubrybak.com,landgoedspica.nl,reygroup.pt,denverwynkoopdentist.com,xn--ziinoapte-6ld.ro,circuit-diagramz.com,mesajjonger"
 2019-12-22 18:25:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/jl4dhCQLfj,e79d9aba3770f71a23e7dff7e942c0d7ecbb226115f530c7e7dabb648bd95feb,192.168.1.172:666
 2019-12-22 17:30:04,PowerShell_Empire_Agent,https://t.co/pJLIxFi2zR,ee1926153e816d701e0c298b185dcf0f6057fb51433ea8315f5c3872cfe7ccd9,192.168.1.172:80
 2019-12-22 13:47:03,Revenge,https://t.co/CTblII01ZC,760fe05f7c86415ca54a0c94fb4a7eea384002e432a28a1c7dc2ef8ec0d38ddf,"192.168.1.2:333,,"
