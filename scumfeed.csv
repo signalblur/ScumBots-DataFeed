@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-12-23 11:15:35,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/yMeDQ7IsZy,283e46ec4d9fef0cb64305b0610766a7bc1a4def92a64cded6d2e164147a42bb,127.0.0.1:1234
+2019-12-23 11:15:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/pBOABLTVZG,27c5d43786c826ee5072355c5e5aa16714873e389473e7569cdbf8c14a71aefc,185.202.174.91
 2019-12-22 22:02:03,njRat,https://t.co/RmDwpspqgz,0a0e9e3d9509a7e5d34024de6207a1934e01aa1722b60396002d07b84d0c1a3b,"127.0.0.1:1177,"
 2019-12-22 21:17:03,REvil,https://t.co/52TGsTMqEp,1e1589de70ea7ebad976aa1c1ebdb32e0695ee268aa5f7f8ac834ed3960a4803,"arazi.eus,amco.net.au,peppergreenfarmcatering.com.au,cymru.futbol,rs-danmark.dk,drvoip.com,aheadloftladders.co.uk,vapiano.fr,geitoni"
 2019-12-22 19:17:04,REvil,https://t.co/SMT7xFFSbY,bb7707d5672a409d7b69356ca1f2ed947bc5c76a683431c8b636e60845fa17ed,"whoopingcrane.com,jakubrybak.com,landgoedspica.nl,reygroup.pt,denverwynkoopdentist.com,xn--ziinoapte-6ld.ro,circuit-diagramz.com,mesajjonger"
