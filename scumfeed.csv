@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-12-23 19:28:37,njRat,https://t.co/P0yK0xKFVM,6ccd19a76b74c3e9af8dc25e8400a2349a21ca77c5a797835b5c0c992e1f30ec,bomba55.ddns.net:5555
+2019-12-23 19:28:20,njRat,https://t.co/MfzqzYnC2C,e93d5b19ad51743b7f767acc5288a20d7050aa4537b437bf4f10a2c9dfa9cf1a,bomba55.ddns.net:5555
 2019-12-23 11:15:35,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/yMeDQ7IsZy,283e46ec4d9fef0cb64305b0610766a7bc1a4def92a64cded6d2e164147a42bb,127.0.0.1:1234
 2019-12-23 11:15:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/pBOABLTVZG,27c5d43786c826ee5072355c5e5aa16714873e389473e7569cdbf8c14a71aefc,185.202.174.91
 2019-12-22 22:02:03,njRat,https://t.co/RmDwpspqgz,0a0e9e3d9509a7e5d34024de6207a1934e01aa1722b60396002d07b84d0c1a3b,"127.0.0.1:1177,"
