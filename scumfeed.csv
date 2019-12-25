@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-25 09:02:03,Revenge,https://t.co/x4JIbemOj7,c27b46ad131c27a992a3a630075fb3614f32ca84157acffa12890745a4550016,"rdp.dgsn.fr:213,,"
+2019-12-25 08:17:03,njRat,https://t.co/czVC2R1PFc,6543c9ed78f27942844504445d18d34c2a0a6184ec0eab8f60dcbb7e30dd256f,127.0.0.1:5552
+2019-12-25 07:32:03,REvil,https://t.co/npwPytMGgH,f4e2cf1a788a104226e6c577ad19c8570624371f8563a3ec0e9cb43501c18665,"mondolandscapes.com,lgiwines.com,scotlandsroute66.co.uk,rivermusic.nl,atma.nl,pansionatblago.ru,sweetz.fr,cmascd.com,voice2biz.com,pre"
 2019-12-25 03:47:03,njRat,https://t.co/rbIki6d4Do,deefef1940787b3107ee3cb5ca9638e8958c267ea6203cbbc6ce7282d3fc8e5d,193.161.193.99:1313
 2019-12-25 01:05:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/UzQKkBHpMb,7bd3df9641c503de281a26c3ddef6de677f5debf4bf9ccd6aabff4ebdb9438af,192.168.0.100:4444
 2019-12-24 18:47:03,njRat,https://t.co/PGogWk5yhL,0b66840564d9fc17f511d6e05ceefe5a3770af8f0c925aac39d8a5d8b928f129,"127.0.0.1:5553,"
