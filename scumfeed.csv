@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-12-25 03:47:03,njRat,https://t.co/rbIki6d4Do,deefef1940787b3107ee3cb5ca9638e8958c267ea6203cbbc6ce7282d3fc8e5d,193.161.193.99:1313
+2019-12-25 01:05:02,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/UzQKkBHpMb,7bd3df9641c503de281a26c3ddef6de677f5debf4bf9ccd6aabff4ebdb9438af,192.168.0.100:4444
 2019-12-24 18:47:03,njRat,https://t.co/PGogWk5yhL,0b66840564d9fc17f511d6e05ceefe5a3770af8f0c925aac39d8a5d8b928f129,"127.0.0.1:5553,"
 2019-12-24 18:17:04,njRat,https://t.co/INwCJuuD3e,189b93a5f348e13d10485104cdec001a428e9a47e90ddb12b183b4e64f242677,"wogusnn.ddns.net:5554,"
 2019-12-24 05:49:07,njRat,https://t.co/mLutSuDSEs,dbe22b38bd98cfa9a1975270c8a8bc43b17c6ecbbaf5c94ebf5b1965e51c76c2,camera-ip.myq-see.com:3589
