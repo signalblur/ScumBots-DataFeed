@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2019-12-26 18:02:03,njRat,https://t.co/qJ6dAQiTz6,4e0b755f0017f84721ec689462b04a1fb44758a71c46bd3018ffd0a0351cb0f0,127.0.0.1:4444
+2019-12-26 16:32:03,CyberGate,https://t.co/MHNTHPIBRT,c16ab72e8335e94e98421d41e9c77d6c77cba9318521a4763064fe924319c5af,"actionmtasa.ddns.net:2020/,"
+2019-12-26 15:02:19,njRat,https://t.co/Q3Wy8o73kj,1b79c0c8866e6474c0458e256266fb51766787928cffba29688b868fa927ade5,denemeko.ddns.net:6522
+2019-12-26 15:02:03,njRat,https://t.co/6bKqMgBLc7,1b79c0c8866e6474c0458e256266fb51766787928cffba29688b868fa927ade5,denemeko.ddns.net:6522
+2019-12-26 13:02:19,njRat,https://t.co/OZv4GSh6Eu,d491c98fd2ad6cc9f5f8f06b5edafb143e71c80c99a6fd9116fd7e02988e4ba5,denemeko.ddns.net:6522
+2019-12-26 13:02:02,njRat,https://t.co/biH1Z9ScXN,d491c98fd2ad6cc9f5f8f06b5edafb143e71c80c99a6fd9116fd7e02988e4ba5,denemeko.ddns.net:6522
 2019-12-26 07:47:03,njRat,https://t.co/cNNcpm9Rbc,cecbec4f00ba21e5c9c21d498cb51e0d722998c30bc76ffa44840b35d1fc2796,192.168.0.6:5552
 2019-12-26 07:32:03,njRat,https://t.co/E6ZYsbaal7,4de5aceff2e0b55202ca750c658abc92ad10afd18124543011b2ab4553b3fe12,127.0.0.1:5552
 2019-12-26 07:17:36,Pony,https://t.co/tAl2AmvMT5,cfc2c8945c2c2edb949fa92afb360b4340d28a4317b7e435f8f9a9b84d4c3e79,"sbrbuilding.com/abc/Panel/gate.php,"
