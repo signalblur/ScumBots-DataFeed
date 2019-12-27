@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2019-12-26 21:32:04,Revenge,https://t.co/baIBNKiNx2,c93badf4c858e263f9a34a26d51edfa12d339f94db70bb31a8e892479ca74045,"192.168.1.2:333,,"
+2019-12-26 21:15:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/4jH6pcksm1,8044c2a598ec7e54933d8c3ab6d89f9f0217ae253a30879d7a245d1a0d08838d,95.179.187.195
+2019-12-26 19:17:19,njRat,https://t.co/qnUBvcCpIP,be663fcf8d4ad529b66461c97975d81eb5cf54cdb015d31e18102d73ae46f98e,wogusnn.ddns.net:5553
+2019-12-26 19:17:03,njRat,https://t.co/b27HvEMYLj,6e3fc3b497736d00dfe598cb3a081f317111f7f9cdc891f7ea6fae8b79b325e2,denemeko.ddns.net:6522
+2019-12-26 19:02:03,njRat,https://t.co/b8YRhqUD5p,4e0b755f0017f84721ec689462b04a1fb44758a71c46bd3018ffd0a0351cb0f0,127.0.0.1:4444
 2019-12-26 18:02:03,njRat,https://t.co/qJ6dAQiTz6,4e0b755f0017f84721ec689462b04a1fb44758a71c46bd3018ffd0a0351cb0f0,127.0.0.1:4444
 2019-12-26 16:32:03,CyberGate,https://t.co/MHNTHPIBRT,c16ab72e8335e94e98421d41e9c77d6c77cba9318521a4763064fe924319c5af,"actionmtasa.ddns.net:2020/,"
 2019-12-26 15:02:19,njRat,https://t.co/Q3Wy8o73kj,1b79c0c8866e6474c0458e256266fb51766787928cffba29688b868fa927ade5,denemeko.ddns.net:6522
