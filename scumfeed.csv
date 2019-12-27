@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-12-27 02:30:33,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/RWN3ew4QUt,b7aecb83d5e64def26d3158169b67f10a18eeac2bdfe21f52a42dcfc670d660c,217.80.20.213:1515
+2019-12-27 02:02:03,njRat,https://t.co/Gu7zL7P5Eo,d491c98fd2ad6cc9f5f8f06b5edafb143e71c80c99a6fd9116fd7e02988e4ba5,denemeko.ddns.net:6522
+2019-12-27 01:32:19,njRat,https://t.co/regQFqdeyp,92bb2fc9da906cd9fba2bd3c05949adf0e5cc8dde15015cd51229874b7f5d540,bomba55.ddns.net:5555
+2019-12-27 01:32:03,njRat,https://t.co/ojzCNF0zgw,a32f7239964b8b16db1bc5f2605564efa27802e56fb70c76a3a9068ac222216b,"ahmed2016.duckdns.org:2222,arms1599.ddns.net"
 2019-12-26 21:32:04,Revenge,https://t.co/baIBNKiNx2,c93badf4c858e263f9a34a26d51edfa12d339f94db70bb31a8e892479ca74045,"192.168.1.2:333,,"
 2019-12-26 21:15:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/4jH6pcksm1,8044c2a598ec7e54933d8c3ab6d89f9f0217ae253a30879d7a245d1a0d08838d,95.179.187.195
 2019-12-26 19:17:19,njRat,https://t.co/qnUBvcCpIP,be663fcf8d4ad529b66461c97975d81eb5cf54cdb015d31e18102d73ae46f98e,wogusnn.ddns.net:5553
