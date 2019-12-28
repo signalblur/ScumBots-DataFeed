@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-28 16:32:03,njRat,https://t.co/IRUul0TnU7,ed5cfe22f1dfdb94799d8f000b19ee114b78294ba0c6c45c1965e5906d7e5632,denemeko.ddns.net:6522
+2019-12-28 15:02:03,njRat,https://t.co/f3wUo2fKvm,103ca1301658302f72c858fb865f6577ebf526672a873a861c563e859fe9d273,193.161.193.99:56249
+2019-12-28 13:47:02,njRat,https://t.co/xNGRrHqRN4,3f62056350d9fbc7ec5845571433b44ccad23be58416fa39eab645eea3754e7e,fa1con-44457.portmap.host:46552
 2019-12-28 10:25:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/yHde3OnzbJ,6bb4996be635293532b4c41892e8f90d546be65a0e5fb6583d1c5aeed132ab0a,192.168.0.113
 2019-12-28 10:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/xAv7YJngeT,3d0cd28bce7b1f225b8c81b0d8ac21a6f25372724f0da853a523102cac85cc30,192.168.0.133:4444
 2019-12-28 09:32:02,njRat,https://t.co/owbckuLuHR,882d30c8983cb2483ddca13608bddaebcb21a7b81a86cbaeb01cfb88e9601feb,127.0.0.1:5552
