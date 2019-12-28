@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2019-12-27 20:17:03,njRat,https://t.co/flQr07Zeba,ab8b482de63d7e464dbe3c4be8a4494650331fddd95f68e9ba9b251fc65f341c,192.168.1.2:1177
+2019-12-27 19:02:02,njRat,https://t.co/eQTxRLXYQ1,d57ab042ab482ac6981834cd4aadf5a9c25e634b0e2556b88b62f0ce1b7c3309,fal92.duckdns.org:10140
 2019-12-27 18:32:03,njRat,https://t.co/GS8IDtdS33,18a78cb17c5099e32224e138826f0c3ecaea84d2b26141a81b8f622d09cd3b1c,wogusnn.ddns.net:5553
 2019-12-27 16:24:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/qOCY6Aeb80,3e4b6309e171b8dc98812db231568e81285ae0bde7ad8dfada5cbeb052e8beb3,66.42.67.176
 2019-12-27 16:18:58,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/lhdYByTG6z,484d605cc200f035fb0448e4b3c32b33b16f53b786e4e59de271b5183149d847,66.42.67.176
