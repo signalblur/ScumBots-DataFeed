@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2019-12-28 10:25:03,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/yHde3OnzbJ,6bb4996be635293532b4c41892e8f90d546be65a0e5fb6583d1c5aeed132ab0a,192.168.0.113
+2019-12-28 10:05:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/xAv7YJngeT,3d0cd28bce7b1f225b8c81b0d8ac21a6f25372724f0da853a523102cac85cc30,192.168.0.133:4444
+2019-12-28 09:32:02,njRat,https://t.co/owbckuLuHR,882d30c8983cb2483ddca13608bddaebcb21a7b81a86cbaeb01cfb88e9601feb,127.0.0.1:5552
+2019-12-28 07:32:03,njRat,https://t.co/lSf3mzNmGR,882d30c8983cb2483ddca13608bddaebcb21a7b81a86cbaeb01cfb88e9601feb,127.0.0.1:5552
 2019-12-27 20:17:03,njRat,https://t.co/flQr07Zeba,ab8b482de63d7e464dbe3c4be8a4494650331fddd95f68e9ba9b251fc65f341c,192.168.1.2:1177
 2019-12-27 19:02:02,njRat,https://t.co/eQTxRLXYQ1,d57ab042ab482ac6981834cd4aadf5a9c25e634b0e2556b88b62f0ce1b7c3309,fal92.duckdns.org:10140
 2019-12-27 18:32:03,njRat,https://t.co/GS8IDtdS33,18a78cb17c5099e32224e138826f0c3ecaea84d2b26141a81b8f622d09cd3b1c,wogusnn.ddns.net:5553
