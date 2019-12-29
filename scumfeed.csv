@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-29 11:17:03,njRat,https://t.co/W2B2KXEMUx,3d1d371bc9de1d03f610e18e422c61448018c74b9c6d1fd102a496e18eb72ccb,mouche666.ddns.net:1188
+2019-12-29 10:45:34,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/vNuz2q6zyM,e7ac69eecbca0c58fdc6b7e1febc6cebc5265da8d5e423b811f1001cd1cfb0d5,telastex.net
+2019-12-29 10:45:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/kuRcjmSXum,e1fd5ac7814e0e3023fc8ed2bba08a2c1bf462e50c3ab988c88f863a6a03387e,telastex.net
 2019-12-29 05:15:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/L5TbPkrCOo,35d73465816b523703f8d212aac22a087ec5b985ee23808c6710c104138a8d81,46.166.173.155
 2019-12-29 05:02:03,njRat,https://t.co/xO24ueEt23,7cf18f63f0152fa4e4f67ac954ed7e2e6c0118c04ec90fa213170dd4bca906af,"127.0.0.1:1122,"
 2019-12-29 00:51:28,njRat,https://t.co/CXiQ1UStvn,9aa019526fcdc7e57f85725ce105a29f375fd22d665262732e50945e9a88148d,kiyou.ddns.net:1177
