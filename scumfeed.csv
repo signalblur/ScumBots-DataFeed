@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2019-12-29 05:15:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/L5TbPkrCOo,35d73465816b523703f8d212aac22a087ec5b985ee23808c6710c104138a8d81,46.166.173.155
+2019-12-29 05:02:03,njRat,https://t.co/xO24ueEt23,7cf18f63f0152fa4e4f67ac954ed7e2e6c0118c04ec90fa213170dd4bca906af,"127.0.0.1:1122,"
+2019-12-29 00:51:28,njRat,https://t.co/CXiQ1UStvn,9aa019526fcdc7e57f85725ce105a29f375fd22d665262732e50945e9a88148d,kiyou.ddns.net:1177
 2019-12-28 16:32:03,njRat,https://t.co/IRUul0TnU7,ed5cfe22f1dfdb94799d8f000b19ee114b78294ba0c6c45c1965e5906d7e5632,denemeko.ddns.net:6522
 2019-12-28 15:02:03,njRat,https://t.co/f3wUo2fKvm,103ca1301658302f72c858fb865f6577ebf526672a873a861c563e859fe9d273,193.161.193.99:56249
 2019-12-28 13:47:02,njRat,https://t.co/xNGRrHqRN4,3f62056350d9fbc7ec5845571433b44ccad23be58416fa39eab645eea3754e7e,fa1con-44457.portmap.host:46552
