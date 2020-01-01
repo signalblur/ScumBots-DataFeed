@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-01-01 18:02:03,njRat,https://t.co/gwwprZy3wH,9a357f09b76c7c511920154450c9b4a889095f65000e65f6bb6f99748a67a805,84.217.125.142:80
+2020-01-01 15:02:03,njRat,https://t.co/ryHOW5aAXR,c8b2eec7a0e0086728ac0d69f6f2e3749f5ef31d970d910e0f77639475006dcd,84.217.125.142:80
+2020-01-01 13:47:03,REvil,https://t.co/nJntEM6gj0,0e468c960706b3f4181f54a35650b8edbd0960785dda89a72cdd1e5d600f188b,"motocrossplace.co.uk,nbva.co.uk,hospitalitytrainingsolutions.co.uk,licensed-public-adjuster.com,wallflowersandrakes.com,clemenfoto.dk,tr"
+2020-01-01 13:32:03,REvil,https://t.co/nuKCvLwU3R,830a8208fe916dabfc1ee63c3e889d8277fbae954a9b00d64b2c920e1d9a2536,"newonestop.com,alaskaremote.com,zaczytana.com,opticahubertruiz.com,fanuli.com.au,die-immo-agentur.de,maryairbnb.wordpress.com,vedsegaard"
+2020-01-01 13:17:03,REvil,https://t.co/NPkpW4D1dD,578e1b00157447f99716b646af6b0c33d0f6c32257a19376d6cc9d003ff0fba1,"centuryvisionglobal.com,alabamaroofingllc.com,fitnessblenderstory.com,andrealuchesi.it,stressreliefadvice.com,aquacheck.co.za,p-ride.live,"
+2020-01-01 13:02:03,REvil,https://t.co/syl7Vjjb6U,5bfb1237443e270d7297a9bb2d4cc44cbc4f3ad0f71db00012a4cc0ae461e6d2,"alpesiberie.com,cp-bap.de,craftstone.co.nz,humanviruses.org,smartmind.net,cac2040.com,solidhosting.nl,whoopingcrane.com,fixx-repair.co"
+2020-01-01 12:47:03,REvil,https://t.co/R94V8tbe1E,42996516b6604ba136ff909d9b59d2a676a72eaafa30c729cdfaddd96b20fc83,"nalliasmali.net,funworx.de,lapponiasafaris.com,frameshift.it,olry-cloisons.fr,marcandy.com,startuplive.org,annenymus.com,circuit-diagramz"
 2020-01-01 12:32:02,njRat,https://t.co/7aTq51Z8ym,1ab5a32c95f4645f124b455ccbd65a46e56897a9f0f62e3edd8a8c3ea06189ab,192.168.1.2:1177
 2020-01-01 12:02:03,Revenge,https://t.co/P0p4bSYN3e,8efd6f95c39e86627b1f9cc553fa7bed152dbf4788662bee15d3b5bdf0c1b79e,"192.168.1.2:333,,"
 2020-01-01 02:47:03,njRat,https://t.co/Rpfp6aq2Nf,551bed5457d7de7aaad18e003733a546e6c223c15753340f593cb7f7962970b6,127.0.0.1:45600
