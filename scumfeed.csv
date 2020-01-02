@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-01-02 07:17:02,NanoCore,https://t.co/Ev26icL66d,cc559587825877b40a955baeea22039cbc35813ee00e139fa6a3c90b7355283a,"ghfsquad.duckdns.org:8192,ludwigh.duckdns.org:8192,"
+2020-01-02 07:02:03,NanoCore,https://t.co/3ZRqQtAHx8,cc559587825877b40a955baeea22039cbc35813ee00e139fa6a3c90b7355283a,"ghfsquad.duckdns.org:8192,ludwigh.duckdns.org:8192,"
 2020-01-01 22:11:20,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/Z69LO8O0Kb,fb677a26be62cea037e8283d985954ba8e2adfdd26103afa526d4abc010a809a,65.52.25.210:443
 2020-01-01 21:32:19,njRat,https://t.co/kccmJ9LAax,6cf989387bc4334c2b9c9a3d1904c072832486a4e1d27fb7a8400bea73b8fc01,54.169.128.136:1337
 2020-01-01 21:32:02,njRat,https://t.co/HaEogpmTgV,6cf989387bc4334c2b9c9a3d1904c072832486a4e1d27fb7a8400bea73b8fc01,54.169.128.136:1337
