@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-01-01 22:11:20,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/Z69LO8O0Kb,fb677a26be62cea037e8283d985954ba8e2adfdd26103afa526d4abc010a809a,65.52.25.210:443
+2020-01-01 21:32:19,njRat,https://t.co/kccmJ9LAax,6cf989387bc4334c2b9c9a3d1904c072832486a4e1d27fb7a8400bea73b8fc01,54.169.128.136:1337
+2020-01-01 21:32:02,njRat,https://t.co/HaEogpmTgV,6cf989387bc4334c2b9c9a3d1904c072832486a4e1d27fb7a8400bea73b8fc01,54.169.128.136:1337
+2020-01-01 21:04:22,njRat,https://t.co/z2J4wvX9cD,2e2a2c994af7088a361f6ba955dbe3f58934930fd4e3a894ddf6e58a6ae46137,"192.168.1.29:5553,127.0.0.1"
 2020-01-01 18:02:03,njRat,https://t.co/gwwprZy3wH,9a357f09b76c7c511920154450c9b4a889095f65000e65f6bb6f99748a67a805,84.217.125.142:80
 2020-01-01 15:02:03,njRat,https://t.co/ryHOW5aAXR,c8b2eec7a0e0086728ac0d69f6f2e3749f5ef31d970d910e0f77639475006dcd,84.217.125.142:80
 2020-01-01 13:47:03,REvil,https://t.co/nJntEM6gj0,0e468c960706b3f4181f54a35650b8edbd0960785dda89a72cdd1e5d600f188b,"motocrossplace.co.uk,nbva.co.uk,hospitalitytrainingsolutions.co.uk,licensed-public-adjuster.com,wallflowersandrakes.com,clemenfoto.dk,tr"
