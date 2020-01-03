@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-01-02 21:15:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/QvnRL1qadV,458a24d750385d61ba335ac2f2f2aa6b2c9fd66ea9925c1480c0dc625116d81b,10.0.2.15:4444
+2020-01-02 20:15:14,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/HazehykG5e,870530458112709aaf8b52ff414cd895ce280f68226f362623683c0e4aa83779,10.10.15.112:1337
 2020-01-02 18:02:03,Revenge,https://t.co/c7SrlbtR1m,b45741c0c50256480cdffc15bd14a3770d895232c1e482e91f5e298daea023fc,"alien007.my-firewall.org:8080,"
 2020-01-02 15:17:03,NanoCore,https://t.co/BeJHRZb2Rp,0737463d0ed8addd2c9adf17c3289e48ea012750b5f826da5b33da8408341e3c,"uniformmm.ddns.net:1543,127.0.0.1:1543,"
 2020-01-02 07:17:02,NanoCore,https://t.co/Ev26icL66d,cc559587825877b40a955baeea22039cbc35813ee00e139fa6a3c90b7355283a,"ghfsquad.duckdns.org:8192,ludwigh.duckdns.org:8192,"
