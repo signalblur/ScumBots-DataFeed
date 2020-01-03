@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-01-03 16:10:54,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/a41vtlPJbz,9a3de189a38a92fd9b64f96f4948bdf9d2edbc4c7d98776b36773238ae946344,66.42.67.176
+2020-01-03 15:02:20,REvil,https://t.co/gahWizA8bW,79919ef76585d0c1ae83b081c852e570598705583142fd1e5ae71ba7b32e8318,"mursall.de,catering.com,aslog.fr,apogeeconseils.fr,lexced.com,apiarista.de,der-stempelking.de,paardcentraal.nl,holocine.de,bourchier.o"
+2020-01-03 15:02:03,njRat,https://t.co/zP9Wn3YwIE,7e6dce4194b7f42515cfe70a26a19cf018b66fd4522a0f10c46fac5bf884aad2,sandboxupdate.myq-see.com:2002
+2020-01-03 13:12:09,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Edsl7UjRSu,409f75d6a6c34393e9176b065631169713a7c86eeb36e68220e2a5586adeb3a1,192.168.124.128
+2020-01-03 13:11:38,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/EiOVLixVPT,f0deb57c033c2a74cbc8386b43a4bb922a3c2d59459414299fef47e9a4bb51c7,10.0.2.15:4444
 2020-01-02 21:15:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/QvnRL1qadV,458a24d750385d61ba335ac2f2f2aa6b2c9fd66ea9925c1480c0dc625116d81b,10.0.2.15:4444
 2020-01-02 20:15:14,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/HazehykG5e,870530458112709aaf8b52ff414cd895ce280f68226f362623683c0e4aa83779,10.10.15.112:1337
 2020-01-02 18:02:03,Revenge,https://t.co/c7SrlbtR1m,b45741c0c50256480cdffc15bd14a3770d895232c1e482e91f5e298daea023fc,"alien007.my-firewall.org:8080,"
