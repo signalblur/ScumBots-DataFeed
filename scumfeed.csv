@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-01-03 21:02:03,njRat,https://t.co/9wQ3ygqE0B,b1124ee47ce6a5bb4750b45d1d93f0c740ebda59fca7f1ee5b3d17ea2613d786,127.0.0.1:456
+2020-01-03 20:21:55,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/WnwtVFkkoK,3e4b6309e171b8dc98812db231568e81285ae0bde7ad8dfada5cbeb052e8beb3,66.42.67.176
+2020-01-03 20:16:24,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/L4VxZxe7Pc,9a3de189a38a92fd9b64f96f4948bdf9d2edbc4c7d98776b36773238ae946344,66.42.67.176
+2020-01-03 20:11:51,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/yKUCC5Di1N,23770ff4652889b92b64c0bcb0006ad0af17d669d1cbcc722a054920aa259e3b,66.42.67.176
 2020-01-03 16:10:54,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/a41vtlPJbz,9a3de189a38a92fd9b64f96f4948bdf9d2edbc4c7d98776b36773238ae946344,66.42.67.176
 2020-01-03 15:02:20,REvil,https://t.co/gahWizA8bW,79919ef76585d0c1ae83b081c852e570598705583142fd1e5ae71ba7b32e8318,"mursall.de,catering.com,aslog.fr,apogeeconseils.fr,lexced.com,apiarista.de,der-stempelking.de,paardcentraal.nl,holocine.de,bourchier.o"
 2020-01-03 15:02:03,njRat,https://t.co/zP9Wn3YwIE,7e6dce4194b7f42515cfe70a26a19cf018b66fd4522a0f10c46fac5bf884aad2,sandboxupdate.myq-see.com:2002
