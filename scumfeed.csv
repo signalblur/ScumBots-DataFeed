@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-01-05 05:55:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/k0bGsiIvp3,f7855ae0b0a2e0aa6fbba227d8f51bb3d3af3cd19d7b86c8736e271cadbe5d13,37.48.83.137
+2020-01-05 04:02:02,Revenge,https://t.co/ilNgLmy30Z,7e1f0c4593e27a0841305ca73d83f6ccdd900ecf8ed8863feb9a301367c5dac1,"192.168.1.112:4444,,"
+2020-01-05 03:32:02,Revenge,https://t.co/APfrDuwqOE,d9a9a7ab99db0946ecb0f5f398eddd0d820ffbde0105164064e168f1ea73ba26,"KevinDavis-58161.portmap.host:58161,,"
+2020-01-05 01:47:03,Revenge,https://t.co/6yU9BpH3OR,d9a9a7ab99db0946ecb0f5f398eddd0d820ffbde0105164064e168f1ea73ba26,"KevinDavis-58161.portmap.host:58161,,"
+2020-01-05 00:47:02,Revenge,https://t.co/huEw1eYUw0,6ebe2626d66a590a572cca546c2b1c472f5e1b7db26f89cc8f6f073125fe82c5,"192.168.197.128:1337,,"
+2020-01-04 21:02:03,njRat,https://t.co/CkPIsUeVJx,99d42cefa02973d7a59be7b81a4349bbed6b369c947656dac8b5a70568803716,Owais5050-61656.portmap.io:56607
 2020-01-04 14:49:34,njRat,https://t.co/lnjk5SEywc,8bd110430b3fd1f7a4349957ee0183623b7d7d0e0ca438e508e1b587001a5fdc,185.235.130.173:5552
 2020-01-04 12:32:02,njRat,https://t.co/wQ57l5w9KJ,1db41e3285f0819f9f614052a76500038e9ec2433550c240aeceb2787b235808,127.0.0.1:8080
 2020-01-04 12:17:03,NanoCore,https://t.co/u2uCrSaaTY,e039762eca5db26ade1a4e3483916193ebbd335b5760c54a2b2243877f41ed73,"192.168.0.129:54984,"
@@ -12,7 +18,6 @@ date_identified,implant_type,url,hash,c2
 2020-01-03 13:12:09,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Edsl7UjRSu,409f75d6a6c34393e9176b065631169713a7c86eeb36e68220e2a5586adeb3a1,192.168.124.128
 2020-01-03 13:11:38,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/EiOVLixVPT,f0deb57c033c2a74cbc8386b43a4bb922a3c2d59459414299fef47e9a4bb51c7,10.0.2.15:4444
 2020-01-02 21:15:03,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/QvnRL1qadV,458a24d750385d61ba335ac2f2f2aa6b2c9fd66ea9925c1480c0dc625116d81b,10.0.2.15:4444
-2020-01-02 20:15:14,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/HazehykG5e,870530458112709aaf8b52ff414cd895ce280f68226f362623683c0e4aa83779,10.10.15.112:1337
 2020-01-02 18:02:03,Revenge,https://t.co/c7SrlbtR1m,b45741c0c50256480cdffc15bd14a3770d895232c1e482e91f5e298daea023fc,"alien007.my-firewall.org:8080,"
 2020-01-02 15:17:03,NanoCore,https://t.co/BeJHRZb2Rp,0737463d0ed8addd2c9adf17c3289e48ea012750b5f826da5b33da8408341e3c,"uniformmm.ddns.net:1543,127.0.0.1:1543,"
 2020-01-02 07:17:02,NanoCore,https://t.co/Ev26icL66d,cc559587825877b40a955baeea22039cbc35813ee00e139fa6a3c90b7355283a,"ghfsquad.duckdns.org:8192,ludwigh.duckdns.org:8192,"
