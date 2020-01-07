@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-01-07 05:32:03,Lime-RAT,https://t.co/I60LFd618O,a5c774b6f994b6d6f887bf388db1bd48af5b3aa929fde63be568ac71c86d4e28,pastebin.com/raw/GRsTNecW
 2020-01-06 20:17:03,njRat,https://t.co/10KVP1Oue7,346068a89ac796ba7cb816b0343d341415392e90171a383e00b6a3ad405f6f3f,websitemange.bounceme.net:2020
 2020-01-06 20:05:02,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/Vm01DregXR,e1fd5ac7814e0e3023fc8ed2bba08a2c1bf462e50c3ab988c88f863a6a03387e,telastex.net
 2020-01-06 19:17:03,njRat,https://t.co/kpvKxDKs8v,fd119a762866a0b3a798fc0421b49769f06153881d762bda8f5015df9495cdb4,hostnj.ddns.net:1177
