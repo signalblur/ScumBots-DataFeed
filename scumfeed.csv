@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-01-08 13:17:02,njRat,https://t.co/uNydJI4f03,2d373452dedac769b8f2ef99985f0c1fd21f4a5d45f45b9e301196da80223ec4,127.0.0.1:2020
+2020-01-08 12:32:03,NanoCore,https://t.co/O8Bm8fKFnN,86c8896067480a260f931692b6f2223d603415a0708e8d16cc5ead90f9b22ba3,"spowpow12.hopto.org:5678,127.0.0.1:5678,"
+2020-01-08 11:17:02,njRat,https://t.co/3JvIUTbHx7,18c601f2c857a8fc639396cc131bde47b16c0bca95ea7f2ca78f7020adc77b8b,127.0.0.1:2020
 2020-01-08 03:26:15,njRat,https://t.co/SjUZnkHBq4,fdf7af1118dbd4fa30dcf72d07b2a114c8242207c13aa672eeada3dc5de8582f,tutoratderz.ddns.net:5552
 2020-01-07 22:47:06,DarkComet,https://t.co/rppPDSlhaJ,a2f4d3da25e52d88eafb7a7da242e9bb507fe4626af58ca3b8c1a13e391c2000,"ventoclima.hopto.org:8678/,"
 2020-01-07 21:41:25,NanoCore,https://t.co/dikLh9Rz9n,4b1e5b5b119932b4c3ae2f8e969f7aa2c7db19ebbb5c10e55ff07ea80fef6eab,"194.5.97.34:9090,omcavi.duckdns.org:9090,"
