@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-01-08 19:02:03,REvil,https://t.co/UVMrqcwlvs,9f9ec018f395592b0cd8726972e6bf1400eeb13b8535cf314de5f135bb65fdec,"salonlamar.nl,so-sage.fr,expohomes.com,humanviruses.org,b3b.ch,baikalflot.ru,stage-infirmier.fr,globalskills.pt,gurutechnologies.net,col"
+2020-01-08 18:32:03,njRat,https://t.co/L2lSZWbhqF,579664b49a5ef76626175ada92546a40f63ae977ece60b2f8649b6eac24ca290,127.0.0.1:5552
 2020-01-08 13:17:02,njRat,https://t.co/uNydJI4f03,2d373452dedac769b8f2ef99985f0c1fd21f4a5d45f45b9e301196da80223ec4,127.0.0.1:2020
 2020-01-08 12:32:03,NanoCore,https://t.co/O8Bm8fKFnN,86c8896067480a260f931692b6f2223d603415a0708e8d16cc5ead90f9b22ba3,"spowpow12.hopto.org:5678,127.0.0.1:5678,"
 2020-01-08 11:17:02,njRat,https://t.co/3JvIUTbHx7,18c601f2c857a8fc639396cc131bde47b16c0bca95ea7f2ca78f7020adc77b8b,127.0.0.1:2020
