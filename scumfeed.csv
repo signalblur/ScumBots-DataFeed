@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-01-09 08:02:02,njRat,https://t.co/ZiVHSvTBXM,fe30c3e3acd5449124af4d0f78bd33a4e6a35d4240d9c7ad8dea1a1332e1312d,console-wifi.ddns.net:5552
+2020-01-09 04:17:03,REvil,https://t.co/QsZQNc05fw,79abd7ee971040ba78f283980f10f76419980e3c3e9fc12e67a212dc87a37924,"2020hindsight.info,shortysspices.com,julielusktherapy.com,rubyaudiology.com,levencovka.ru,blueridgeheritage.com,envomask.com,mediogiro.com"
 2020-01-09 02:45:47,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/UEw6fLBCwE,573272e0be252dc8f396a5059b59f86d9ef8711f67211801568655cc8d0c1de1,192.168.1.145
 2020-01-08 19:02:03,REvil,https://t.co/UVMrqcwlvs,9f9ec018f395592b0cd8726972e6bf1400eeb13b8535cf314de5f135bb65fdec,"salonlamar.nl,so-sage.fr,expohomes.com,humanviruses.org,b3b.ch,baikalflot.ru,stage-infirmier.fr,globalskills.pt,gurutechnologies.net,col"
 2020-01-08 18:32:03,njRat,https://t.co/L2lSZWbhqF,579664b49a5ef76626175ada92546a40f63ae977ece60b2f8649b6eac24ca290,127.0.0.1:5552
