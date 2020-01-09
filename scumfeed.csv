@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-01-09 02:45:47,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/UEw6fLBCwE,573272e0be252dc8f396a5059b59f86d9ef8711f67211801568655cc8d0c1de1,192.168.1.145
 2020-01-08 19:02:03,REvil,https://t.co/UVMrqcwlvs,9f9ec018f395592b0cd8726972e6bf1400eeb13b8535cf314de5f135bb65fdec,"salonlamar.nl,so-sage.fr,expohomes.com,humanviruses.org,b3b.ch,baikalflot.ru,stage-infirmier.fr,globalskills.pt,gurutechnologies.net,col"
 2020-01-08 18:32:03,njRat,https://t.co/L2lSZWbhqF,579664b49a5ef76626175ada92546a40f63ae977ece60b2f8649b6eac24ca290,127.0.0.1:5552
 2020-01-08 13:17:02,njRat,https://t.co/uNydJI4f03,2d373452dedac769b8f2ef99985f0c1fd21f4a5d45f45b9e301196da80223ec4,127.0.0.1:2020
