@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-01-29 09:30:13,PowerShell_Empire_Agent,https://t.co/M6R1PwwAtR,4318f3ca3467e1f52d9410f37a1025b97073c14d8bcc0f7ba349c54ddd56e38f,45.32.72.237:443
+2020-01-29 07:50:14,PowerShell_Empire_Agent,https://t.co/YdbeCL2YDx,4318f3ca3467e1f52d9410f37a1025b97073c14d8bcc0f7ba349c54ddd56e38f,45.32.72.237:443
+2020-01-29 06:17:14,#REvil,https://t.co/9uf1Z8ZvSI,3177896e5f53f34670557dfa351e4c73d77a178bc1aa62030dd995d335a9a981,"xrresources.com,karmeliterviertel.com,birthplacemag.com,richardmaybury.co.uk,lidkopingsnytt.nu,apmollerpension.com,ciga-france.fr,dr-vita"
+2020-01-29 06:02:15,#REvil,https://t.co/X2IWVleNBz,d8de87db30d1dddf111c24ae670c88bd58137d422e0d707509ae0e1aecd9a8de,"pvandambv.nl,goodherbalhealth.com,datatri.be,piestar.com,the-beauty-guides.com,site.markkit.com.br,salonlamar.nl,jameswilliamspainting"
+2020-01-29 05:38:04,#Revenge,https://t.co/OZejyFeBKm,ff7fef1821c57dd55d14a22be87e8aae2690adb31237ca373987660de7b9cb5d,"192.168.1.7:8080,"
+2020-01-29 05:32:15,#REvil,https://t.co/4RqkvSSyU9,091e19d9a1bad504e4822b738eba268d791d301483228b24803422918dcc9a60,"loparnille.se,sjtpo.org,ruggestar.ch,acornishstudio.co.uk,nvisionsigns.com,mrcar.nl,acumenconsultingcompany.com,hm-com.com,transifer."
 2020-01-29 04:32:15,#REvil,https://t.co/UfvXDv58DA,008d0c1a4e83a37d34c14993a6d76c18ae13c03ba54d12e1246fb1495a20e2a6,"enactusnhlstenden.com,ludoil.it,vedsegaard.dk,donau-guides.eu,hnkns.com,veggienessa.com,stathmoulis.gr,volta.plus,ced-elec.com,sealgrin"
 2020-01-29 04:02:14,#REvil,https://t.co/G6FVqvKT5w,06c465754715f1ff54b3425bed836acdb37cdebe4917f4d01e56507fff4a4379,"dmlcpa.com,berdonllp.com,look.academy,saboboxtel.uk,aslog.fr,magrinya.net,nepal-pictures.com,angelika-schwarz.com,dibli.store,altoconta"
 2020-01-28 23:17:14,#REvil,https://t.co/IDLcf7K7yb,7d31ae49957f0a4389a5de3f080efb05d00d33957a53dfd7250f08dffe806b2a,"fotoslubna.com,brisbaneosteopathic.com.au,patriotcleaning.net,mursall.de,bubbalucious.com,advanced-removals.co.uk,laylavalentine.com,sw"
