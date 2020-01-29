@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-01-29 04:32:15,#REvil,https://t.co/UfvXDv58DA,008d0c1a4e83a37d34c14993a6d76c18ae13c03ba54d12e1246fb1495a20e2a6,"enactusnhlstenden.com,ludoil.it,vedsegaard.dk,donau-guides.eu,hnkns.com,veggienessa.com,stathmoulis.gr,volta.plus,ced-elec.com,sealgrin"
+2020-01-29 04:02:14,#REvil,https://t.co/G6FVqvKT5w,06c465754715f1ff54b3425bed836acdb37cdebe4917f4d01e56507fff4a4379,"dmlcpa.com,berdonllp.com,look.academy,saboboxtel.uk,aslog.fr,magrinya.net,nepal-pictures.com,angelika-schwarz.com,dibli.store,altoconta"
+2020-01-28 23:17:14,#REvil,https://t.co/IDLcf7K7yb,7d31ae49957f0a4389a5de3f080efb05d00d33957a53dfd7250f08dffe806b2a,"fotoslubna.com,brisbaneosteopathic.com.au,patriotcleaning.net,mursall.de,bubbalucious.com,advanced-removals.co.uk,laylavalentine.com,sw"
 2020-01-28 21:10:13,Nishang_Invoke-PowerShellTcp,https://t.co/qpnh3Wl6yw,f74ae0d4be481e819e762cb1fe44844b5ff39e7c9d92046bff8e238bb5ffbac1,0.tcp.ngrok.io:10418
 2020-01-28 20:50:13,Nishang_Invoke-PowerShellTcp,https://t.co/yZl24gFX1f,27f77bdf77639540e16a3d90cd835194b908457aab6ad5c9b98d37317eba8d92,0.tcp.ngrok.io:16901
 2020-01-28 20:05:14,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/S99GzLqn9b,0a75f1ac0830fc867a8076ea20847f7fc6039fbc90c40c55cb765f64051675bd,172.20.10.10:6969
