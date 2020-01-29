@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-01-29 14:50:15,Nishang_Invoke-PowerShellTcp,https://t.co/nizGEcmMde,5a75a08c82a6ea797fb8785f3ff7512fccf49a87c85dd1bdcf7606be97b796ab,0.tcp.ngrok.io:10740
+2020-01-29 14:30:14,#njRat,https://t.co/oi2kcFoN2F,4794f895a41ef2c4ed39014b19d75716dbe4527c5805790afc323d9d04ea8e69,karinaregistrodns.ddns.net:3333
+2020-01-29 14:29:59,#njRat,https://t.co/b4rjMrgSEx,8d1e4fc633c579408f58c29e2cd1ad565ec9cccfce54f4daa8293c82300bfbf3,taplamgiau.ddns.net:3979
+2020-01-29 14:17:13,#njRat,https://t.co/EfJH4ZJqkK,4794f895a41ef2c4ed39014b19d75716dbe4527c5805790afc323d9d04ea8e69,karinaregistrodns.ddns.net:3333
+2020-01-29 13:50:41,PowerShell_Empire_Agent,https://t.co/wNaSFELsGP,dd2ac475f0580781437c06a432cd8210c495cf05ba662f90d27b95dccd124810,https://bankingadvice.net:443
 2020-01-29 09:30:13,PowerShell_Empire_Agent,https://t.co/M6R1PwwAtR,4318f3ca3467e1f52d9410f37a1025b97073c14d8bcc0f7ba349c54ddd56e38f,45.32.72.237:443
 2020-01-29 07:50:14,PowerShell_Empire_Agent,https://t.co/YdbeCL2YDx,4318f3ca3467e1f52d9410f37a1025b97073c14d8bcc0f7ba349c54ddd56e38f,45.32.72.237:443
 2020-01-29 06:17:14,#REvil,https://t.co/9uf1Z8ZvSI,3177896e5f53f34670557dfa351e4c73d77a178bc1aa62030dd995d335a9a981,"xrresources.com,karmeliterviertel.com,birthplacemag.com,richardmaybury.co.uk,lidkopingsnytt.nu,apmollerpension.com,ciga-france.fr,dr-vita"
