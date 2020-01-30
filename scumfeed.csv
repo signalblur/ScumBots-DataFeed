@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2020-01-30 10:40:13,Nishang_Invoke-PowerShellTcp,https://t.co/1ki2AocHJQ,dfa4a7d04fa14d8c5b8c38c2c330834ca9f03eaa78001da906e5cca20a607e9b,0.tcp.ngrok.io:11400
+2020-01-30 09:50:13,Nishang_Invoke-PowerShellTcp,https://t.co/jBUNoT62Vd,bcd27aec808a0d72699877c33f18f470b137256fe4012f6d5c8d949a334af3cd,0.tcp.ngrok.io:11400
+2020-01-30 09:40:13,Nishang_Invoke-PowerShellTcp,https://t.co/MgwF0Oh2Dq,bcd27aec808a0d72699877c33f18f470b137256fe4012f6d5c8d949a334af3cd,0.tcp.ngrok.io:11400
+2020-01-30 09:30:13,Nishang_Invoke-PowerShellTcp,https://t.co/Br74qZ1PnE,bcd27aec808a0d72699877c33f18f470b137256fe4012f6d5c8d949a334af3cd,0.tcp.ngrok.io:11400
+2020-01-30 09:20:13,Nishang_Invoke-PowerShellTcp,https://t.co/IjJragpwqJ,dfa4a7d04fa14d8c5b8c38c2c330834ca9f03eaa78001da906e5cca20a607e9b,0.tcp.ngrok.io:11400
+2020-01-30 08:50:14,Nishang_Invoke-PowerShellTcp,https://t.co/R7F74oJqVF,bcd27aec808a0d72699877c33f18f470b137256fe4012f6d5c8d949a334af3cd,0.tcp.ngrok.io:11400
+2020-01-30 08:45:14,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/aHCJGgLDqf,402103b66dfda9e72ea5b123556457db3d68ac7827638d5d4f3e7b73f921b798,172.20.10.3:9326
+2020-01-30 08:40:13,Nishang_Invoke-PowerShellTcp,https://t.co/qPwpSEfoQl,dfa4a7d04fa14d8c5b8c38c2c330834ca9f03eaa78001da906e5cca20a607e9b,0.tcp.ngrok.io:11400
+2020-01-30 08:32:15,#njRat,https://t.co/iNuTiHVPgw,b4b8ba9c63ee45956876dc3f20d292a5e2a48692590f41d773bcdf4ef5b409fa,esgm.ddns.net:1413
+2020-01-30 07:02:15,#Njratgold,https://t.co/QFwPzBLC7u,fb4a538776bdcdc051a2cf886920359bd03ff4bf4919700f2986648bb5218c54,samyuo2.myq-see.com:1177
 2020-01-30 03:17:14,#REvil,https://t.co/6dyNtpgOC5,6708db7b72dea96cc3c3c5caacb31258198b135ae1c1e91eaad7a21deac6e4a6,"bluetenreich-brilon.de,unboxtherapy.site,fsbforsale.com,campinglaforetdetesse.com,whoopingcrane.com,lunoluno.com,lmmont.sk,saberconcrete."
 2020-01-30 00:47:13,#Njratgold,https://t.co/y3PZ7C5XSv,f3e87ea1140650eb11ec76d0da50d3d99f27ebe31e6a531a8828ba45e46265f5,samyuo2.myq-see.com:1177
 2020-01-30 00:25:15,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/aUMK2Y6Vvq,599e6dd0118ab747fdb0f1cc921730cfb05fddbc041d1d6600b51c1fc3ebd9b9,127.0.0.1
