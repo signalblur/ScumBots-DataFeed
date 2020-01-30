@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-01-29 19:10:13,Nishang_Invoke-PowerShellTcp,https://t.co/Bt5xfJ3tTi,4e5e18c1a7b5b282f0ba1527c67e1427b0d5a54d7ee82832db52c0b0fd0793dc,0.tcp.ngrok.io:17202
+2020-01-29 19:05:25,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/1o1MDXdOaf,04a1c36b1fb1c4b8eebfa5fd4cd3b7d696dfd6633fb2cb66fdf96332ef317b12,10.0.42.49:4444
+2020-01-29 19:05:14,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/MKVmXOf6Cb,d6ee4474e6f37094a349d00feb5c510733e697309104f833e2d965b50b0e2ad0,10.10.0.49:4444
+2020-01-29 17:47:12,PowerShell_Empire_Agent,https://t.co/Kgp1yfHL8s,67a5d05a9708d9cb2ca86baa7f483d0e22b05755e3c7b1519cb195a4362cc612,453272237:443
 2020-01-29 14:50:15,Nishang_Invoke-PowerShellTcp,https://t.co/nizGEcmMde,5a75a08c82a6ea797fb8785f3ff7512fccf49a87c85dd1bdcf7606be97b796ab,0.tcp.ngrok.io:10740
 2020-01-29 14:30:14,#njRat,https://t.co/oi2kcFoN2F,4794f895a41ef2c4ed39014b19d75716dbe4527c5805790afc323d9d04ea8e69,karinaregistrodns.ddns.net:3333
 2020-01-29 14:29:59,#njRat,https://t.co/b4rjMrgSEx,8d1e4fc633c579408f58c29e2cd1ad565ec9cccfce54f4daa8293c82300bfbf3,taplamgiau.ddns.net:3979
