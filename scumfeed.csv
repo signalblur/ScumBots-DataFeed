@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-01-31 06:45:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/jUtY1VQKnx,d4827131f39ef728267df14b53b9d6e40b51e58a9453df395ceae4c8fc63aa41,209.97.190.80
 2020-01-31 03:05:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/ZorknrjGU5,437fcade44ca3cf76aeaf2c2ea1c19591b7accbc48a465338c9540aacaf4d669,140.82.49.119
 2020-01-31 02:47:19,#Njratgold,https://t.co/hqdtVaR16n,f8cf2eaba844e922e8ecafa58a00ee0cd34ea0e89a3b09ebaa99159cbac92232,samyuo2.myq-see.com:1177
 2020-01-31 02:32:19,#njRat,https://t.co/DElP7m6L9C,c4db62b166d946d8a4e251ee22b1fe912f64423dddba72cd908b3d9318f8c6b1,samyuo2.myq-see.com:5552
