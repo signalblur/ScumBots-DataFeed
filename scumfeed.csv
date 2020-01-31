@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-01-31 03:05:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/ZorknrjGU5,437fcade44ca3cf76aeaf2c2ea1c19591b7accbc48a465338c9540aacaf4d669,140.82.49.119
+2020-01-31 02:47:19,#Njratgold,https://t.co/hqdtVaR16n,f8cf2eaba844e922e8ecafa58a00ee0cd34ea0e89a3b09ebaa99159cbac92232,samyuo2.myq-see.com:1177
+2020-01-31 02:32:19,#njRat,https://t.co/DElP7m6L9C,c4db62b166d946d8a4e251ee22b1fe912f64423dddba72cd908b3d9318f8c6b1,samyuo2.myq-see.com:5552
+2020-01-31 02:17:18,#njRat,https://t.co/EjA477VYGM,cd5d225c720e1c2555c7b4af66be3bd569128518f1605e697ca5ed03115fb164,samyuo2.myq-see.com:5552
+2020-01-31 01:02:19,#REvil,https://t.co/KW4bmfmicG,c80ded3fe04fe8fea1439d19c87d4c451683786c5bbdf9ddee4755ccde571be1,"zorgboerderijravensbosch.nl,stitch-n-bitch.com,1deals.com,loparnille.se,onesynergyinternational.com,banksrl.co.za,billscars.net,happycate"
+2020-01-31 00:57:10,#njRat,https://t.co/BRJrgF27C4,d4555da6dcec41fdd9b1da893d1dd1248a2ff8799b7134f2c9c61df7fdbe909c,127.0.0.1:6201
+2020-01-31 00:40:19,PowerShell_Empire_Agent,https://t.co/oDMCcbKfMt,99d46d0426a971358dfe21f62232798ba313a1866f92ffb4be6008eee67c2d73,172.16.106.106:80
 2020-01-30 22:47:19,#REvil,https://t.co/wQmRZY9egg,850b23e1ed71a675459cc210972ade5c86b1d7fc4f1c337de2a8c4d820883117,"interlinkone.com,bajova.sk,artvark.nl,placermonticello.com,advanced-removals.co.uk,netadultere.fr,neonodi.be,hostingbangladesh.net,natt"
 2020-01-30 21:32:20,#REvil,https://t.co/dePv5SK4yF,6d5fbf14793ccdc109eff485968252bf3516a33e56944be4e802bd93e6fcad8c,"agenceassemble.fr,newonestop.com,pourlabretagne.bzh,buonabitare.com,hospitalitytrainingsolutions.co.uk,sveneulberg.de,nykfdyrehospital.dk"
 2020-01-30 19:40:19,PowerShell_Empire_Agent,https://t.co/VUwlZSJixJ,f247b46a89070f5a604e990b6a3b19b7c0316bae6b5592eb3941492674bc8754,192.168.1.63:80
