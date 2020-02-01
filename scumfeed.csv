@@ -1,4 +1,15 @@
 date_identified,implant_type,url,hash,c2
+2020-02-01 15:24:16,#njRat,https://t.co/XoMz8Qe9y1,741176c45282658d3129537754cf5644542aa819f19e75a2eddff6d4b9be0b15,bragahack.duckdns.org:5552
+2020-02-01 15:17:21,#njRat,https://t.co/VzYzcK5bpq,70dbd26dd9d660eb31a49a63616a823f53b9b73d89f27829ede4250c741fc1f2,marianagostosa.ddns.net:5552
+2020-02-01 14:32:18,#njRat,https://t.co/lG2NhVLyit,cc91ab16e16188088ca6cfae0b80d43f99c0da097010b4bea43a49e8aec6487e,bragahack.duckdns.org:5552
+2020-02-01 12:50:19,Nishang_Invoke-PowerShellTcp,https://t.co/md8Zdomr30,f7d1f2fff3dae238b015d4726e96e681c4cf90e152cd3c3099101dda2cd9cf56,0.tcp.ngrok.io:14379
+2020-02-01 12:47:19,#njRat,https://t.co/888HHVC2U2,f21303fc8f2ca89b50d71c6cd9bd4f9c3c30546688a627efcb18abc134ddde0f,127.0.0.1:1177
+2020-02-01 12:40:18,Nishang_Invoke-PowerShellTcp,https://t.co/inOTuP6hgI,bb2db5fbcbaeb740cc1c709827d1cc5e7b802e95b303c51ca52c7c5bf6328128,0.tcp.ngrok.io:14379
+2020-02-01 12:38:28,#REvil,https://t.co/YRVu4MuVCV,d15aca884f162626311b43066ebde2bc34c56bcb52075aa2f4a46e0b309bbb7a,"xn--ziinoapte-6ld.ro,toranjtuition.org,pansionatblago.ru,teamsegeln.ch,tecleados.com,t3brothers.com,cormanmarketing.com,magnetvisual.com,"
+2020-02-01 12:32:19,#REvil,https://t.co/WHMty51SQM,3bbebbba9d302fc277c1107fd05218cf92087bfa5246509cab6e1fc6eab12012,"towelroot.co,global-migrate.com,gavelmasters.com,sellthewrightway.com,globalcompliancenews.com,mrkluttz.com,hostastay.com,texanscan.org,s"
+2020-02-01 12:20:35,PoshC2,https://t.co/WU1zFOBYi3,b1bddaa9e086c43a8ff0813fb287f5db229778091ccfb2bf6bf0a06d199fd8e4,https://amazonjobspaces.com:443
+2020-02-01 12:20:19,Nishang_Invoke-PowerShellTcp,https://t.co/10L28DqptL,bb2db5fbcbaeb740cc1c709827d1cc5e7b802e95b303c51ca52c7c5bf6328128,0.tcp.ngrok.io:14379
+2020-02-01 12:02:19,Payload,https://t.co/7pEbVQwgXF,1744890b464c192ac106d8a0bc792923f99d993921e1a21878044c7d37e0cdf4,51.159.56.13:32042
 2020-02-01 07:02:18,#REvil,https://t.co/s3QvagaaLr,1d7ec7dfa37ab698e6c57ce2700d113c1e781d859e8fb7c7f1a5b5ee6e85d039,"olry-cloisons.fr,nieuwsindeklas.be,zealcon.ae,hotjapaneselesbian.com,spectamarketingdigital.com.br,acornishstudio.co.uk,yayasanprimaunggu"
 2020-02-01 06:47:19,#REvil,https://t.co/I4S7MMsOnj,95f7c2f8bea207767f8d90c3b53dc24a9fc8c0025f7bcd113adde90d2f8cfa28,"invela.dk,mondolandscapes.com,ikzoekgod.be,davedavisphotos.com,peninggibadan.co.id,ruggestar.ch,cp-bap.de,fsbforsale.com,initconf.com"
 2020-02-01 06:23:28,#REvil,https://t.co/ABXnF2bLzl,1c32da0dee5624d5cbc755a0cdb1257bf43f07c61fb03e8f59ef94ed2cb58869,"bonitabeachassociation.com,mac-computer-support-hamburg.de,duthler.nl,fluzfluzrewards.com,ziliak.com,bulyginnikitav.000webhostapp.com,rvsid"
