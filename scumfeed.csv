@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-02-01 21:47:18,#njRat,https://t.co/N3UlN2J6UL,e137302e81d9f875f8a6e7eb8e0eb53fa6df92a82d69eadd45c546b4d4e6d964,bragahack.duckdns.org:5552
+2020-02-01 17:10:18,Nishang_Invoke-PowerShellTcp,https://t.co/y4BgyNZHdZ,972ccef80cabae174e24d0269ecb509bd861f5033713c0888cf2cf1ccc70dede,0.tcp.ngrok.io:15404
 2020-02-01 15:24:16,#njRat,https://t.co/XoMz8Qe9y1,741176c45282658d3129537754cf5644542aa819f19e75a2eddff6d4b9be0b15,bragahack.duckdns.org:5552
 2020-02-01 15:17:21,#njRat,https://t.co/VzYzcK5bpq,70dbd26dd9d660eb31a49a63616a823f53b9b73d89f27829ede4250c741fc1f2,marianagostosa.ddns.net:5552
 2020-02-01 14:32:18,#njRat,https://t.co/lG2NhVLyit,cc91ab16e16188088ca6cfae0b80d43f99c0da097010b4bea43a49e8aec6487e,bragahack.duckdns.org:5552
