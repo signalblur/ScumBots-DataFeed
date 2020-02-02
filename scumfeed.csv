@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-02-02 02:32:18,#njRat,https://t.co/GXcxNZRAFO,8ac1dd0794b5c94e19f4d33de12a8c1521c8b7b9fc8ec5778a08ac24ab71316c,3.135.237.28:6522
+2020-02-02 02:17:18,#njRat,https://t.co/iATsKWPTeO,8ac1dd0794b5c94e19f4d33de12a8c1521c8b7b9fc8ec5778a08ac24ab71316c,3.135.237.28:6522
+2020-02-01 23:02:18,#REvil,https://t.co/hRqla053wZ,d8704d50bc431f536b9f1032c6bae43bbc3505b83da0ba585f10175f93e4f47c,"penumbuhrambutkeiskei.com,rubyaudiology.com,egpu.fr,berdonllp.com,katherinealy.com,tramadolhealth.com,onlinetvgroup.com,pureelements.nl,l"
 2020-02-01 21:47:18,#njRat,https://t.co/N3UlN2J6UL,e137302e81d9f875f8a6e7eb8e0eb53fa6df92a82d69eadd45c546b4d4e6d964,bragahack.duckdns.org:5552
 2020-02-01 17:10:18,Nishang_Invoke-PowerShellTcp,https://t.co/y4BgyNZHdZ,972ccef80cabae174e24d0269ecb509bd861f5033713c0888cf2cf1ccc70dede,0.tcp.ngrok.io:15404
 2020-02-01 15:24:16,#njRat,https://t.co/XoMz8Qe9y1,741176c45282658d3129537754cf5644542aa819f19e75a2eddff6d4b9be0b15,bragahack.duckdns.org:5552
