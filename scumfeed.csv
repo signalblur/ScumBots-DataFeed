@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-02-02 21:32:20,#REvil,https://t.co/AmZpymeIrf,f1bb9f0d67291d9035b8a16c83357b3c03aa7b74f387b02e1bfdc9ce68f2728a,"90nguyentuan.com,smarttourism.academy,expohomes.com,eyedoctordallas.com,justaroundthecornerpetsit.com,vdolg24.online,motocrossplace.co.uk"
+2020-02-02 19:02:18,#njRat,https://t.co/En6qjohy0h,9aa57981b523dd46561c4e56a89500fd8442ba6aec1c270986c934fde4cf0555,windowsprocess.ddns.net:5552
 2020-02-02 15:42:21,Nishang_Invoke-PowerShellTcp,https://t.co/rzgEb7z67y,afce2fee80af0e31bf464ce3cf1d02ffe99dfd3d43b698c2023281ed19885771,0.tcp.ngrok.io:14766
 2020-02-02 15:40:34,Nishang_Invoke-PowerShellTcp,https://t.co/7z776iAQiF,797a5fa5410fa56bd3228b7dd52f6248f004a3c07377a90a9f47c6aa626006a2,0.tcp.ngrok.io:15676
 2020-02-02 15:40:18,Nishang_Invoke-PowerShellTcp,https://t.co/u9jVdoVoVj,6f816d85ff0d0ad11fc41a2a3b4fa61edc486b251bbab77b1586cab547b98dae,0.tcp.ngrok.io:14766
