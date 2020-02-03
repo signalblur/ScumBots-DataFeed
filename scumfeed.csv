@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-02-03 22:02:20,#njRat,https://t.co/gVDRTFtLWt,5e627f0a4ccac9a520445d9cb15501f7f43f6963120e790b2b58f0bdaf4c25b9,vmware1.ddns.net:9999
+2020-02-03 21:24:35,Beacon,https://t.co/Tv06eG9Aq6,2cc90d4ca4c8787527a33e6a14eae90670773f2278a9e3bb79d2c1c9d51631f0,"46.28.205.87/ca,"
+2020-02-03 21:19:45,Beacon,https://t.co/PRpf7fJ2c4,2ae3ad81274c717f56cf9db2bd7ac9f52c3b583f2ffedb132dfde0c7109dc560,"46.28.205.87/en_US/all.js,"
+2020-02-03 21:19:27,Beacon,https://t.co/A300LaZnHl,48fa896216b45a4346237e2dcccfcf88a1c8a1c5606b65c94a99f431a6fe6ce8,"46.28.205.87/IE9CompatViewList.xml,"
+2020-02-03 18:23:42,#njRat,https://t.co/CejVARfOV7,5e627f0a4ccac9a520445d9cb15501f7f43f6963120e790b2b58f0bdaf4c25b9,vmware1.ddns.net:9999
+2020-02-03 18:17:19,#REvil,https://t.co/Roy3xeb6UC,c872fb8793e77c753b6c9899391884d41a291b83c450947fd65e709a83c54ddc,"johnkoen.com,stagefxinc.com,concontactodirecto.com,t3brothers.com,aquacheck.co.za,elex.is,smartworkplaza.com,voice2biz.com,molinum.pt"
 2020-02-03 14:32:36,#Revenge,https://t.co/V6yxebwQAd,8af79d7594f984f2c9211c5f56cb27032e29e2d998e826b96bf96bd9df3c72b0,"192.168.1.3:333,,"
 2020-02-03 14:32:19,#njRat,https://t.co/9DpTwwqPqN,71cdb806a5f89c31f0ef4be21ed78b2a10f95230f29fc1a98aba834ea484baf4,192.168.1.3:5552
 2020-02-03 13:02:18,#njRat,https://t.co/t7zdIvWkDM,e31b142f0bebe55aab43a11471f593c2e892e642ce89a55cf892dc28a0bc1539,cloner.ddns.net:2222
