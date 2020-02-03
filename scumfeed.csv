@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-02-03 14:32:36,#Revenge,https://t.co/V6yxebwQAd,8af79d7594f984f2c9211c5f56cb27032e29e2d998e826b96bf96bd9df3c72b0,"192.168.1.3:333,,"
+2020-02-03 14:32:19,#njRat,https://t.co/9DpTwwqPqN,71cdb806a5f89c31f0ef4be21ed78b2a10f95230f29fc1a98aba834ea484baf4,192.168.1.3:5552
+2020-02-03 13:02:18,#njRat,https://t.co/t7zdIvWkDM,e31b142f0bebe55aab43a11471f593c2e892e642ce89a55cf892dc28a0bc1539,cloner.ddns.net:2222
 2020-02-03 04:02:18,#njRat,https://t.co/pyEyOwFWMN,79fd2eb262a04cd58402055a1091e68ca4f4b9bef8baa48602f80bf7380fc91f,kexxkok-47488.portmap.io:47488
 2020-02-03 03:47:18,#njRat,https://t.co/EwraCU8drf,31102ef00b0cacdb25aebcd54ccb814edac54fb611b8144068ad9a0d77cd7bc2,vmware1.ddns.net:9999
 2020-02-03 03:32:35,#njRat,https://t.co/rcT9FOTanv,31102ef00b0cacdb25aebcd54ccb814edac54fb611b8144068ad9a0d77cd7bc2,vmware1.ddns.net:9999
