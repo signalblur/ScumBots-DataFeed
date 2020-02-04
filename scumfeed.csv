@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-02-04 15:25:20,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ZSjEoxXmzy,2123d26ce25db14f57c06b7eadffee800d4d2f2a66f4de86379b27892df7e288,10.0.2.15
+2020-02-04 14:17:19,#njRat,https://t.co/peAsCZF0Pn,dd853bb9b18ffffb27f8c9970167eba8c18945af37f127e2153a01f9554c2e60,92516.duckdns.org:10140
+2020-02-04 14:15:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/KLA2XdNZKM,e17c322cd8c37f52038ae554d0e3492e65cd0d79292aa7a8800cba66acdf2f65,10.0.2.15
+2020-02-04 12:35:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ryMaSRLnng,9e2dce038d578884863b9905c240393a679dd1f7a5d35b4a1cd37e7da7dbdec0,10.180.180.10
+2020-02-04 12:32:19,#REvil,https://t.co/5BvQgMOOxL,166c12373d3ecb7653b3f7816e0a414077e76562aacad4360cfe14f5b00ce8b9,"denverwynkoopdentist.com,rattanwarehouse.co.uk,brisbaneosteopathic.com.au,stathmoulis.gr,astrographic.com,ebible.co,loparnille.se,artha"
 2020-02-04 03:06:54,Beacon,https://t.co/LJTusQrmHW,629a030baf77efbc5946965ccec68b06428e9b721102f4dbd4fa40233c27abf4,"40.114.116.10/w/index.php,"
 2020-02-04 03:06:35,Beacon,https://t.co/CD3h6mMvWO,ce19e9213c2de6f2cc2d9d7a23804097582d3cd47b1c03f62a6745e8477580d8,"40.114.116.10/w/index.php,"
 2020-02-04 03:06:17,Beacon,https://t.co/RwOtvM3j9o,ce19e9213c2de6f2cc2d9d7a23804097582d3cd47b1c03f62a6745e8477580d8,"40.114.116.10/w/index.php,"
