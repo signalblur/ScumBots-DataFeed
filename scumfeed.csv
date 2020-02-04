@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-02-04 03:06:54,Beacon,https://t.co/LJTusQrmHW,629a030baf77efbc5946965ccec68b06428e9b721102f4dbd4fa40233c27abf4,"40.114.116.10/w/index.php,"
+2020-02-04 03:06:35,Beacon,https://t.co/CD3h6mMvWO,ce19e9213c2de6f2cc2d9d7a23804097582d3cd47b1c03f62a6745e8477580d8,"40.114.116.10/w/index.php,"
+2020-02-04 03:06:17,Beacon,https://t.co/RwOtvM3j9o,ce19e9213c2de6f2cc2d9d7a23804097582d3cd47b1c03f62a6745e8477580d8,"40.114.116.10/w/index.php,"
+2020-02-04 02:56:51,Beacon,https://t.co/MFJBMa1sFk,d8c7b52c7d397cd842b917b01d6e939997ef5204d8b3e57f2622664405f30879,"iexploreservice.com/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,"
+2020-02-04 00:47:19,#REvil,https://t.co/PkLtaK10PO,fbdd41127bf727bc689ff014adf6a98c9094d0ba1e276500c53af447adae8332,"scentedlair.com,ayudaespiritualtamara.com,bohrlochversicherung.info,qrs-international.com,sarahspics.co.uk,morgansconsult.com,levelseven."
+2020-02-03 23:02:19,#REvil,https://t.co/SrbT8Sab0e,43269e9d691147f48a03735fdbfcfcf3cee421d66814373e48bea40ada44d815,"benchbiz.com,tzn.nu,babysitting-hk.helpergo.co,texanscan.org,b3b.ch,hvitfeldt.dk,naukaip.ru,stoneridgemontessori.com,stressreliefadvice"
 2020-02-03 22:02:20,#njRat,https://t.co/gVDRTFtLWt,5e627f0a4ccac9a520445d9cb15501f7f43f6963120e790b2b58f0bdaf4c25b9,vmware1.ddns.net:9999
 2020-02-03 21:24:35,Beacon,https://t.co/Tv06eG9Aq6,2cc90d4ca4c8787527a33e6a14eae90670773f2278a9e3bb79d2c1c9d51631f0,"46.28.205.87/ca,"
 2020-02-03 21:19:45,Beacon,https://t.co/PRpf7fJ2c4,2ae3ad81274c717f56cf9db2bd7ac9f52c3b583f2ffedb132dfde0c7109dc560,"46.28.205.87/en_US/all.js,"
