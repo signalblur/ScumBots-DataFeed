@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-02-05 16:47:21,#njRat,https://t.co/VbYWEczzh9,90f98f5f845f8eaa8f304ab355aa4bdf07be98dd64404c43fffeffa44bd3133c,192.168.1.3:7777
+2020-02-05 16:32:18,#njRat,https://t.co/SkA2qSjsMU,90f98f5f845f8eaa8f304ab355aa4bdf07be98dd64404c43fffeffa44bd3133c,192.168.1.3:7777
+2020-02-05 15:47:18,#njRat,https://t.co/Umu5GCTc0S,90f98f5f845f8eaa8f304ab355aa4bdf07be98dd64404c43fffeffa44bd3133c,192.168.1.3:7777
+2020-02-05 15:15:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/oveeFBf8To,d3c3417d9553deb45be818e16d6993e25b773d627a4180bda96ebdbdf6ddbf74,209.97.190.80
 2020-02-04 23:32:19,#REvil,https://t.co/X9K2dtG9cv,fdefef3d41c78545ea36f587ea80b7de172243834fe7ba8f75ebd12143f73c25,"schulz-moelln.de,arazi.eus,zaczytana.com,licensed-public-adjuster.com,coachpreneuracademy.com,envomask.com,singletonfinancial.com,johnkoen"
 2020-02-04 21:17:19,#REvil,https://t.co/jSRDxmY9e0,33d6193c9c8a9cf612bdad8a5b4526aa758b8fe69f0108ac74ae50d532d39e50,"jmmartinezilustrador.com,theatre-embellie.fr,precisetemp.com,mgimalta.com,rvside.com,bajova.sk,letsstopsmoking.co.uk,direitapernambuco."
 2020-02-04 21:02:19,#REvil,https://t.co/AWWITARurT,3546d7e30ad882ac15decb3890b9cfd86bd53661bd315678e1b646a3826e2061,"buonabitare.com,ledyoucan.com,akwaba-safaris.com,pinkxgayvideoawards.com,xrresources.com,kenmccallum.com,rozmata.com,selected-minds.de,be"
