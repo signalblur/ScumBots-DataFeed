@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2020-02-04 21:17:19,#REvil,https://t.co/jSRDxmY9e0,33d6193c9c8a9cf612bdad8a5b4526aa758b8fe69f0108ac74ae50d532d39e50,"jmmartinezilustrador.com,theatre-embellie.fr,precisetemp.com,mgimalta.com,rvside.com,bajova.sk,letsstopsmoking.co.uk,direitapernambuco."
+2020-02-04 21:02:19,#REvil,https://t.co/AWWITARurT,3546d7e30ad882ac15decb3890b9cfd86bd53661bd315678e1b646a3826e2061,"buonabitare.com,ledyoucan.com,akwaba-safaris.com,pinkxgayvideoawards.com,xrresources.com,kenmccallum.com,rozmata.com,selected-minds.de,be"
+2020-02-04 20:17:20,#REvil,https://t.co/FKu72g4p6a,2a623358d8ef556ae54f030ab6e9209f163f57a59f8f74ff43fcf15282082e87,"kenmccallum.com,eafx.pro,slotenmakerszwijndrecht.nl,heuvelland-oaze.nl,frimec-international.es,vdolg24.online,carolynfriedlander.com,aidanp"
+2020-02-04 19:17:18,#njRat,https://t.co/LqXns5OtfO,4b804a3764925ced654257b2bba1b84c22975300eb1214261fd3ef4e14ca9d60,192.168.1.3:5552
+2020-02-04 19:02:18,#njRat,https://t.co/9eFAQoGqUr,4b804a3764925ced654257b2bba1b84c22975300eb1214261fd3ef4e14ca9d60,192.168.1.3:5552
+2020-02-04 18:17:20,#njRat,https://t.co/fJrRD0IfWj,b3af5f2114b35362944db1dcf4144e65bac3ee49b01e4b319394b0574237ec21,192.168.1.3:5552
+2020-02-04 17:32:21,Beacon,https://t.co/i3Bc6mLrSe,5884a9cefa3fa1f841923eefcf4201c0ffacabc275687fa1d2a7786f5cdaf281,"iexploreservice.com/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,"
+2020-02-04 17:02:19,#REvil,https://t.co/f9V3O5kKk1,c2c2df8241ccdda27491bb9a6e9fa86af013c10a7f7b174dd8a72b6444292873,"richardiv.com,bilius.dk,cormanmarketing.com,ufovidmag.com,gosouldeep.com,scholarquotes.com,startuplive.org,ziliak.com,ninjaki.com,sharo"
 2020-02-04 15:25:20,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ZSjEoxXmzy,2123d26ce25db14f57c06b7eadffee800d4d2f2a66f4de86379b27892df7e288,10.0.2.15
 2020-02-04 14:17:19,#njRat,https://t.co/peAsCZF0Pn,dd853bb9b18ffffb27f8c9970167eba8c18945af37f127e2153a01f9554c2e60,92516.duckdns.org:10140
 2020-02-04 14:15:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/KLA2XdNZKM,e17c322cd8c37f52038ae554d0e3492e65cd0d79292aa7a8800cba66acdf2f65,10.0.2.15
