@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-02-07 00:23:18,#Njratgold,https://t.co/OpV5zebZXo,53f1f6472b3ec1e02e11e5668a3e41358382172637d1a8a0326c6d7af211def0,samyuo2.myq-see.com:1177
+2020-02-06 23:17:00,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/hyLX2wIGeN,f82d3ec33a76ead771014b4f9a0d07cdce7128c5b26b816e7bfa0a6fb7b371ee,38.68.36.112
 2020-02-06 21:02:19,#Revenge,https://t.co/j8YsBaODoO,d71a98457276ad13db1d2774a4091ca37aa2527131640fde336465dfb22c36a8,"XP:2,"
 2020-02-06 20:32:19,#Revenge,https://t.co/mjjWSxeJKu,acec05fb087440c24b6ac8a15051b8fc7fdfd92bdf458b165e1e19265395b595,"tzii.myq-see.com:888,,"
 2020-02-06 20:00:41,PowerShell_Empire_Agent,https://t.co/JcWM2skWJA,749bcb067cfb56048434092ca473036bbd0d4d0137ccd0cc98ac05fa212d062e,192.168.25.128:80
