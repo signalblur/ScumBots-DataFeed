@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2020-02-06 21:02:19,#Revenge,https://t.co/j8YsBaODoO,d71a98457276ad13db1d2774a4091ca37aa2527131640fde336465dfb22c36a8,"XP:2,"
+2020-02-06 20:32:19,#Revenge,https://t.co/mjjWSxeJKu,acec05fb087440c24b6ac8a15051b8fc7fdfd92bdf458b165e1e19265395b595,"tzii.myq-see.com:888,,"
+2020-02-06 20:00:41,PowerShell_Empire_Agent,https://t.co/JcWM2skWJA,749bcb067cfb56048434092ca473036bbd0d4d0137ccd0cc98ac05fa212d062e,192.168.25.128:80
+2020-02-06 19:42:55,#njRat,https://t.co/syV8sH7Yoz,1872d515a62492a68b7796631d4451f98b9bffedbe20ba937b7d7315d2514e3f,127.0.0.1:1122
+2020-02-06 19:42:39,#njRat,https://t.co/vbyrGyYBI3,1872d515a62492a68b7796631d4451f98b9bffedbe20ba937b7d7315d2514e3f,127.0.0.1:1122
+2020-02-06 19:42:22,#njRat,https://t.co/ZqZiCKXWFe,64d63e1168af44ecf717d6b00b4138dee21b3e849b4376d532b17047278468fc,hayas.ddns.net:1111
+2020-02-06 19:42:04,#njRat,https://t.co/xfxJV61ADs,1872d515a62492a68b7796631d4451f98b9bffedbe20ba937b7d7315d2514e3f,127.0.0.1:1122
+2020-02-06 19:41:47,#njRat,https://t.co/YvdeUbKEov,7f52e40f2f020bae50b1d5a2355b1dbda0aeca0d5aeb84c7624fb424610abc88,195.2.93.77:6522
+2020-02-06 19:41:30,#njRat,https://t.co/3UtlLutmhb,6330aec94882b83d3fa5fe7b315ec0c360458eff2fe5fd07222c4be38bf0d822,putakama.hopto.org:5552
+2020-02-06 17:05:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/WjPbrtIbMR,492abcc85dcc1bf8e6e34e61f8edcf7209f605ba69850c7b10d697ceaf86b498,165.227.85.160
 2020-02-06 15:32:19,#Revenge,https://t.co/F8hvqwabvQ,bd17c53fe270fda23d90624ed040900751078770b28b496704c608adaaea5d3c,"192.168.1.2:9990,,"
 2020-02-06 15:17:19,#Revenge,https://t.co/VarSI4cZjC,bd17c53fe270fda23d90624ed040900751078770b28b496704c608adaaea5d3c,"192.168.1.2:9990,,"
 2020-02-06 13:51:34,#Revenge,https://t.co/Jr1ObqV8mc,96262df32af7c8c288a6d4dcc4d3721bf1b3f808c37f877173d8740e339dac75,"192.168.1.2:9990,,"
