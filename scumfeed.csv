@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-02-08 04:47:18,#njRat,https://t.co/1LCFQZz57r,52b5bd9f6ddc75c4c04fc14eed14d38b26d7340e0d1fea2f199f0ae3a0ed2293,127.0.0.1:8080
+2020-02-08 03:02:37,#REvil,https://t.co/QHXjvShb0R,ab81597036de95a9c97725515961011fdd0e3c539c7b3254ad2b7067b53f54a7,"sunsolutions.es,banukumbak.com,fysiotherapierijnmond.nl,ikzoekgod.be,fla.se,focuskontur.com,rhino-turf.com,ultimatelifesource.com,parsepo"
+2020-02-08 03:02:20,#njRat,https://t.co/g53e9Pa659,52b5bd9f6ddc75c4c04fc14eed14d38b26d7340e0d1fea2f199f0ae3a0ed2293,127.0.0.1:8080
+2020-02-08 02:55:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/PTU4DT8Y3E,3d5db95dd3a9108226a6b900157ace8607a89a1fafc5c3674195198e5b97278b,192.168.1.8:4444
+2020-02-08 02:17:18,#njRat,https://t.co/5SfXCJ6T0R,f6fc27ac6002a1051653ec00bf148eb2b21ee20f2432711d78063fbe098e0440,127.0.0.1:11891
+2020-02-08 02:02:19,#njRat,https://t.co/vX4YsThIRY,4b82d9f2dbf45d66224bba904fbb1f68c8379894301d127aa1eca97ae974ddf5,127.0.0.1:8080
+2020-02-08 00:27:41,PoshC2,https://t.co/16oClB3hzt,7f4fbb75e001191702104b51932e036b4c4b9370f303c22af26bf6b170d02c50,microsoftsupport.ddns.net:443
 2020-02-07 22:02:18,#REvil,https://t.co/9J6ezZxDeF,ab521d509c1cf38ec1c13ba8a2852cb7ab174bbf49e4e93a7b53b32bda343f74,"grancanariaregional.com,opticahubertruiz.com,rentsportsequip.com,comoserescritor.com,teethinadaydentalimplants.com,sarahspics.co.uk,unexplo"
 2020-02-07 20:17:19,#Revenge,https://t.co/C8upeJFz4B,434d3418dcfaac75081ad94988c9dfcfb132695d32ea2dba741eb46864e16288,"52.143.135.40:1738,,"
 2020-02-07 19:30:19,PowerShell_Empire_Agent,https://t.co/3uf0wyB6uJ,cdd903ab168b894cf12d502a3ffa1c9b1e81e83750df4a113a9cc105f7ab1c48,"tepcian.utcc.ac.th/wp-admin/SquR/*ourproductreview.in/pokjbg746ihrtr/a1kzwc/'.""sP`lIT""(char42);$Mrynihqxcqnp='"
