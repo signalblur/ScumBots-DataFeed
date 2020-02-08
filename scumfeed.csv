@@ -1,4 +1,15 @@
 date_identified,implant_type,url,hash,c2
+2020-02-08 22:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/5bzWSHD3EY,885dcdcb569e7b02652aefc5be8c3fedea5ada2cc538bd112a2fd98f1727adf5,renovatesystem.com
+2020-02-08 21:17:54,#njRat,https://t.co/jGzscpNYmQ,f6fc27ac6002a1051653ec00bf148eb2b21ee20f2432711d78063fbe098e0440,127.0.0.1:11891
+2020-02-08 21:17:37,#njRat,https://t.co/izeK4ZdBX7,f6fc27ac6002a1051653ec00bf148eb2b21ee20f2432711d78063fbe098e0440,127.0.0.1:11891
+2020-02-08 21:17:20,#njRat,https://t.co/Nl3w3XICsr,f6fc27ac6002a1051653ec00bf148eb2b21ee20f2432711d78063fbe098e0440,127.0.0.1:11891
+2020-02-08 18:32:19,#Revenge,https://t.co/yyEILDFzwq,319e36d945bff713c136e9528ea0800354461a18f67acbd7122801fdb54d7e73,"XP:2,"
+2020-02-08 15:17:52,#njRat,https://t.co/im4iqoAYhO,9568e50685b27d976f200e5cc4d25af0e4beec7f3f3515b41e7ef4fac94e1cc9,127.0.0.1:1177
+2020-02-08 15:17:35,#njRat,https://t.co/tmr4Oeh0Eb,f1af897e890b0cb02ac5a6758f9a69e0996dcef2199acef3a2ea2bef28e35266,pycoder.ddns.net:4444
+2020-02-08 15:17:19,#njRat,https://t.co/ADDpxthXbG,6396f2032e0909c812346a10f0b4392d3aa17bbcacef9ccc2b39a12f6ffab9d9,127.0.0.1:4444
+2020-02-08 14:17:19,#Revenge,https://t.co/3Vd9uBB0g2,4184580228cf2ec7eab23c5c4abe9e40c143b2aa1ce4af2f185eed061208a20e,"helpdeskcamfrog.ddns.net:2222,,"
+2020-02-08 13:47:35,#njRat,https://t.co/ClEoamqmRx,106b94007e8d751943f91a471919ab07afe3b68765e95a76cdd5cf68e527216b,0.tcp.ngrok.io:15660
+2020-02-08 13:47:18,#njRat,https://t.co/5xVdPdIMqB,d3767008622afaa6857762a375572d7ac293c8d114daa1c4e485dc49337a06f6,216.170.123.10:5555
 2020-02-08 07:32:18,#njRat,https://t.co/PipWI0YAtu,64d63e1168af44ecf717d6b00b4138dee21b3e849b4376d532b17047278468fc,hayas.ddns.net:1111
 2020-02-08 06:32:18,#Njratgold,https://t.co/sbYyPLsQtN,f61b86d1abffa1ca09fa95d9af45b7e287240774e4a952f1cc6927d47b31d347,0.tcp.ngrok.io:19301
 2020-02-08 06:17:53,#njRat,https://t.co/nVqaclSuJk,acc27626e8a20fa0c3ace8ef73d9be479ac1c95bd877c785b4835ef03cf57586,wlsghks.kro.kr:5551
