@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-02-08 07:32:18,#njRat,https://t.co/PipWI0YAtu,64d63e1168af44ecf717d6b00b4138dee21b3e849b4376d532b17047278468fc,hayas.ddns.net:1111
+2020-02-08 06:32:18,#Njratgold,https://t.co/sbYyPLsQtN,f61b86d1abffa1ca09fa95d9af45b7e287240774e4a952f1cc6927d47b31d347,0.tcp.ngrok.io:19301
+2020-02-08 06:17:53,#njRat,https://t.co/nVqaclSuJk,acc27626e8a20fa0c3ace8ef73d9be479ac1c95bd877c785b4835ef03cf57586,wlsghks.kro.kr:5551
+2020-02-08 06:17:37,#njRat,https://t.co/K8zsCHVwpw,3423b7168a497f61348218a34b11d11b15a1c805106988365cee015ffaa6f662,wlsghks.kro.kr:5551
+2020-02-08 06:17:19,#njRat,https://t.co/lkcTVtp3jf,acc27626e8a20fa0c3ace8ef73d9be479ac1c95bd877c785b4835ef03cf57586,wlsghks.kro.kr:5551
 2020-02-08 04:47:18,#njRat,https://t.co/1LCFQZz57r,52b5bd9f6ddc75c4c04fc14eed14d38b26d7340e0d1fea2f199f0ae3a0ed2293,127.0.0.1:8080
 2020-02-08 03:02:37,#REvil,https://t.co/QHXjvShb0R,ab81597036de95a9c97725515961011fdd0e3c539c7b3254ad2b7067b53f54a7,"sunsolutions.es,banukumbak.com,fysiotherapierijnmond.nl,ikzoekgod.be,fla.se,focuskontur.com,rhino-turf.com,ultimatelifesource.com,parsepo"
 2020-02-08 03:02:20,#njRat,https://t.co/g53e9Pa659,52b5bd9f6ddc75c4c04fc14eed14d38b26d7340e0d1fea2f199f0ae3a0ed2293,127.0.0.1:8080
