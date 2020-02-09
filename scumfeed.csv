@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-02-09 02:32:19,#Revenge,https://t.co/nfqkWCzExp,8249d068097df532b338b5e6890d517f564ca422c8a257cdae0e77c1a19105c5,"ProcessorNameString:1500,"
+2020-02-09 02:17:36,#njRat,https://t.co/TxJSrjYTE6,253cb03691d5ad2264ac000fd2a1f499ba39d91a06c8d143896968bbcda95f92,fackyou.myq-see.com:5552
+2020-02-09 02:17:19,#njRat,https://t.co/Tsl3oxNclo,253cb03691d5ad2264ac000fd2a1f499ba39d91a06c8d143896968bbcda95f92,fackyou.myq-see.com:5552
+2020-02-09 02:02:19,#Revenge,https://t.co/ieiukuhA0d,8249d068097df532b338b5e6890d517f564ca422c8a257cdae0e77c1a19105c5,"ProcessorNameString:1500,"
+2020-02-08 23:17:18,#njRat,https://t.co/eulMvSltXr,64d63e1168af44ecf717d6b00b4138dee21b3e849b4376d532b17047278468fc,hayas.ddns.net:1111
+2020-02-08 23:02:18,#njRat,https://t.co/m3CohTdA6P,64d63e1168af44ecf717d6b00b4138dee21b3e849b4376d532b17047278468fc,hayas.ddns.net:1111
 2020-02-08 22:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/5bzWSHD3EY,885dcdcb569e7b02652aefc5be8c3fedea5ada2cc538bd112a2fd98f1727adf5,renovatesystem.com
 2020-02-08 21:17:54,#njRat,https://t.co/jGzscpNYmQ,f6fc27ac6002a1051653ec00bf148eb2b21ee20f2432711d78063fbe098e0440,127.0.0.1:11891
 2020-02-08 21:17:37,#njRat,https://t.co/izeK4ZdBX7,f6fc27ac6002a1051653ec00bf148eb2b21ee20f2432711d78063fbe098e0440,127.0.0.1:11891
