@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-02-10 16:33:08,PoshC2,https://t.co/QjKmGL3Xu5,6967ca2ad1c88664edf0bb78922de65113fa284fe338f926db5c01780f9c8270,94.156.189.250:443
+2020-02-10 15:47:19,#REvil,https://t.co/7pmXNFxYEC,059aa9ce320eeab784b390f4ce423859e6860f9b07dbff13b45356a404529171,"irizar.com,fanuli.com.au,kausette.com,quitescorting.com,girlish.ae,fixx-repair.com,dnqa.co.uk,kellengatton.com,comoserescritor.com,"
+2020-02-10 14:47:18,#njRat,https://t.co/Wvlc4zevpf,631888cb60d0d0e19f40741eb6c8409e3d6fe2fc8399dd73123f4c26a4876d1c,tvinki.ddns.net:4404
+2020-02-10 13:32:18,#njRat,https://t.co/CVGsdFxDkm,d1fc050b40b9043b22be1daca2d942db3392cb838b93e452ab717282af344ef9,1259462.chickenkiller.com:36563
+2020-02-10 12:02:36,#njRat,https://t.co/kZ79TzPWM1,b9502c4501b693e0578d49ff9008cfe10e50480d7ecf549d93e3d7691cfb87f5,193.161.193.99:29056
+2020-02-10 12:02:19,#njRat,https://t.co/JshbfFeuB4,8e3f46fa415785e12b2c5930a6fa5714753dc9fb040912a5b058ca14ba2a6041,216.170.123.10:5555
+2020-02-10 11:02:18,#njRat,https://t.co/j3WjnJQ9l3,dd2f541345a528d0c71b38443d346a726ccb79831c86652c56e7bc6edc4bc732,184.75.223.227:36563
 2020-02-10 10:47:37,#njRat,https://t.co/TAAROhZUec,e228379f91d73f71ff306dd19ab0a1ef7550724c9cd244c7e299ba4f7f683395,danger11.duckdns.org:1011
 2020-02-10 10:47:20,#njRat,https://t.co/IuE3kvEmdT,fe1c9a8b342277c5afb4b69f7eb5e06149ecdf1e1859f070c12ae885c89dda58,harris974.ddns.net:4444
 2020-02-10 09:45:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/hORSsl0Cf5,db07d1ac2ed7fa21eeaeffbaa8c36f3717c10e198020ab50cf3c4e7704b9dbe9,10.0.2.15
