@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-02-10 10:47:37,#njRat,https://t.co/TAAROhZUec,e228379f91d73f71ff306dd19ab0a1ef7550724c9cd244c7e299ba4f7f683395,danger11.duckdns.org:1011
+2020-02-10 10:47:20,#njRat,https://t.co/IuE3kvEmdT,fe1c9a8b342277c5afb4b69f7eb5e06149ecdf1e1859f070c12ae885c89dda58,harris974.ddns.net:4444
+2020-02-10 09:45:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/hORSsl0Cf5,db07d1ac2ed7fa21eeaeffbaa8c36f3717c10e198020ab50cf3c4e7704b9dbe9,10.0.2.15
+2020-02-10 06:32:18,#njRat,https://t.co/UEzbIKuC9r,4db43fc5f8176f4fff048376e00e7affd635b5af89af9758e90a1806975a8127,harris974.ddns.net:4444
 2020-02-10 04:35:21,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/kD4OheQvRz,af9bd3dae37492cd2b2fda1c51c6d9a4bd619052acced30c39513f79a3064bb1,192.168.1.13:4433
 2020-02-10 03:32:19,#REvil,https://t.co/Et0YSuUovB,04909e024565e0d4c3c9e53b719947bc2cf12e99fa8c94274d9bc6fc1fd83525,"gbk-tp1.de,espaciopolitica.com,levencovka.ru,stage-infirmier.fr,leloupblanc.gr,axisoflove.org:443,hotelturbo.de,phukienbepthanhdat.com,ex"
 2020-02-10 02:39:52,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/oXTBTkADfd,692b945c9c90534666cbac11d6b57010790a1a707200b0572583c41d4ccabbf0,192.168.152.131
