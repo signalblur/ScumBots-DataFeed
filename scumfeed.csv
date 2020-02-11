@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2020-02-10 22:32:20,#REvil,https://t.co/8EN9iwWcdw,4a2a4dd35b83e6c19b3eab9b9008314b442635f5aeb4311c54aea93c8710614b,"pasvenska.se,pawsuppetlovers.com,yousay.site,hugoversichert.de,mirjamholleman.nl,bogdanpeptine.ro,paulisdogshop.de,symphonyenvironmental."
+2020-02-10 22:17:18,#Revenge,https://t.co/c30HhTVRl9,031195be27d38eed8aa3ce1d4e2286ef84dce19c403b875122f58ea34e5e0b6f,"XP:2,"
+2020-02-10 22:02:20,#REvil,https://t.co/L01HX1iNtD,6696f5796d16c2c55bcb5f749c298f7dbaf6e58f97a469826fde76681a049239,"urmasiimariiuniri.ro,yamalevents.com,newstap.com.ng,maratonaclubedeportugal.com,conexa4papers.trade,testzandbakmetmening.online,smithmedias"
+2020-02-10 21:32:19,#REvil,https://t.co/Dme1zCPlzw,75707966e676c86bd9726223302c411e0914f3a664825eb6370dc18832f7a0bd,"siliconbeach-realestate.com,bingonearme.org,forestlakeuca.org.au,mank.de,ahouseforlease.com,balticdentists.com,id-vet.com,trulynolen.co"
+2020-02-10 20:55:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/AsnAViAiYU,f88d4b4fd51460ac45de846326ab2863b13c4494a32314cebe708fa0a91054a2,192.168.0.103:4444
+2020-02-10 20:35:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/mHuvpX1IHa,e8b1f47346fd8386289ce5b4498df794df907dad5e0a7a548c302f801e9b4821,46.119.226.171:4444
+2020-02-10 19:47:18,#REvil,https://t.co/EKTY70MAkx,f0db74843e2fb68310ec371aef5fda63045db9352b9c85d0a716a164c9b781f6,"auberives-sur-vareze.fr,tetameble.pl,wribrazil.com,mediogiro.com.ar,eurethicsport.eu,legundschiess.de,muni.pe,specialtyhomeservicesllc."
+2020-02-10 19:17:19,#REvil,https://t.co/l6i5kcZ8Q3,f0db74843e2fb68310ec371aef5fda63045db9352b9c85d0a716a164c9b781f6,"auberives-sur-vareze.fr,tetameble.pl,wribrazil.com,mediogiro.com.ar,eurethicsport.eu,legundschiess.de,muni.pe,specialtyhomeservicesllc."
+2020-02-10 18:32:19,#REvil,https://t.co/OAJalA5SWb,74a04d3d7b9286f348c5b46c228c781eaef53591ab97d5d1ca8ee8a90ff93164,"klapanvent.ru,stabilisateur.fr,altocontatto.net,zumrutkuyutemel.com,encounter-p.net,scotlandsroute66.co.uk,placermonticello.com,adabible"
+2020-02-10 17:05:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/CmFMcmUkLR,6948dd18cba70e721c8641dc088bdcdf1c14996767be2dc652d555141b0dd705,209.97.190.80
 2020-02-10 16:33:08,PoshC2,https://t.co/QjKmGL3Xu5,6967ca2ad1c88664edf0bb78922de65113fa284fe338f926db5c01780f9c8270,94.156.189.250:443
 2020-02-10 15:47:19,#REvil,https://t.co/7pmXNFxYEC,059aa9ce320eeab784b390f4ce423859e6860f9b07dbff13b45356a404529171,"irizar.com,fanuli.com.au,kausette.com,quitescorting.com,girlish.ae,fixx-repair.com,dnqa.co.uk,kellengatton.com,comoserescritor.com,"
 2020-02-10 14:47:18,#njRat,https://t.co/Wvlc4zevpf,631888cb60d0d0e19f40741eb6c8409e3d6fe2fc8399dd73123f4c26a4876d1c,tvinki.ddns.net:4404
