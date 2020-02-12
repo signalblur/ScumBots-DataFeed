@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-02-12 01:51:22,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/qssKxuUXDz,88ccf595aa21a2a0a9c168141ae25ff4f813b8692922a5d126d370cdad98db69,52.59.77.115
+2020-02-12 01:47:26,#REvil,https://t.co/ohoAUhtlLJ,4bdec85620bd2ad77778f8e33b3d2d1f375af8165d1bfb951899e3e44f5e8337,"securityfmm.com,westdeptfordbuyrite.com,zimmerei-fl.de,seagatesthreecharters.com,seevilla-dr-sturm.at,insidegarage.pl,tomoiyuma.com,theduke"
+2020-02-12 01:46:29,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/oCj2wEz2oZ,939ecc41f80dea92e5fec6706329c146a076f47cdab62735626888eb7134bbf2,52.59.77.115
+2020-02-12 01:36:41,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/2ftPjdOggW,4feb5190327f9c85faece05fd5430278fa1a21264372feb364b249f102cf0c24,192.168.253.129:4444
+2020-02-12 00:32:18,#REvil,https://t.co/6rXf5zu2l8,aa702aac271c97dda59a757ff522de48da44f778b1df7b01c33fc30f47760bce,"artallnightdc.com,cerebralforce.net,boldcitydowntown.com,ontrailsandboulevards.com,centrospgolega.com,xn--rumung-bua.online,vesinhnha.com."
 2020-02-11 21:32:19,#REvil,https://t.co/oZtMsSuRXB,1964648e1f5546ed1080fbc26566b46ddeaa454872626df8d69b207b7a03a042,"ctrler.cn,logopaedie-blomberg.de,thewellnessmimi.com,sotsioloogia.ee,teresianmedia.org,pier40forall.org,iwr.nl,mercantedifiori.com,dlc."
 2020-02-11 21:00:23,PowerShell_Empire_Agent,https://t.co/DjMHggIoQV,b81d188d11075fdfd8e5e763fafa83f798b297bdb529d7264f45687ced2931e3,192.168.0.109:80
 2020-02-11 18:47:18,#REvil,https://t.co/0LlWklIfYv,ee3544081a2ab60e935437fddc1c2b11bb8b0def74b2df41b56e061e86557ebc,"maratonaclubedeportugal.com,tuuliautio.fi,echtveilig.nl,jsfg.com,nuzech.com,drfoyle.com,ra-staudte.de,faronics.com,durganews.com,gmto."
