@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2020-02-12 16:30:18,PowerShell_Empire_Agent,https://t.co/l1lWjAtM7Q,c339b0022dcee948154bfc02dd9b9bb4f461550cf733251dcd572ca674779c3f,https://18.218.146.139:443
+2020-02-12 15:02:53,#njRat,https://t.co/LNz3khoc4m,7d7b38373ab89c6b8cfb2e53db02ce7b12087df2adc23e750d0e060ed2df37d5,10.0.1.7:7837
+2020-02-12 15:02:36,#njRat,https://t.co/vL0b4OVoQN,3cdf8fb0ccbe3dcf25bfd8ee8f7c7d29004f6ac2c3dc8be3961ef3aba2009ced,10.0.1.7:9896
+2020-02-12 15:02:19,#njRat,https://t.co/azZgK6iSQK,3cdf8fb0ccbe3dcf25bfd8ee8f7c7d29004f6ac2c3dc8be3961ef3aba2009ced,10.0.1.7:9896
+2020-02-12 13:35:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/HkmipDlqSe,e1609e000cc8f2001f5f5bea16f24a1c892d699765b20e1d4a9c4c0214225acd,52.59.77.115
+2020-02-12 12:05:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/lDSD22wqRD,ed6c19cff42582c1fb164341463a5a1459354e57873c392653493b9ad3014d7f,185.162.235.101
+2020-02-12 11:55:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/LelKHXIjaA,5bd8f92e876045c6f7b04f6fda7d123584d4b00f80e94924c8554d8efec03072,52.59.77.115
+2020-02-12 11:45:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/TBDTVcK7mG,8bd3f63ee566178df2d42fab2b89c2dd2dd493fdd2c715930a73999abd0e8eed,185.162.235.101
+2020-02-12 11:25:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/PMOGbnJInU,4214cbac74322ebc9e1170ecc80ac41a7096d1aaba023add72005a8cfd8c2d80,52.59.77.115
 2020-02-12 10:39:25,#njRat,https://t.co/qKX7HUjkbR,9b38c86ca1c53dba520fd11caa4eb4b3dc92951bffea2500dbb4efba07ce686c,127.0.0.1:11891
 2020-02-12 10:32:19,#REvil,https://t.co/6JfJDvtsYi,a165983e8f68643f919f7e303c6bbcf0321731fb4339045867cb5861ca3af137,"marketingsulweb.com,freie-gewerkschaften.de,schoellhammer.com,manifestinglab.com,alfa-stroy72.com,klusbeter.nl,lascuola.nl,parks-nuernberg"
 2020-02-12 08:02:19,#njRat,https://t.co/H6HVJd4iCm,050a4b4852430b47756b99952d418d1adb1b255feabcd8f55a9956904f4b1409,127.0.0.1:11891
