@@ -1,4 +1,21 @@
 date_identified,implant_type,url,hash,c2
+2020-02-13 16:15:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/FsJZ8SV1tu,ceb184dfb5ec5719f6b32d3176c6283152b9e6b991f097a4c6311947357a2bd4,192.168.253.129
+2020-02-13 15:55:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/FUnYXwEsDo,3a6221ef42923c20e4732c12a3314bf057bdacb9ad434abdd6ff68e7a97ef276,192.168.253.129
+2020-02-13 15:47:19,Payload,https://t.co/b4NjfRB0CL,f657b729790e8c452d1cf23d105b6dc2dbafc1651d4fe34ea2a1a1a2f1dbfc62,192.168.43.2:4444
+2020-02-13 15:30:40,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/huLpbRd5lq,e00db2e7026ffff16eb2c5bcc6f90accdb463eeb4a3609f60d7d3b8877c69604,192.168.1.6
+2020-02-13 15:20:13,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/wjHqECmHpD,0ceb41b3c9b13c094dccc0a221d451a3b87a9b555574dbaffac64707dca30e5d,192.168.1.6
+2020-02-13 15:19:57,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/lxKIp7usNl,1a37e8c2c785b2d96f9bffa97d94604177e3aa8df19d0b7830329c23019b892d,192.168.43.233
+2020-02-13 15:19:40,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/fb9gj0NA59,4232a6d017db9f3521dc1daf1dfe5e8933d80c0e6aef1c9810a03bf884d0b1d5,192.168.1.6
+2020-02-13 15:19:24,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/LawfY2buhu,e31af9146ff52ae1341145139a6b001c52547396578f59ae110158027d0a42c8,192.168.1.6
+2020-02-13 15:19:07,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/nPUQSUGX8s,b7795911bce8acf4bf13b246075668879061ad964e0e3e6fd6b74f3445f5763a,192.168.43.233
+2020-02-13 15:18:51,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Quf7nevvUl,f88236f6f116cf5de9a2449fc85da7cf61dcbedf4a2d6ec828aa337d75902dd8,192.168.43.233
+2020-02-13 15:17:36,Payload,https://t.co/cm0C42Q62g,d7ced98c067dc5ef5147c81d0d6012beb9a58d7797ee960483b372bb2f996beb,192.168.45.2:4444
+2020-02-13 15:17:19,Payload,https://t.co/dJ6B8M2IAl,0e69efe981d0b2b1e77eb57a97168be826aa036edf1708a9ee81ae5e82b47e43,192.168.45.150:4444
+2020-02-13 15:10:18,PowerShell_Empire_Agent,https://t.co/YoG1ZJ0OWU,cdc0e3f873b16949bdd8335ab0944688be34fb0d272a4a2008acbfaea2f7aa86,10.0.2.4:8080
+2020-02-13 14:25:36,#njRat,https://t.co/6h0NqqLnzq,c0b10a8faac5227e6b811fa4db1ccd982f4b35daa8c81d96f38c6a4ad122cf6a,gttr.ddns.net:1177
+2020-02-13 14:17:18,#njRat,https://t.co/97pLZ9xn88,4646addf1a5064f0bbea121c5f38dd0ae41703912c86acbcfb3914ef6b279a9d,127.0.0.1:19811
+2020-02-13 14:02:19,#njRat,https://t.co/BsmJjJco7u,b7b934fe3feefdd532d16973f52676b1c7b2b5cb28d36b45bf460ad06cbef377,127.0.0.1:19811
+2020-02-13 12:47:19,#REvil,https://t.co/qDkLSJYz3d,01cc4b3f843e4dcc6ee370afefadfc483e212c73d0d22811e72e5b3e813e4b8d,"nestor-swiss.ch,psnacademy.in,baylegacy.com,visiativ-industry.fr,body-armour.online,ouryoungminds.wordpress.com,gamesboard.info,parkstree"
 2020-02-13 10:32:19,#njRat,https://t.co/h23ucC8MZt,4646addf1a5064f0bbea121c5f38dd0ae41703912c86acbcfb3914ef6b279a9d,127.0.0.1:19811
 2020-02-13 09:02:19,#njRat,https://t.co/sg1g39vL89,6f43eac927e4e3e70a4eb3342c4a3d89fbbd70258c48a5edae453bd4af67eab1,"127.0.0.1:5553,darkdarkson.duckdns.org"
 2020-02-13 08:47:18,#njRat,https://t.co/cPiy2d9G1R,d0e03b96867c9906b936a33a8dceae67e1e7d836ba29f964cdd29ed99b13a1a6,"127.0.0.1:5553,darkdarkson.duckdns.org"
