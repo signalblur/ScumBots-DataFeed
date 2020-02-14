@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2020-02-13 23:02:18,#njRat,https://t.co/qQULTPE1XG,3880c9c1b8ee862dbc99319febdd515cf3395660cd243fbf6b3bb6d07d27bba0,192.168.1.5:1177
+2020-02-13 22:17:19,#REvil,https://t.co/dGuR0gjCLp,594f66d5c4b99a1c9be01492c397f0b9dffd90043f7dec6dea365ed3cb8ba578,"photonag.com,fotoslubna.com,elex.is,kristianboennelykke.dk,1deals.com,alaskaremote.com,eventosvirtualesexitosos.com,pvandambv.nl,ayudaesp"
+2020-02-13 20:55:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/2Y3dq5dlqf,b7aa76118491fab89483457a3c2c7d2c8424da53190786c96b3f93d76d414668,192.168.1.25:4444
+2020-02-13 20:45:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Naqwsfht0f,cbb215c47ee6948865242b5887a1cfbfecb6cad7fb459627e70f8a421382e524,192.168.1.150
+2020-02-13 20:17:20,#njRat,https://t.co/NUMzO9Xnns,aa2ae88b20394f79367d0600c3d349f44867e394cc95c56d96686c91092a21a7,alandish.ddns.net:5552
+2020-02-13 19:35:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/EDcKuy3rMt,3056438d50339c094d24d603d21483e7716f28a8a69b5227413d4478ade73440,165.227.85.160
+2020-02-13 18:32:18,#njRat,https://t.co/Joz1xW4xHA,0f83c81a91287e49f374ef04310e3004d3e124b909a5845456679233fa0c992c,10.0.1.7:5555
+2020-02-13 17:17:19,#njRat,https://t.co/xUQirfJb3T,21acbd26a459f803df436758bf83bb130d665f8b9b4f83c1397f06efaee5dce4,harris974.ddns.net:22080
 2020-02-13 16:15:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/FsJZ8SV1tu,ceb184dfb5ec5719f6b32d3176c6283152b9e6b991f097a4c6311947357a2bd4,192.168.253.129
 2020-02-13 15:55:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/FUnYXwEsDo,3a6221ef42923c20e4732c12a3314bf057bdacb9ad434abdd6ff68e7a97ef276,192.168.253.129
 2020-02-13 15:47:19,Payload,https://t.co/b4NjfRB0CL,f657b729790e8c452d1cf23d105b6dc2dbafc1651d4fe34ea2a1a1a2f1dbfc62,192.168.43.2:4444
