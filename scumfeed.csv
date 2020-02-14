@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2020-02-14 22:47:37,#Revenge,https://t.co/O7cN9hodt2,0f2692e625c3095b19dadb6aa42cb6bd253d0bc799d2cf1ba72b3fbc5af23375,"127.0.0.1:5552,,"
+2020-02-14 22:47:19,#Revenge,https://t.co/yCyh4MmiSp,3e82012cf5e2e4aebe163eab53b5810f5a6cf457f78bb67dc65115f3677a97b4,"192.168.1.5:5552,,"
+2020-02-14 22:32:22,#njRat,https://t.co/WcSC1ylC6M,e93a394382ba0faa34c040ce56c86d8a4b40d69ec015a2fa657e40a0eb96d7ef,mammoth01.ddns.net:45600
+2020-02-14 21:32:19,#REvil,https://t.co/koubjKapU7,c25b0b627ea052c67ef549e1040e5a33779f8661172c2df6420de1d2b228f7b7,"iwelt.de,kidbucketlist.com.au,jandaonline.com,solinegraphic.com,ftf.or.at,skiltogprint.no,ateliergamila.com,liikelataamo.fi,craigvale"
+2020-02-14 19:17:19,#Revenge,https://t.co/o6J9tfid4v,df4d41880d68d0a9b1131ce010bb76e077cd7605a94bd670e22e1d7c9b47ffad,"hayas.hopto.org:1111,,"
+2020-02-14 19:02:36,#njRat,https://t.co/dygY8VcqOk,36a899faa48e3c1707172c6d37cc9b2ae08d350cd07d4138d2040edf143be949,sandboxupdate.myq-see.com:4004
+2020-02-14 19:02:19,#njRat,https://t.co/0Hci5u9Scx,994765e30c11067b3e42c5d7bb49a541e32b8aa39936513dde35c5cf0362141a,xxixx.ddns.net:9999
+2020-02-14 18:47:18,#Revenge,https://t.co/GDpjHUuMt7,8eaf901aa59f1bd3d30d8dd4dcc0e3903e84dd4f72bc8cb4b71f7b4543f16261,"helpdeskcamfrog.ddns.net:2222,"
+2020-02-14 18:17:35,#Revenge,https://t.co/TA6WS77iZA,fef6db506667e213ea8f1f98b2054024e8073a802d5d1110236cd0696c314a0b,"svhost12.ddns.net:333,,"
+2020-02-14 18:17:18,#njRat,https://t.co/ueb0rDhvDu,8e0c20f3eec8011497ec2bbf52c27e03d907716d35f3cb35019da5cba3b6a87d,2970.myftp.org:1177
 2020-02-14 16:47:18,#Revenge,https://t.co/tLbamRmyjo,df4d41880d68d0a9b1131ce010bb76e077cd7605a94bd670e22e1d7c9b47ffad,"hayas.hopto.org:1111,,"
 2020-02-14 16:02:19,#REvil,https://t.co/rNsvN9XQwb,a341f0c3309687de1024199a8bd34d8781c88dde222be37771975540b6cb5762,"importardechina.info,leather-factory.co.jp,itelagen.com,onlybacklink.com,geekwork.pl,slimani.net,c2e-poitiers.com,houseofplus.com,tinya"
 2020-02-14 15:17:20,#njRat,https://t.co/AYkxH4Wcdc,994765e30c11067b3e42c5d7bb49a541e32b8aa39936513dde35c5cf0362141a,xxixx.ddns.net:9999
