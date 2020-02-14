@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-02-14 16:47:18,#Revenge,https://t.co/tLbamRmyjo,df4d41880d68d0a9b1131ce010bb76e077cd7605a94bd670e22e1d7c9b47ffad,"hayas.hopto.org:1111,,"
+2020-02-14 16:02:19,#REvil,https://t.co/rNsvN9XQwb,a341f0c3309687de1024199a8bd34d8781c88dde222be37771975540b6cb5762,"importardechina.info,leather-factory.co.jp,itelagen.com,onlybacklink.com,geekwork.pl,slimani.net,c2e-poitiers.com,houseofplus.com,tinya"
+2020-02-14 15:17:20,#njRat,https://t.co/AYkxH4Wcdc,994765e30c11067b3e42c5d7bb49a541e32b8aa39936513dde35c5cf0362141a,xxixx.ddns.net:9999
+2020-02-14 14:15:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/cGcq8fJMPe,42037d11084b39f1810f9f34b28d0bd6011dc573cbde97525babfbbdbf599155,192.168.43.64
+2020-02-14 12:47:19,#njRat,https://t.co/8J7Xd0KlUb,b849216b231d9d5af5480b0e80829b7b7259a0a9604ae51036e677282a5fd5c4,xxixx.ddns.net:9999
+2020-02-14 12:25:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/nW3NE0eZxv,3c4ee0d5bd415a8ece3a3451ab4297924b7fb7e0b0bb8513d4ae4009ae5fea76,192.168.0.103:4444
+2020-02-14 11:02:18,#Revenge,https://t.co/nu4b7kSJea,48c0a707e0126ccc33b028928c010f7b52d01d6ae0c539b17fb8840f1c4fc125,"127.0.0.1:3333,,"
 2020-02-13 23:35:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/NlAPsW5M2J,e8c6e316815eaebd5642dcf538ded8aa0fa62ec1c0431136dd9901d6c102b7ef,185.147.15.22
 2020-02-13 23:02:18,#njRat,https://t.co/qQULTPE1XG,3880c9c1b8ee862dbc99319febdd515cf3395660cd243fbf6b3bb6d07d27bba0,192.168.1.5:1177
 2020-02-13 22:17:19,#REvil,https://t.co/dGuR0gjCLp,594f66d5c4b99a1c9be01492c397f0b9dffd90043f7dec6dea365ed3cb8ba578,"photonag.com,fotoslubna.com,elex.is,kristianboennelykke.dk,1deals.com,alaskaremote.com,eventosvirtualesexitosos.com,pvandambv.nl,ayudaesp"
