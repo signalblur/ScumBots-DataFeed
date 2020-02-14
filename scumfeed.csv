@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-02-13 23:35:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/NlAPsW5M2J,e8c6e316815eaebd5642dcf538ded8aa0fa62ec1c0431136dd9901d6c102b7ef,185.147.15.22
 2020-02-13 23:02:18,#njRat,https://t.co/qQULTPE1XG,3880c9c1b8ee862dbc99319febdd515cf3395660cd243fbf6b3bb6d07d27bba0,192.168.1.5:1177
 2020-02-13 22:17:19,#REvil,https://t.co/dGuR0gjCLp,594f66d5c4b99a1c9be01492c397f0b9dffd90043f7dec6dea365ed3cb8ba578,"photonag.com,fotoslubna.com,elex.is,kristianboennelykke.dk,1deals.com,alaskaremote.com,eventosvirtualesexitosos.com,pvandambv.nl,ayudaesp"
 2020-02-13 20:55:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/2Y3dq5dlqf,b7aa76118491fab89483457a3c2c7d2c8424da53190786c96b3f93d76d414668,192.168.1.25:4444
