@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-02-15 15:30:18,PowerShell_Empire_Agent,https://t.co/qCxi2e1Nof,1ff1eb2ebcc222c60a231a03f51adec6be0226dac8bdb947ad8da6e9c7551442,192.168.0.109:80
+2020-02-15 14:06:51,#REvil,https://t.co/V2R2ZZf7He,fa59fc3254a21c6df1c28677ad526d55dea8dedee8d3c9865b9bac50b9d426ea,"rerekatu.com,zzyjtsgls.com,courteney-cox.net,noskierrenteria.com,hmsdanmark.dk,odiclinic.org,1team.es,corelifenutrition.com,artotelamster"
+2020-02-15 14:02:19,#REvil,https://t.co/135yKRIDfV,4ea8baeff8d9091ac367538825bad248c92a2be687e2bb4d008757e074e249d9,"dsl-ip.de,degroenetunnel.com,iwelt.de,neuschelectrical.co.za,verifort-capital.de,bricotienda.com,intecwi.com,coursio.com,mirjamholleman"
+2020-02-15 13:32:19,#REvil,https://t.co/lDykHITbQ7,87c9af30e4480f00871bfc3df9b9e60b4893579cc5392ebf4fcb96ab5ba1c851,"ai-spt.jp,morawe-krueger.de,sairaku.net,live-con-arte.de,jenniferandersonwriter.com,leeuwardenstudentcity.nl,edgewoodestates.org,chavesdoar"
+2020-02-15 13:25:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ABP5JypI8T,6061be2323b76edef5f02b02556eb641bf21686da7bcf3f7b145f09528393d7e,192.168.43.64
 2020-02-15 06:40:18,PowerShell_Empire_Agent,https://t.co/z2gN0GXKFB,c7335df266510d508a403c970a3f65913ddad625e3802527163f75b1602c4806,10.0.2.15:80
 2020-02-14 23:45:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/xFGoSLmIbO,42183487a8e22ad7b31587aad88730bb1101112e8de1aa3f489484bd53d69062,185.147.15.13
 2020-02-14 22:47:37,#Revenge,https://t.co/O7cN9hodt2,0f2692e625c3095b19dadb6aa42cb6bd253d0bc799d2cf1ba72b3fbc5af23375,"127.0.0.1:5552,,"
