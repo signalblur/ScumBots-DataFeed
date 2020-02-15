@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-02-14 23:45:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/xFGoSLmIbO,42183487a8e22ad7b31587aad88730bb1101112e8de1aa3f489484bd53d69062,185.147.15.13
 2020-02-14 22:47:37,#Revenge,https://t.co/O7cN9hodt2,0f2692e625c3095b19dadb6aa42cb6bd253d0bc799d2cf1ba72b3fbc5af23375,"127.0.0.1:5552,,"
 2020-02-14 22:47:19,#Revenge,https://t.co/yCyh4MmiSp,3e82012cf5e2e4aebe163eab53b5810f5a6cf457f78bb67dc65115f3677a97b4,"192.168.1.5:5552,,"
 2020-02-14 22:32:22,#njRat,https://t.co/WcSC1ylC6M,e93a394382ba0faa34c040ce56c86d8a4b40d69ec015a2fa657e40a0eb96d7ef,mammoth01.ddns.net:45600
