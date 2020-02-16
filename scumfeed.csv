@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-02-15 20:47:50,#Revenge,https://t.co/1vFtL1mnm9,bc27e6fdfa3d1643cca5afc441df20b6a27185a3b871969f68ebe3038c52016d,"helpdeskcamfrog.ddns.net:2222,"
+2020-02-15 20:47:34,#Revenge,https://t.co/8zYJh50lBU,56ddd36f5799f41d584b2417ef03196153a0519c75c9d862b6818df1a80fcaf9,"helpdeskcamfrog.ddns.net:2222,,"
+2020-02-15 20:47:18,#Revenge,https://t.co/r1oINpCgO9,bc27e6fdfa3d1643cca5afc441df20b6a27185a3b871969f68ebe3038c52016d,"helpdeskcamfrog.ddns.net:2222,"
+2020-02-15 20:32:19,#njRat,https://t.co/skDdHqBeeI,62b19bcd4351e824cbfb0909fb35493c50f9377a49f4b5fee4088b4f6c158791,127.0.0.1:9999
+2020-02-15 20:02:18,#Revenge,https://t.co/FHVTjbd4YJ,d7325642a419f1b6261bca904c9e78a2a1593044911750f22a6e073ceb9705c5,"helpdeskcamfrog.ddns.net:2222,"
 2020-02-15 15:30:18,PowerShell_Empire_Agent,https://t.co/qCxi2e1Nof,1ff1eb2ebcc222c60a231a03f51adec6be0226dac8bdb947ad8da6e9c7551442,192.168.0.109:80
 2020-02-15 14:06:51,#REvil,https://t.co/V2R2ZZf7He,fa59fc3254a21c6df1c28677ad526d55dea8dedee8d3c9865b9bac50b9d426ea,"rerekatu.com,zzyjtsgls.com,courteney-cox.net,noskierrenteria.com,hmsdanmark.dk,odiclinic.org,1team.es,corelifenutrition.com,artotelamster"
 2020-02-15 14:02:19,#REvil,https://t.co/135yKRIDfV,4ea8baeff8d9091ac367538825bad248c92a2be687e2bb4d008757e074e249d9,"dsl-ip.de,degroenetunnel.com,iwelt.de,neuschelectrical.co.za,verifort-capital.de,bricotienda.com,intecwi.com,coursio.com,mirjamholleman"
