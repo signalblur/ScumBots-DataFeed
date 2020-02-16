@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-02-16 03:47:19,#Njratgold,https://t.co/wW8pnwcS8c,6290e1db45b8ae72d5d938be1d8a8c8806261d4316029eda655a6fa007f0a06c,fackyou.myq-see.com:1177
+2020-02-16 00:47:18,#Revenge,https://t.co/YegYfcVcvJ,d033e1ee8a6f45ca7f1209b3b853ff15214ae3256cd53a0020dacd6f9c36f782,"hayas.hopto.org:1111,,"
+2020-02-15 23:47:18,#Revenge,https://t.co/IMxFU3Ku1p,d033e1ee8a6f45ca7f1209b3b853ff15214ae3256cd53a0020dacd6f9c36f782,"hayas.hopto.org:1111,,"
+2020-02-15 23:45:36,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/K6J4laHJil,e8c6e316815eaebd5642dcf538ded8aa0fa62ec1c0431136dd9901d6c102b7ef,185.147.15.22
+2020-02-15 23:45:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/8g1YemrnY8,e3bef3431a867b317120563ed75811cbf5b330997c2fd9f670fc5aea1b5461b7,190.2.146.233
 2020-02-15 20:47:50,#Revenge,https://t.co/1vFtL1mnm9,bc27e6fdfa3d1643cca5afc441df20b6a27185a3b871969f68ebe3038c52016d,"helpdeskcamfrog.ddns.net:2222,"
 2020-02-15 20:47:34,#Revenge,https://t.co/8zYJh50lBU,56ddd36f5799f41d584b2417ef03196153a0519c75c9d862b6818df1a80fcaf9,"helpdeskcamfrog.ddns.net:2222,,"
 2020-02-15 20:47:18,#Revenge,https://t.co/r1oINpCgO9,bc27e6fdfa3d1643cca5afc441df20b6a27185a3b871969f68ebe3038c52016d,"helpdeskcamfrog.ddns.net:2222,"
