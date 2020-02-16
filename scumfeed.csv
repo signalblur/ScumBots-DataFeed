@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-02-16 16:20:19,PowerShell_Empire_Agent,https://t.co/OM0mYBTUjA,4a25695aab2af341063cc5f58d3c51abdc6d92071f1af3be934c82d8d660229e,139.59.145.48/:80
+2020-02-16 15:47:18,#Revenge,https://t.co/X4PaS3BRGA,696aee1f6503999283eb93eea8450e587d7bb8938a5a6086c2bd5aaead8b86a5,"helpdeskcamfrog.ddns.net:2222,"
+2020-02-16 15:32:18,#Revenge,https://t.co/YfEfeWgR81,696aee1f6503999283eb93eea8450e587d7bb8938a5a6086c2bd5aaead8b86a5,"helpdeskcamfrog.ddns.net:2222,"
+2020-02-16 13:02:36,#Njratgold,https://t.co/1bUkpNhtEB,10148c8de3a9ac68effec07b1198840f1c9a642defde43aed47e923de8d39df3,fackyou.myq-see.com:1177
+2020-02-16 13:02:18,#njRat,https://t.co/0IEWGP5uvV,c09f108bdf79968c55ff7fd7640af82f438a20490bf081cccb268b53a7d23617,fackyou.myq-see.com:5552
 2020-02-16 09:45:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/3WVnmz2tuC,11e2ea3b8dc61613842aacd57c346c8a3cfd1a2df710feb3ed31007e47625c7f,192.168.124.133
 2020-02-16 03:47:19,#Njratgold,https://t.co/wW8pnwcS8c,6290e1db45b8ae72d5d938be1d8a8c8806261d4316029eda655a6fa007f0a06c,fackyou.myq-see.com:1177
 2020-02-16 00:47:18,#Revenge,https://t.co/YegYfcVcvJ,d033e1ee8a6f45ca7f1209b3b853ff15214ae3256cd53a0020dacd6f9c36f782,"hayas.hopto.org:1111,,"
