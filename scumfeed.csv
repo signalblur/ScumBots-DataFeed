@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2020-02-17 16:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/XPv2LV0j8X,2f84118b38f975684a8d55c0fd3e3dd1929db1b975adcdf9e069506fc6ee73bc,209.97.190.80
+2020-02-17 15:47:37,#njRat,https://t.co/DFc4o7eLrY,2f55841f6ccc75acaf8390d8e8c909528a6c62bfd016e788068145c168aec07c,127.0.0.1:11891
+2020-02-17 15:47:19,#njRat,https://t.co/xxBfLPwOYp,21d88aa35469b56e161443edf13dda6633dbffda563f514b7c1f89750d19a044,127.0.0.1:11891
+2020-02-17 13:45:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/dJdiHwtcNe,07866e31df352a3bb92aeb51493d79362c9cd7e48bf87f746943182e8f49e6e5,192.168.192.128
+2020-02-17 13:32:19,#REvil,https://t.co/4f6b6KaMVA,5e97725944d47858b9150f044027e50a976edc7bdcef162635d170f2ce24a4bb,"securityfmm.com,kath-kirche-gera.de,parebrise-tla.fr,wmiadmin.com,skiltogprint.no,dezatec.es,leather-factory.co.jp,devstyle.org,praxis-"
+2020-02-17 12:17:20,#REvil,https://t.co/QGJoWa5l4I,5d65ced6c4ff479adf832bd32fba75a1dcd4238aec3373dd015775e3f93f88e5,"qualitus.com,roadwarrior.app,dubnew.com,facettenreich27.de,yourobgyn.net,cactusthebrand.com,ceid.info.tr,unetica.fr,xn--fn-kka.no,spo"
+2020-02-17 12:02:19,#REvil,https://t.co/YCnhWaN8ai,77aefbe35bd7ea9b4f461084655bf7b870f07d4425d4619e781522edba3d248b,"senson.fi,sterlingessay.com,fensterbau-ziegler.de,baronloan.org,ahouseforlease.com,parks-nuernberg.de,kalkulator-oszczednosci.pl,harveybp."
+2020-02-17 11:32:19,#REvil,https://t.co/6T8o8rEf94,06864c7267f5c787ed4ecac36f45acb28a631648577c57b4ea512a32e303a5cb,"dubscollective.com,pier40forall.org,huissier-creteil.com,bunburyfreightservices.com.au,stopilhan.com,testzandbakmetmening.online,ccpbroadba"
+2020-02-17 11:25:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/5pAKMjdD1o,c2feb9c009319cfc8a5bb0fecfbd21dbbe2ecb079c7ee75c35a2932c55fabb0a,192.168.10.7
 2020-02-17 10:32:19,#REvil,https://t.co/UHzSsXvVFo,14d0735833c45afd0ada836124e4ef6876ec6b6ead4f0eae3b83d3a2f5a521ed,"softsproductkey.com,bouldercafe-wuppertal.de,eaglemeetstiger.de,ivivo.es,philippedebroca.com,loprus.pl,people-biz.com,div-vertriebsforschun"
 2020-02-17 10:17:19,#njRat,https://t.co/xhQXzQiqbF,9f6f16925a66b5b75739ce27fd2074595addbff5c1b310ea550e12bf81755fc7,mikus293.ddns.net:3321
 2020-02-17 06:02:19,#atraps,https://t.co/bAPFFe83Ci,beec8fc6ea45f0862fa13107b05a4d92cc2fc3c6f1c0c23fd2f04c3d3988c8c1,62.108.37.42:1013
