@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-02-16 18:45:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/1hHRmRgs7T,2f84118b38f975684a8d55c0fd3e3dd1929db1b975adcdf9e069506fc6ee73bc,209.97.190.80
+2020-02-16 17:30:19,PowerShell_Empire_Agent,https://t.co/a8m6vCyaik,8e80d3a22a11dea26e18a67e9a14701f9ec26fa18cc2895aed82e387a53e2894,192.168.0.109:80
 2020-02-16 16:20:19,PowerShell_Empire_Agent,https://t.co/OM0mYBTUjA,4a25695aab2af341063cc5f58d3c51abdc6d92071f1af3be934c82d8d660229e,139.59.145.48/:80
 2020-02-16 15:47:18,#Revenge,https://t.co/X4PaS3BRGA,696aee1f6503999283eb93eea8450e587d7bb8938a5a6086c2bd5aaead8b86a5,"helpdeskcamfrog.ddns.net:2222,"
 2020-02-16 15:32:18,#Revenge,https://t.co/YfEfeWgR81,696aee1f6503999283eb93eea8450e587d7bb8938a5a6086c2bd5aaead8b86a5,"helpdeskcamfrog.ddns.net:2222,"
