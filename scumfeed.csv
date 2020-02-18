@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-02-18 04:32:39,#njRat,https://t.co/XkS5e5XkCp,38c256f94279c37c339b3214008a8a013bba1fdf9baff77ce82ed900d333fd75,127.0.0.1:5552
+2020-02-18 04:32:18,#njRat,https://t.co/4SPoXSTh6t,38c256f94279c37c339b3214008a8a013bba1fdf9baff77ce82ed900d333fd75,127.0.0.1:5552
+2020-02-18 01:58:32,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ybo5eQ6k9m,43cc175b0e3fd92fcf808b4843ac20307e58acc703698aa08a69a6bd6557ff1b,192.168.12.244:4444
+2020-02-18 01:58:16,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ia1K48ucqN,7675d5241ac9e85e67670af7de7cdd872351b849ef79958ed766fc3f8a196427,192.168.10.7:4444
+2020-02-18 01:47:19,#Revenge,https://t.co/bzyKm77Wg2,d033e1ee8a6f45ca7f1209b3b853ff15214ae3256cd53a0020dacd6f9c36f782,"hayas.hopto.org:1111,,"
+2020-02-18 01:32:19,#Revenge,https://t.co/jgWyIAcfvi,d033e1ee8a6f45ca7f1209b3b853ff15214ae3256cd53a0020dacd6f9c36f782,"hayas.hopto.org:1111,,"
+2020-02-17 23:47:20,#REvil,https://t.co/AYCJIbXBQC,b927203812bd5776ed375a59e3131046750b5050b3847bf79f61a491026f1b25,"darrenkeslerministries.com,effortlesspromo.com,ncs-graphic-studio.com,nataschawessels.com,devok.info,bouldercafe-wuppertal.de,ahouseforlease"
 2020-02-17 17:47:19,#REvil,https://t.co/aHzhhGvimm,f568ba27a1779678459b3f2920a25973e34ed44c294c6bda0170f19a5b7f5ab6,"love30-chanko.com,dsl-ip.de,navyfederalautooverseas.com,dekkinngay.com,bordercollie-nim.nl,praxis-foerderdiagnostik.de,petnest.ir,schmalhor"
 2020-02-17 17:32:18,#njRat,https://t.co/34R8zp3Llt,98e864677f4035f44dd0607bc1c23f50d880661a78a2497bbe2876ba07e39561,rat24694.ddns.net:443
 2020-02-17 16:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/XPv2LV0j8X,2f84118b38f975684a8d55c0fd3e3dd1929db1b975adcdf9e069506fc6ee73bc,209.97.190.80
