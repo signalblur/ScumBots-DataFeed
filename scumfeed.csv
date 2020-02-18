@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-02-17 17:47:19,#REvil,https://t.co/aHzhhGvimm,f568ba27a1779678459b3f2920a25973e34ed44c294c6bda0170f19a5b7f5ab6,"love30-chanko.com,dsl-ip.de,navyfederalautooverseas.com,dekkinngay.com,bordercollie-nim.nl,praxis-foerderdiagnostik.de,petnest.ir,schmalhor"
+2020-02-17 17:32:18,#njRat,https://t.co/34R8zp3Llt,98e864677f4035f44dd0607bc1c23f50d880661a78a2497bbe2876ba07e39561,rat24694.ddns.net:443
 2020-02-17 16:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/XPv2LV0j8X,2f84118b38f975684a8d55c0fd3e3dd1929db1b975adcdf9e069506fc6ee73bc,209.97.190.80
 2020-02-17 15:47:37,#njRat,https://t.co/DFc4o7eLrY,2f55841f6ccc75acaf8390d8e8c909528a6c62bfd016e788068145c168aec07c,127.0.0.1:11891
 2020-02-17 15:47:19,#njRat,https://t.co/xxBfLPwOYp,21d88aa35469b56e161443edf13dda6633dbffda563f514b7c1f89750d19a044,127.0.0.1:11891
