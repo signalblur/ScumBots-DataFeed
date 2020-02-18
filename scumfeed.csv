@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-02-18 11:02:19,#njRat,https://t.co/0EsSnjBLfS,f8464434022a5910067a3262a777acff8c3f2d3b62c9aad1de8ca92ab6567724,"nodiosena.ddns.net,kurtm.blackunix.com,kano.blackunix.com,kill.blackunix.com,irc2.blackunix.com,shell.blackunix.net,ts.blackuni"
+2020-02-18 09:35:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/4nNkyavPcz,2f84118b38f975684a8d55c0fd3e3dd1929db1b975adcdf9e069506fc6ee73bc,209.97.190.80
+2020-02-18 06:02:19,Payload,https://t.co/bfSa3IkfHh,ffbd0655c2d40b36d3c73ab1a356439ed4c088d0d7a3f0197948c47832fe48fe,3.17.148.164:4444
 2020-02-18 04:32:39,#njRat,https://t.co/XkS5e5XkCp,38c256f94279c37c339b3214008a8a013bba1fdf9baff77ce82ed900d333fd75,127.0.0.1:5552
 2020-02-18 04:32:18,#njRat,https://t.co/4SPoXSTh6t,38c256f94279c37c339b3214008a8a013bba1fdf9baff77ce82ed900d333fd75,127.0.0.1:5552
 2020-02-18 01:58:32,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ybo5eQ6k9m,43cc175b0e3fd92fcf808b4843ac20307e58acc703698aa08a69a6bd6557ff1b,192.168.12.244:4444
