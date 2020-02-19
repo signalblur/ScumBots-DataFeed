@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-02-18 19:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/nQPTzWEVCy,2f84118b38f975684a8d55c0fd3e3dd1929db1b975adcdf9e069506fc6ee73bc,209.97.190.80
+2020-02-18 18:32:19,#Njratgold,https://t.co/W3uTe5IKUf,90a3ee4bb184d38630de9018450ed6be6fdeb2e6b562ccd04fc88f0ad0c865f4,192.168.234.154:5555
+2020-02-18 18:20:20,PowerShell_Empire_Agent,https://t.co/3uOi9dk2sr,f2608b735d048fd07d792739485ce1e2c15ba8c2ca46eaa80f6e595f563ce730,172.16.0.204:80
+2020-02-18 18:17:19,#Njratgold,https://t.co/MbERTYNvR3,4e351fed9605d912eb226a3925148012201c99875f38a12c6d95c7fdbf5f5e3e,192.168.234.154:5555
+2020-02-18 18:02:18,#njRat,https://t.co/fte2UWdUcf,6ec3febd674513a33ed7c68a64fd8b02b0436a96f79b69821faad1334025937d,memo445.ddns.net:5552
+2020-02-18 17:32:36,#njRat,https://t.co/FZ7N9s9e7I,a585796634217ff4ab444ea95d43a01a1aa4b3a280b41eaea0e42223e491efae,mammoth01.ddns.net:1177
+2020-02-18 17:32:20,#njRat,https://t.co/lNtj4NpJFd,a585796634217ff4ab444ea95d43a01a1aa4b3a280b41eaea0e42223e491efae,mammoth01.ddns.net:1177
 2020-02-18 15:32:18,#Revenge,https://t.co/ZwCx15SWwZ,31b10f1a4a6bb1e74af48d786c3c5957d1fdde4307adb24d5cbf06f278fc18ae,"memo445.ddns.net:1337,,"
 2020-02-18 15:10:59,#NanoCore,https://t.co/R9udwDKzSd,9854f8b5ca1b95dade3814d160d9c5349bd8e1b75273da69e511299d8f702627,"127.0.0.1:54984,"
 2020-02-18 15:02:19,#atraps,https://t.co/Vu6O0pmOnU,beec8fc6ea45f0862fa13107b05a4d92cc2fc3c6f1c0c23fd2f04c3d3988c8c1,62.108.37.42:1013
