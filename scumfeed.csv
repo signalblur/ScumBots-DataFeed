@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-02-20 15:55:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/2mVT0TnWSY,78d4f6f070173d0ba01b7f5962a46bb7911550d4f88d85081fcf31be2a6fa172,209.97.190.80
+2020-02-20 14:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/qkJgOczdgL,0b4829892afe4e987a92eb2bca8ad626637ee93dfd209570809721f9b9d116ee,45.66.250.11
+2020-02-20 14:32:19,#njRat,https://t.co/o3Gzn1KuEu,952ac15d63c149fe69bf8244baa71fea739ccb58a22e2cba83b01d6dbf688bab,192.168.0.27:4444
+2020-02-20 13:02:19,#Revenge,https://t.co/DGKWL6Hxo2,ebee62ad8f35a56a0a1eace71e3653bc068af6e98c452c5dcb9f3f0c5e864b7b,"hayas.hopto.org:1111,,"
 2020-02-20 10:55:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ZqVg3b5FEK,1d7b6b9af7522dfce228d9067cbbc7310273024e120d2fe0b041384d084e1798,102.37.15.77
 2020-02-20 04:32:19,#REvil,https://t.co/69PuZDZhE5,910489e9cbb9be62a2ee6100e09d0d6006fe21cbd73d5b7085f1b69f292cf006,"wacochamber.com,associacioesportivapolitg.cat,sipstroysochi.ru,operaslovakia.sk,body-guards.it,diversiapsicologia.es,sweering.fr,cheminpsy"
 2020-02-20 03:08:06,#Revenge,https://t.co/bq9FLNLkbq,0760806d2cb04dfa58902d85e3503e313805e8056565097cf18d4d24249679d3,"127.0.0.1:333,"
