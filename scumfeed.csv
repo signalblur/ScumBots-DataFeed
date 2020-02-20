@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2020-02-20 04:32:19,#REvil,https://t.co/69PuZDZhE5,910489e9cbb9be62a2ee6100e09d0d6006fe21cbd73d5b7085f1b69f292cf006,"wacochamber.com,associacioesportivapolitg.cat,sipstroysochi.ru,operaslovakia.sk,body-guards.it,diversiapsicologia.es,sweering.fr,cheminpsy"
+2020-02-20 03:08:06,#Revenge,https://t.co/bq9FLNLkbq,0760806d2cb04dfa58902d85e3503e313805e8056565097cf18d4d24249679d3,"127.0.0.1:333,"
+2020-02-20 02:29:43,#Revenge,https://t.co/6uBJHdUcyw,a16bd1b906b66c84b3b8e097e10e5fc70fedf3240a182878758ae9f108dac023,"https://pastebin.com/raw/SMhJwVUr,"
+2020-02-19 22:17:21,RAT,https://t.co/zJL8OIEydd,329b0bbd1b23398088454dbfaaaa99ab94338ead9fac8fff6018e33f63fe7690,"127.0.0.1:2404:,"
+2020-02-19 21:32:19,#Revenge,https://t.co/lbeTrZN5sB,0760806d2cb04dfa58902d85e3503e313805e8056565097cf18d4d24249679d3,"127.0.0.1:333,"
+2020-02-19 20:02:18,#Revenge,https://t.co/LCE78ZdCmI,0760806d2cb04dfa58902d85e3503e313805e8056565097cf18d4d24249679d3,"127.0.0.1:333,"
+2020-02-19 17:50:20,PowerShell_Empire_Agent,https://t.co/zZ4qcnDZc5,f4acf90774214986e968d7289973dc90b8fcf5a255be51d36b577297d8604f0a,172.16.0.204:80
+2020-02-19 17:32:19,#Revenge,https://t.co/b6PIEHvOkA,81c2d363ab4104654fc8a9d4672b947d1c83e521ea47d9c8f0aaf992cb39230d,"jasonbrody2019.hopto.org:5555,,"
 2020-02-19 15:45:20,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/OXjJ9utgdw,2f84118b38f975684a8d55c0fd3e3dd1929db1b975adcdf9e069506fc6ee73bc,209.97.190.80
 2020-02-19 14:04:41,#Revenge,https://t.co/mY76p8n820,efcfdcc1a49bd8b7d391b02d5ba741392679b8ecf7256022b6b3f2dc8863fe20,"hayas.hopto.org:1111,,"
 2020-02-19 12:32:19,#njRat,https://t.co/P6AmuTBVkY,971e4b2879189d8d1f19a1d5874dd6f571651aa02ed7cf7d97f2c0b43fa6b6c2,memo445.ddns.net:5552
