@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-02-20 10:55:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ZqVg3b5FEK,1d7b6b9af7522dfce228d9067cbbc7310273024e120d2fe0b041384d084e1798,102.37.15.77
 2020-02-20 04:32:19,#REvil,https://t.co/69PuZDZhE5,910489e9cbb9be62a2ee6100e09d0d6006fe21cbd73d5b7085f1b69f292cf006,"wacochamber.com,associacioesportivapolitg.cat,sipstroysochi.ru,operaslovakia.sk,body-guards.it,diversiapsicologia.es,sweering.fr,cheminpsy"
 2020-02-20 03:08:06,#Revenge,https://t.co/bq9FLNLkbq,0760806d2cb04dfa58902d85e3503e313805e8056565097cf18d4d24249679d3,"127.0.0.1:333,"
 2020-02-20 02:29:43,#Revenge,https://t.co/6uBJHdUcyw,a16bd1b906b66c84b3b8e097e10e5fc70fedf3240a182878758ae9f108dac023,"https://pastebin.com/raw/SMhJwVUr,"
