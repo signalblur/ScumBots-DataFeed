@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-02-20 22:02:18,#njRat,https://t.co/Z40J91m56r,10071b7fc8c1800063e60780b8c00b3c0045feecdb92e08ac45cc057127193dc,192.168.1.5:666
+2020-02-20 21:17:18,#njRat,https://t.co/uYjI32HD5B,10071b7fc8c1800063e60780b8c00b3c0045feecdb92e08ac45cc057127193dc,192.168.1.5:666
+2020-02-20 20:56:30,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/62itr4zXKq,52bffcdadd07a9f5df1ab1ca5bf373274496411575429354079300662f00453e,192.168.0.14:8080
+2020-02-20 20:55:41,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/no4IEXlhnd,52bffcdadd07a9f5df1ab1ca5bf373274496411575429354079300662f00453e,192.168.0.14:8080
+2020-02-20 20:47:19,#Revenge,https://t.co/676Kbo3Cdz,e8471363917e64bfc3a8e728baa65dfbfb55d1f9e104598b49157e2bd846a3f5,"hayas.hopto.org:1111,,"
 2020-02-20 15:55:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/2mVT0TnWSY,78d4f6f070173d0ba01b7f5962a46bb7911550d4f88d85081fcf31be2a6fa172,209.97.190.80
 2020-02-20 14:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/qkJgOczdgL,0b4829892afe4e987a92eb2bca8ad626637ee93dfd209570809721f9b9d116ee,45.66.250.11
 2020-02-20 14:32:19,#njRat,https://t.co/o3Gzn1KuEu,952ac15d63c149fe69bf8244baa71fea739ccb58a22e2cba83b01d6dbf688bab,192.168.0.27:4444
