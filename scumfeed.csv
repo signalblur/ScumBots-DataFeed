@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-02-21 15:22:13,#njRat,https://t.co/YZtQdY4PeE,4d4fe010edd8e5cb0a3dbe463a9bea549aaee512737ac1a8e1b81c2b1100d1fa,127.0.0.1:11891
+2020-02-21 15:17:19,#REvil,https://t.co/xcAVGhJgml,ac659ed79aac7c38c6e249ad9c92feaafb77dbcd35ab1ccbb47691fe96030516,"plv.media,noixdecocom.fr,liveottelut.com,licor43.de,webhostingsrbija.rs,makeitcount.at,piajeppesen.dk,zenderthelender.com,gporf.fr,twoh"
+2020-02-21 15:02:19,#REvil,https://t.co/ji12vhnVXO,c40dfd58e6da0aade75d09b6a659cf165f072ba89aef2d60c10c153793535ee7,"centrospgolega.com,visiativ-industry.fr,adoptioperheet.fi,themadbotter.com,michaelsmeriglioracing.com,apprendrelaudit.com,troegs.com,vox-su"
 2020-02-21 07:17:19,#njRat,https://t.co/sjJacjuhEM,f01befb0270c212d3f5c8d4501e19c544aa57010bd30bbf1d9817789ef7d83d0,192.168.0.27:4444
 2020-02-21 04:55:44,#njRat,https://t.co/a5jfKsrvGb,10071b7fc8c1800063e60780b8c00b3c0045feecdb92e08ac45cc057127193dc,192.168.1.5:666
 2020-02-21 04:53:45,#njRat,https://t.co/JdVYf7NIeI,10071b7fc8c1800063e60780b8c00b3c0045feecdb92e08ac45cc057127193dc,192.168.1.5:666
