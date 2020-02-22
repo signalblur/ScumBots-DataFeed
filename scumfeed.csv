@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-02-22 09:20:18,PowerShell_Empire_Agent,https://t.co/mTceSx9p6z,3606ac11a2e9dbdbd4c362233404d20a1949ae755247486514c22fd895288615,46.19.138.139:8080
+2020-02-22 08:25:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ui7bqX2o1Z,a1346f339fe5b40b54968e184dbb629edb121c72e7fc24b2193411578b4e976a,41.242.125.159:9326
+2020-02-22 05:47:19,#njRat,https://t.co/0JoXFmOceu,9ee5c1c226577de7b4c8cd58d4177f15ebbae960e578aecf804c381ee658f473,server-my.ddns.net:1459
 2020-02-22 04:07:20,#REvil,https://t.co/izeBhj5BAi,809496d8c7d873967459ae448fadb58d2edacf8a1afca3ee3587e10b68bdf2dc,"tinkoff-mobayl.ru,ligiercenter-sachsen.de,otsu-bon.com,bargningharnosand.se,ctrler.cn,hiddencitysecrets.com.au,consultaractadenacimiento."
 2020-02-22 04:02:19,#REvil,https://t.co/jFQU8QdJ4t,76259d2c6f35c514ffb56253851b9622ac2de34d0d7bb02a9bd414e1c538b53e,"i-arslan.de,cerebralforce.net,sipstroysochi.ru,cyntox.com,huesges-gruppe.de,jusibe.com,dsl-ip.de,globedivers.wordpress.com,myteamgenius"
 2020-02-22 02:17:19,#njRat,https://t.co/rT4KPxRjJL,5fa6bac297d009a6e61e08a9d5607bc8186fa0540aa1f8a98a8de6fc6a3eba31,soildsnake.zapto.org:6699
