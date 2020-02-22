@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-02-22 14:32:19,#njRat,https://t.co/lYC4kAxMkA,0eb3ab9e4c6bc5903674d8f9b36a1a59825fa4e1c2d7209be4d7a0c16dc6168f,127.0.0.1:5552
+2020-02-22 14:17:18,#njRat,https://t.co/NUfYm2yTRP,0eb3ab9e4c6bc5903674d8f9b36a1a59825fa4e1c2d7209be4d7a0c16dc6168f,127.0.0.1:5552
 2020-02-22 09:20:18,PowerShell_Empire_Agent,https://t.co/mTceSx9p6z,3606ac11a2e9dbdbd4c362233404d20a1949ae755247486514c22fd895288615,46.19.138.139:8080
 2020-02-22 08:25:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ui7bqX2o1Z,a1346f339fe5b40b54968e184dbb629edb121c72e7fc24b2193411578b4e976a,41.242.125.159:9326
 2020-02-22 05:47:19,#njRat,https://t.co/0JoXFmOceu,9ee5c1c226577de7b4c8cd58d4177f15ebbae960e578aecf804c381ee658f473,server-my.ddns.net:1459
