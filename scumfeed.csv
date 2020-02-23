@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-02-22 23:15:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/qfLv64BaTd,19a96a5f682e1b545836d12c65ef1e38b3c0adf9370f34ac5d3ee1ab76b4dacd,192.168.1.5
+2020-02-22 23:05:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/7F0gf3Rr7r,aeeae29bfe14f1caaf9257e4b6698fdaf1f685e74c9f51d769c2dcb00b78858d,192.168.1.5:4444
+2020-02-22 23:02:19,#njRat,https://t.co/MlslPpWvVG,f96a3c58fc9dc49cb3064cba97c9629e2f04eb0c48dc0507bb1264f2d991b411,shytanoff.ddns.net:1177
+2020-02-22 20:02:18,#njRat,https://t.co/mcN5m7jGyA,f3d79fdaaf41d0bafb0950845f7a50a16995a376a767ebe09cde3d93a72f400b,bo6y1.hopto.org:1609
+2020-02-22 19:47:18,#njRat,https://t.co/9fUc5MK09R,6e3f2ebb560fede5fca72650a4f495d1038930a3a7c0bebbd032be0a79e1f2b2,shytanoff.ddns.net:1177
+2020-02-22 17:17:19,#Revenge,https://t.co/Hr8YLa2ZOn,30ef3d46a266114674f601d9d03f85029ec54821f104b9e86903113d47914b6f,"helpdeskcamfrog.ddns.net:2222,"
 2020-02-22 14:32:19,#njRat,https://t.co/lYC4kAxMkA,0eb3ab9e4c6bc5903674d8f9b36a1a59825fa4e1c2d7209be4d7a0c16dc6168f,127.0.0.1:5552
 2020-02-22 14:17:18,#njRat,https://t.co/NUfYm2yTRP,0eb3ab9e4c6bc5903674d8f9b36a1a59825fa4e1c2d7209be4d7a0c16dc6168f,127.0.0.1:5552
 2020-02-22 09:20:18,PowerShell_Empire_Agent,https://t.co/mTceSx9p6z,3606ac11a2e9dbdbd4c362233404d20a1949ae755247486514c22fd895288615,46.19.138.139:8080
