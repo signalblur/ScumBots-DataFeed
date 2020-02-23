@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-02-23 09:25:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/NoYk3F69Ka,d5f9880c38b572916ddebc5e8a0f2ee7a630f083343892ba471e0c23fb8907f2,192.168.124.133
+2020-02-23 08:55:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/d8rvv3KPvo,507246f38a62a0f868289d413f4affc776ca4ae44e24791cd81667beeb6cb0e5,192.168.78.130
+2020-02-23 08:45:51,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/w8QLR38hFO,504932fd524006faea4e323386334411a94a59b48b9fce4ba7ed56be76dacd98,192.168.221.128
+2020-02-23 08:45:35,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/QTMKLr6GCe,2ca55b89b92a8149dc6185f7c213a7664d3e84e6f60210b093933c2db1bc2b8b,192.168.80.2
+2020-02-23 08:45:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/p21jIfmeJ4,46b5cccaf884251f849c9622eea11902a95069aadd99b6c2e8d9e5e56b77ba24,192.168.124.133
+2020-02-23 08:17:19,#Njratgold,https://t.co/s6VtcTP9bM,c8d8f79ad37249faa03dae92947af35d310fffc28b7597507246d1f8c8eb9fea,146.158.107.225:8408
+2020-02-23 08:02:21,#DarkComet,https://t.co/mQA3gXCbCP,4c1b6befb06152412567869f27c006cba39f4ac3b1c5dbcf8694a65367444df5,"sexystar.myq-see.com:5552/,"
 2020-02-23 00:35:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/GwAIOkJXbv,a240a270cd365f3bd2da4a0ac520722bb370e1fa5602f93b124940ee0ab5d5a4,45.66.250.11
 2020-02-22 23:32:18,#njRat,https://t.co/WI5lsdLKWs,96bf799fbafcbc9e851fe8d3b10b292c4eabe9bfc9d208e99974b1b55d335c63,shytangz12.ddns.net:1177
 2020-02-22 23:15:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/qfLv64BaTd,19a96a5f682e1b545836d12c65ef1e38b3c0adf9370f34ac5d3ee1ab76b4dacd,192.168.1.5
