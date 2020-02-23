@@ -1,4 +1,15 @@
 date_identified,implant_type,url,hash,c2
+2020-02-23 17:17:52,#REvil,https://t.co/Lng6jc2OVF,0eb2873b91bedb21963ce3150732914fefcbdec884cd7b3d0e63b5f5424d3b37,"nandistribution.nl,spargel-kochen.de,cursosgratuitosnainternet.com,ilive.lt,schmalhorst.de,spsshomeworkhelp.com,streamerzradio1.site,brandl"
+2020-02-23 17:17:35,#njRat,https://t.co/jkYJVbeGlf,0c2fe6e25da0d3a213f2ca5f4d467a182caf024d81fecf0c92e4e390704c2f6b,43.228.86.194:1177
+2020-02-23 17:17:18,#njRat,https://t.co/Nku0U6uU0p,6e3f2ebb560fede5fca72650a4f495d1038930a3a7c0bebbd032be0a79e1f2b2,shytanoff.ddns.net:1177
+2020-02-23 17:16:34,#REvil,https://t.co/nCOyXAwMZx,5f74523c92b0fde9a89cd5121fe4829a7499a7074a4e0c55adcae5ba2f374a20,"victoriousfestival.co.uk,ausbeverage.com.au,arteservicefabbro.com,ymca-cw.org.uk,promesapuertorico.com,turkcaparbariatrics.com,autodemo"
+2020-02-23 17:12:06,#REvil,https://t.co/ryfOIboAsR,6f6d4f3090669a12b7870d959302181d721436520374a4115e6c7bcfbc21cfef,"vanswigchemdesign.com,schraven.de,theclubms.com,coffreo.biz,figura.team,transliminaltribe.wordpress.com,new.devon.gov.uk,thedad.com"
+2020-02-23 17:11:49,#njRat,https://t.co/UibzZxWbHG,f96a3c58fc9dc49cb3064cba97c9629e2f04eb0c48dc0507bb1264f2d991b411,shytanoff.ddns.net:1177
+2020-02-23 17:07:18,#REvil,https://t.co/3AOydvL0wf,87551a242ba5861045a09e740e68d37b2a22c0a15c77723782f9568450cb5bd9,"zonamovie21.net,bowengroup.com.au,irishmachineryauctions.com,starsarecircular.org,durganews.com,carrybrands.nl,tennisclubetten.nl,www1."
+2020-02-23 17:02:20,#REvil,https://t.co/2gjywO4V2r,23b7ef18b61fe3ca542372a862d19fac734c24b5cecfe9682b211129fa88f998,"deltacleta.cat,polzine.net,campus2day.de,mbfagency.com,diversiapsicologia.es,irinaverwer.com,tonelektro.nl,layrshift.eu,mepavex.nl,hair"
+2020-02-23 16:41:04,#REvil,https://t.co/WboGG72FYb,2a28f11ca820bd0bde24d41cb5307c8f2fa70174536ac13a99923ba70015b36f,"cactusthebrand.com,triggi.de,ohidesign.com,travelffeine.com,creamery201.com,transportesycementoshidalgo.es,labobit.it,yousay.site,daklesa"
+2020-02-23 13:02:18,#njRat,https://t.co/uazO3UQ9hX,1f2ae650fdefb75fd7775dd7ad86aa81ca7d19595f58b4a07b32a6502079d815,127.0.0.1:11891
+2020-02-23 11:25:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/XQ4VVfZKZT,68a26d84d610bf7dff1ac2a4fd1025741e9513126dc1e1977efdb4e4d9e385ea,192.168.80.129
 2020-02-23 09:25:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/NoYk3F69Ka,d5f9880c38b572916ddebc5e8a0f2ee7a630f083343892ba471e0c23fb8907f2,192.168.124.133
 2020-02-23 08:55:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/d8rvv3KPvo,507246f38a62a0f868289d413f4affc776ca4ae44e24791cd81667beeb6cb0e5,192.168.78.130
 2020-02-23 08:45:51,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/w8QLR38hFO,504932fd524006faea4e323386334411a94a59b48b9fce4ba7ed56be76dacd98,192.168.221.128
