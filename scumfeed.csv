@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2020-02-23 22:05:21,#njRat,https://t.co/C3abroZTyK,f4b1688b6c74641b3e34984b50d433621339c125064d720c0d0228e7d622308a,192.168.1.2:5552
+2020-02-23 22:05:04,#njRat,https://t.co/Aj95ER2ON0,ed5306d3c6427dfd5e46f08a5a6e222f834e68571d5875cda261c4ce92fd47a8,192.168.1.2:5552
+2020-02-23 22:02:18,#Revenge,https://t.co/gHRxzwsfq5,8b8da3ee038f633553c97dc506047547d4038371e018d3dd56a2aa75bb2b6a45,"127.0.0.1:333,,"
+2020-02-23 21:47:45,#Revenge,https://t.co/IAjg451MhE,291bf31470c9bcacec467c980adb7a3d111ebb6b72cf07147884a7eae5cabde9,"192.168.234.157:4444,,"
+2020-02-23 21:47:28,#njRat,https://t.co/pFl0m6li3J,7b445f018240038b822eb85d1eb127cdbb15e7b79fa858c1db3ea6f2796071a2,192.168.1.2:5552
+2020-02-23 17:47:18,#Njratgold,https://t.co/Le2Kkdvuo5,8a0a78df298dc039aca3ead63d2f293d980c69ba9db23d5c2f2a9b37ce33b539,34.89.221.19:4444
+2020-02-23 17:32:52,#njRat,https://t.co/D8XXIY4qIM,b830d93f51efdd12d970a96caa4330b1a394159892d63bcff735983746997ccb,viper.hopto.org:9911
+2020-02-23 17:32:35,#njRat,https://t.co/Y8UYol6zj0,def7ecf8aa63604355204120f9c28e669b33268e3440e689b7e9beaaf7e7e7ef,127.0.0.1:11891
+2020-02-23 17:32:18,#njRat,https://t.co/SLXT5ufAnG,def7ecf8aa63604355204120f9c28e669b33268e3440e689b7e9beaaf7e7e7ef,127.0.0.1:11891
+2020-02-23 17:30:49,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/CbGfpPKC0P,82e77b63bbe2dc1f465eaad79c0d6d9d8a295f511a6b38dcaaa3873145aa17a5,192.168.124.133
 2020-02-23 17:17:52,#REvil,https://t.co/Lng6jc2OVF,0eb2873b91bedb21963ce3150732914fefcbdec884cd7b3d0e63b5f5424d3b37,"nandistribution.nl,spargel-kochen.de,cursosgratuitosnainternet.com,ilive.lt,schmalhorst.de,spsshomeworkhelp.com,streamerzradio1.site,brandl"
 2020-02-23 17:17:35,#njRat,https://t.co/jkYJVbeGlf,0c2fe6e25da0d3a213f2ca5f4d467a182caf024d81fecf0c92e4e390704c2f6b,43.228.86.194:1177
 2020-02-23 17:17:18,#njRat,https://t.co/Nku0U6uU0p,6e3f2ebb560fede5fca72650a4f495d1038930a3a7c0bebbd032be0a79e1f2b2,shytanoff.ddns.net:1177
