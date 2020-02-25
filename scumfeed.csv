@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-02-25 05:00:22,PowerShell_Empire_Agent,https://t.co/KsoQ8Vy24Q,868a3309c6e5360a06a4737acb6da76c73c3fd5a38793316b31150bd64bda142,Le:0
+2020-02-25 00:25:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/oiLmi6oloY,45162aa502b13f007cf7dd4e2214ea7fdce6184b80a1d42221b21021492d368b,192.168.0.94:4444
+2020-02-25 00:05:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/4okv5E1rAd,af780f50fbe024509349ec1d46063c1557fcdd2d29d6af638ab7f54ff5bdbca6,10.8.9.91:4455
 2020-02-24 22:47:18,#njRat,https://t.co/VmzDNnaKuG,43c99a5829184d5d766ba5a5f089cd32a324bcdc20660ad201e1975e4573438b,jhonjhon4842.ddns.net:5552
 2020-02-24 20:32:18,#njRat,https://t.co/Z9QY9JfeV0,caaa5263db4330c246e82a67c5f0773c32478390644121a4555c90476bb526b8,192.168.1.11:1337
 2020-02-24 18:23:16,#njRat,https://t.co/e13Z0Kea7B,a68111c287fb91586e3f4edcdee147d184561cdeae5b093f7f6ad904bdb53f90,168.235.111.253:2615
@@ -30,7 +33,6 @@ date_identified,implant_type,url,hash,c2
 2020-02-24 15:25:35,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/4FvmQrcUVT,39517658237c3003a25d5a85f7b4e3f742da917bfa042510f98fa73d794378c3,192.168.197.130
 2020-02-24 15:25:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/dwDbhFI4Q9,e7e237ac346509284824843bc55d91d5c2f8cf4b6e1186a7c9e3425a0d824fc8,185.236.232.102
 2020-02-24 14:32:19,#njRat,https://t.co/uezaNttVW3,38451f9cee47daf6fa98fee356ebf5a18194c5c5fa4d2ffc69af515a60de5e8c,killerfo2.ddns.net:1177
-2020-02-24 13:40:19,PowerShell_Empire_Agent,https://t.co/Iic3lp3A6y,12ff0b0db2eace3232cb4ed4359d2c4fc07f3d000a0740b0192581cd1a76c619,crl3.digicert.com/EVCodeSigni
 2020-02-24 11:47:19,#njRat,https://t.co/ObhxwvbnrQ,2aad7f7edf402c984b9470586e8676190a72c59ccd8a232d5010eece7e85d451,myhotkkk444.duckdns.org:4444
 2020-02-24 09:55:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/1LaEr7wyV4,9b4d54aa7900a97331974d98906a221c6db3957b1cce73f4e10f565669603155,10.0.2.15
 2020-02-24 05:02:18,#njRat,https://t.co/ToI219LpFx,324c53b81b626af489bb2a1d0a42cc88b4e7f18e291060503455ac1a7a4fce90,157.230.251.56:5552
