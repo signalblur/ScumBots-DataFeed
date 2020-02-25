@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-02-25 08:32:37,#njRat,https://t.co/gCT3FtwVOZ,913851e5df38bc271b82c28d0678781aa2afe9aa46c9d7a3effdd2717c53852c,127.0.0.1:11891
+2020-02-25 08:32:19,#njRat,https://t.co/Q7uqCf2Mg8,913851e5df38bc271b82c28d0678781aa2afe9aa46c9d7a3effdd2717c53852c,127.0.0.1:11891
 2020-02-25 05:00:22,PowerShell_Empire_Agent,https://t.co/KsoQ8Vy24Q,868a3309c6e5360a06a4737acb6da76c73c3fd5a38793316b31150bd64bda142,Le:0
 2020-02-25 00:25:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/oiLmi6oloY,45162aa502b13f007cf7dd4e2214ea7fdce6184b80a1d42221b21021492d368b,192.168.0.94:4444
 2020-02-25 00:05:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/4okv5E1rAd,af780f50fbe024509349ec1d46063c1557fcdd2d29d6af638ab7f54ff5bdbca6,10.8.9.91:4455
