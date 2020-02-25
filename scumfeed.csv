@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2020-02-25 22:32:19,#REvil,https://t.co/f8aq8D6vCL,218ad6e33041a0bdb60c8de03e7dcdf42e5392e106a4b5b0436cdaa02a8dd2c9,"icpcnj.org,abogadosadomicilio.es,tandartspraktijkhartjegroningen.nl,micahkoleoso.de,oneheartwarriors.at,augenta.com,perbudget.com,stemensti"
+2020-02-25 22:10:18,PowerShell_Empire_Agent,https://t.co/1wCpBwRwri,cf775cb4e2653c6cca44e7428ef94950c3cf72de61175dca0ff21b6bb9d6ef6d,2.58.47.203:51022
+2020-02-25 20:47:18,#REvil,https://t.co/WEK1IXqGk3,8c55958dc4f421350c0b0c5ac16004238f4d0957a7fba86832f7da76788a4804,"oneheartwarriors.at,strandcampingdoonbeg.com,waynela.com,mindpackstudios.com,botanicinnovations.com,kadesignandbuild.co.uk,insp.bi,chandl"
+2020-02-25 20:32:19,#REvil,https://t.co/gfLXVQNelH,0ee7783213426a5e46bc11a91acf5f2d73890bb09bbf4f3b932a4b79eeb6b820,"tstaffing.nl,tanciu.com,plv.media,ziegler-praezisionsteile.de,marathonerpaolo.com,paulisdogshop.de,hardinggroup.com,dirittosanitario.biz,"
+2020-02-25 18:58:06,#njRat,https://t.co/NnSzL3oXDM,6f5efdebb420d499e0c99d5a53ea80a1ff97f86179a5cef0e1fbb80bdf585204,127.0.0.1:1337
+2020-02-25 15:47:19,#njRat,https://t.co/IAgEiP6wow,b5fcf76e406c2b5ed3b9dec548b93661b09954ebd3679c84c9b3b2209c5a3b71,168.235.111.253:2615
+2020-02-25 15:45:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/GO56LfH2JF,e841d7fb0d07739eb3960092915aaeced63a5a1c4a1d16154062bb1d3921b051,192.168.0.2
+2020-02-25 14:49:55,#njRat,https://t.co/5Bh8eQ0NTC,def7ecf8aa63604355204120f9c28e669b33268e3440e689b7e9beaaf7e7e7ef,127.0.0.1:11891
+2020-02-25 13:45:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/2xb2pyi30v,78d4f6f070173d0ba01b7f5962a46bb7911550d4f88d85081fcf31be2a6fa172,209.97.190.80
+2020-02-25 12:20:19,PowerShell_Empire_Agent,https://t.co/iPL0408OZx,1438924bad42cb0b0503c9edb07220e63626f9ac543d1303704cc01319bf228d,192.168.3.46:5000
 2020-02-25 08:32:37,#njRat,https://t.co/gCT3FtwVOZ,913851e5df38bc271b82c28d0678781aa2afe9aa46c9d7a3effdd2717c53852c,127.0.0.1:11891
 2020-02-25 08:32:19,#njRat,https://t.co/Q7uqCf2Mg8,913851e5df38bc271b82c28d0678781aa2afe9aa46c9d7a3effdd2717c53852c,127.0.0.1:11891
 2020-02-25 05:00:22,PowerShell_Empire_Agent,https://t.co/KsoQ8Vy24Q,868a3309c6e5360a06a4737acb6da76c73c3fd5a38793316b31150bd64bda142,Le:0
