@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-02-26 16:17:18,#njRat,https://t.co/kJCxuNQnEd,26f7e1788c2656cd64e69ac68873acfdd0160ff6ed07880720c4a52f5d52bc10,uxnr.ddns.net:7144
+2020-02-26 15:45:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/m6XcN9tAji,e7e237ac346509284824843bc55d91d5c2f8cf4b6e1186a7c9e3425a0d824fc8,185.236.232.102
+2020-02-26 13:32:18,#njRat,https://t.co/84HTtSugp7,2b54d8ac1e78e75cc3737fe24ed0ad4ad558033f76feb1cee362b90fc215fbed,JohnRicardomilos-33746.portmap.io:1605
+2020-02-26 12:02:19,#Lime-RAT,https://t.co/FcXCHKwtRk,8a31c332dfb8714bc0c66300102fa84ee54a4027ed40e2c7082957abb431c34e,https://pastebin.com/raw/zVbipP9N
+2020-02-26 11:35:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/v3udZ1Pus8,1d331c1f6663214cec98179de45501cae55a547ca5e79b71c3298c4710d1dbb7,198.168.117.129
 2020-02-26 07:47:18,#njRat,https://t.co/Byo7JVC7ay,fbfea1db4497202597c91cfda1d44136e85ca74fbf780baab2f1b1520c724cd8,asdgdcvxzcv.kro.kr:2222
 2020-02-25 22:32:19,#REvil,https://t.co/f8aq8D6vCL,218ad6e33041a0bdb60c8de03e7dcdf42e5392e106a4b5b0436cdaa02a8dd2c9,"icpcnj.org,abogadosadomicilio.es,tandartspraktijkhartjegroningen.nl,micahkoleoso.de,oneheartwarriors.at,augenta.com,perbudget.com,stemensti"
 2020-02-25 22:10:18,PowerShell_Empire_Agent,https://t.co/1wCpBwRwri,cf775cb4e2653c6cca44e7428ef94950c3cf72de61175dca0ff21b6bb9d6ef6d,2.58.47.203:51022
