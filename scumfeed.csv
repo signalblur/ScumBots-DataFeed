@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-02-28 16:32:19,#imminent,https://t.co/7ZzzgME2LJ,31736a54c77e7f44f952f55536eb4ac6d5863c9ed970a087c0d1cc801a558728,rednikehoodie.ddns.net
+2020-02-28 15:35:32,PowerShell_Empire_Agent,https://t.co/qyW9STxD7O,89e29d43d134a6823a0ee3526d707e19c879a272e31da5f77a1b454067b423f1,https://45.77.65.211:443
+2020-02-28 15:32:35,PowerShell_Empire_Agent,https://t.co/H9lADbpkV0,bbe0a3ab4faf616a6836707042f7ce8bf234b7c916ed4a81ba89c594d271af88,https://45.77.65.211:443
+2020-02-28 15:17:19,#njRat,https://t.co/XrvIwgbwvw,3c4cbda3fd23ac41e8a594d9e3138c2f8e10288acd6bb7ce43e16f3e48e03e21,192.168.234.157:5555
+2020-02-28 12:32:19,#REvil,https://t.co/0UUe9ZjG4k,7b8a4cc371405cd7ac06a63adee7e9500a814d78faef3bdba16b6b2d7b49b198,"epwritescom.wordpress.com,vibethink.net,cursoporcelanatoliquido.online,troegs.com,ora-it.de,dsl-ip.de,destinationclients.fr,spargel-koche"
 2020-02-28 06:02:20,#REvil,https://t.co/cUMi3YJezN,f4781fb9f53f6bfd09b7e7f5df67e00d06ec739bc75b8e6a38d1c74cf91d7fc7,"aakritpatel.com,denovofoodsgroup.com,sofavietxinh.com,herbstfeststaefa.ch,haar-spange.com,frontierweldingllc.com,jorgobe.at,lionware.de,e"
 2020-02-28 05:02:19,#REvil,https://t.co/bqnJQSrqsA,daa26a415b2fce72a81bb0d76b5e7552cc4e41707bb2e8fd9cfb77da5e14a066,"dutchbrewingcoffee.com,mountaintoptinyhomes.com,leoben.at,bastutunnan.se,radaradvies.nl,chavesdoareeiro.com,cursoporcelanatoliquido.online,"
 2020-02-28 04:17:19,#REvil,https://t.co/0Zpy1uYWm8,1b9dfd1fe17d3783b2ab4a6d583be6fca9ba164d2a1cd6814c710774ec9bd031,"synlab.lt,sarbatkhalsafoundation.org,slupetzky.at,deschl.net,architekturbuero-wagner.net,wraithco.com,qualitaetstag.de,resortmtn.com,phan"
