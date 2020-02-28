@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-02-28 05:02:19,#REvil,https://t.co/bqnJQSrqsA,daa26a415b2fce72a81bb0d76b5e7552cc4e41707bb2e8fd9cfb77da5e14a066,"dutchbrewingcoffee.com,mountaintoptinyhomes.com,leoben.at,bastutunnan.se,radaradvies.nl,chavesdoareeiro.com,cursoporcelanatoliquido.online,"
+2020-02-28 04:17:19,#REvil,https://t.co/0Zpy1uYWm8,1b9dfd1fe17d3783b2ab4a6d583be6fca9ba164d2a1cd6814c710774ec9bd031,"synlab.lt,sarbatkhalsafoundation.org,slupetzky.at,deschl.net,architekturbuero-wagner.net,wraithco.com,qualitaetstag.de,resortmtn.com,phan"
+2020-02-28 03:47:19,#njRat,https://t.co/SDvKAQiib1,a67236c36e7eb778bc71123e02384f740d80c4aa869834bdc22f4c62be6a3078,43.228.86.204:5552
+2020-02-28 03:00:36,PowerShell_Empire_Agent,https://t.co/fh0g5vE7FO,9347186f6887a9017b7e5537a65b52f591705adb809f26c992270312edca0e3c,https://83.171.239.198/:443
+2020-02-28 03:00:20,PowerShell_Empire_Agent,https://t.co/uamE9onMCQ,b6fa2ef64254a246886760d43e9de34719dbd8efddddb90cb4ccfadd12b5f494,https://83.171.239.217/:443
+2020-02-28 02:10:18,PowerShell_Empire_Agent,https://t.co/twC9EdTS2a,d0864e1bb344338e00302259f4cad66b29de0a930fd4f5a17bb9da904cf17e92,https://83.171.239.217/:443
+2020-02-28 00:17:19,#REvil,https://t.co/F3EFEKK6vA,353ddd0a20aa154923d91052d8ef6c94a32fe9cb1293cde6b8d05b032a79237d,"wari.com.pe,d2marketing.co.uk,effortlesspromo.com,vietlawconsultancy.com,hugoversichert.de,ausair.com.au,campus2day.de,cheminpsy.fr"
 2020-02-27 20:40:19,PowerShell_Empire_Agent,https://t.co/T9q7mp7sYk,4aac39c1df55695f98879f7a2fcd8080766d703442389118c9fee521b4695352,192.168.1.127:80
 2020-02-27 19:32:18,#NanoCore,https://t.co/wzBt5Cqt4h,aea3597f24009ec7a5212edf353080643e43839f2a5e6933c456c8d3aa147da5,"127.0.0.1:54984,"
 2020-02-27 18:17:18,#njRat,https://t.co/6EJW5xwoYG,f489cba00e6d7bc606ea137f639ac40baca8871474066bec0a839fae75de4eaf,191.239.255.3:5552
