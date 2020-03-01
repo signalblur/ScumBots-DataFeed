@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-03-01 14:02:19,#njRat,https://t.co/8fxzWD7udk,56a661e8e689548336309480589ede6912afa506a8dcce44061461f1315956fd,192.168.1.2:5552
+2020-03-01 13:20:19,PowerShell_Empire_Agent,https://t.co/UojrceseMk,5e3d0a863308fcee1b38d464aad772e9024b87e798b6b1b4df3ec17e61989e99,192.168.3.46:5000
+2020-03-01 12:40:18,PowerShell_Empire_Agent,https://t.co/g68r35C015,47a699c490259886bfec96fc099bcfcccac062a860ea1c85fd84d92030fc81c8,192.168.3.46:5000
+2020-03-01 11:45:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/BY2iZn3keD,46643b0875b4e2f3b539f885672ce54183eb14e7320258f2aec37ee470cbaf8c,192.168.1.15:4444
 2020-03-01 09:32:21,#CyberGate,https://t.co/ffxnU7r0kj,5d7f84258878a83571027893e312cbf4d82d142d1ba1cab2a162d9af3a65c64b,"192.168.100.3:82/,"
 2020-03-01 02:47:19,#REvil,https://t.co/srPsWajNGM,0cc8ee41c1bf9f0e08796662ebd7c58ac41388da568a56bc9a07ef9665aed28d,"praxis-foerderdiagnostik.de,broseller.com,waermetauscher-berechnen.de,d2marketing.co.uk,tanzprojekt.com,alsace-first.com,socialonemedia.c"
 2020-03-01 02:32:18,#REvil,https://t.co/UFoaLJjud1,32fca16e11a44c7bb0c207ba1ad030fcd3e2a8c8720ea6c64b9fa9790b662e18,"advizewealth.com,ianaswanson.com,myteamgenius.com,burkert-ideenreich.de,jadwalbolanet.info,bhwlawfirm.com,pmcimpact.com,filmstreamingvfcomp"
