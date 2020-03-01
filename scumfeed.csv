@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-03-01 02:47:19,#REvil,https://t.co/srPsWajNGM,0cc8ee41c1bf9f0e08796662ebd7c58ac41388da568a56bc9a07ef9665aed28d,"praxis-foerderdiagnostik.de,broseller.com,waermetauscher-berechnen.de,d2marketing.co.uk,tanzprojekt.com,alsace-first.com,socialonemedia.c"
+2020-03-01 02:32:18,#REvil,https://t.co/UFoaLJjud1,32fca16e11a44c7bb0c207ba1ad030fcd3e2a8c8720ea6c64b9fa9790b662e18,"advizewealth.com,ianaswanson.com,myteamgenius.com,burkert-ideenreich.de,jadwalbolanet.info,bhwlawfirm.com,pmcimpact.com,filmstreamingvfcomp"
+2020-03-01 01:32:19,#REvil,https://t.co/WMpcMHG0I0,e3bb6566d7843fb3adb553dbb6f7c7d38bc94eeb72000c0a516397842123c7f2,"alfa-stroy72.com,partnertaxi.sk,bee4win.com,antiaginghealthbenefits.com,cursosgratuitosnainternet.com,irinaverwer.com,thenewrejuveme.com,ym"
 2020-02-29 21:32:18,#REvil,https://t.co/mLaK5uIbu7,946d769a0c039fa8f76bf3b0f0cb508c76027d45e89faaeb3902ce5645bfd185,"schlafsack-test.net,ontrailsandboulevards.com,smale-opticiens.nl,biapi-coaching.fr,hugoversichert.de,smartypractice.com,intecwi.com,theclub"
 2020-02-29 18:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/IjJpmPD5O1,13b6f6110902722ffde93f5b37c7505fa06261ac03f6cb482abc592604f6670e,209.97.190.80
 2020-02-29 17:40:18,PowerShell_Empire_Agent,https://t.co/nRsd7muD2v,c8e241ad16d2669129d5cfc263effd70420584c2aedeb7d9272ce7fcd3fd3814,10.0.0.3:80
