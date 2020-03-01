@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-02-29 21:32:18,#REvil,https://t.co/mLaK5uIbu7,946d769a0c039fa8f76bf3b0f0cb508c76027d45e89faaeb3902ce5645bfd185,"schlafsack-test.net,ontrailsandboulevards.com,smale-opticiens.nl,biapi-coaching.fr,hugoversichert.de,smartypractice.com,intecwi.com,theclub"
+2020-02-29 18:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/IjJpmPD5O1,13b6f6110902722ffde93f5b37c7505fa06261ac03f6cb482abc592604f6670e,209.97.190.80
+2020-02-29 17:40:18,PowerShell_Empire_Agent,https://t.co/nRsd7muD2v,c8e241ad16d2669129d5cfc263effd70420584c2aedeb7d9272ce7fcd3fd3814,10.0.0.3:80
+2020-02-29 17:32:19,#REvil,https://t.co/HXpIHsCJVB,f9d9a87e00ec85047f0a85828cf5fb137c3e129ea172c3b5fa9058c2748014da,"turkcaparbariatrics.com,anthonystreetrimming.com,pmcimpact.com,micro-automation.de,hrabritelefon.hr,jbbjw.com,dinslips.se,lightair.com,sm"
 2020-02-29 14:32:19,#njRat,https://t.co/w4XiZChbcx,0e755490bd99a89a4d598d954af2c1c69780719e1c41dc4da188fc3d3b02442e,127.0.0.1:11891
 2020-02-29 14:15:15,Nishang_Invoke-PowerShellTcp,https://t.co/28ja31RzD4,0bb63fb032beb9df74181ace224b641f87e6a56c686590dec4fc42a239fa2d61,192.168.43.252:7777
 2020-02-29 14:05:39,#njRat,https://t.co/QkENmt2PSc,1d382069c874462b326ba5148459e98d21dec66f24585511065b0a80964fcb28,127.0.0.1:5552
