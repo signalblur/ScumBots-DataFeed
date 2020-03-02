@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-03-02 05:50:18,PowerShell_Empire_Agent,https://t.co/S0c4K3Hi1C,f06816423511e5db14946c485059c17fd9235e1d219e7c02ef34e2cabbb57b24,192.168.1.127:80
+2020-03-02 02:47:19,#REvil,https://t.co/AmkOx0nJXt,e1665b9c3da5ff6a007564d564a647fb7398b9fa8b9d6c10a10a73093eac3018,"sipstroysochi.ru,simulatebrain.com,sportsmassoren.com,zweerscreatives.nl,sahalstore.com,argos.wityu.fund,xn--rumung-bua.online,cafemattme"
 2020-03-01 20:47:19,#njRat,https://t.co/LvJ38E6R99,bc2baf95ce1dd2694fb24729b8be72ef5f667ca7fb355b4e8d94e175887a49fe,127.0.0.1:5553
 2020-03-01 20:02:19,#Revenge,https://t.co/uBDHFCzd3n,21d1f5d2ad4ac80ac110333403909a91fe7094a91dc822400768cf10f8b346ec,"127.0.0.1:3333,"
 2020-03-01 19:47:18,#njRat,https://t.co/Yixk54dCG6,bc2baf95ce1dd2694fb24729b8be72ef5f667ca7fb355b4e8d94e175887a49fe,127.0.0.1:5553
