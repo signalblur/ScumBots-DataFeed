@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2020-03-02 16:55:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/5Vy8JB0X5l,3b8d182f8271ff1b8cdd507602f2557f035fbc2450d1bc6179c885279ba8f344,192.168.1.7:4444
+2020-03-02 16:05:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/tcvThN5Ji7,6dcb13eb1176a0cb5e7dfda8e3efe5f48889d7f44ba71823724396b66c196dcb,209.97.190.80
+2020-03-02 15:10:19,PowerShell_Empire_Agent,https://t.co/91uETfEUwA,8e9cc80f45bf9644656f611623a1405ce35d4eed247265566404cb7c3872c47a,24.114.49.78:80
+2020-03-02 14:50:19,PowerShell_Empire_Agent,https://t.co/3clzWBV216,a189442dbf0908a0f26a404d603b86569117238087de625f2062df40299f52a7,192.168.1.127:80
+2020-03-02 14:30:20,PowerShell_Empire_Agent,https://t.co/7XV2HPXg9G,405508411987b27c5911eb9d30373a643e0257701598089b18f16d5bd0848b63,192.168.1.127:80
+2020-03-02 14:17:36,#njRat,https://t.co/xRbBn2ieZl,278ee793aeea535f4d177ad079996b58c79f38853ef0cee3ee136f1bd9c38a81,192.168.1.2:5552
+2020-03-02 14:17:19,#njRat,https://t.co/0U0UIvJs6j,bc2baf95ce1dd2694fb24729b8be72ef5f667ca7fb355b4e8d94e175887a49fe,127.0.0.1:5553
+2020-03-02 14:02:19,#njRat,https://t.co/Amq0HrKORU,d93455ef4f482d5e04e640d8f0f6d176bc1704419c82ba6f09c6616ae260df4f,127.0.0.1:11891
 2020-03-02 05:50:18,PowerShell_Empire_Agent,https://t.co/S0c4K3Hi1C,f06816423511e5db14946c485059c17fd9235e1d219e7c02ef34e2cabbb57b24,192.168.1.127:80
 2020-03-02 02:47:19,#REvil,https://t.co/AmkOx0nJXt,e1665b9c3da5ff6a007564d564a647fb7398b9fa8b9d6c10a10a73093eac3018,"sipstroysochi.ru,simulatebrain.com,sportsmassoren.com,zweerscreatives.nl,sahalstore.com,argos.wityu.fund,xn--rumung-bua.online,cafemattme"
 2020-03-01 20:47:19,#njRat,https://t.co/LvJ38E6R99,bc2baf95ce1dd2694fb24729b8be72ef5f667ca7fb355b4e8d94e175887a49fe,127.0.0.1:5553
