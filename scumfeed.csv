@@ -1,4 +1,15 @@
 date_identified,implant_type,url,hash,c2
+2020-03-02 22:11:05,#njRat,https://t.co/ZDvl3midsJ,7a2ed9ca50c420226b39bdfac410191730aab562bbe99ca0a40d100267df6070,abdo00.publicvm.com:997
+2020-03-02 22:10:48,#njRat,https://t.co/0oJMOhCRIO,215110b34b01e494bf9dd5afa21b584c9731aa9716d80457e229b2e257967d42,abdo00.publicvm.com:997
+2020-03-02 22:10:30,#njRat,https://t.co/DvKoACO2uq,673a801f01a7fd91ddf4a5b4d9f2452169fc855f1c7eb1b05de8c297b9884c08,abdo00.publicvm.com:997
+2020-03-02 22:03:09,#njRat,https://t.co/RAJKtzvhJS,2a9e687b79e04fefeda671483ca1e2cdbb304209511aa9df73db47a03eeceac4,192.168.1.2:5552
+2020-03-02 22:02:52,#njRat,https://t.co/CDPK8PCEgy,b9b757e456c8d3ce45a73b4e1b086641ae4df28d72dbf378bba900778ddcb29c,192.168.1.2:5552
+2020-03-02 22:02:36,#Revenge,https://t.co/PcaFEurcca,433c61956b92f149c10163ece84113b6aa9c1dd987ad24fb982ae61426abe389,"192.168.1.2:333,,"
+2020-03-02 22:02:19,#njRat,https://t.co/3Sdp0prMlk,85487588a1db6dd3821ce0b62630480358d640d73cc120399206b494b5e64248,192.168.1.2:5552
+2020-03-02 20:47:18,#njRat,https://t.co/sKfdIDD1h2,215110b34b01e494bf9dd5afa21b584c9731aa9716d80457e229b2e257967d42,abdo00.publicvm.com:997
+2020-03-02 20:32:19,#REvil,https://t.co/f52zveepry,e77b1f4456e8e8709e8c0e0aff0003af3767ffe7846afa878664407831290743,"apprendrelaudit.com,simpliza.com,kisplanning.com.au,opatrovanie-ako.sk,slupetzky.at,imperfectstore.com,mrsplans.net,tinyagency.com,evan"
+2020-03-02 20:17:18,#njRat,https://t.co/2c3ZQCkdPV,2a9e687b79e04fefeda671483ca1e2cdbb304209511aa9df73db47a03eeceac4,192.168.1.2:5552
+2020-03-02 18:32:19,#REvil,https://t.co/VUPVI2D0qC,e5429b79ef182cef74e1678db535f158b916cd2600d130d9b95d0d8722ad4a04,"shadebarandgrillorlando.com,binder-buerotechnik.at,sahalstore.com,ausbeverage.com.au,seevilla-dr-sturm.at,despedidascostablanca.es,oncarrot"
 2020-03-02 16:55:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/5Vy8JB0X5l,3b8d182f8271ff1b8cdd507602f2557f035fbc2450d1bc6179c885279ba8f344,192.168.1.7:4444
 2020-03-02 16:05:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/tcvThN5Ji7,6dcb13eb1176a0cb5e7dfda8e3efe5f48889d7f44ba71823724396b66c196dcb,209.97.190.80
 2020-03-02 15:10:19,PowerShell_Empire_Agent,https://t.co/91uETfEUwA,8e9cc80f45bf9644656f611623a1405ce35d4eed247265566404cb7c3872c47a,24.114.49.78:80
