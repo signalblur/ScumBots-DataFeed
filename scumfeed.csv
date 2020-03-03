@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-03-03 03:30:19,PowerShell_Empire_Agent,https://t.co/AQEwh4xvWt,3199140e51930080e4460735bc33da22ac09567e885d73bda07e02495dca4388,empire1.ddns.net:8111
+2020-03-03 01:17:18,#Revenge,https://t.co/xMMPDamLua,a035c97a6615a8b045b2ecd7f30f1aac70d58d432c84f4616faeea49ea5a4ba7,"softprodaction.duckdns.org:2040,"
+2020-03-03 00:55:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/8de7Jp525e,dcdd99e6cdb6eb43e5d1344cecf7eb972ea45ce1b4648fdaf18b56bbaf76aca4,38.0.31.22:9955
+2020-03-02 23:50:18,PowerShell_Empire_Agent,https://t.co/A6IwnzlAq8,43ba57021e9c4a797c1ca3a98005e24306218e8b14a36d0a0de9d92871a0d8fb,empire1.ddns.net:8111
+2020-03-02 23:40:18,PowerShell_Empire_Agent,https://t.co/0eyMbOUrju,3475d9fe66581719c45f803c32ce3008ff893eef508862fa36f2f73286575f5b,empire1.ddns.net:80
 2020-03-02 22:11:05,#njRat,https://t.co/ZDvl3midsJ,7a2ed9ca50c420226b39bdfac410191730aab562bbe99ca0a40d100267df6070,abdo00.publicvm.com:997
 2020-03-02 22:10:48,#njRat,https://t.co/0oJMOhCRIO,215110b34b01e494bf9dd5afa21b584c9731aa9716d80457e229b2e257967d42,abdo00.publicvm.com:997
 2020-03-02 22:10:30,#njRat,https://t.co/DvKoACO2uq,673a801f01a7fd91ddf4a5b4d9f2452169fc855f1c7eb1b05de8c297b9884c08,abdo00.publicvm.com:997
