@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-03-03 14:05:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/w6KRgPpILw,7cfe4e7b39a7c9d51ce91f76599f798630f7c27dd5b674c249548c0dd6ee1e75,23.227.207.190
 2020-03-03 10:25:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/jktAqwKSJe,1e74cbb5edf168cdf0c8aebb1a3d8ace3e442d2058b6d9a33cace10760ffb563,185.202.1.222
 2020-03-03 03:30:19,PowerShell_Empire_Agent,https://t.co/AQEwh4xvWt,3199140e51930080e4460735bc33da22ac09567e885d73bda07e02495dca4388,empire1.ddns.net:8111
 2020-03-03 01:17:18,#Revenge,https://t.co/xMMPDamLua,a035c97a6615a8b045b2ecd7f30f1aac70d58d432c84f4616faeea49ea5a4ba7,"softprodaction.duckdns.org:2040,"
