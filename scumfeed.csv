@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-03-03 22:52:24,#njRat,https://t.co/MUj4uTpIkX,6e002a6348591672b1a422d3f55088557e7258b2ba14cbf38677259143ebaf48,kairaw.ddns.net:7878
+2020-03-03 22:47:19,#REvil,https://t.co/7YVx1dg7hy,3745036193255e06cec4394b6ff3c56e312ce484dc1a106a74ef86c84d07cca9,"maryloutaylor.com,danubecloud.com,opatrovanie-ako.sk,jobcenterkenya.com,interactcenter.org,victoriousfestival.co.uk,glennroberts.co.nz,"
+2020-03-03 21:02:19,#REvil,https://t.co/ArxiMBSsVu,536a9190d06a5d0643b8c41fe4d4949ee29a645ef4ca09e21b4648d568d88d14,"klusbeter.nl,roygolden.com,rksbusiness.com,moveonnews.com,kikedeoliveira.com,sterlingessay.com,wychowanieprzedszkolne.pl,oemands.dk,mepav"
 2020-03-03 14:05:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/w6KRgPpILw,7cfe4e7b39a7c9d51ce91f76599f798630f7c27dd5b674c249548c0dd6ee1e75,23.227.207.190
 2020-03-03 10:25:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/jktAqwKSJe,1e74cbb5edf168cdf0c8aebb1a3d8ace3e442d2058b6d9a33cace10760ffb563,185.202.1.222
 2020-03-03 03:30:19,PowerShell_Empire_Agent,https://t.co/AQEwh4xvWt,3199140e51930080e4460735bc33da22ac09567e885d73bda07e02495dca4388,empire1.ddns.net:8111
