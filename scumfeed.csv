@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-03-05 11:47:18,#NanoCore,https://t.co/S03FI89j8O,15005820e628c7ffeb245bfc4ce91797b1976847017c72fec362b688cc214c0d,"aefaegaa.ddns.net:1212,127.0.0.1:1212,"
 2020-03-05 11:32:18,#Revenge,https://t.co/jE7RxBZygB,6b04a84dd2ff70944c97604447866f11ce23135cafc357293dee242f868c3d22,"127.0.0.1:333,"
 2020-03-05 03:32:19,#REvil,https://t.co/4GLZ5s2XN7,37df387cdd60bef4708fb3fda4e7d934205b499a8ed8f9165a93113da53429a4,"pt-arnold.de,milestoneshows.com,panelsandwichmadrid.es,pivoineetc.fr,filmvideoweb.com,humancondition.com,mediaclan.info,id-vet.com,bodyfu"
 2020-03-05 02:45:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/uGpK5eJhLi,f4208f1bcec2f5ef157a26b93481f106c48f66e26e8de364a1ccca864bb77da3,192.168.71.128:4444
