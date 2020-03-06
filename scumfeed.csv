@@ -1,4 +1,16 @@
 date_identified,implant_type,url,hash,c2
+2020-03-05 23:02:18,#njRat,https://t.co/eQyNT5c7RY,2f0093c45ea81e8601eab49e948de11ae344ef8a572c6682cd599ddeb2da84fc,127.0.0.1:5552
+2020-03-05 22:47:35,#njRat,https://t.co/b7dSx0UG7a,13f96cca9ec8aedbd38359933a49d4757f3459ed8accc451081c6534b9c9c801,127.0.0.1:5552
+2020-03-05 22:47:18,#njRat,https://t.co/1b8SOl4OhY,2f0093c45ea81e8601eab49e948de11ae344ef8a572c6682cd599ddeb2da84fc,127.0.0.1:5552
+2020-03-05 22:38:14,#njRat,https://t.co/4nKpMFK81s,85809f69711772ca3504f4b23596f9f73066560c677a00d19782071508757814,127.0.0.1:1777
+2020-03-05 22:37:57,#Revenge,https://t.co/EuI9WtxRAF,07446fe119fc28b017fe4ef5229319ddadb7d4dc89e59e046c24a88764fc9248,"127.0.0.1:1334,"
+2020-03-05 22:33:08,#REvil,https://t.co/yiFoLEkDuQ,15a682524e1fd120a22257f511731ee3ab821cfd84dec4441746aadc883b4e30,"nmiec.com,tonelektro.nl,lynsayshepherd.co.uk,cirugiauretra.es,iyengaryogacharlotte.com,pferdebiester.de,huissier-creteil.com,www1.prore"
+2020-03-05 22:32:51,#atraps,https://t.co/syS42FD9CU,6ccafcf59d7cb00cac7f491d96188f2d8d08fafef5f02e5d947162c6d309ad2b,127.0.0.1:1777
+2020-03-05 22:32:35,#njRat,https://t.co/b0P7FNtbDY,3756667b7438322f0b06dd023ae0dca3cb40de1f9ed3436d96192c2b7dab524d,waledelhabak.ddns.net:5552
+2020-03-05 22:32:18,#atraps,https://t.co/5HCrpFxxu7,6ccafcf59d7cb00cac7f491d96188f2d8d08fafef5f02e5d947162c6d309ad2b,127.0.0.1:1777
+2020-03-05 19:47:19,#REvil,https://t.co/KwJdBNkgw0,7afc7a311740da58cb0b7d6c43e28b1ddb6fce9c67614e74902e552b330287b0,"kath-kirche-gera.de,exenberger.at,kamahouse.net,rieed.de,grelot-home.com,celularity.com,karacaoglu.nl,galleryartfair.com,deschl.net,hot"
+2020-03-05 18:32:19,#REvil,https://t.co/5TDS3Cx3Ai,d8110ee6dadeb924ce1fad60926b375001becc8914e5548d45e9ec346c4caa76,"bildungsunderlebnis.haus,bingonearme.org,gemeentehetkompas.nl,abl1.net,pt-arnold.de,bbsmobler.se,1kbk.com.ua,lascuola.nl,theletter.co"
+2020-03-05 17:35:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/6XVgtPJBgB,fb9c2ee031a43d4dc659288fd868454df660ef38247f29c47bf5d28d86b3f733,192.168.1.9
 2020-03-05 11:47:18,#NanoCore,https://t.co/S03FI89j8O,15005820e628c7ffeb245bfc4ce91797b1976847017c72fec362b688cc214c0d,"aefaegaa.ddns.net:1212,127.0.0.1:1212,"
 2020-03-05 11:32:18,#Revenge,https://t.co/jE7RxBZygB,6b04a84dd2ff70944c97604447866f11ce23135cafc357293dee242f868c3d22,"127.0.0.1:333,"
 2020-03-05 03:32:19,#REvil,https://t.co/4GLZ5s2XN7,37df387cdd60bef4708fb3fda4e7d934205b499a8ed8f9165a93113da53429a4,"pt-arnold.de,milestoneshows.com,panelsandwichmadrid.es,pivoineetc.fr,filmvideoweb.com,humancondition.com,mediaclan.info,id-vet.com,bodyfu"
