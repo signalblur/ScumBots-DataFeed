@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-03-07 03:55:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/vOjrAZxEhm,eb8e91442a209e05f5a1e963c65ec43201335a321990b1cc8323b5459c5c0f4e,10.55.3.210:8080
+2020-03-07 02:17:19,#njRat,https://t.co/NmkaqYHQKA,20884c35483de8ee2c172d605399c42eedc82c2a272ce318adbaa6fa03a75fbd,klexxon.hopto.org:1194
 2020-03-06 22:32:19,#Revenge,https://t.co/u9SHrzRLWh,b12a033bfab1ef2d8fd3fcfaf4ca18befea6aa75d9ef61e571295b716a22a2f7,"127.0.0.1:333,"
 2020-03-06 22:17:35,#Revenge,https://t.co/KnzbrEoII4,5c7b6494975837bfac23dd2cf48c66b358c404bb57d424b20f6ee8f649b4e4de,"192.168.1.4:333,"
 2020-03-06 22:17:23,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/OdkYLekvgH,3dab3148999972ff42337952e42c3eb2b1d25bd940fe32dba4d3e4d00ea91a6a,192.168.1.29:4444
