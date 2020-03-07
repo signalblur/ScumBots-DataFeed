@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-03-06 22:32:19,#Revenge,https://t.co/u9SHrzRLWh,b12a033bfab1ef2d8fd3fcfaf4ca18befea6aa75d9ef61e571295b716a22a2f7,"127.0.0.1:333,"
+2020-03-06 22:17:35,#Revenge,https://t.co/KnzbrEoII4,5c7b6494975837bfac23dd2cf48c66b358c404bb57d424b20f6ee8f649b4e4de,"192.168.1.4:333,"
+2020-03-06 22:17:23,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/OdkYLekvgH,3dab3148999972ff42337952e42c3eb2b1d25bd940fe32dba4d3e4d00ea91a6a,192.168.1.29:4444
+2020-03-06 22:17:18,#Revenge,https://t.co/wi5WYDmphl,a1ecab2ce5a894db703fd4f59fc663750cf446e7355095457f37d4dd9f549c2c,"192.168.1.4:333,"
+2020-03-06 21:32:19,#REvil,https://t.co/wHJhLssDrO,5c923b6bb13e2854fe09c6aa464a80a6ceae386883a673fbd6c795f557ebf3b5,"work2live.de,dubscollective.com,freie-baugutachterpraxis.de,igrealestate.com,catholicmusicfest.com,mrtour.site,darnallwellbeing.org.uk,mi"
+2020-03-06 20:32:18,#Revenge,https://t.co/gYiYZER4QH,b2144af6922d925a99bdb5e2264b40af2d310c556444fa61ee190ced786ff81b,"steroidigo.ddns.net:1605,,"
+2020-03-06 18:47:18,#Njratgold,https://t.co/fTORQ8xMSR,c5f63b1e87d623f3cd186723a30f5a481ce01e74961ba4e602530dc9318964eb,127.0.0.1:5552
 2020-03-06 12:47:19,#njRat,https://t.co/uCP1MDz11q,21a84877b95d2583bd960c380076d4938634254bacb00cba58c0e3483cba3f12,127.0.0.1:1011
 2020-03-06 12:17:18,#njRat,https://t.co/wl8plBLudb,8c99036a3117d40f457a4ba4470c5292fc483347837124017d018fd435226b23,127.0.0.1:5552
 2020-03-06 12:00:23,PowerShell_Empire_Agent,https://t.co/uU3waVGaYo,82dc9c52d3f81d07562733b989bf4b34dcd8452fcc2eb1de98e2322ed253ada2,www.amazn.cloud:80
