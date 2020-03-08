@@ -1,4 +1,17 @@
 date_identified,implant_type,url,hash,c2
+2020-03-08 03:47:20,#REvil,https://t.co/gX8M9t8uVO,8bf41ea9a542ce89866ebe0e9c6511b3e5a53e2fad5b350cb47718da1cb8746b,"bigbaguettes.eu,dr-seleznev.com,drfoyle.com,danubecloud.com,prochain-voyage.net,verytycs.com,ftlc.es,aprepol.com,rollingrockcolumbia.co"
+2020-03-08 01:25:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/rsHCCLdRSE,c9fe4c7f6cad42f1e6de60de8913abb607cc4d610869f7eeb4a5d1242c40b828,192.168.1.113
+2020-03-07 23:48:07,#njRat,https://t.co/ZXmirzDt5I,a5e04d3a8c4b465d855f826047d8bc507a3433e971accc77f2dae181405157a0,10.8.0.14:1337
+2020-03-07 23:47:51,#njRat,https://t.co/dkjsMcG4HW,2f00ff1d82bad9691acb66c10c9c182ab7dd234ca59e8f7b4d2881a26f8a4e3a,127.0.0.1:5552
+2020-03-07 23:47:35,#njRat,https://t.co/b0PckteDub,2f00ff1d82bad9691acb66c10c9c182ab7dd234ca59e8f7b4d2881a26f8a4e3a,127.0.0.1:5552
+2020-03-07 23:47:18,#njRat,https://t.co/7tNwzS2rHt,a5e04d3a8c4b465d855f826047d8bc507a3433e971accc77f2dae181405157a0,10.8.0.14:1337
+2020-03-07 23:32:35,#njRat,https://t.co/cRMiVAmK33,774af297221270549f0dbe397b29e669ebfd09b9cb72710fee6f8eaed034041a,127.0.0.1:5552
+2020-03-07 23:32:18,#njRat,https://t.co/CEJmds9nE7,774af297221270549f0dbe397b29e669ebfd09b9cb72710fee6f8eaed034041a,127.0.0.1:5552
+2020-03-07 22:02:51,#Revenge,https://t.co/4D6AUBuEFK,bc26623b17ea5fd5783725192c0f561a2950ea45755ebe62478d1501fcc5bdad,"127.0.0.1:1606,,"
+2020-03-07 22:02:35,#njRat,https://t.co/dgOZzjHyiN,a5e04d3a8c4b465d855f826047d8bc507a3433e971accc77f2dae181405157a0,10.8.0.14:1337
+2020-03-07 22:02:18,#njRat,https://t.co/aYQ4qGQmf5,8f076d3131a1bf21884bbcd0c10e2731670f4c8d659313cae618afffd530ad8f,127.0.0.1:1604
+2020-03-07 18:15:20,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/7bsVFTFKaQ,e35fec291c41b43a1ab454a7bc1cbe2b8473e2f0852855840a66cb2fa2cb2e33,192.168.1.113
+2020-03-07 17:55:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/N42xmHHviT,f9ab32bb05fd7f7cbba798d345015bcd24ff646ca3b521ffae86484e2fbfc323,192.168.1.113
 2020-03-07 17:32:19,#njRat,https://t.co/E7wd4QoTBb,8c9a894c35edc3cde7d825b31f631b09abf5c312fdffd338e1c6bce42e6d40d2,shytangz12.ddns.net:1177
 2020-03-07 17:17:34,#njRat,https://t.co/VpCcWFBpQo,24bbec01effaecf0358414870c5ade7956de862e82bdcb6411aeac0277d2faf0,mohyb1199.ddns.net:6201
 2020-03-07 17:17:18,#njRat,https://t.co/8LxH9bgGhu,24bbec01effaecf0358414870c5ade7956de862e82bdcb6411aeac0277d2faf0,mohyb1199.ddns.net:6201
