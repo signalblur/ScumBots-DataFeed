@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-03-08 16:02:18,#njRat,https://t.co/3Jpv3Iy8xN,ad39fdf6f376e81c7e02c886fb0fead330a6b35b22ca9022f78a692df2d26deb,127.0.0.1:11891
+2020-03-08 14:05:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Uq7qnjeeNV,8c3ea82187acdc6c80b57fc2c494d251f83dbfbc1ffa543033e3aa091810455b,192.168.1.113
+2020-03-08 12:32:19,#NanoCore,https://t.co/xpbAjmDOi8,40540698cb54e1c9f80ebdf156d62d777e28c2a30872cdba10b6a4553c3bfc2f,"78.156.87.166:1234,127.0.0.1:1234,"
 2020-03-08 03:47:20,#REvil,https://t.co/gX8M9t8uVO,8bf41ea9a542ce89866ebe0e9c6511b3e5a53e2fad5b350cb47718da1cb8746b,"bigbaguettes.eu,dr-seleznev.com,drfoyle.com,danubecloud.com,prochain-voyage.net,verytycs.com,ftlc.es,aprepol.com,rollingrockcolumbia.co"
 2020-03-08 01:25:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/rsHCCLdRSE,c9fe4c7f6cad42f1e6de60de8913abb607cc4d610869f7eeb4a5d1242c40b828,192.168.1.113
 2020-03-07 23:48:07,#njRat,https://t.co/ZXmirzDt5I,a5e04d3a8c4b465d855f826047d8bc507a3433e971accc77f2dae181405157a0,10.8.0.14:1337
