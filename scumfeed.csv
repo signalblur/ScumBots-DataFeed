@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-03-09 11:25:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/IN9Ds7Sva4,2248b5d2420fbab886c68b5a31e912cce15322df131cabf983ffcff9944050c6,10.0.2.15
+2020-03-09 09:47:36,#njRat,https://t.co/wIc14vHLrq,46f0e0d58ae1a56970ff288deed0be9ad1b0bf9e297b124713658f22157dfa3a,127.0.0.1:6522
+2020-03-09 09:47:19,#njRat,https://t.co/l2PmIxR5h2,074b0e36546a33670d17793cfd8a500a859117af33f9b10354eea638a18e8c57,aldana07.ddns.net:5552
+2020-03-09 09:02:18,#njRat,https://t.co/oAbyRCDNfo,dbb425bb020d679b2a0f89f342884bf794268b5207043f8f4f1556bcbb87fc41,rooney.access.ly:1177
 2020-03-09 00:02:18,#njRat,https://t.co/2N8HkiKqjN,866d88e9df40424df2592d0da10d8a630c2c0887fdecbb7fefd05fa344ef32d3,liam001.spdns.eu:1234
 2020-03-08 23:17:18,#Njratgold,https://t.co/u58vSTCKAz,3295d2be8a7916f18c84a1b55edc3f3625b378ee157cbba7e1a93441492e9d16,213.57.167.4:1604
 2020-03-08 21:47:18,#njRat,https://t.co/FRLwzWtCY0,4e939744ba60777456264b2fc59f45a6001b91f50fa6c8613a2aa0ce316cd8ba,momo19972.ddns.net:5552
