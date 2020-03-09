@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-03-09 16:35:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/JpaqtmvbII,c7c9ad1272a2e2b214ad3da3aa384560208a48837b81ff6a28f3288e79656e2e,10.0.2.15
+2020-03-09 13:17:18,#njRat,https://t.co/UlhFjxfqLn,5373606003e7499ea541f79f73f42424c09d3d4d952cebdfbb63a5aad1ecbabe,momo19972.ddns.net:5552
 2020-03-09 11:25:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/IN9Ds7Sva4,2248b5d2420fbab886c68b5a31e912cce15322df131cabf983ffcff9944050c6,10.0.2.15
 2020-03-09 09:47:36,#njRat,https://t.co/wIc14vHLrq,46f0e0d58ae1a56970ff288deed0be9ad1b0bf9e297b124713658f22157dfa3a,127.0.0.1:6522
 2020-03-09 09:47:19,#njRat,https://t.co/l2PmIxR5h2,074b0e36546a33670d17793cfd8a500a859117af33f9b10354eea638a18e8c57,aldana07.ddns.net:5552
