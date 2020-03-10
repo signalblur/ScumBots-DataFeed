@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-03-10 17:40:19,PowerShell_Empire_Agent,https://t.co/bmAxoyVxqv,c253cd8fd0e8de8b9ff90498f191f2de614360247b4dea7e25fda6d41bb7b2e1,192.168.78.2:8080
+2020-03-10 16:47:36,#Revenge,https://t.co/6IVzHS8ibN,a6f7774c76ee23dd30712fe5362651dd9895ec275ebcf84b276540d3099ad804,"83.159.223.112:1604,,"
+2020-03-10 16:47:19,#njRat,https://t.co/LPuwINiz5O,e3c4341c70ae8bbd931e17952158a77dccabce48e01ca33d740f6f43e95c187b,127.0.0.1:4000
+2020-03-10 13:32:18,#njRat,https://t.co/zMIDRIXN02,441bacd1ab344cffb736711309e6bdfc1524921d8f09108e7db36eb4b3269cad,155.94.159.114:5552
+2020-03-10 12:45:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/f0z4CkDy05,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
+2020-03-10 12:02:19,#njRat,https://t.co/sezJlLKHFl,281204b1ee37e38933fb57d83f77420be5a7016ac292318253e71728e97577bd,127.0.0.1:5552
 2020-03-10 08:30:19,PowerShell_Empire_Agent,https://t.co/0VWMNkmb69,2fce54f19cc11e9bea9a18952cae872d43d22bfba1e3bbb393ed9a94cd41ac0e,https://manulife.ca-syschk.net:443
 2020-03-10 05:02:19,#REvil,https://t.co/YgY7ARNeCr,fdd48565b4c05b6c75f020cf10fecbfec30bc9e90ccc02134a3d3fef820dfcd2,"vesinhnha.com.vn,urmasiimariiuniri.ro,vetapharma.fr,the-virtualizer.com,zimmerei-fl.de,tux-espacios.com,fensterbau-ziegler.de,rehabilitat"
 2020-03-10 00:17:19,#njRat,https://t.co/AtFpoKFZ2x,f71a9e0a76eb94369a42706bb36fa6a66b722049fe567b118d76c99761064ecf,inminetfud.sytes.net:1177
