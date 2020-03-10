@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-03-09 22:47:18,#njRat,https://t.co/bneGEnlqu5,84fe8ad3ca1e05dbbd5919b769186c77a301d08ffd0eb9c9fcf8b3f9d61b4c3c,obghazi.ddns.net:1177
+2020-03-09 22:32:19,#njRat,https://t.co/d38wpwNCJi,c5cb3bd1bd67d40dc1de222fdeef2165c28284b6ed21d483ba250a27d196d7fa,155.94.159.114:5552
+2020-03-09 21:32:18,#Revenge,https://t.co/1x8V8rRx17,cf1ccd1cd7b7a29601129f5eda08a0dfbbd3bb010100bcfaf55850d4302c0c6b,"hidden0772.ddns.net:1177,,"
+2020-03-09 21:02:18,#Revenge,https://t.co/XLM4kbDOM4,2bb44181c7547a69b7ea6a4d7c13baba0e623dd5049c055ad3902b3e04c68f62,"brwa0772.ddns.net:1177,,"
+2020-03-09 19:02:19,#njRat,https://t.co/OVjM3Ke0tN,bffc455077db84e9b29bc6be61629010fc6b705f543d11a41973a1bb6f3e4695,"mammoth01.ddns.net:4433,"
+2020-03-09 18:35:04,#Revenge,https://t.co/ZArTtNjfjk,c9c55a95f4c9d009bed45f8176c7d7941501392b1feb428016cf22efb33f1cb7,"winuptade.zapto.org:443,,"
+2020-03-09 18:32:19,#njRat,https://t.co/kNRVCXoaeU,359831cb39751d82c4ba3a2ca912b992eca71a4a313630ca9546ad1d761d0176,127.0.0.1:5552
 2020-03-09 16:35:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/JpaqtmvbII,c7c9ad1272a2e2b214ad3da3aa384560208a48837b81ff6a28f3288e79656e2e,10.0.2.15
 2020-03-09 13:17:18,#njRat,https://t.co/UlhFjxfqLn,5373606003e7499ea541f79f73f42424c09d3d4d952cebdfbb63a5aad1ecbabe,momo19972.ddns.net:5552
 2020-03-09 11:25:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/IN9Ds7Sva4,2248b5d2420fbab886c68b5a31e912cce15322df131cabf983ffcff9944050c6,10.0.2.15
