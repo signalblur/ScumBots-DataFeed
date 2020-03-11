@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-03-11 00:17:18,#njRat,https://t.co/y2DNUU1OOZ,e6e27b6598ac2277ab3c76a01efc1416fa7f62dcc8f37f5323b52847a43e9041,fahaddz.ddns.net:2001
 2020-03-10 23:17:24,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/xbdZtgRjha,424eb435df41def2fd1f106c3111abf547da3ca2052a7a0832fa51ad6dbb86b2,107.4.90.214:666
 2020-03-10 21:45:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/OWEqtOyhzH,e849ddcc4caa11a2530a787a54d046ad7a1d70cb76ea9e1309c9b483e5808602,107.4.90.214:666
 2020-03-10 21:17:18,#njRat,https://t.co/ZjOr5hUb0v,7bc562ab987756841469f54c6284a50d515bd6f565e26f53bf6bab34dd3111d0,192.168.1.6:5552
