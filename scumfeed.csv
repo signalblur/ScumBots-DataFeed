@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-03-11 10:32:19,#REvil,https://t.co/YsVa1ITYTE,1af8672fd4ffdf557896efd173ab031fb326846b5aa21548884506217f654a4f,"alsace-first.com,cleliaekiko.online,ungsvenskarna.se,alten-mebel63.ru,shonacox.com,urmasiimariiuniri.ro,ruralarcoiris.com,smejump.co.th"
+2020-03-11 09:02:18,#njRat,https://t.co/TSkLHZgpcO,d1f6f25741126fe4ce7691dbe49ea6ab7f0d7c69013c9f886fe2e943f73d9db0,wannacryde.ddns.net:1177
+2020-03-11 08:17:37,#njRat,https://t.co/Nx58y9wPjU,df9c1e5a57509ec56c7bbb09f8811f6c9634732f921b47c8610e3a29799cd4a7,127.0.0.1:8080
+2020-03-11 08:17:19,#NanoCore,https://t.co/bkNeGVCDI0,5d518f12a0fbc2de07b59a89e2f36edfad280b3c1a2f1bb4b0cdb0f98ee10bd4,"127.0.0.1:8080,"
+2020-03-11 06:17:37,Payload,https://t.co/lETLqCnUm6,b390bf4bd55c007611bc358647f53ac433b5e8bbead15152373bcc637be7e6ab,192.168.43.188:4444
+2020-03-11 06:17:19,#njRat,https://t.co/WbDgizB238,0a099765c79ad6696231f0d14b2b5c0e74c397a4c69885c45ebef7d6e09a65f9,rcode4444.ddns.net:4444
 2020-03-11 00:17:18,#njRat,https://t.co/y2DNUU1OOZ,e6e27b6598ac2277ab3c76a01efc1416fa7f62dcc8f37f5323b52847a43e9041,fahaddz.ddns.net:2001
 2020-03-10 23:17:24,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/xbdZtgRjha,424eb435df41def2fd1f106c3111abf547da3ca2052a7a0832fa51ad6dbb86b2,107.4.90.214:666
 2020-03-10 21:45:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/OWEqtOyhzH,e849ddcc4caa11a2530a787a54d046ad7a1d70cb76ea9e1309c9b483e5808602,107.4.90.214:666
