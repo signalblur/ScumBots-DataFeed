@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-03-11 21:47:20,#REvil,https://t.co/w0a6uGnylj,3db40a3057790cfb4ff4fbf5e28a8a3f4282f2063a24d51348c33e229f7a12b4,"allamatberedare.se,crowd-patch.co.uk,kissit.ca,microcirc.net,karacaoglu.nl,waermetauscher-berechnen.de,desert-trails.com,bhwlawfirm.com"
+2020-03-11 21:24:08,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/fZ0J4RxKu6,6c97dbef34d64b48f0f774e458bbc25f38b902b3c2f3e819e3b276c781511603,newsrecordmusic112.monster
+2020-03-11 21:02:52,#njRat,https://t.co/T0cvVeJfK2,231452579c23f41a0bcb752fe9af675625caf92137ace95d3c286bc6eedc78ed,192.168.1.6:5552
+2020-03-11 21:02:36,#njRat,https://t.co/N5WWDGKIyF,f71a9e0a76eb94369a42706bb36fa6a66b722049fe567b118d76c99761064ecf,inminetfud.sytes.net:1177
+2020-03-11 21:02:19,#njRat,https://t.co/XNsYePPfGz,4273acd739a116fe7c6a27f958cc627320f5c24491c64801dbe7c3f31d65a680,127.0.0.1:11891
+2020-03-11 19:17:19,#njRat,https://t.co/XEcV0TfPgD,d924e4ffb8e663e4b898cb0c174124bb345890bb8cc6f2cc772ee1dfeb967206,obghazi.ddns.net:1177
 2020-03-11 17:17:18,#Njratgold,https://t.co/0sdxr6gqxT,1736d15a6e231dc07adf20120e4993da0e7c5249320f15a3990895b019847bb4,panzehir42.duckdns.org:1604
 2020-03-11 14:47:18,#njRat,https://t.co/X5xsb4EdIu,682f05626c7acbe582308ac3ae86c2069f03118901bcc1513bf1f398bacf04c4,127.0.0.1:5552
 2020-03-11 14:31:23,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/W3eskYN8V1,5b0786c79569e382f0420ff4a7aa0b820d08ee44d7e307be91a50eddd17d2afa,192.168.1.113
