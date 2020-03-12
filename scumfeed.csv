@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-03-12 15:47:23,#REvil,https://t.co/vOs0K7vZWC,dcd68b47c9f98cde982318d889dbfdaadec966651f957410075bb8b413a811fa,"madinblack.com,mirkoreisser.de,jobmap.at,nakupunafoundation.org,tenacitytenfold.com,mylolis.com,mercantedifiori.com,roygolden.com,digivod"
+2020-03-12 14:38:10,#REvil,https://t.co/GcZ1luaATg,f4f27a8d8607db742cdc40a1bffe2384f2a3bdeaa4f10c86d0e339f746a00036,"onlybacklink.com,ulyssemarketing.com,blood-sports.net,vannesteconstruct.be,parkcf.nl,maxadams.london,theshungiteexperience.com.au,narcert"
+2020-03-12 14:32:19,#REvil,https://t.co/BSRFDPNA9X,75abf869cc4ac52539fc264b1e7389bc1a7e38259131c87188ceba0067a47d93,"panelsandwichmadrid.es,answerstest.ru,danubecloud.com,lmtprovisions.com,richard-felix.co.uk,cactusthebrand.com,pomodori-pizzeria.de,small"
+2020-03-12 14:02:18,#Njratgold,https://t.co/0IaVNAdgEs,6a798337275fb5b2d4a7f51f6b33c5f2ef49c28a49f8208c721ed1397d60732c,panzehir42.duckdns.org:81
+2020-03-12 13:31:08,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/nKjhHg1pAw,cc97eacabb6f6a972d81ef91914e40427fcac2ec9483d3a95a2956dd241d01eb,93.65.162.134
+2020-03-12 13:30:51,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/mC4Wh3Wdpj,ab16c16ae47910e07cfe4ce17ed50e688e5eeb75b7e5f4a650a950cbc95141a4,93.65.162.134
 2020-03-12 10:45:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/loes6Z5teY,0e87b44e4c7fa5dd4fb07b02e29887627ce896a20a9abe6cd44a2fe11d72a0cc,192.168.30.10:1234
 2020-03-12 10:15:19,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/3uUHBsrmlH,1ff070cdb790165e3b44e886e04012828aa03b87c4aeb66954635af75a8c2ee2,3.120.130.166:4444
 2020-03-12 05:02:18,#njRat,https://t.co/s1zAdiJtGY,e79906ac4a7dd3ded650c000aab1abbc83b21f38d3782f289fcb6ffbb726154d,127.0.0.1:11891
