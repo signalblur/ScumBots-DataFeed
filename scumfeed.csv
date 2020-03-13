@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-03-13 04:47:20,#CyberGate,https://t.co/aHTBM4fJpl,357ae8bdaa57334484b81fb2cd95930d5fd7a60f21c0de17553c67f5ac097707,"libertadores.duckdns.org:2000/,"
+2020-03-13 03:17:18,#njRat,https://t.co/og2EJWaocw,e254294e1124fe3c8bfdab94840d8b505f80a05337383a1951e700f776f3365f,127.0.0.1:5553
+2020-03-13 00:47:20,#REvil,https://t.co/fQrSH9HJWE,775d73f49e2df69d90d5fbc98276c3074c523653f9388b759361890d80e97abf,"em-gmbh.ch,nvwoodwerks.com,rosavalamedahr.com,ncid.bc.ca,associationanalytics.com,grelot-home.com,xoabigail.com,hairstylesnow.site,mila"
 2020-03-12 23:02:19,#REvil,https://t.co/27jlRRHayM,6deb12e5e603aced358a341ff2f2267504ac9125c5a1fe05284b2e09d80e7422,"starsarecircular.org,sportsmassoren.com,blewback.com,shhealthlaw.com,enovos.de,tampaallen.com,ventti.com.ar,abogadosadomicilio.es,ameri"
 2020-03-12 22:20:19,PowerShell_Empire_Agent,https://t.co/2K7NfbqHgU,630b3046e3c4466d72bdb2b2e8ef8d49e35c91fc9db4b58af47a549ad01c2f45,172.27.103.166:80
 2020-03-12 22:10:19,PowerShell_Empire_Agent,https://t.co/EaRaKbxBll,046b2c36b3652e568e5515a4626a60b59b29fa414021035a8938ff123b9e0df6,172.27.103.166:80
