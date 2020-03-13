@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2020-03-13 13:47:19,#njRat,https://t.co/jojKL1ZyBA,1224f686adf9043272ed4546e55cf4ff17abba8d07cf6be27f6ac665b7e0afa7,ahmedali.linkpc.net:443
+2020-03-13 13:32:20,#Xtreme,https://t.co/EvAkTQ7GZ2,4cfeefd1ca5a4a0b91c90534adab69fc60649cd052c42ed8b258117754bfb361,"virus616.ddns.net:7722,"
+2020-03-13 13:02:19,#njRat,https://t.co/uDt4c1aRxD,7a1ed2074c6a4e94e03f0bb4bacb49db3ef24692ba4b3c138a4e63d14ad4f4d0,195.2.93.77:6522
+2020-03-13 12:00:20,PowerShell_Empire_Agent,https://t.co/kIxCORa4Kw,d6d0bc851faefa74f842bd3d874885de1f737b594f2e2199a116ff240c0d2b2c,https://77.72.131.69:443
+2020-03-13 11:30:18,PowerShell_Empire_Agent,https://t.co/ewxJdD7UTs,d6d0bc851faefa74f842bd3d874885de1f737b594f2e2199a116ff240c0d2b2c,https://77.72.131.69:443
+2020-03-13 10:02:18,#njRat,https://t.co/s6TTpQbtYK,ffc5da2ff3ce317947fe1325d280ea954cb4f0931a80fe6e0feeb038521ff4e3,155.94.159.114:5552
+2020-03-13 08:32:18,#Njratgold,https://t.co/Og13cXIqQz,a2bb938c9adbf68b0fe47d3e2c1618e30fbc65e220c5c7747c6ea6bdb2d0ee09,breka.duckdns.org:5552
+2020-03-13 06:02:18,#njRat,https://t.co/KtR6tjcZe6,8bd3d47f18523ff7a5f6735973c660e652fc10b92b455c9e206d10b2a2c3ecb7,khakiyoutube.hopto.org:5553
 2020-03-13 04:47:20,#CyberGate,https://t.co/aHTBM4fJpl,357ae8bdaa57334484b81fb2cd95930d5fd7a60f21c0de17553c67f5ac097707,"libertadores.duckdns.org:2000/,"
 2020-03-13 03:17:18,#njRat,https://t.co/og2EJWaocw,e254294e1124fe3c8bfdab94840d8b505f80a05337383a1951e700f776f3365f,127.0.0.1:5553
 2020-03-13 00:47:20,#REvil,https://t.co/fQrSH9HJWE,775d73f49e2df69d90d5fbc98276c3074c523653f9388b759361890d80e97abf,"em-gmbh.ch,nvwoodwerks.com,rosavalamedahr.com,ncid.bc.ca,associationanalytics.com,grelot-home.com,xoabigail.com,hairstylesnow.site,mila"
