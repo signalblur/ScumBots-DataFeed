@@ -1,4 +1,20 @@
 date_identified,implant_type,url,hash,c2
+2020-03-12 23:02:19,#REvil,https://t.co/27jlRRHayM,6deb12e5e603aced358a341ff2f2267504ac9125c5a1fe05284b2e09d80e7422,"starsarecircular.org,sportsmassoren.com,blewback.com,shhealthlaw.com,enovos.de,tampaallen.com,ventti.com.ar,abogadosadomicilio.es,ameri"
+2020-03-12 22:20:19,PowerShell_Empire_Agent,https://t.co/2K7NfbqHgU,630b3046e3c4466d72bdb2b2e8ef8d49e35c91fc9db4b58af47a549ad01c2f45,172.27.103.166:80
+2020-03-12 22:10:19,PowerShell_Empire_Agent,https://t.co/EaRaKbxBll,046b2c36b3652e568e5515a4626a60b59b29fa414021035a8938ff123b9e0df6,172.27.103.166:80
+2020-03-12 22:00:21,PowerShell_Empire_Agent,https://t.co/q6ta4EkzjX,046b2c36b3652e568e5515a4626a60b59b29fa414021035a8938ff123b9e0df6,172.27.103.166:80
+2020-03-12 20:20:18,PowerShell_Empire_Agent,https://t.co/Fzh78mYT3D,0cbdd4d6c56ee17b55251523e3491976b821e61a217e501f6dc3b06ba8b33dcf,217.182.54.208:5490
+2020-03-12 20:00:20,PowerShell_Empire_Agent,https://t.co/Mpzj7prBGm,adf26805a50f58ed658c588f6698072ff5f392ed3ee67b0d9714924d675ec332,172.27.103.166:8080
+2020-03-12 19:50:18,PowerShell_Empire_Agent,https://t.co/gJlqUMQlap,adf26805a50f58ed658c588f6698072ff5f392ed3ee67b0d9714924d675ec332,172.27.103.166:8080
+2020-03-12 19:40:20,PowerShell_Empire_Agent,https://t.co/GjCQbBh1T2,adf26805a50f58ed658c588f6698072ff5f392ed3ee67b0d9714924d675ec332,172.27.103.166:8080
+2020-03-12 19:32:18,#Njratgold,https://t.co/FYin5dcq2U,6b0f33bb810bfd8ca9ca50eb924fc207a30e89677cd2e98e7137dc30b0c71eae,breka.duckdns.org:5552
+2020-03-12 19:20:19,PowerShell_Empire_Agent,https://t.co/bHgVxDck0c,830c5f63943d26d6446b64d188e5d43934c28bea8f264e8eae17a4141f03d88c,172.27.103.166:80
+2020-03-12 19:00:19,PowerShell_Empire_Agent,https://t.co/YyVRSCqQrU,43554ceed38205dca985d0cfee5bbdd4675b9a086691d01dcc920e0ba246bbe4,172.27.103.166:8081
+2020-03-12 18:47:19,#njRat,https://t.co/86DrRiWifj,f71a9e0a76eb94369a42706bb36fa6a66b722049fe567b118d76c99761064ecf,inminetfud.sytes.net:1177
+2020-03-12 18:40:18,PowerShell_Empire_Agent,https://t.co/U9MWfkLjAr,2f5832c45835e2e0e495c06a42881f597dc1dabbd4d489ab3b416b4b92c0c605,172.27.103.166:8081
+2020-03-12 18:02:18,#njRat,https://t.co/GDPNFZDmup,b4e39383f52acb66962fa77ad8de72af20529f2c5a96ea181e494dc0df8b9451,turk3i.ddns.net:1008
+2020-03-12 17:47:35,#njRat,https://t.co/xum4uNBk4u,b1b661fec381628844d2e6ab3f5bf7d8d545b689500f083b3261095c55e37332,turk3i.ddns.net:1008
+2020-03-12 17:47:18,#njRat,https://t.co/lSYvHDvUza,b1b661fec381628844d2e6ab3f5bf7d8d545b689500f083b3261095c55e37332,turk3i.ddns.net:1008
 2020-03-12 15:47:23,#REvil,https://t.co/vOs0K7vZWC,dcd68b47c9f98cde982318d889dbfdaadec966651f957410075bb8b413a811fa,"madinblack.com,mirkoreisser.de,jobmap.at,nakupunafoundation.org,tenacitytenfold.com,mylolis.com,mercantedifiori.com,roygolden.com,digivod"
 2020-03-12 14:38:10,#REvil,https://t.co/GcZ1luaATg,f4f27a8d8607db742cdc40a1bffe2384f2a3bdeaa4f10c86d0e339f746a00036,"onlybacklink.com,ulyssemarketing.com,blood-sports.net,vannesteconstruct.be,parkcf.nl,maxadams.london,theshungiteexperience.com.au,narcert"
 2020-03-12 14:32:19,#REvil,https://t.co/BSRFDPNA9X,75abf869cc4ac52539fc264b1e7389bc1a7e38259131c87188ceba0067a47d93,"panelsandwichmadrid.es,answerstest.ru,danubecloud.com,lmtprovisions.com,richard-felix.co.uk,cactusthebrand.com,pomodori-pizzeria.de,small"
