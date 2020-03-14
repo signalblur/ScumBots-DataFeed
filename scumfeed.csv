@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-03-14 09:50:19,PowerShell_Empire_Agent,https://t.co/JNn9Je7Ot5,262529bf4cb10605650eb3754a7660d7594dec10c268fe10226a494dcda62a06,bankingadvice.net:80
+2020-03-14 09:40:19,PowerShell_Empire_Agent,https://t.co/ykYkBQYkmW,76b5ac7aa73410d4256c1a8744ad618f297e8d0de126064738c414d674159bc6,emp.fourhorsemen.tech:8080
 2020-03-14 03:02:18,#njRat,https://t.co/j7IEq9Jd8L,b84de0e74fbc2a22849fd59942c050a2d55a0a6886aef46629074c1cc5b42fcd,127.0.0.1:11891
 2020-03-14 02:47:18,#njRat,https://t.co/wB0DWjzxma,dbfb2fb740f0e4b05acc6074c798e65a6aa5ff8c9a8b7bed8f640aa1cd4153c7,senaoqueimarhumild.ddns.net:1177
 2020-03-14 02:32:19,#njRat,https://t.co/XQtlpyTYY9,ac937327e25a96c0b3c79dfe0e8467444c87691910e0d90d89c81c9f830b0b02,senaoqueimarhumild.ddns.net:1177
