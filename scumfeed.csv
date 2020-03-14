@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-03-14 17:02:35,#njRat,https://t.co/NCsKTlM491,b84de0e74fbc2a22849fd59942c050a2d55a0a6886aef46629074c1cc5b42fcd,127.0.0.1:11891
+2020-03-14 17:02:18,#njRat,https://t.co/7Fw5fhEmnd,b84de0e74fbc2a22849fd59942c050a2d55a0a6886aef46629074c1cc5b42fcd,127.0.0.1:11891
+2020-03-14 16:47:19,#njRat,https://t.co/m1BMG7vPzS,a42ec09d5fcab03929ce3d0240cbc14f104c357c930fb2843521071df4827366,mammoth01.ddns.net:45600
+2020-03-14 16:32:18,#Revenge,https://t.co/01BAvn1gyL,8eee7183404a9161fbabb05cb5b295649d79e911f1dea7b2abc3929a4d3dd80d,"127.0.0.1:1177,,"
+2020-03-14 16:17:18,#njRat,https://t.co/8bTCNe4NbU,02df79a95ca91898b809871d3e9efa617146cadd6fb57a97056fb9b6622f62f4,127.0.0.1:9090
+2020-03-14 15:02:18,#njRat,https://t.co/WRjUtRziSt,c96d7a2be148621094eb933be12d8c2bda0ae6f8f7c51dcbeca6ccd2b78ad4c7,192.168.79.1:5656
 2020-03-14 09:50:19,PowerShell_Empire_Agent,https://t.co/JNn9Je7Ot5,262529bf4cb10605650eb3754a7660d7594dec10c268fe10226a494dcda62a06,bankingadvice.net:80
 2020-03-14 09:40:19,PowerShell_Empire_Agent,https://t.co/ykYkBQYkmW,76b5ac7aa73410d4256c1a8744ad618f297e8d0de126064738c414d674159bc6,emp.fourhorsemen.tech:8080
 2020-03-14 03:02:18,#njRat,https://t.co/j7IEq9Jd8L,b84de0e74fbc2a22849fd59942c050a2d55a0a6886aef46629074c1cc5b42fcd,127.0.0.1:11891
