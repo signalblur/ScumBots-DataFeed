@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-03-13 23:45:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/BUEDPnV9aD,16565819eaa4673f5fc2c5897768a9c57a3d80181dc27f1196e8cef3e3613717,68.202.129.4:444
+2020-03-13 22:17:19,#njRat,https://t.co/ZZQxlSGcwd,46a7dd461b7a8c85805be2427ebe758d540ab04ac5a64f77694b9db4fdff5d50,151.177.65.46:5553
+2020-03-13 20:35:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/mo3TiQvg6c,41ccbf344b36a9e803a35bde11cab83f323ba821a075926f9513063faf6ef48d,68.202.129.2:444
 2020-03-13 13:47:19,#njRat,https://t.co/jojKL1ZyBA,1224f686adf9043272ed4546e55cf4ff17abba8d07cf6be27f6ac665b7e0afa7,ahmedali.linkpc.net:443
 2020-03-13 13:32:20,#Xtreme,https://t.co/EvAkTQ7GZ2,4cfeefd1ca5a4a0b91c90534adab69fc60649cd052c42ed8b258117754bfb361,"virus616.ddns.net:7722,"
 2020-03-13 13:02:19,#njRat,https://t.co/uDt4c1aRxD,7a1ed2074c6a4e94e03f0bb4bacb49db3ef24692ba4b3c138a4e63d14ad4f4d0,195.2.93.77:6522
