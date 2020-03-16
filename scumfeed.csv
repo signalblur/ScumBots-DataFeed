@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-03-16 10:55:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/44nAcdGlqw,7cfe4e7b39a7c9d51ce91f76599f798630f7c27dd5b674c249548c0dd6ee1e75,23.227.207.190
+2020-03-16 07:55:22,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/Vj5nu9TiLv,77cd87c4a2a6fee7218d85b24c7c3fb8f4318c42ba0513540de548819f3b0312,185.162.235.101
+2020-03-16 07:32:21,#REvil,https://t.co/03vA0FlsRv,3510959b6d7b6090f1fe8b18775d9d18b44ed01e2676d185ba55887d5559d80e,"dekkinngay.com,kao.at,apolomarcas.com,koko-nora.dk,DupontSellsHomes.com,milsing.hr,aurum-juweliere.de,chaotrang.com,falcou.fr,calxplus"
+2020-03-16 07:17:20,#njRat,https://t.co/ukYf9r2BIE,54e8e80ccea30e0e8e884cf4b73d2451f83ce74512f9e41eacbd12ff1097df34,127.0.0.1:7711
+2020-03-16 07:02:18,#njRat,https://t.co/JD4R5zMATz,54e8e80ccea30e0e8e884cf4b73d2451f83ce74512f9e41eacbd12ff1097df34,127.0.0.1:7711
 2020-03-16 03:02:18,#njRat,https://t.co/JiEa1TlV1f,7a8ef2bd1c4b9d15c7f174544a01feb7709164a23e748f9a0f769774243648e7,193.161.193.99:39116
 2020-03-15 21:17:19,#njRat,https://t.co/CV44sPpVzN,528a4096915bcf08fabc83acbeb0c39615762316706fee5ba19b1a14bb9df3f5,alougt84.hopto.org:5552
 2020-03-15 19:17:19,#REvil,https://t.co/Nsylxiw1ti,322cce1c297277e5c19c9396cf58e55b358eab928880f5b1619099842a4568cd,"zflas.com,jvanvlietdichter.nl,karacaoglu.nl,exenberger.at,littlebird.salon,miraclediet.fun,kmbshipping.co.uk,turkcaparbariatrics.com,bu"
