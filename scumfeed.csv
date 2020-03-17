@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2020-03-17 05:32:19,#njRat,https://t.co/APGYuF5hQl,fd8255a1dca219da4d66c0bb5b70fb732501807de13a1e2f07f4baee039a391e,yj233.in.3322.org:37762
+2020-03-17 05:17:55,#njRat,https://t.co/50iUK02OPv,b14311ccdbcdcc5ec2345e784989a2f2b1ce0f96410a05bb19dc03b4f7b85544,yj233.in.3322.org:37762
+2020-03-17 05:17:38,#njRat,https://t.co/HXrlgOuJRw,957fb8a83836c7891ef2a513d354439776e51c027b908193c9c7df269e42a7a9,127.0.0.1:5552
+2020-03-17 05:17:20,#njRat,https://t.co/EPiwXUcaE9,bfb489d80a74cd5b1763c8752f97c45b4856dd09ed6b1c2ec502a197ce137c83,yj233.in.3322.org:37762
+2020-03-17 04:55:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/Mrcxw5MnnQ,22db031cf8eed1a4b301074f1d53b006b2bc29d61e40a0e699c352a18f7c06f6,LostSec.duckdns.org
+2020-03-17 03:25:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/EmutbhUSau,334ea839b414e305572f940ecf653553f439bf35b0523f4599e03eca2f5bab02,193.56.28.65
+2020-03-17 03:02:19,#REvil,https://t.co/awpVOUETEl,c5fb7187fb4eeb1ab4d725febec0c79ec45ae67498fbc2007b00e0cae11c8a02,"rhinosfootballacademy.com,miraclediet.fun,parebrise-tla.fr,pinkexcel.com,strategicstatements.com,lubetkinmediacompanies.com,campusoutreach."
+2020-03-17 02:35:10,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/erLk10UA7e,670891f0baa92e043300a689428933c174e670a20f1cbc33814d8df5606861ed,0.tcp.ngrok.io
+2020-03-17 02:21:50,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/ZA1OWTUxR3,866a50c82e0e51631f26ac436b3397fc72c5d35bb2b9f796627613d81b2d0632,0.tcp.ngrok.io
 2020-03-16 21:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/9aB0f1hCC1,b69222b0f67aa7f8f89894d035dc19cdbd2a408be53466fe5e9c88f8c570776f,cloud.falconoasisdubai.com
 2020-03-16 21:25:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/hbbd6tmlde,33dd6bf7706d8e949723aa98989e069993a704e2bdab901982778c3c4bac2f9b,193.56.28.65
 2020-03-16 20:55:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/qYaNJ7A0lq,3aef375785471a1db0614e8ef2c1e88462034728744e8f3785d1df89efcd2c05,192.168.0.30
