@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-03-17 08:40:19,PowerShell_Empire_Agent,https://t.co/DCKw9QpyQv,0ae848ec430011fff5c5f6d8b217ab7b3ce91eb0028fcd3278290d6f98f441bc,https://dancing-pear.co.uk:443
+2020-03-17 08:30:19,PowerShell_Empire_Agent,https://t.co/uy9rBE0buu,cc09c5c336d4bed160f3729308cc4092d8ff0b78d2699727ba9e268769ee2ded,https://83.171.237.192/:443
+2020-03-17 08:20:19,PowerShell_Empire_Agent,https://t.co/cSdddzKd90,7e9e5291eb7a73daeaf884a851ac080791ed15b7bd0d84f6477e365bcd25aa5f,https://185.189.183.47:443
+2020-03-17 07:17:20,#REvil,https://t.co/RDTUu29hqC,4287468817a885cd5b2c0b4c4d154b3cac7c4fa9b584b28deae27a8027c947d0,"appsformacpc.com,filmstreamingvfcomplet.be,pomodori-pizzeria.de,zonamovie21.net,dezatec.es,dekkinngay.com,zso-mannheim.de,simulatebrain.c"
+2020-03-17 07:02:22,#njRat,https://t.co/9dS6jEFLrV,9f7e36217000449754932b83113336d822e8f76efdb3511e6d3fe14fce2f8612,yj233.in.3322.org:37762
 2020-03-17 05:32:19,#njRat,https://t.co/APGYuF5hQl,fd8255a1dca219da4d66c0bb5b70fb732501807de13a1e2f07f4baee039a391e,yj233.in.3322.org:37762
 2020-03-17 05:17:55,#njRat,https://t.co/50iUK02OPv,b14311ccdbcdcc5ec2345e784989a2f2b1ce0f96410a05bb19dc03b4f7b85544,yj233.in.3322.org:37762
 2020-03-17 05:17:38,#njRat,https://t.co/HXrlgOuJRw,957fb8a83836c7891ef2a513d354439776e51c027b908193c9c7df269e42a7a9,127.0.0.1:5552
