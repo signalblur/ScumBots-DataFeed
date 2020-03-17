@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-03-16 21:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/9aB0f1hCC1,b69222b0f67aa7f8f89894d035dc19cdbd2a408be53466fe5e9c88f8c570776f,cloud.falconoasisdubai.com
+2020-03-16 21:25:18,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/hbbd6tmlde,33dd6bf7706d8e949723aa98989e069993a704e2bdab901982778c3c4bac2f9b,193.56.28.65
+2020-03-16 20:55:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/qYaNJ7A0lq,3aef375785471a1db0614e8ef2c1e88462034728744e8f3785d1df89efcd2c05,192.168.0.30
+2020-03-16 20:47:19,#njRat,https://t.co/65RLOV0mLv,a9eedc424a2587751102ebf6d22beef88f0f2ac697678e2c694500cbffc81e6a,mjnoon.freedynamicdns.org:1056
+2020-03-16 20:19:11,#njRat,https://t.co/oWy8uHtBLc,5e9af0f1d804858606dfdd46c7f8c0c85aa36ee7b8af4aab25c90ae971a2b0c4,mjnoon.freedynamicdns.org:1056
+2020-03-16 18:47:18,#njRat,https://t.co/J3XOEmXbiY,9fc7649eec8fc91ad58d27badae903fce1dff83804a830b3606db194c232d653,192.168.1.10:1177
 2020-03-16 15:32:22,RAT,https://t.co/2sJDBOSbaC,4b5142ffccc35bae942628832aa0a4786eb973b5d62bee39ec7b36a1d788efc8,"192.168.42.221:2404:pass,"
 2020-03-16 14:47:19,#njRat,https://t.co/Udrxk37udo,c5d7176d2929750e2c3706f1cf41a356e7bf132ca4fcd994796e9f913b0a2fa3,mjnoon.freedynamicdns.org:6190
 2020-03-16 14:17:19,#njRat,https://t.co/Lv66Xc1VLT,c5d7176d2929750e2c3706f1cf41a356e7bf132ca4fcd994796e9f913b0a2fa3,mjnoon.freedynamicdns.org:6190
