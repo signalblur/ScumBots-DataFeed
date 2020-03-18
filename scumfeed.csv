@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-03-18 08:17:35,#njRat,https://t.co/1eRnvUgOfl,af21243da675a515c8e2ca9d00b5628c1201125b1a29d46a9df0cb0b63769942,"47.100.84.12:55656,"
+2020-03-18 08:17:18,#njRat,https://t.co/qHRTQsKfwq,90bcf814ca9e14d7bc710495b666ff1be96c7cd02387935d8a4a477d5e56c916,47.100.84.12:55656
+2020-03-18 06:47:19,#njRat,https://t.co/qsMeTmIbPQ,90bcf814ca9e14d7bc710495b666ff1be96c7cd02387935d8a4a477d5e56c916,47.100.84.12:55656
 2020-03-18 02:02:18,#njRat,https://t.co/ZkUy6PvjU1,b748c37f14082e151acc4c6677f19cdcd2cd26b6a8c7d6e768a090e8aecbb698,senaoqueimarhumild.ddns.net:1177
 2020-03-18 01:32:19,#njRat,https://t.co/JJ3zcAKmEx,dca1d9c848c823c2a06e7e4108c0b89c91b4f08a0909c91e537a060eba25b788,senaoqueimarhumild.ddns.net:1177
 2020-03-17 23:00:21,PowerShell_Empire_Agent,https://t.co/cvcvZ1Ychd,ac2110054c4871f9f009ba12e225adf53d4d895a485370b16c16d0835cc27875,192.168.2.107:80
