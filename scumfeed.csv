@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2020-03-18 22:45:20,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/6mxBthFcKb,ef6629fae9f0174a0c20fb8ccde834f8bff4728133fbfc5a102f407bcca412b6,198.199.121.144
+2020-03-18 21:47:35,#njRat,https://t.co/yxwraAjMyp,51aed8db193794512a9d60736c06a19890c3e12ff3b0b22ae77832169723debf,185.140.53.18:1177
+2020-03-18 21:47:18,#njRat,https://t.co/VVZ7du9bVd,51aed8db193794512a9d60736c06a19890c3e12ff3b0b22ae77832169723debf,185.140.53.18:1177
+2020-03-18 21:32:18,#atraps,https://t.co/jGpFKA7S5Q,6b5bceabbd58a0acbed0fb3fd212a75a080672bcc8855ef537f4d6749ece5406,185.140.53.18:
+2020-03-18 21:02:18,#njRat,https://t.co/Ik187STY6a,51aed8db193794512a9d60736c06a19890c3e12ff3b0b22ae77832169723debf,185.140.53.18:1177
+2020-03-18 20:47:19,#njRat,https://t.co/oGGRMZYqjE,2d70b7486dc1c1f46ae9005d9ad73b7893341c1d2d54865ebd47d80d47599564,192.168.1.2:5552
+2020-03-18 20:20:19,PowerShell_Empire_Agent,https://t.co/iFrZvsupqf,1439272b2df2bfcfeefffe1c89b6f94ae209038675a1b1e4133641e3f1de8b62,https://whitebunny.easyshell.io:443
+2020-03-18 18:50:19,PowerShell_Empire_Agent,https://t.co/Gw3cLPgNZm,602e17d3aada73b0be2bd791237b3bc4340980d9e14b53dbf6d437e69738afb1,103.102.44.83:443
+2020-03-18 18:32:19,#njRat,https://t.co/Ic1e6Y3Ao6,9331d92038a7c3ee89dbdb00d6334250f3e6913f01d393503a69d8b7f2fe4c5b,bsbbsb1.hopto.org:2000
+2020-03-18 18:17:22,#njRat,https://t.co/CJQiKwmH4L,3cc08d6f49d5bd5acf8bbd1f308acbc1b05111694f303a8f2852ac4ca1d98ca4,jungbin246.kro.kr:5552
 2020-03-18 17:17:35,#njRat,https://t.co/SWcoDAQBF5,51aed8db193794512a9d60736c06a19890c3e12ff3b0b22ae77832169723debf,185.140.53.18:1177
 2020-03-18 17:17:18,#njRat,https://t.co/PuqPXtpGsw,51aed8db193794512a9d60736c06a19890c3e12ff3b0b22ae77832169723debf,185.140.53.18:1177
 2020-03-18 14:02:19,#REvil,https://t.co/pBd23qKkZ8,ebac68b0e4bc51398de1bc867085737ee2981b6f7dc35a1cac6cf2912d877394,"sla-paris.com,latestmodsapks.com,geekwork.pl,ivivo.es,marcuswhitten.site,bunburyfreightservices.com.au,zervicethai.co.th,littlebird.s"
