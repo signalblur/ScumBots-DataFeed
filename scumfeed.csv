@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-03-19 11:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/GNuX2ikLNQ,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
+2020-03-19 11:02:20,#njRat,https://t.co/RkApb9UiDT,e681fbd948ab6503d19090835ce913913a986ecf996cf15fe6ea585ab67805f2,127.0.0.1:1177
+2020-03-19 10:17:18,#njRat,https://t.co/FB9mv8wFgf,eabfd9aa82fbbae8a680b423c72db8bde45f44518a7c196e9194322a6b749a36,salimdz899.ddns.net:27212
+2020-03-19 08:25:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/bIN0t9709u,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
+2020-03-19 06:02:20,#REvil,https://t.co/mF7FsX560k,ad0e0396572e30f66fd2fd68ac8e0baf6bcafa362846513bdd310875b9da38ed,"zweerscreatives.nl,mindpackstudios.com,maxadams.london,ivivo.es,run4study.com,pinkexcel.com,importardechina.info,jandaonline.com,schmalho"
+2020-03-19 01:02:19,#Lime-RAT,https://t.co/UeLKzSxvW6,843097123a40e1442b2f08ce9c77ebc909a3e77e1ea3b6f21981a579ab2ea9be,https://pastebin.com/raw/a8zmXirE
+2020-03-19 00:02:19,#njRat,https://t.co/TfFufxgUMS,a128bdfd9ccc0737d7fe955d49c44d17cfb119a832178aef3df23af772a2c04e,senaoqueimarhumild.ddns.net:1177
 2020-03-18 22:45:20,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/6mxBthFcKb,ef6629fae9f0174a0c20fb8ccde834f8bff4728133fbfc5a102f407bcca412b6,198.199.121.144
 2020-03-18 21:47:35,#njRat,https://t.co/yxwraAjMyp,51aed8db193794512a9d60736c06a19890c3e12ff3b0b22ae77832169723debf,185.140.53.18:1177
 2020-03-18 21:47:18,#njRat,https://t.co/VVZ7du9bVd,51aed8db193794512a9d60736c06a19890c3e12ff3b0b22ae77832169723debf,185.140.53.18:1177
