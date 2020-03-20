@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-03-20 04:02:18,#njRat,https://t.co/VHyEGNBbNu,7f97be8301784fd1ba14bad9dd9c7c9b5607b00b2cd72efe16015562d81f552f,192.168.1.103:5555
+2020-03-20 02:47:19,#REvil,https://t.co/5OEhS7bqSq,e80810241a2c6991cd3cfc807a62c1392eeed146fc60cb30326a8e3bc6bc284e,"rosavalamedahr.com,levihotelspa.fi,journeybacktolife.com,faronics.com,edgewoodestates.org,no-plans.com,tampaallen.com,kath-kirche-gera.de"
 2020-03-19 23:32:19,#njRat,https://t.co/5ibS8EynQG,a88ca68d03d5dbe1a74b47081c51c379506d366f3b43b6ca16d484bc1a30adfc,192.168.0.100:5552
 2020-03-19 23:17:19,#njRat,https://t.co/CUftFDsY6o,91a805d0952e5df10429b84fd22de4b2789adb86e3fdbe8456526d530d4024c7,fidapeste.ddnsfree.com:5552
 2020-03-19 20:21:38,#Njratgold,https://t.co/veh2CwxxXR,28f39e656758b6c40db049e40bbfe958a7a20a754ea6531ccca3e4fdb8dcc66a,mehmetcomet.duckdns.org:81
