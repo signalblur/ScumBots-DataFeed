@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2020-03-20 11:45:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/KLfFv8NPwW,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
+2020-03-20 11:35:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/FmCbR30Ra9,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
+2020-03-20 11:25:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/W0GNXN2r0M,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
+2020-03-20 10:47:18,#njRat,https://t.co/QN8463YbD9,e1b025c286894a3b4745118fbc8c97f224121ca150bffb93031bb268ed5aed5a,ratvictims3.ddns.net:5685
+2020-03-20 10:35:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/bRLKAPkz9j,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
+2020-03-20 10:25:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/4lLIBKKuC5,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
+2020-03-20 10:15:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/FeODr8gzam,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
+2020-03-20 10:02:18,#njRat,https://t.co/7HvmNFmPJL,b468c36a35c22ab67f379b5243c748b7cceef51b763bbe6af9bde64790765fea,ratvictims3.ddns.net:5685
+2020-03-20 09:15:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/hh9ZWpFsNN,52640e7edecf222b05b76ddde802bd9624b0799da4f692a76d83bd61bccf7e2f,192.168.1.218:8080
 2020-03-20 04:02:18,#njRat,https://t.co/VHyEGNBbNu,7f97be8301784fd1ba14bad9dd9c7c9b5607b00b2cd72efe16015562d81f552f,192.168.1.103:5555
 2020-03-20 02:47:19,#REvil,https://t.co/5OEhS7bqSq,e80810241a2c6991cd3cfc807a62c1392eeed146fc60cb30326a8e3bc6bc284e,"rosavalamedahr.com,levihotelspa.fi,journeybacktolife.com,faronics.com,edgewoodestates.org,no-plans.com,tampaallen.com,kath-kirche-gera.de"
 2020-03-19 23:32:19,#njRat,https://t.co/5ibS8EynQG,a88ca68d03d5dbe1a74b47081c51c379506d366f3b43b6ca16d484bc1a30adfc,192.168.0.100:5552
