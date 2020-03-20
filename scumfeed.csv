@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2020-03-20 17:20:19,PowerShell_Empire_Agent,https://t.co/rXQD7zdCd1,67f87a95076fab2a63dbdc8c7c60bf4aa6ebc9f32ea984c8ac4be7f2722a0fb3,show1.website/iPYOy.dat
+2020-03-20 16:32:19,#njRat,https://t.co/fpLcdbnXJ7,7a9b9657110f8455fedeaa0ce6c698e835761da211bd4b15742cbf0a30257095,sandboxupdate.myq-see.com:2002
+2020-03-20 16:30:19,PoshC2,https://t.co/u1Ju2pTeDP,832f301a74c9bb4713d692839f652f12c43ca522ad5d9636503e4c5fff795bde,https://themailstar.com:443
+2020-03-20 15:55:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/x0hKY5I0xS,86cd3dbc81448334b02f85c6b8e7abdf2e683b89a15e64b6b3c1b01a07520c4b,78.98.10.243:6969
+2020-03-20 15:17:18,#njRat,https://t.co/8di4ptZMsh,f2bf1718437a2cba753a9e9f5da1bf516908e8787de68298104ec6cba566bcf4,127.0.0.1:1177
+2020-03-20 15:15:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/8oDsRtTKT2,491dbba10e43fa66b04d409ff2e411b0f975dc2bed9d140a90c7c27f6a25c0a3,185.236.232.102
+2020-03-20 12:32:18,#njRat,https://t.co/VJ7CGWo4J0,2a7afb37c694f8f2c9685d6ea104e5511ffeb93f49b171404d680bd749392587,indiananonymous.duckdns.org:37207
+2020-03-20 12:05:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/z6yrfPy6Gq,6c8d46ab862e3980604af2f5f5a7abf0ee3b9c073f4bca70249e380127d8d9a6,79.141.171.247
 2020-03-20 11:45:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/KLfFv8NPwW,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
 2020-03-20 11:35:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/FmCbR30Ra9,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
 2020-03-20 11:25:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/W0GNXN2r0M,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
