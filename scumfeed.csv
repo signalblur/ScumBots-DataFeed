@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-03-21 02:32:18,#njRat,https://t.co/HoEY4rHoCF,f3d2e90cf39bc468f910118b7debc98e7bfe0bf6bd1cdacaf3c514454920dad1,iptvsmarters.duckdns.org:5552
 2020-03-20 22:02:19,#njRat,https://t.co/v5mustBFZE,08c0375aa494984e77ec6a082f10b27cf45f7ca08ad1bf2c4c7d4119d41a88af,mjnoon.freedynamicdns.org:6190
 2020-03-20 20:05:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/3nw1M3qrvX,517367b0499eae56ee7066a8cf9dfa0c36834de3621379f97e7fa27a3dde9ad7,172.16.139.137:4444
 2020-03-20 17:20:19,PowerShell_Empire_Agent,https://t.co/rXQD7zdCd1,67f87a95076fab2a63dbdc8c7c60bf4aa6ebc9f32ea984c8ac4be7f2722a0fb3,show1.website/iPYOy.dat
