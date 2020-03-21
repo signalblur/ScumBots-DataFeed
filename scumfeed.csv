@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-03-20 22:02:19,#njRat,https://t.co/v5mustBFZE,08c0375aa494984e77ec6a082f10b27cf45f7ca08ad1bf2c4c7d4119d41a88af,mjnoon.freedynamicdns.org:6190
+2020-03-20 20:05:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/3nw1M3qrvX,517367b0499eae56ee7066a8cf9dfa0c36834de3621379f97e7fa27a3dde9ad7,172.16.139.137:4444
 2020-03-20 17:20:19,PowerShell_Empire_Agent,https://t.co/rXQD7zdCd1,67f87a95076fab2a63dbdc8c7c60bf4aa6ebc9f32ea984c8ac4be7f2722a0fb3,show1.website/iPYOy.dat
 2020-03-20 16:32:19,#njRat,https://t.co/fpLcdbnXJ7,7a9b9657110f8455fedeaa0ce6c698e835761da211bd4b15742cbf0a30257095,sandboxupdate.myq-see.com:2002
 2020-03-20 16:30:19,PoshC2,https://t.co/u1Ju2pTeDP,832f301a74c9bb4713d692839f652f12c43ca522ad5d9636503e4c5fff795bde,https://themailstar.com:443
