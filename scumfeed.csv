@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-03-21 11:45:35,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/cmJ15g8Jok,5b8bee85f23293e36ae211251ccd0880748913b1df86b7b5921c8515f6b8cc7a,193.161.193.99:48650
+2020-03-21 11:45:18,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/g80UhJLrP0,a02e34dc7a8f232ca1688c4efa856ecc320c26e1c59e5be55bc6bfb45c042f25,193.161.193.99:48650
 2020-03-21 02:32:18,#njRat,https://t.co/HoEY4rHoCF,f3d2e90cf39bc468f910118b7debc98e7bfe0bf6bd1cdacaf3c514454920dad1,iptvsmarters.duckdns.org:5552
 2020-03-20 22:02:19,#njRat,https://t.co/v5mustBFZE,08c0375aa494984e77ec6a082f10b27cf45f7ca08ad1bf2c4c7d4119d41a88af,mjnoon.freedynamicdns.org:6190
 2020-03-20 20:05:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/3nw1M3qrvX,517367b0499eae56ee7066a8cf9dfa0c36834de3621379f97e7fa27a3dde9ad7,172.16.139.137:4444
