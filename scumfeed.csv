@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-03-21 16:47:18,#njRat,https://t.co/5FuKXakGEO,f51f4785bab3bd4c19f7173c16987efb98bd92df68ac9f8be792a398dc89b303,winddns.publicvm.com:1177
+2020-03-21 16:45:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/CSloyfXrvg,f0c08b0921c7b95af50d76798de3a482ef049b7e71daa7a14f1bd5e1a9804cd4,192.168.175.128:443
+2020-03-21 16:32:19,#REvil,https://t.co/r4tezXsvdB,a7135d77497a2d4335a765879ca84a7dbf20c7dd773237c0f2f3462ffed5593c,"argenblogs.com.ar,centrospgolega.com,vannesteconstruct.be,caribbeansunpoker.com,ai-spt.jp,lynsayshepherd.co.uk,delawarecorporatelaw.com"
 2020-03-21 11:45:35,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/cmJ15g8Jok,5b8bee85f23293e36ae211251ccd0880748913b1df86b7b5921c8515f6b8cc7a,193.161.193.99:48650
 2020-03-21 11:45:18,PowerShell_Meterpreter_Reverse_TCP_x64,https://t.co/g80UhJLrP0,a02e34dc7a8f232ca1688c4efa856ecc320c26e1c59e5be55bc6bfb45c042f25,193.161.193.99:48650
 2020-03-21 02:32:18,#njRat,https://t.co/HoEY4rHoCF,f3d2e90cf39bc468f910118b7debc98e7bfe0bf6bd1cdacaf3c514454920dad1,iptvsmarters.duckdns.org:5552
