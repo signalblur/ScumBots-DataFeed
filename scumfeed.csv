@@ -1,4 +1,20 @@
 date_identified,implant_type,url,hash,c2
+2020-03-22 03:47:19,#REvil,https://t.co/Nm4VjddwKc,7ade5ae7a2bf4ed3dfb81f1c6fe26ea7986a403675504dc3661a949799a7561a,"edrcreditservices.nl,ogdenvision.com,berlin-bamboo-bikes.org,healthyyworkout.com,romeguidedvisit.com,friendsandbrgrs.com,financescorecard.c"
+2020-03-22 03:02:19,#Revenge,https://t.co/kUpX45ZSGL,dcccd5e29b6209cec0a993bfa4e23c5635bf2edecf3cc3102b12ae1771e33eda,"101.98.203.110:6969,,"
+2020-03-22 02:57:32,#njRat,https://t.co/gZRP1C0tLo,419775fb7224ff0db7154210469b2d948a40bb785de169f572c62b7de381bfb9,127.0.0.1:1177
+2020-03-22 02:57:15,#njRat,https://t.co/rrELpy4Uwx,ec9048489530268d4750c5b97c456aeb17a2a8b6598640bbc452bfe275d1b0f3,127.0.0.1:1177
+2020-03-22 02:56:58,#njRat,https://t.co/r4WdL5AO9c,c0ad1d802436c41b102b0b4756897b5d8431fe2ad7e80cf1343ddf6cf4198014,127.0.0.1:1177
+2020-03-22 02:56:42,#njRat,https://t.co/Bc3XUDGnYD,4533ca9231e2264d64006be3c103ecc1582cc0bb3ea600ba4e6a9f1e1b013af0,127.0.0.1:1177
+2020-03-22 02:56:26,#njRat,https://t.co/MntKI2Q0ps,496d17103717ab06bebd0951a531d8de92fb85749037992bb8b3299c340895c8,127.0.0.1:1177
+2020-03-22 02:56:09,#njRat,https://t.co/YQjmbB0lZV,1dfe1f94eeaafd40b651c5fe15c0f880548113cb824175335efaa9579b796401,127.0.0.1:1177
+2020-03-22 02:55:52,#njRat,https://t.co/ewf0hY3bp9,c0ad1d802436c41b102b0b4756897b5d8431fe2ad7e80cf1343ddf6cf4198014,127.0.0.1:1177
+2020-03-22 02:55:34,#njRat,https://t.co/neApzNxooN,f6232c2b2b5d56f149c23341b4d67d4998cc714f15a7a8c399999d4e2475c8cc,127.0.0.1:1177
+2020-03-22 02:55:17,#njRat,https://t.co/oQ8wdOaUFl,f6f5ad25fbbabf085b1d62d0f0e27a86d5f3838bd90ae3ea6d752883040461e2,127.0.0.1:1177
+2020-03-22 02:48:09,#njRat,https://t.co/OEjbpOv5gO,2549dbf034811ce79416980b61d044eb8201310b48b4256c905c235477a3a72c,127.0.0.1:1177
+2020-03-22 02:47:52,#njRat,https://t.co/s1EKdBs33a,d441b6a99dda9280620575784f7c67ab9c1f2fcdbb6377e7a5306f281bc9622a,127.0.0.1:1177
+2020-03-22 02:47:35,#njRat,https://t.co/U1KHJHlaPK,419775fb7224ff0db7154210469b2d948a40bb785de169f572c62b7de381bfb9,127.0.0.1:1177
+2020-03-22 02:47:19,#njRat,https://t.co/g58cLoZMoo,852db47eaf5ee3ac3fc01bbb6c6a8c9d3e8af09f1a77392e11acba786e5be95e,127.0.0.1:1177
+2020-03-22 00:47:18,#njRat,https://t.co/t1rjjjL3Tp,1c34fdf2e2c4214d8dc6bc9bf4ced6aa7567ffc4c8b6eccf0867becdd64dce2e,ri0710.ddns.net:1002
 2020-03-21 18:30:05,#njRat,https://t.co/6mbL64MSNI,f51f4785bab3bd4c19f7173c16987efb98bd92df68ac9f8be792a398dc89b303,winddns.publicvm.com:1177
 2020-03-21 18:05:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/kaRAU0jyYg,54e48b0a64a2e3b36573b1da991e210ff20014b72c0ad82249f1dd4cf0f038b3,148.72.153.86
 2020-03-21 16:47:18,#njRat,https://t.co/5FuKXakGEO,f51f4785bab3bd4c19f7173c16987efb98bd92df68ac9f8be792a398dc89b303,winddns.publicvm.com:1177
