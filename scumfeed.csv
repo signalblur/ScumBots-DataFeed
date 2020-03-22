@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-03-22 16:02:23,RAT,https://t.co/tGg4azKnDM,753883fa972dda966abb3adad3cfc94f0a82ca128d1908df58bac3ba93e60bd3,"nocpnv.ddns.net:132:,"
+2020-03-22 14:02:18,#Revenge,https://t.co/yFdHUDFp7c,299af7f15d174ff027a719a08a4fde2d269a5b90e2c2a41eea5fb7769d4b7f5e,"127.0.0.1:333,,"
+2020-03-22 13:32:19,#njRat,https://t.co/RPfcYw1ER0,16b5f5c1485e51d8e8863888c371318d1a0dec90d53d9d86850526d1d5b95f97,127.0.0.1:1177
 2020-03-22 11:02:19,#njRat,https://t.co/1F0hnSzwY3,8d6df0891aa85081a4aa80a1493de8e24a65837be32b026ab83b01abdc48b88e,127.0.0.1:1111
 2020-03-22 10:47:19,#njRat,https://t.co/KzHBpoqieQ,e279fa81b8e6da9e457d814243f4c8ddd837d70e4ec96b7e0ad48bab7a677bf2,172.20.10.3:5552
 2020-03-22 07:17:19,#REvil,https://t.co/3pY3TJMEyq,f3f30bb665aa7b3fc7e52d02a26122c415b518f9f00066304e7d3d65e66a6e3c,"longislandelderlaw.com,hotelsolbh.com.br,parks-nuernberg.de,naturavetal.hr,foretprivee.ca,coding-marking.com,rocketccw.com,joseconstela."
