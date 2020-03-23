@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-03-23 04:47:18,#njRat,https://t.co/uaUzQ4aEMh,1165799c06d72ba108a21910d59bdda2662a3d7e948b76803c922bf95e387291,127.0.0.1:5552
+2020-03-23 02:29:58,#CoreDDRAT,https://t.co/Fz2kXNR0QI,27035562dd315d402b2cac3b408cb1c9dc3cdbc8c1fcb29771ba798ca8efbbd7,127.0.0.1
+2020-03-23 02:29:41,#CoreDDRAT,https://t.co/2HpZ5JfExe,6a7a76dc24062c8de3a001cfea013cdd72f3ed131278b15be243f926fc4b0e48,127.0.0.1
+2020-03-23 02:29:24,#CoreDDRAT,https://t.co/CdK41sNFpe,b23b48241e996ce0563311b0eb4f551f037c0134c3f5927c4eaaf2d9e8d32139,demonz.ddns.net
+2020-03-23 02:29:08,#CoreDDRAT,https://t.co/EqBwAJBjiS,c8ee655113de05731cb117c6192be8c716d452889f2eaad5cc616aa44732638c,zdcgdgawr3.ddns.net
 2020-03-22 23:47:19,#REvil,https://t.co/e1ntR1FFj7,337c799d1bb6f33dcf1e525176a52f48acff13e023619fc4b8dd218d5d54e2a2,"creative-waves.co.uk,aniblinova.wordpress.com,commonground-stories.com,osterberg.fi,bestbet.com,caribbeansunpoker.com,geekwork.pl,mepav"
 2020-03-22 22:47:18,#njRat,https://t.co/IOkFnLU2T1,da6ef1fb5836ab2b9530e5e41c129c9c7e7eaa54acfb9679961111046debab99,zezo.hopto.org:1177
 2020-03-22 22:32:18,#njRat,https://t.co/9WC7iDP33a,a671b4842571a324c440d21a0a0501bdbb7a81333d6a1746d93c1c005085ad44,zezo.hopto.org:1177
