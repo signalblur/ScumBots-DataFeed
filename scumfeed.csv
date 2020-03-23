@@ -1,4 +1,15 @@
 date_identified,implant_type,url,hash,c2
+2020-03-22 23:47:19,#REvil,https://t.co/e1ntR1FFj7,337c799d1bb6f33dcf1e525176a52f48acff13e023619fc4b8dd218d5d54e2a2,"creative-waves.co.uk,aniblinova.wordpress.com,commonground-stories.com,osterberg.fi,bestbet.com,caribbeansunpoker.com,geekwork.pl,mepav"
+2020-03-22 22:47:18,#njRat,https://t.co/IOkFnLU2T1,da6ef1fb5836ab2b9530e5e41c129c9c7e7eaa54acfb9679961111046debab99,zezo.hopto.org:1177
+2020-03-22 22:32:18,#njRat,https://t.co/9WC7iDP33a,a671b4842571a324c440d21a0a0501bdbb7a81333d6a1746d93c1c005085ad44,zezo.hopto.org:1177
+2020-03-22 20:00:22,PowerShell_Empire_Agent,https://t.co/W2mUMNP0vW,cc7fde3dc6512f35ccb105821141b84fd253e70dc5706ba738e062247624e72b,192.168.38.25:80
+2020-03-22 19:30:19,PowerShell_Empire_Agent,https://t.co/5gvYuQ8RXB,e9589af9e7b2e96fd4a8acd5fd19e3bea0a5b6a72fecbafcee7289e04195a976,10.0.2.15:8080
+2020-03-22 19:17:35,#Revenge,https://t.co/t3QH6bsBg1,f826fe0717877b981b2ff82da8173065bfca23332949c54d814bacd2ab9f53d0,"127.0.0.1:333,"
+2020-03-22 19:17:18,#Revenge,https://t.co/CJs8iuQmSA,f826fe0717877b981b2ff82da8173065bfca23332949c54d814bacd2ab9f53d0,"127.0.0.1:333,"
+2020-03-22 19:10:19,PowerShell_Empire_Agent,https://t.co/Jk63rhkX5Z,7ee724b28e7048a693b8298ab880720bb1368b079594fdd6fa9a8dc37f5f957b,10.0.2.15:80
+2020-03-22 19:02:35,#Revenge,https://t.co/wsFGoCmfJw,f826fe0717877b981b2ff82da8173065bfca23332949c54d814bacd2ab9f53d0,"127.0.0.1:333,"
+2020-03-22 19:02:19,#njRat,https://t.co/FGbs1luvS1,2b942243439c92b4921032a08567d76c0baff766661083fe8f6a9ab66966926d,"mouaiz123-26414.portmap.host:26414,"
+2020-03-22 18:30:19,PowerShell_Empire_Agent,https://t.co/Nf9iftmaSd,1b3c4f89e1c0dc03a2dd8d2f6f5dd2bc610dedcba5c3f7fceb8c5eee83effb66,10.0.2.15:80
 2020-03-22 16:02:23,RAT,https://t.co/tGg4azKnDM,753883fa972dda966abb3adad3cfc94f0a82ca128d1908df58bac3ba93e60bd3,"nocpnv.ddns.net:132:,"
 2020-03-22 14:02:18,#Revenge,https://t.co/yFdHUDFp7c,299af7f15d174ff027a719a08a4fde2d269a5b90e2c2a41eea5fb7769d4b7f5e,"127.0.0.1:333,,"
 2020-03-22 13:32:19,#njRat,https://t.co/RPfcYw1ER0,16b5f5c1485e51d8e8863888c371318d1a0dec90d53d9d86850526d1d5b95f97,127.0.0.1:1177
