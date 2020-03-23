@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-03-23 15:32:19,#Revenge,https://t.co/SEpb3IHoM9,640fb66e4a8af842c9ad35ad40940357df6495b424e93c36c3d124e2702ac69c,"154.202.2.237:5556,"
+2020-03-23 15:15:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/jvhVsf8sQJ,746b3640f701a7164509edb7438181fc2ed0823afc6a86949afdef85ce390f6e,185.236.232.102
+2020-03-23 14:45:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/T6wORWcctA,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
+2020-03-23 14:17:19,#njRat,https://t.co/MWaT5O0Kfl,576db619373bbad5ed2a79a20e1c4b74f37f3a4c0c1ffcd537a1a7fdd108877d,46.105.155.114:5252
 2020-03-23 10:45:20,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/GfqPSx5y3t,f75e858ca9c70238a0495fb5b2a1aecce34eb3e28db72f5431c5185810f8cfa9,185.244.30.75:5544
 2020-03-23 08:20:18,PowerShell_Empire_Agent,https://t.co/MZpS1Kjclc,7e2a4e7fd677366271a30471853bdabb28fa563f762ac7b702bd475450e65ba7,10.0.2.15:80
 2020-03-23 04:47:18,#njRat,https://t.co/uaUzQ4aEMh,1165799c06d72ba108a21910d59bdda2662a3d7e948b76803c922bf95e387291,127.0.0.1:5552
