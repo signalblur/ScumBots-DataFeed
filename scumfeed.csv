@@ -1,4 +1,23 @@
 date_identified,implant_type,url,hash,c2
+2020-03-23 22:17:20,#Revenge,https://t.co/cy1y4HUHmG,bbba3a45e8c25839a1c5bbfd8fbe88c6147b2c63718fc72c19cd3299d029ef11,"https://pastebin.com/raw/zMeBtJ77,"
+2020-03-23 22:07:08,#Revenge,https://t.co/PYlXlWY8dA,6f914e0e14658081536ad6c71123c65cde2c5edbce85e0efa0470a06b0e140c0,"fackyou.myq-see.com:3333,"
+2020-03-23 22:03:10,#Revenge,https://t.co/SyLgM8mIPl,4191368e0b8dfebe33e37efacb5c59cc81b6d3557f17db08a258ea5da161a6d5,"HELPDESKCAMFROG.DDNS.NET:2222,"
+2020-03-23 22:02:53,#Revenge,https://t.co/viI9fp5R5p,bb15356ac2dd0bd4081acc0a7f598f640dab1f3c438254ee6d9cb247b64cb41f,"fackyou.myq-see.com:3333,"
+2020-03-23 22:02:36,#Revenge,https://t.co/iMhC6XzXYV,bb15356ac2dd0bd4081acc0a7f598f640dab1f3c438254ee6d9cb247b64cb41f,"fackyou.myq-see.com:3333,"
+2020-03-23 22:02:18,#Revenge,https://t.co/qoZcEmYvMv,65f88c31fc6c28b9a22399cbf54c89e06b5205399279328d43e447d5ed1cdcdb,"https://pastebin.com/raw/SpDxRKRH,"
+2020-03-23 21:49:37,#Revenge,https://t.co/QLYKWMAV8Q,f9890f64b477843ad8cb9080274152a3f70e2892e35feb2159d25df8484f1f61,"127.0.0.1:333,192.168.1.52:333,"
+2020-03-23 21:49:20,#Revenge,https://t.co/rkJU8rFQwJ,2e865341e2107281c4778eb12ad7f46710efa3dff506f9f079d44b2a67eab9be,"usermata-64665.portmap.host:4444,usermata-64665.portmap.host:4444,"
+2020-03-23 21:49:03,#Revenge,https://t.co/2X1bDxzwgp,e54384fe872d30bf574d7b80311ce1c6d9f86a8db7b6e47cbd03069eea1bdd61,"193.161.193.99:8888,193.161.193.99:8888,"
+2020-03-23 21:48:47,#Revenge,https://t.co/UF6JgVj6CM,335fcef24919d8bcbced12183a157a3b795a8dbd6e26a44be0aa4e9a5e9f447d,"127.0.0.1:4444,192.168.1.105:4444,"
+2020-03-23 21:48:30,#Revenge,https://t.co/u7I39k8ERd,5c01a5cc0943c965fa417d07210e9b9bc586341ba61d149bab1aeda1f6763f7d,"192.168.1.4:333,"
+2020-03-23 21:48:12,#Revenge,https://t.co/NEFfQvktZ9,e54384fe872d30bf574d7b80311ce1c6d9f86a8db7b6e47cbd03069eea1bdd61,"193.161.193.99:8888,193.161.193.99:8888,"
+2020-03-23 21:47:52,#Revenge,https://t.co/sTglQMRXys,395a4dba2598b67568065e1bda7acb8ccfa7633bcfb91a6fe2a8cb6d3595580c,"127.0.0.1:4444,192.168.1.105:4444,"
+2020-03-23 21:47:36,#Revenge,https://t.co/axbD8YmoY8,61599aa99f35564f0b574eb79dc221ad5a80a8f0a8fe5d4e7faac8a3d9308249,"127.0.0.1:333,bo6y1.hopto.org:333,"
+2020-03-23 21:47:19,#Revenge,https://t.co/DV7D0JEXSl,e54384fe872d30bf574d7b80311ce1c6d9f86a8db7b6e47cbd03069eea1bdd61,"193.161.193.99:8888,193.161.193.99:8888,"
+2020-03-23 21:32:21,#Revenge,https://t.co/LtDvsbp8O5,ebe37e58ad73be76b4178d8b99d64c6505909113a9c3820f4aa2444bb551ef09,"192.168.1.4:333,"
+2020-03-23 21:13:33,#Revenge,https://t.co/SVgYFWXEoY,1d95b2c065e5f5c4dee31cb336035caeb32a1c3dbdf0e4b1e2052fc7288d4c53,"nobert-51061.portmap.host:51061,"
+2020-03-23 20:47:19,#Revenge,https://t.co/u1YdTD91Fe,e6eda9918b257e317e921d294b903f9488929fe7ef2efc0955bd141d19e15855,"imaneblueyesvpn.ddns.net:333,,"
+2020-03-23 20:17:18,#Revenge,https://t.co/Ah3gv6AdbL,de35000537e325fd8ed05003a1114b71aa7366f23a6185c9d8133a3793673427,"imaneblueyesvpn.ddns.net:333,,"
 2020-03-23 15:32:19,#Revenge,https://t.co/SEpb3IHoM9,640fb66e4a8af842c9ad35ad40940357df6495b424e93c36c3d124e2702ac69c,"154.202.2.237:5556,"
 2020-03-23 15:15:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/jvhVsf8sQJ,746b3640f701a7164509edb7438181fc2ed0823afc6a86949afdef85ce390f6e,185.236.232.102
 2020-03-23 14:45:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/T6wORWcctA,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
