@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-03-24 11:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/1gihUYBRsQ,2cd8c0e019abcd5ee0c523f2da97ce64197303d42e66ac02b055ae7197af8d7b,148.72.153.86
+2020-03-24 11:45:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/2YsomJQl2v,2cd8c0e019abcd5ee0c523f2da97ce64197303d42e66ac02b055ae7197af8d7b,148.72.153.86
+2020-03-24 11:35:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/gdeTVnCjQQ,2cd8c0e019abcd5ee0c523f2da97ce64197303d42e66ac02b055ae7197af8d7b,148.72.153.86
+2020-03-24 10:50:30,PowerShell_Empire_Agent,https://t.co/sRqIwNl6GD,8e9db11a428eef159004164780f85d6c99541d9c49a99d9cf26547ef5532b10b,https://youtube-au.com:443
+2020-03-24 10:40:19,PowerShell_Empire_Agent,https://t.co/HvT31CMTC7,90e234321958604f6dc29b5fc305baf00239c8fa81668f6c5b740c07eeeb5f19,https://83.171.238.239:443
+2020-03-24 10:32:19,#njRat,https://t.co/TBVQ8x117q,ebda3d0f42a337880c4b2d262730986e20abcfda2b66f6d91f0ec82d5607552d,testrat.hopto.org:5553
+2020-03-24 10:30:20,PoshC2,https://t.co/A6i3TiD6Lb,51ef829c6edd037387cdf84eacaa33ecefdc81ceae3d1afaf5f5eb67de422dd2,https://eternal.rocks:443
 2020-03-24 00:17:19,#REvil,https://t.co/ayxu0NB99p,500e02be3ac6e5670e9896d5369133be17ea5a6388f23d51e6149516c034e40f,"fairfriends18.de,hushavefritid.dk,naturstein-hotte.de,allure-cosmetics.at,rhinosfootballacademy.com,tomaso.gr,marketingsulweb.com,spargel-k"
 2020-03-23 22:17:20,#Revenge,https://t.co/cy1y4HUHmG,bbba3a45e8c25839a1c5bbfd8fbe88c6147b2c63718fc72c19cd3299d029ef11,"https://pastebin.com/raw/zMeBtJ77,"
 2020-03-23 22:07:08,#Revenge,https://t.co/PYlXlWY8dA,6f914e0e14658081536ad6c71123c65cde2c5edbce85e0efa0470a06b0e140c0,"fackyou.myq-see.com:3333,"
