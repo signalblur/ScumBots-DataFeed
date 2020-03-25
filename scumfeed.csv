@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2020-03-24 21:20:20,PowerShell_Empire_Agent,https://t.co/3x98XXTtmD,47f3454f56317602c524c928a9a02984d4f42731323369dbcfe924164c681897,45.147.229.143:1499
+2020-03-24 20:47:20,#REvil,https://t.co/wlwSdeMcLU,190d118668b70ec9f2f3780cb59516bdb9eae44193c15471e004944d241bd1fe,"katiekerr.co.uk,comarenterprises.com,sportverein-tambach.de,mezhdu-delom.ru,devstyle.org,vibehouse.rw,cnoia.org,shsthepapercut.com,nach"
+2020-03-24 20:32:20,#REvil,https://t.co/Qj3mcmdqd9,9aa7732da98ad007ab831aa5fad6951ec77f63f0d8fed73180c3528cf0f7c858,"bastutunnan.se,shsthepapercut.com,dw-css.de,vetapharma.fr,caribdoctor.org,microcirc.net,rebeccarisher.com,berlin-bamboo-bikes.org,starsar"
+2020-03-24 19:02:19,#REvil,https://t.co/rYo0jSreM3,0f93147c1e13fa4ba37dd91e93d11ed899236036ae11eb4bc35f4e8f4aa5cc92,"zflas.com,samnewbyjax.com,waywithwords.net,datacenters-in-europe.com,spargel-kochen.de,cuspdental.com,parkstreetauto.net,grupocarvalhoerodr"
+2020-03-24 18:32:40,#njRat,https://t.co/w7o4CiUTOc,6a53a62fe35949c47d638b8e3c8e1b5177bb413eef9159a069a87658d503350c,47.100.84.12:55656
+2020-03-24 18:32:23,RAT,https://t.co/bLMKoFEahq,abd4e6ee8152822c0545bd27a4f4c5114728873873e227044dfb48ecf1ecb37f,"rimoy788.ddns.net:7005:pass,"
+2020-03-24 18:17:19,#Revenge,https://t.co/KTL4jBVJDi,b92fe7309b229fc2894d3b10b0a9cd148fb1b4214bffb3b0bd16ef219f21f632,"miqas.ddns.net:2685,"
+2020-03-24 16:17:22,RAT,https://t.co/ltYodDlH4M,abd4e6ee8152822c0545bd27a4f4c5114728873873e227044dfb48ecf1ecb37f,"rimoy788.ddns.net:7005:pass,"
+2020-03-24 14:25:10,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/F71ieZ1G8F,c7f33dce730230835931dad6fc15e99dcbd86fb72cd82ac7a019fbcbaa679f1d,34.66.33.185
+2020-03-24 12:17:22,RAT,https://t.co/2jMDAtQyU2,abd4e6ee8152822c0545bd27a4f4c5114728873873e227044dfb48ecf1ecb37f,"rimoy788.ddns.net:7005:pass,"
 2020-03-24 11:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/1gihUYBRsQ,2cd8c0e019abcd5ee0c523f2da97ce64197303d42e66ac02b055ae7197af8d7b,148.72.153.86
 2020-03-24 11:45:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/2YsomJQl2v,2cd8c0e019abcd5ee0c523f2da97ce64197303d42e66ac02b055ae7197af8d7b,148.72.153.86
 2020-03-24 11:35:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/gdeTVnCjQQ,2cd8c0e019abcd5ee0c523f2da97ce64197303d42e66ac02b055ae7197af8d7b,148.72.153.86
