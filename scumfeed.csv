@@ -1,4 +1,16 @@
 date_identified,implant_type,url,hash,c2
+2020-03-25 17:25:35,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/ij3IJtdZPG,d0655b5d8ff09fb01cd241d078b9ede1c85a99beee7a0fc107a3848fe27c106d,176.123.3.108
+2020-03-25 17:25:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/EKwThroiI3,2e6ce92a582fac3b3e6ff15ebadd4dbeb0ffdf2f7fb30acc5d6a01ef9cf3086e,176.123.3.108
+2020-03-25 16:47:18,#njRat,https://t.co/uHnlvy6qin,1986c75fbb5e4ef5b91fc81150a90edc20b1aa7c8e1d9643398f90a96ce13a6c,gostosa.freedynamicdns.org:8080
+2020-03-25 16:35:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/V91uQfVoPW,5036124a2e8a1d9a31296368076ee409966e64a5470454f9c68e4a8f44d2d579,176.123.3.108
+2020-03-25 16:25:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x64,https://t.co/CWLqD8OXtg,d954b9600977221c65c5534aae472a6d74d50e195b2c14841b8fb389f3760a07,192.168.0.3
+2020-03-25 16:17:18,#njRat,https://t.co/NpODWHWYen,c27bf458cbbc0d3ed9514a7210a818f2d53199778740f7db3b378eec9c75133e,hhhmach.ddns.net:1177
+2020-03-25 16:02:19,#njRat,https://t.co/NBT72aysj0,4847e004560c73cbd05b376cb92c58b0f159e3c7c41263802a895196a75e4508,kgb25654.ddns.net:1177
+2020-03-25 14:55:19,PowerShell_Meterpreter_Reverse_HTTP_x86,https://t.co/IvT2PdfLP4,76bb1d6472d7bfa4940860bb26d8aa68f656c6248c31f9a65fc5eae70cb634e7,192.168.1.138
+2020-03-25 14:45:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/61GiZz6v2f,321048ae5676901b4236fa469e47475817ce19d54a3a7f2c462efdb05fa3ad60,192.168.1.138:4444
+2020-03-25 13:47:35,#njRat,https://t.co/hoGxvLDbDk,15873bc82641d61c8ec50de56a19389b44112e570800395fc7390190d51cccf3,gostosa.freedynamicdns.org:8080
+2020-03-25 13:47:19,#njRat,https://t.co/iEv5ZeWVrC,15873bc82641d61c8ec50de56a19389b44112e570800395fc7390190d51cccf3,gostosa.freedynamicdns.org:8080
+2020-03-25 13:32:19,#njRat,https://t.co/DyykYrYpcr,15873bc82641d61c8ec50de56a19389b44112e570800395fc7390190d51cccf3,gostosa.freedynamicdns.org:8080
 2020-03-25 12:02:19,#njRat,https://t.co/41ELdR9403,3acc63a8240e7970187819026c7c3e371c6ca1c7558dc52c56e7da70746885d0,ahmed1sosta.ddns.net:1177
 2020-03-25 11:06:26,#njRat,https://t.co/WgZQ7Q72OP,ae9b4cd022ee5a3421fe70ae113b940a67b149f372b4256a9b7857bc0ecb47c2,178.63.148.131:5552
 2020-03-25 11:02:19,#REvil,https://t.co/V4Epm9iBHy,c07cde47d820a886eeda446ef5e8649f37a75d759be2de28950aa866ad7f7419,"punchbaby.com,oneplusresource.org,longislandelderlaw.com,buymedical.biz,sporthamper.com,darnallwellbeing.org.uk,theduke.de,lapmangfpt.i"
