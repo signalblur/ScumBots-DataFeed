@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-03-26 15:02:18,#njRat,https://t.co/3RGKD7Lynh,899bb9a7cbead03d1f6be39d2798cd9c8075be00a3001411e13bb5f20c8a9364,127.0.0.1:4444
+2020-03-26 14:02:18,#NanoCore,https://t.co/xBwY6avJTP,b1a1caf9fd8dee39f83f27ff5d6af196b308067d4dcf77fdcf1c64dee596390b,"ant69.ddns.net:1604,127.0.0.1:1604,"
+2020-03-26 13:02:18,#njRat,https://t.co/zxQySZYMkc,e5899677a2cced30acf0a2a3550b22c1bed0c4d10e1ab70fc4e481eed3c4e62d,server77.ddns.net:5556
+2020-03-26 12:50:19,Nishang_Invoke-PowerShellTcp,https://t.co/rxr6wE09Bh,1033692b62cf6a94fe4b73aa04c3c92e5fed1badf991cf101d7cc211ff6f3956,10.10.14.22:4444
 2020-03-26 12:02:19,#njRat,https://t.co/CDqPKZhJ3i,ebc855a83d2cc24d67e68cb6294cbb64296c8f2b4e1f69ecfb0c0283e0aca4aa,ahmed1sosta.ddns.net:1177
 2020-03-26 11:32:19,#njRat,https://t.co/QyoyQPiVKJ,ebc855a83d2cc24d67e68cb6294cbb64296c8f2b4e1f69ecfb0c0283e0aca4aa,ahmed1sosta.ddns.net:1177
 2020-03-26 11:02:18,#njRat,https://t.co/R1Ed9zWH92,6033000b879b9595e00d660a35077caa6dfceffbf42346e3ac61266d73c82539,hhhmach.ddns.net:1177
