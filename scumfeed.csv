@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-03-26 05:47:19,#njRat,https://t.co/U6KOq2BF16,772aeef6d9eead10c4e82f353f19add32e46ab08640ec5118489ba6084d1cb04,hhhmach.ddns.net:1177
 2020-03-25 23:47:18,#njRat,https://t.co/lMGM0QJ2AY,2914f2c331ac721a23b4f42a541eae836cfb940567a9048969bcfd0acf96a031,al3nzii.myq-see.com:5577
 2020-03-25 21:45:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/WIM7w2szY9,5611c97522f0ac2f66dbfb9b7e1d27df2a1d66316da1d6d8dbafe21b4fa77843,148.72.153.86
 2020-03-25 20:32:19,#REvil,https://t.co/6TqPjJq1Cs,5c49a665c05d8f01540887c0417906f94a7fa8e835a967afc019f4f23bcf6547,"conexa4papers.trade,bigasgrup.com,vetapharma.fr,buymedical.biz,hatech.io,web.ion.ag,goodgirlrecovery.com,crowcanyon.com,manutouchmassag"
