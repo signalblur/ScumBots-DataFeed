@@ -1,4 +1,9 @@
 date_identified,implant_type,url,hash,c2
+2020-03-26 12:02:19,#njRat,https://t.co/CDqPKZhJ3i,ebc855a83d2cc24d67e68cb6294cbb64296c8f2b4e1f69ecfb0c0283e0aca4aa,ahmed1sosta.ddns.net:1177
+2020-03-26 11:32:19,#njRat,https://t.co/QyoyQPiVKJ,ebc855a83d2cc24d67e68cb6294cbb64296c8f2b4e1f69ecfb0c0283e0aca4aa,ahmed1sosta.ddns.net:1177
+2020-03-26 11:02:18,#njRat,https://t.co/R1Ed9zWH92,6033000b879b9595e00d660a35077caa6dfceffbf42346e3ac61266d73c82539,hhhmach.ddns.net:1177
+2020-03-26 10:02:19,#njRat,https://t.co/RpTx2xzwyU,0ec142b8399f647228afed73e6fd9fbeddd410959c292f37dcb58eba506c1be0,127.0.0.1:1177
+2020-03-26 06:47:19,#REvil,https://t.co/qHejcFgDWj,d72293344521c9740801788c0155ce0ad33e89cda85776554a88f73aa9ae200a,"durganews.com,waynela.com,strategicstatements.com,dirittosanitario.biz,dramagickcom.wordpress.com,edgewoodestates.org,the-virtualizer.com"
 2020-03-26 05:47:19,#njRat,https://t.co/U6KOq2BF16,772aeef6d9eead10c4e82f353f19add32e46ab08640ec5118489ba6084d1cb04,hhhmach.ddns.net:1177
 2020-03-25 23:47:18,#njRat,https://t.co/lMGM0QJ2AY,2914f2c331ac721a23b4f42a541eae836cfb940567a9048969bcfd0acf96a031,al3nzii.myq-see.com:5577
 2020-03-25 21:45:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/WIM7w2szY9,5611c97522f0ac2f66dbfb9b7e1d27df2a1d66316da1d6d8dbafe21b4fa77843,148.72.153.86
