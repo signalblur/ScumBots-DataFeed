@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2020-03-25 23:47:18,#njRat,https://t.co/lMGM0QJ2AY,2914f2c331ac721a23b4f42a541eae836cfb940567a9048969bcfd0acf96a031,al3nzii.myq-see.com:5577
+2020-03-25 21:45:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/WIM7w2szY9,5611c97522f0ac2f66dbfb9b7e1d27df2a1d66316da1d6d8dbafe21b4fa77843,148.72.153.86
+2020-03-25 20:32:19,#REvil,https://t.co/6TqPjJq1Cs,5c49a665c05d8f01540887c0417906f94a7fa8e835a967afc019f4f23bcf6547,"conexa4papers.trade,bigasgrup.com,vetapharma.fr,buymedical.biz,hatech.io,web.ion.ag,goodgirlrecovery.com,crowcanyon.com,manutouchmassag"
+2020-03-25 20:02:19,#njRat,https://t.co/JOtBNm13Q8,bccacb3d4d94bf0ffbe0b2ff26d4de7bdb0b400fbf88ad2894371c066a17480e,rimoy788.ddns.net:7005
+2020-03-25 19:47:19,#REvil,https://t.co/hsFKhtpPFW,bfdddec14c8a432ee41d8da8fbb695d41f8fda35754a4e7b436fff8ca1cb6350,"innote.fi,stallbyggen.se,div-vertriebsforschung.de,asiluxury.com,nhadatcanho247.com,nestor-swiss.ch,nmiec.com,mirjamholleman.nl,advizewea"
+2020-03-25 19:32:19,#njRat,https://t.co/DOuUhbvWuW,bccacb3d4d94bf0ffbe0b2ff26d4de7bdb0b400fbf88ad2894371c066a17480e,rimoy788.ddns.net:7005
+2020-03-25 19:17:19,#njRat,https://t.co/kgyDMjc01I,83d46dc245295db82eabc3bb1f39588a8b1171a0819eab9619414a44c39e86ec,virusnjrat.ddns.net:5552
+2020-03-25 18:17:18,#njRat,https://t.co/IBsJrYMEyE,da8bddb3c6ae38d589a5c075a1f4afe2869e3a50e2453e291af20fa7b6d7b2e1,192.168.1.37:1177
 2020-03-25 17:25:35,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/ij3IJtdZPG,d0655b5d8ff09fb01cd241d078b9ede1c85a99beee7a0fc107a3848fe27c106d,176.123.3.108
 2020-03-25 17:25:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/EKwThroiI3,2e6ce92a582fac3b3e6ff15ebadd4dbeb0ffdf2f7fb30acc5d6a01ef9cf3086e,176.123.3.108
 2020-03-25 16:47:18,#njRat,https://t.co/uHnlvy6qin,1986c75fbb5e4ef5b91fc81150a90edc20b1aa7c8e1d9643398f90a96ce13a6c,gostosa.freedynamicdns.org:8080
