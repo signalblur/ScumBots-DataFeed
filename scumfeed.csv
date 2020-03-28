@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-03-28 17:32:37,#njRat,https://t.co/TOrwZidvf9,cc4adc09e357c101945652e77b100b46dc0e0f575073f5d2b9b0a20c959cdf8d,ratvictims5.ddns.net:7859
+2020-03-28 17:32:20,#njRat,https://t.co/bk7uq2hl8I,0bcf980ca426ac45227ad28a2d96ae0ba00510aa9c272f91c87db54a26ae863e,ratvictims5.ddns.net:7859
+2020-03-28 17:22:06,#REvil,https://t.co/sthWCwANit,77f8df8ed8c7655aec8a386465bcd2c649350671f9400af3711a335fbc1c8c97,"ampisolabergeggi.it,podsosnami.ru,todocaracoles.com,shiresresidential.com,presseclub-magdeburg.de,odiclinic.org,highlinesouthasc.com,atalen"
+2020-03-28 17:17:19,#njRat,https://t.co/uvivSuxNXz,192b1d57da0cacde62677a734084972c2af88bf6c467c98deb1d3ce3fca87a54,192.168.1.6:1177
+2020-03-28 16:02:19,#NanoCore,https://t.co/StxCgVfq0V,569be57292b0f195a11f31a462a1cd2ec7278c826697762e64c5ea10a3b1dbea,"cecil.onthewifi.com:101,127.0.0.1:101,"
+2020-03-28 12:47:20,#NanoCore,https://t.co/eDlV4TYgDq,569be57292b0f195a11f31a462a1cd2ec7278c826697762e64c5ea10a3b1dbea,"cecil.onthewifi.com:101,127.0.0.1:101,"
 2020-03-28 10:35:19,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/rMQycH2xhG,b11a3ec2b70642c1f54c7dc44154b582eb6a255f5b923808d9bbf071970ee543,185.236.232.102
 2020-03-28 10:10:18,PowerShell_Empire_Agent,https://t.co/JZW8nyQFzA,5a9e7f159ccb6dee02d0fed2a1839b3efd718370c8e2bfe46c56af1791d11d54,3.133.136.228:8080
 2020-03-28 10:00:26,PowerShell_Empire_Agent,https://t.co/BajxnhynvN,e39b4d41276d16519a9bb9f35f53e4e689c17025b3c698fe0915da86b9d9789e,ec2-18-221-62-51.us-east-2.compute.amazonaws.com:8080
