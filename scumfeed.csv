@@ -1,4 +1,7 @@
 date_identified,implant_type,url,hash,c2
+2020-03-29 01:47:19,#njRat,https://t.co/kupEEKO0Fq,c231210902d53a46606c577de25e6f937c9e4d062a31de859b83496e65e9ba83,127.0.0.1:1312
+2020-03-29 01:28:23,#njRat,https://t.co/Dcv229hRxS,10ec9557e9815fffc87d0d11e026052e37d2ee17d895e039331eb8b409d6fbda,127.0.0.1:1312
+2020-03-29 00:32:20,#njRat,https://t.co/6imTBFaFgW,b9afedb0918a6a4cb73f8ac72ca85a953747b6386b7be81dc1c789dab21fab78,hhhmach.ddns.net:1177
 2020-03-28 23:36:41,#REvil,https://t.co/f1hUutICy4,990497868fae7c18de9045273e80c52fb88957cb5759601498fb1d4292cbd958,"jakekozmor.com,ncid.bc.ca,pinkexcel.com,mbxvii.com,makeurvoiceheard.com,autofolierung-lu.de,helikoptervluchtnewyork.nl,forestlakeuca.or"
 2020-03-28 23:17:19,#njRat,https://t.co/Tu7xCSORFO,131de3af35745fad904b1bae5d51358d483cffc032bdaa92714076024b3fe1b7,192.168.1.64:1177
 2020-03-28 20:06:58,#Revenge,https://t.co/dXKCfxZOeI,97b25fb6b6b9c92ec259ff7e1e80c5cebdca22458e244c7185cddc9fc95e4530,"patopapao.hopto.org:5540,"
