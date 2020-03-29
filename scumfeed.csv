@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2020-03-29 17:32:19,#njRat,https://t.co/QAbGx94j77,bee276dbe54faf32758f730044ff2a4fa51acc6a5c35502966478be760f7a810,192.168.1.20:4433
+2020-03-29 17:17:19,#njRat,https://t.co/cegd9E87l0,65372f2d4481e021b93c751aa591c813adf122da1d6434bdcc62d4194f0f1de4,windowsdefender.ddns.net:7859
+2020-03-29 17:02:19,#njRat,https://t.co/W0wJJEBCk5,65372f2d4481e021b93c751aa591c813adf122da1d6434bdcc62d4194f0f1de4,windowsdefender.ddns.net:7859
+2020-03-29 16:47:19,#njRat,https://t.co/Gn9B53vKKo,053340db0fec99bfb9f196b9bfde5bfa530facf54f57febfef6ff6f1b130bf9b,windowsdefender.ddns.net:7859
+2020-03-29 16:32:18,#njRat,https://t.co/5xrVkMBmME,b3c462a3a9400ab9c95cd0b55ecdffdc4f0ec4be6671c40cad29d3ebcb4d3fee,windowsdefender.ddns.net:7859
+2020-03-29 15:17:19,#njRat,https://t.co/3sDdVqYJG8,c10bfbece5a0f6026ad3d591c4fceeb77bee6270edc8e34814456128a45ff7e3,trszrfea.ddns.net:6302
+2020-03-29 14:47:36,#Lime-RAT,https://t.co/nY0lRMNsWw,4ef734c4fe4a4cc3dc3e8922da20c7642e320a6f2b1a2dfb70bab4cb68abc556,https://pastebin.com/raw/cXuQ0V20
+2020-03-29 14:47:18,#njRat,https://t.co/ojBbVsZCfM,7dd624e8fc2a8cd38af5348df0d90d8e5a94ced7ca844cac22d1f85d7f9d97bf,81.61.77.92:5553
+2020-03-29 13:02:19,#njRat,https://t.co/RVFs0ePpr1,88074ad5ef81ea04eff4d7992518f1e3c8070ef0798bd4eb41f652422b89bf11,windowsdefender.ddns.net:7859
 2020-03-29 11:17:20,#njRat,https://t.co/6uthXwID8s,ab8c439957396db4adfba871c254ca799ab1a7375631dc630d14dbd4470352b5,lja2536.codns.com:5553
 2020-03-29 11:02:19,#njRat,https://t.co/55snz4tveQ,e6743d334651a9ac913b150c190378d79cfacffca4eee5bad305ebea2e877afc,lja2536.codns.com:5552
 2020-03-29 10:51:53,#REvil,https://t.co/1lTBcI2den,d48edfe661d15d1146923844c2bc79f5992a2c38d4bb60c6d9f67094492194ff,"socstrp.org,homng.net,slupetzky.at,creative-waves.co.uk,bestbet.com,leoben.at,shadebarandgrillorlando.com,hatech.io,harveybp.com,smar"
