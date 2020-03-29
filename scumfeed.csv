@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-03-29 11:17:20,#njRat,https://t.co/6uthXwID8s,ab8c439957396db4adfba871c254ca799ab1a7375631dc630d14dbd4470352b5,lja2536.codns.com:5553
+2020-03-29 11:02:19,#njRat,https://t.co/55snz4tveQ,e6743d334651a9ac913b150c190378d79cfacffca4eee5bad305ebea2e877afc,lja2536.codns.com:5552
+2020-03-29 10:51:53,#REvil,https://t.co/1lTBcI2den,d48edfe661d15d1146923844c2bc79f5992a2c38d4bb60c6d9f67094492194ff,"socstrp.org,homng.net,slupetzky.at,creative-waves.co.uk,bestbet.com,leoben.at,shadebarandgrillorlando.com,hatech.io,harveybp.com,smar"
+2020-03-29 09:47:18,#njRat,https://t.co/gORjhIOgzc,71e1add662041fee9ff0ddf0139154cf006538559af45f34047aac91efb1b8eb,hhhmach.ddns.net:1177
+2020-03-29 08:17:22,RAT,https://t.co/nzfc4zdHXv,351e1907992deaaac85fefdf4b9e58890e68e69c42a3ead259a371d25ba62cb4,"193.161.193.99:49483:,193.161.193.99:50721:,193.161.193.99:62254:,"
+2020-03-29 07:32:19,#njRat,https://t.co/TqpZFXTnr2,10bc6d61032a0e4e44a97798e451508177c1357e0aeffcad1db78761ff194042,eunyou.kro.kr:1
 2020-03-29 01:47:19,#njRat,https://t.co/kupEEKO0Fq,c231210902d53a46606c577de25e6f937c9e4d062a31de859b83496e65e9ba83,127.0.0.1:1312
 2020-03-29 01:28:23,#njRat,https://t.co/Dcv229hRxS,10ec9557e9815fffc87d0d11e026052e37d2ee17d895e039331eb8b409d6fbda,127.0.0.1:1312
 2020-03-29 00:32:20,#njRat,https://t.co/6imTBFaFgW,b9afedb0918a6a4cb73f8ac72ca85a953747b6386b7be81dc1c789dab21fab78,hhhmach.ddns.net:1177
