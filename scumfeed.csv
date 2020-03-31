@@ -1,4 +1,15 @@
 date_identified,implant_type,url,hash,c2
+2020-03-31 00:02:18,#njRat,https://t.co/3f8U6owszW,a988ff490e92d618729ca460357ef588caac2bf849e08e396bd20db32fbd8798,egroot.ddns.net:1177
+2020-03-30 22:36:52,#REvil,https://t.co/9psKf7ff7y,baef8bd7b65e121cc517db1868a64faa86219b0a02bbac76f97688208db2f33a,"n1-headache.com,jadwalbolanet.info,samnewbyjax.com,drfoyle.com,sairaku.net,tanciu.com,cuppacap.com,blog.solutionsarchitect.guru,harding"
+2020-03-30 22:32:19,#njRat,https://t.co/XuKMAep7Ej,d203a1c6edf644cd2137316d2bf902a6297a49ff4e4f226a14abe898abdb6e4a,127.0.0.1:5552
+2020-03-30 22:02:18,#njRat,https://t.co/iz1uKs9aPw,6e380387ca3b2854fbc2e4618d6dd075388a76b3296d8e9ab9da6454d34de5b6,46.105.155.114:5252
+2020-03-30 21:35:20,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/1puuMW05nA,1875e9a12a62e7eab54112bdb969da089f81a12faf4c402987af6a9fadd3846b,192.168.0.108:4444
+2020-03-30 20:47:18,#njRat,https://t.co/mPJVUUrM0u,7bde07b970c9468b9dd913250b68d1dbd699613d2eaf5bebd8ec2d121f2210d0,firmaforte.hopto.org:5552
+2020-03-30 20:02:19,#NanoCore,https://t.co/Ligiayjl45,7ec1cb6e477faea97fb78093c857099e4fdf72f535cab3433cdeb40a282e6359,"win2020.duckdns.org:10123,win202o.hopto.org:10123,"
+2020-03-30 19:32:19,#NanoCore,https://t.co/V7qWBhRzln,8d98d9d96da8f507381b9bf5d63caf8b340b9ff0dc06895638adeaec6312c0b2,"127.0.0.1:53896,"
+2020-03-30 19:17:36,#NanoCore,https://t.co/RmBp5tDXy6,94db74e285ed12b05a3d07da0742837cb02a231b707882a6654229ac6e8debe4,"127.0.0.1:53896,"
+2020-03-30 19:17:20,#NanoCore,https://t.co/hM6SwKUuvk,8d98d9d96da8f507381b9bf5d63caf8b340b9ff0dc06895638adeaec6312c0b2,"127.0.0.1:53896,"
+2020-03-30 18:32:19,#njRat,https://t.co/5eyr9pql1Q,9c8b6744a1207e4af311e453d52170e0fe4f307167e27ddb92b5e05befeb94c6,firmaforte.hopto.org:5552
 2020-03-30 17:35:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/S6LmTfwq9E,56b3756eecda5706148cc060bbe944ed09e3c9fabbc5a96ffd667a008b41ed69,193.161.193.99:59646
 2020-03-30 17:25:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/psWuDMpkaa,ae0b6f592e5579880484a3f98a1d8a92912742705e2cc5bfb815cf1e7160a3c5,193.161.193.99:5555
 2020-03-30 17:03:42,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/STAFvUD08n,fbc946a854d5c63591194239ef38b599a74421cf79425768178584b91da850f7,193.161.193.99:25820
