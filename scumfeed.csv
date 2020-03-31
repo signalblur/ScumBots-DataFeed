@@ -1,4 +1,12 @@
 date_identified,implant_type,url,hash,c2
+2020-03-31 11:47:36,#njRat,https://t.co/mrqyhaVhFW,377794e54b3c16c6f204c8f75b29b86bdb8ebc393dd06401c163513e922043a2,mmnn.ddns.net:95
+2020-03-31 11:47:19,#njRat,https://t.co/vu9mmJAe0s,ac481ab5f1da52a12135c750757803c0dc18e1c2a3207a47336d943c627ca9b8,mmnn.ddns.net:1919
+2020-03-31 10:15:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/Q0prts5HOr,f901d2c60b5bc9f756b0c40e135690ebff839ba2b4b7a6278dcce5aa29a6081b,193.161.193.99:59646
+2020-03-31 09:32:35,#Revenge,https://t.co/tdzxlRy0L1,437a6cc11412d97bbcc791e3a68f9293fcf021f5770b1ba3f97efbb442496e94,"101.98.203.110:6969,"
+2020-03-31 09:32:18,#Revenge,https://t.co/WsqJOgkARG,437a6cc11412d97bbcc791e3a68f9293fcf021f5770b1ba3f97efbb442496e94,"101.98.203.110:6969,"
+2020-03-31 06:47:19,#njRat,https://t.co/SiEWrGrq7C,aacf35b1e59235a7216f84201b18845fabccc4748a13fd696aceaeba02a2ea72,egroot.ddns.net:1177
+2020-03-31 06:17:35,#njRat,https://t.co/sAqrjalegM,70e8100d293b009c2db66c330dcd21afef5e3678599bb3ed7031adae90ea3c12,donbigg.ddns.net:5552
+2020-03-31 06:17:18,#njRat,https://t.co/VSkQnWMm1Z,dfc8695620f709882f755cd5141b37772b05ce4e2bd9a677e94ff25ad0cbb554,127.0.0.1:5552
 2020-03-31 04:32:19,#njRat,https://t.co/dhdH0H6DpR,5fe7b96cb2f9f6030a67128dbb68827fcdb4db87eb4fa4fa0d0528656996fd0c,127.0.0.1:5552
 2020-03-31 02:17:36,#njRat,https://t.co/JMBB6t7QUx,099aeee19ff6e339a357acd19c944e5585c40fdcc8311ce85048f21bb82f9cb7,egroot.ddns.net:1177
 2020-03-31 02:17:19,#njRat,https://t.co/T3kRVBPVzn,31bf174ab45bf3ce28641935cf985bd6abde4e9932f8d9535b1e31c4d35d1d33,lolyvn.ddns.net:8189
