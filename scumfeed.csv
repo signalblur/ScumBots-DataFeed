@@ -1,4 +1,14 @@
 date_identified,implant_type,url,hash,c2
+2020-03-31 17:02:36,#njRat,https://t.co/9bMtVaQyVC,8fc736484ae148b220ee274331fb81d69de034b60dbf97fddbf0025a46176cf5,hhroot.ddns.net:1177
+2020-03-31 17:02:19,#njRat,https://t.co/nPVVrp2sB4,acf2c5c17d66a87e849bb26afcc4d42ed57fbf557a0fb105c18723c3ef26b364,192.168.1.20:4433
+2020-03-31 15:32:18,#njRat,https://t.co/qM9V2eSa5p,2c46535200a9f6a3e9b5c0553cf2e94f939bf264bf3a29aa92b7c3fb13997287,"127.0.0.1:4444,"
+2020-03-31 15:17:18,#njRat,https://t.co/gK0R4TGZvF,2e71e2197518ae4077d0968f2f666635d9a1f822802aca08f092f488629d900b,"127.0.0.1:4444,"
+2020-03-31 14:55:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/tOKuTk9uDA,b0c7a3fe1c1b1b0c1932692e099a0701bd3d6a6e8bc4416770b83bd82dd4769d,176.123.3.108
+2020-03-31 13:17:53,#njRat,https://t.co/R01nrd8Ygi,a0c286a67ccd735fd542284e318d5f79c0109970c50a9b6b9bc7646205914360,idde.ddns.net:5552
+2020-03-31 13:17:36,#njRat,https://t.co/mm4596b6RU,9267051a2f7b2d4fb7b65a078cab473d041da87fd269193eedec90a37625f06f,firmaforte.hopto.org:5552
+2020-03-31 13:17:19,#njRat,https://t.co/8GyKkuBZ0W,139440ea99f0fdb275e96e8b749b64ca0528468f3b243bee6ada39b6db6327ac,"127.0.0.1:4444,"
+2020-03-31 13:06:37,#njRat,https://t.co/sc6d6hMbs2,a0c286a67ccd735fd542284e318d5f79c0109970c50a9b6b9bc7646205914360,idde.ddns.net:5552
+2020-03-31 12:47:19,#njRat,https://t.co/9WnmjyPFvo,9eec2c814f376cea82b3e91f38c96cc5c51be005e7baddc8f91e1979316fe38e,lja2536.codns.com:5553
 2020-03-31 11:47:36,#njRat,https://t.co/mrqyhaVhFW,377794e54b3c16c6f204c8f75b29b86bdb8ebc393dd06401c163513e922043a2,mmnn.ddns.net:95
 2020-03-31 11:47:19,#njRat,https://t.co/vu9mmJAe0s,ac481ab5f1da52a12135c750757803c0dc18e1c2a3207a47336d943c627ca9b8,mmnn.ddns.net:1919
 2020-03-31 10:15:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/Q0prts5HOr,f901d2c60b5bc9f756b0c40e135690ebff839ba2b4b7a6278dcce5aa29a6081b,193.161.193.99:59646
