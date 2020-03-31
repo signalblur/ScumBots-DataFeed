@@ -1,4 +1,11 @@
 date_identified,implant_type,url,hash,c2
+2020-03-31 04:32:19,#njRat,https://t.co/dhdH0H6DpR,5fe7b96cb2f9f6030a67128dbb68827fcdb4db87eb4fa4fa0d0528656996fd0c,127.0.0.1:5552
+2020-03-31 02:17:36,#njRat,https://t.co/JMBB6t7QUx,099aeee19ff6e339a357acd19c944e5585c40fdcc8311ce85048f21bb82f9cb7,egroot.ddns.net:1177
+2020-03-31 02:17:19,#njRat,https://t.co/T3kRVBPVzn,31bf174ab45bf3ce28641935cf985bd6abde4e9932f8d9535b1e31c4d35d1d33,lolyvn.ddns.net:8189
+2020-03-31 01:51:42,#REvil,https://t.co/QEYB2sh278,997002d2e69d8b491d6bc9d9617add41fa8997b9add6f9b762f67972575ac616,"raschlosser.de,podsosnami.ru,midmohandyman.com,chaotrang.com,familypark40.com,globedivers.wordpress.com,berliner-versicherungsvergleich.d"
+2020-03-31 00:47:19,#njRat,https://t.co/rwvSY6Gtm5,760139905809cfb54f237315fb19fe50d676f05af79da90a1e734f035984bbeb,"127.0.0.1:1177,"
+2020-03-31 00:32:18,#njRat,https://t.co/LBI5TU9KRc,761cfbfb5f0427ee87c87212d7aaf2a924eacc7279ef35917eb629d69f64e34e,"127.0.0.1:1177,"
+2020-03-31 00:17:19,#njRat,https://t.co/ZHlv2LAHn5,2a8b5b07d35886b6f855edb261c0de04411986664f774c53e0cb90f199bc3328,"127.0.0.1:1177,"
 2020-03-31 00:02:18,#njRat,https://t.co/3f8U6owszW,a988ff490e92d618729ca460357ef588caac2bf849e08e396bd20db32fbd8798,egroot.ddns.net:1177
 2020-03-30 22:36:52,#REvil,https://t.co/9psKf7ff7y,baef8bd7b65e121cc517db1868a64faa86219b0a02bbac76f97688208db2f33a,"n1-headache.com,jadwalbolanet.info,samnewbyjax.com,drfoyle.com,sairaku.net,tanciu.com,cuppacap.com,blog.solutionsarchitect.guru,harding"
 2020-03-30 22:32:19,#njRat,https://t.co/XuKMAep7Ej,d203a1c6edf644cd2137316d2bf902a6297a49ff4e4f226a14abe898abdb6e4a,127.0.0.1:5552
