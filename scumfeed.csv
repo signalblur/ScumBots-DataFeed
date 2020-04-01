@@ -1,4 +1,18 @@
 date_identified,implant_type,url,hash,c2
+2020-04-01 17:15:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/2F3s1baOhF,e63fc77f0118367f1937240999455aee0b58e306e409da423fd1e2eb9bc817f1,192.168.1.39:5017
+2020-04-01 16:40:19,PowerShell_Empire_Agent,https://t.co/EF9F8Cs8FK,80001abd8c425b7014768a0a074448b470f041880f0dc4f968fffd4d3a2f8d0b,172.28.128.100:80
+2020-04-01 16:32:20,#njRat,https://t.co/cF1gPNibR9,a017f051e92bd43b92e262d6cbe4084fce4570be0827cca80f4142711a9fec27,127.0.0.1:1177
+2020-04-01 16:30:19,PowerShell_Empire_Agent,https://t.co/BBSTj2OmD1,52d86261ae8e6467017a41b7613b8dcc99f73544cade1732663bf6c314b9970a,https://systemlogs.azurewebsites.net
+2020-04-01 16:20:19,PowerShell_Empire_Agent,https://t.co/X1v1hxPiA8,11f2778beb376f56d04fbecb36c311105b8c64e04d7c331493e1a2a0da00fdcd,185.10.68.206:80
+2020-04-01 16:17:35,#njRat,https://t.co/2ntKTIzral,698ee9345743c12dfef34be0b02e5cefd12b79fa635b37bf35bbecb7ae936022,shamanboiko.ddns.net:5347
+2020-04-01 16:17:19,#Revenge,https://t.co/WikuQX4EZx,1ccba863eb3185bebd008a169c13cffa92234b3fb90f7876311e02d37a7e8e74,"127.0.0.1:333,"
+2020-04-01 15:51:46,#REvil,https://t.co/02n2ifrlpg,dc97c6d5922939edb810ae414da0d4419a52192e257673baf4bfb0d56aa64fac,"all-turtles.com,rimborsobancario.net,precisionbevel.com,edgewoodestates.org,freie-baugutachterpraxis.de,advizewealth.com,sevenadvertising.c"
+2020-04-01 14:47:38,#njRat,https://t.co/TDR9g3gsDv,8bdf4f20dfe279fd3d0d55945aa53809130000be5906996361b0c7755c6d65b3,127.0.0.1:7711
+2020-04-01 14:47:21,#Revenge,https://t.co/HT8ws8OvQz,145431ec086fde0e0ff20b45a94ddb2ce50d8a7f6d766e7f055e72dd422bc83c,"aldery.linkpc.net:5552,127.0.0.1:5552,"
+2020-04-01 14:17:36,#njRat,https://t.co/iS4nKZfAHC,ef6d57b6de553a49e1a70aa50ef3502d2980090723b195f752d1628fcc847310,kinghmod6.ddns.net:1177
+2020-04-01 14:17:19,#njRat,https://t.co/Ibmq013omH,acae92c0d97e8aaf52001a740ac0ec4fcd7bd6910e12df9c5d7dc60c3dee16f8,sarrabiskra07.ddns.net:5552
+2020-04-01 13:32:20,#Revenge,https://t.co/meK41WBTDi,efaea496cea6913f0849f5589ab5765c80d1c25cc1a9c4d657476e9cc126c21c,"aldery.linkpc.net:5552,"
+2020-04-01 13:17:18,#Njratgold,https://t.co/9XDibRpRAY,87c0e0f48bb2599f74c15f8f9e4d3bc96befad82a33de62f89d3bc76d546d8cd,210.117.110.235:9963
 2020-04-01 10:35:19,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/4yAJG2vyWw,3b2debea6e8a05bee39447ad24b7876b7497e1a866938dc9f2ec7b5075ccdd6e,193.161.193.99:29056
 2020-04-01 10:32:19,#njRat,https://t.co/6YCKo55h0y,6a4c2815c2379a63639fd4bc9bedf11e987ea38c39315a18a830d9d840a5102c,sarrabiskra07.ddns.net:5552
 2020-04-01 09:17:19,#njRat,https://t.co/CdUmxwCNG3,d6969e5a50e04cb9bc0a97c3e6dd22d48580bb22f9408d3fc905882d45fcd01b,nacked.ddns.net:8080
