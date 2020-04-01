@@ -1,4 +1,17 @@
 date_identified,implant_type,url,hash,c2
+2020-03-31 22:32:19,#njRat,https://t.co/PduVHsy7J4,444a6b5ae9b4de7f991a4d6676ff26818a851d833ab50dbe4b9cc9c446d4e394,arabsland.ddns.net:5552
+2020-03-31 22:17:19,#njRat,https://t.co/gw3UD0Dpn8,85f8c739521c777788d35ad033cbab76c10d16149f17340aef46012cf7b374e1,127.0.0.1:5552
+2020-03-31 21:32:18,#njRat,https://t.co/jHzXa6cw8P,9479fd75ed7c06581de100ecc92e0d9d48bb46248f5c025cd04b2f300138d62c,brqa.linkpc.net:5110
+2020-03-31 21:02:18,#njRat,https://t.co/TQ9rxAds78,9479fd75ed7c06581de100ecc92e0d9d48bb46248f5c025cd04b2f300138d62c,brqa.linkpc.net:5110
+2020-03-31 20:02:35,#njRat,https://t.co/mbUozMrtoe,e30a89d6d9faa5fcfc6a56e41814e94cd7845e1a8b9c9c953817bffa9634e724,brinquedomamae.hopto.org:5552
+2020-03-31 20:02:19,#njRat,https://t.co/bT3eMMSjCy,2671f021bb362e8def70380647ea68d4a96af30d90df6fe36e7e03742cc245a7,trocahack.ddns.net:5489
+2020-03-31 19:47:19,#njRat,https://t.co/ECloM8sgYZ,7a86bd2bfbfc42cb42a117019d2493771101881d3bd6719d41a86f9997ba0feb,192.168.1.20:4433
+2020-03-31 19:17:19,#Revenge,https://t.co/OsWE5qypYH,9c3c91edfaefea76fb34eddc89c356e32e0adf3d64ea020f61741020293d9b5b,"dqrkodz34.ddns.net:5552,,"
+2020-03-31 19:02:36,#njRat,https://t.co/hJhUPWMXCF,55e511207764c793e96626d4cfc8be1fb66394fb1d2a92fb053618859d852bea,127.0.0.1:666
+2020-03-31 19:02:19,#njRat,https://t.co/ioXZtDmuK3,55e511207764c793e96626d4cfc8be1fb66394fb1d2a92fb053618859d852bea,127.0.0.1:666
+2020-03-31 18:47:18,#Revenge,https://t.co/RxqLjdWBjx,9c3c91edfaefea76fb34eddc89c356e32e0adf3d64ea020f61741020293d9b5b,"dqrkodz34.ddns.net:5552,,"
+2020-03-31 18:32:19,#njRat,https://t.co/P3dUDiAFTf,3f5ff28066f037b962dcd5bdf0f3eb93c78e25d2b072cc796d8e13473a3e0f9c,dqrkodz34.ddns.net:5552
+2020-03-31 18:17:20,#njRat,https://t.co/RU1shOCd7k,003b35c4f2233763836cd0c3dab936a4157a0ad26c6d8413fefdb1f53ef589f5,dqrkodz34.ddns.net:5552
 2020-03-31 17:02:36,#njRat,https://t.co/9bMtVaQyVC,8fc736484ae148b220ee274331fb81d69de034b60dbf97fddbf0025a46176cf5,hhroot.ddns.net:1177
 2020-03-31 17:02:19,#njRat,https://t.co/nPVVrp2sB4,acf2c5c17d66a87e849bb26afcc4d42ed57fbf557a0fb105c18723c3ef26b364,192.168.1.20:4433
 2020-03-31 15:32:18,#njRat,https://t.co/qM9V2eSa5p,2c46535200a9f6a3e9b5c0553cf2e94f939bf264bf3a29aa92b7c3fb13997287,"127.0.0.1:4444,"
