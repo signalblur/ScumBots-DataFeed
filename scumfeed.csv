@@ -1,4 +1,8 @@
 date_identified,implant_type,url,hash,c2
+2020-04-01 23:32:19,#njRat,https://t.co/BvKt70UtGt,369be195ecb432eef25fb0b9df2576b69a4ac1c0ac829ec70a047108fdfc5558,mmnn.ddns.net:95
+2020-04-01 21:17:19,#njRat,https://t.co/Ii6H7Q56n0,369be195ecb432eef25fb0b9df2576b69a4ac1c0ac829ec70a047108fdfc5558,mmnn.ddns.net:95
+2020-04-01 20:51:42,#REvil,https://t.co/MmtM0eiLia,bbfabca3e43ca9d0bd8ac74409b1a030e774c9afd4dc16cef5e01a5d3d1408c2,"em-gmbh.ch,aunexis.ch,ontrailsandboulevards.com,abuelos.com,fransespiegels.nl,mooshine.com,echtveilig.nl,supportsumba.nl,urmasiimariiunir"
+2020-04-01 18:32:18,#njRat,https://t.co/QdpfM9CElR,552a5f602259b002a3cd0da3aea3b625c99a3674d79e7800fa6266e685e1135a,mmnn.ddns.net:5552
 2020-04-01 17:15:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/2F3s1baOhF,e63fc77f0118367f1937240999455aee0b58e306e409da423fd1e2eb9bc817f1,192.168.1.39:5017
 2020-04-01 16:40:19,PowerShell_Empire_Agent,https://t.co/EF9F8Cs8FK,80001abd8c425b7014768a0a074448b470f041880f0dc4f968fffd4d3a2f8d0b,172.28.128.100:80
 2020-04-01 16:32:20,#njRat,https://t.co/cF1gPNibR9,a017f051e92bd43b92e262d6cbe4084fce4570be0827cca80f4142711a9fec27,127.0.0.1:1177
