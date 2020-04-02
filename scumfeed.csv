@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2020-04-02 14:32:55,#Revenge,https://t.co/hJkk4ZLujP,af702fe76980c9ba9b753373c0068bd6447537f381714e513bbbfc48b446d409,"hardpr0x0r-56636.portmap.host:56636,"
+2020-04-02 14:32:38,#Revenge,https://t.co/zcooTxh9sO,af702fe76980c9ba9b753373c0068bd6447537f381714e513bbbfc48b446d409,"hardpr0x0r-56636.portmap.host:56636,"
+2020-04-02 14:32:19,#Revenge,https://t.co/Vr1QucT94u,af702fe76980c9ba9b753373c0068bd6447537f381714e513bbbfc48b446d409,"hardpr0x0r-56636.portmap.host:56636,"
+2020-04-02 13:47:36,#njRat,https://t.co/BX0efLQhJo,c2f2e2bd425cb0b50b59716502bf6c9a96deaea02a63b703eee03bf3b3ca5116,blbs22.myftp.biz:1337
+2020-04-02 13:47:20,#njRat,https://t.co/6b2HT5qdo6,f21183d498197f0576f8d00f001ccd13cc14631d37acd2e54933fedbc36e47a4,127.0.0.1:1177
+2020-04-02 13:36:32,#REvil,https://t.co/6CIDOUuFLU,47031a0543d2d1a8f5f8277d16891395dcf7cc57e7ca56cc76fad33a4376e902,"sweering.fr,xn--singlebrsen-vergleich-nec.com,upplandsspar.se,olejack.ru,hkr-reise.de,higadograsoweb.com,bloggyboulga.net,plastidip.com."
+2020-04-02 13:17:18,#njRat,https://t.co/5qCGodRJnG,c940fdf5d94c8e6615ca104510d58a93ed08d2026cf34c185cf843f0fcda99ce,yunus1212.duckdns.org:1177
+2020-04-02 13:02:18,#njRat,https://t.co/Q45M4hfcUf,c7bbf9161fac4b7d90a263f237dcd119859794e3f008d3950af308d310e792a7,hamas.publicvm.com:5552
+2020-04-02 12:20:18,PowerShell_Empire_Agent,https://t.co/SaHRIFFKqD,d47dcc40939b310c07e0e20d2df15bef6d0bf43a3b8763beb3ceb0427468565d,142.93.199.108:80
 2020-04-02 12:06:35,#REvil,https://t.co/uVwQJeIFDE,7aaf4b2e40306cbb65edd0aed85a61ef4bbe538837684f48eafefebbdb871c11,"deprobatehelp.com,bockamp.com,mountaintoptinyhomes.com,stefanpasch.me,dinslips.se,4net.guru,schutting-info.nl,gw2guilds.org,exenberger."
 2020-04-02 11:17:18,#Revenge,https://t.co/dxK4Ne0ma6,06d44e503ebaccb58728f852ed0214bc6fa9a6d493022d2d28e72d04859cee20,"127.0.0.1:8080,"
 2020-04-02 10:47:19,#njRat,https://t.co/lmpgJEYq5B,8b3c93f710c564e70a0e2bb77b1243d34b3965a9723600d5cb12a31f03de72f1,lja2536.codns.com:5553
