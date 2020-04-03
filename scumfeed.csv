@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-04-02 18:32:19,#GruntStager,https://t.co/3Ck6brNFvJ,34488e4d52acab96869bb4626aff4478669324fbf8a6eae1dbb9bbdce2b39b8c,web-don.site:83
 2020-04-02 14:32:55,#Revenge,https://t.co/hJkk4ZLujP,af702fe76980c9ba9b753373c0068bd6447537f381714e513bbbfc48b446d409,"hardpr0x0r-56636.portmap.host:56636,"
 2020-04-02 14:32:38,#Revenge,https://t.co/zcooTxh9sO,af702fe76980c9ba9b753373c0068bd6447537f381714e513bbbfc48b446d409,"hardpr0x0r-56636.portmap.host:56636,"
 2020-04-02 14:32:19,#Revenge,https://t.co/Vr1QucT94u,af702fe76980c9ba9b753373c0068bd6447537f381714e513bbbfc48b446d409,"hardpr0x0r-56636.portmap.host:56636,"
