@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-04-08 13:42:35,#Lime-RAT,https://t.co/hGGLNzDqom,dc7188b3e132434a09981bd6bc96fc7939baa1eb8a5a96d2faeffacd23afa240,https://pastebin.com/raw/LPVnm7Lu
 2020-04-04 23:35:21,#REvil,https://t.co/NcaqnJHVtG,1c0fbc1af77917551a84414226b08713ef20318eab3addc0721b09ffced62d34,"knowledgemuseumbd.com,jakekozmor.com,liliesandbeauties.org,dr-tremel-rednitzhembach.de,lubetkinmediacompanies.com,rushhourappliances.com,bapt"
 2020-04-02 18:32:19,#GruntStager,https://t.co/3Ck6brNFvJ,34488e4d52acab96869bb4626aff4478669324fbf8a6eae1dbb9bbdce2b39b8c,web-don.site:83
 2020-04-02 14:32:55,#Revenge,https://t.co/hJkk4ZLujP,af702fe76980c9ba9b753373c0068bd6447537f381714e513bbbfc48b446d409,"hardpr0x0r-56636.portmap.host:56636,"
