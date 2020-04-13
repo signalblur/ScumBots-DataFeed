@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-04-13 16:02:28,#NanoCore,https://t.co/gOhvi9j6Lh,e34f7a414de1a5a8f425388eae4986f257d2d268e73c2a4a86414dae8346bb02,"gbedu-blast.duckdns.org:54985,127.0.0.1:54985,"
 2020-04-12 18:10:42,#VoidRAT,https://t.co/2ZwN2EnbZb,70801b9f05d61d2c585711f9ea3c59a980a8d9590f84fe7aa76d4bc84046d4c4,127.0.0.1:4782
 2020-04-12 18:10:22,#VoidRAT,https://t.co/3COkN6CXNQ,19e5e863763a7d8a8ff4875b9c433c86acc70bbdff16c09ea36d136938b4c2cd,impawn.ddns.net:80
 2020-04-12 18:10:04,#VoidRAT,https://t.co/T9FzcC9FPL,01bcba7c8d15fcb97a8c3923dc430f822bb3955dd17611b65008a081679f6910,micalter-62870.portmap.host:62870
