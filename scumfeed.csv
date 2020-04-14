@@ -1,4 +1,5 @@
 date_identified,implant_type,url,hash,c2
+2020-04-14 13:53:23,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/d70kCc7rSy,f09b743964da56b06cce354a2944aa44986d612bc5e265ff9836c76dcca98dd1,102.129.224.148
 2020-04-13 16:02:28,#NanoCore,https://t.co/gOhvi9j6Lh,e34f7a414de1a5a8f425388eae4986f257d2d268e73c2a4a86414dae8346bb02,"gbedu-blast.duckdns.org:54985,127.0.0.1:54985,"
 2020-04-12 18:10:42,#VoidRAT,https://t.co/2ZwN2EnbZb,70801b9f05d61d2c585711f9ea3c59a980a8d9590f84fe7aa76d4bc84046d4c4,127.0.0.1:4782
 2020-04-12 18:10:22,#VoidRAT,https://t.co/3COkN6CXNQ,19e5e863763a7d8a8ff4875b9c433c86acc70bbdff16c09ea36d136938b4c2cd,impawn.ddns.net:80
