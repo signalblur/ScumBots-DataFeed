@@ -1,4 +1,10 @@
 date_identified,implant_type,url,hash,c2
+2020-04-18 17:47:18,#njRat,https://t.co/oayBFkwpdS,202ceb83440e53a94cdb3270e11b4e575e0df48098f1f984ab9c9421f6baf597,1974.hopto.org:1177
+2020-04-18 17:21:29,#REvil,https://t.co/Vv4LoaAEUo,5cea62c8c81ccbb42944f8028576d7c92dc580815984aed3b9b70b9bf55f308f,"quickyfunds.com,hannah-fink.de,croftprecision.co.uk,boulderwelt-muenchen-west.de,happyeasterimages.org,vitalyscenter.es,tandartspraktijkhee"
+2020-04-18 16:02:19,#njRat,https://t.co/6mxHOhS1xF,497ab99de644880e4fc901e076ea01f1e5199558783b2f26d05567d3120c56ee,al3nzii.myq-see.com:5566
+2020-04-18 14:21:37,#REvil,https://t.co/XsSWkOQjoK,0b1fe7428f7d6e3d7905b65cc96fb2bcf3245f383412c4d8aa28acf4de88067c,"datacenters-in-europe.com,victoriousfestival.co.uk,supportsumba.nl,ivivo.es,evangelische-pfarrgemeinde-tuniberg.de,liliesandbeauties.org,ro"
+2020-04-18 13:22:09,#REvil,https://t.co/fLxnvhvXHI,e6c86be9dfce9d85f7115f1370b94846082c87100466a6d7ba975fd2bc72176f,"antenanavi.com,carriagehousesalonvt.com,xoabigail.com,fibrofolliculoma.info,thedad.com,ccpbroadband.com,people-biz.com,renergysolution.co"
+2020-04-18 13:17:19,#njRat,https://t.co/Q63WxZQKBU,5233198378ea15a7f728635d14e44708486eed12d9d0843d7ce80b9f6d885a07,w-connect.net:6868
 2020-04-17 19:32:19,#njRat,https://t.co/iqzRtNg4gL,512c9c765ebe5207bf031964ac9f27d59c23bc013ac6588e8c3e2e44bd90236c,gamepwwwer.ddns.net:1997
 2020-04-17 16:53:59,#AsyncRAT,https://t.co/s1cEJJ0drd,0f66614090cbaf22ce4b6e580ba635df999c6ed8e8e54e6fb2581d371eff43fc,"kingspy.noip.pl:6606,kingspy.noip.pl:7707,kingspy.noip.pl:8808,kingspy.duia.eu:6606,kingspy.duia.eu:7707,kingspy.duia.eu:8808,"
 2020-04-17 16:53:38,#AsyncRAT,https://t.co/f8kZKTw2nV,aca650d8aa5e9872140e97c19738af39818e34762ad6e194e1412d85e9e4d32d,"fertun-29801.portmap.host:1604,"
