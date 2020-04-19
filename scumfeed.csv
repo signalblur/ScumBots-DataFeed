@@ -1,4 +1,13 @@
 date_identified,implant_type,url,hash,c2
+2020-04-19 00:32:36,#njRat,https://t.co/zFaV4zN4Dv,c2bf4c58086c6278ae7e1a1ec045207b22435d92cb43963be2a95910b144316f,acar1.duckdns.org:80
+2020-04-19 00:32:19,#njRat,https://t.co/p1ujRDh4bi,188e713f88f19a42bb07910c0ed4d65a4193207defb999a311ce519a431a139a,bg1989.publicvm.com:1166
+2020-04-18 23:32:21,#meterpreter,https://t.co/4zRgymrgMx,d502ada9ce2e3db08dc7695a329ba2c7393315695582499287a5e8b9f943fa7e,3.17.160.110:5000
+2020-04-18 22:56:46,#njRat,https://t.co/vMpnGtBFDO,d71dd627921b1119be36a505b6bd060b798a1ff598e4e205173ac2bc2df481a3,al3nzii.myq-see.com:5566
+2020-04-18 22:47:19,#njRat,https://t.co/VMkJxafFLo,d71dd627921b1119be36a505b6bd060b798a1ff598e4e205173ac2bc2df481a3,al3nzii.myq-see.com:5566
+2020-04-18 21:15:18,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/s39TqxuO9a,bf4c47d39f5b48de0c367757edefe99cd366df92333addadde01c95ba4f9d0cb,85.93.20.246
+2020-04-18 21:06:38,#REvil,https://t.co/WRC6jVHN7S,f8bd522656a2669029723fb86eb4b7100a676361a33ebdf5b8d9320d3192d959,"outcomeisincome.com,smokeysstoves.com,embracinghiscall.com,femxarxa.cat,operaslovakia.sk,abitur-undwieweiter.de,boosthybrid.com.au,dr-pip"
+2020-04-18 21:02:18,#njRat,https://t.co/M5Q0hoGHdI,ce8fa1f4c15722728b7466ad593c0829966850e3a2a956474dd382638b84f6fa,1974.hopto.org:5552
+2020-04-18 20:47:19,#njRat,https://t.co/UiwNWegWAX,a8000e26e4f4e9380160adde3831f170e0bdf24219448cc625d3c983cda7b2fa,192.168.0.102:4444
 2020-04-18 17:47:18,#njRat,https://t.co/oayBFkwpdS,202ceb83440e53a94cdb3270e11b4e575e0df48098f1f984ab9c9421f6baf597,1974.hopto.org:1177
 2020-04-18 17:21:29,#REvil,https://t.co/Vv4LoaAEUo,5cea62c8c81ccbb42944f8028576d7c92dc580815984aed3b9b70b9bf55f308f,"quickyfunds.com,hannah-fink.de,croftprecision.co.uk,boulderwelt-muenchen-west.de,happyeasterimages.org,vitalyscenter.es,tandartspraktijkhee"
 2020-04-18 16:02:19,#njRat,https://t.co/6mxHOhS1xF,497ab99de644880e4fc901e076ea01f1e5199558783b2f26d05567d3120c56ee,al3nzii.myq-see.com:5566
