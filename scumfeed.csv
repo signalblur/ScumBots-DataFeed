@@ -1,4 +1,17 @@
 date_identified,implant_type,url,hash,c2
+2020-04-19 17:33:52,#Lime-RAT,https://t.co/4zGIHx1YWg,2df09b5b2a48d27d9d95e66b3437f3804f08325af0bd51d945fdb39d5af79aab,"https://pastebin.com/raw/8utfRJgb,luisgrace000-33011.portmap.host:33011"
+2020-04-19 17:02:36,#Lime-RAT,https://t.co/HXBP3WB7yP,2df09b5b2a48d27d9d95e66b3437f3804f08325af0bd51d945fdb39d5af79aab,https://pastebin.com/raw/8utfRJgb
+2020-04-19 17:02:19,#njRat,https://t.co/TcRqSa64np,6dcf0e28ba59064782126327a8b57ebd43d6ea90ba85afeef382993baa659767,bg1989.ddns.net:1177
+2020-04-19 16:47:23,#AsyncRAT,https://t.co/ujpEdZ725I,0aa65f836dd79de82e52df3d390fff4c052e76c69bbeb50b71e5119d37b03c92,"alltricks.hopto.org:8808,"
+2020-04-19 16:36:54,#REvil,https://t.co/5jzAC3xbd2,18fdd4d90295b3678367cba9c50c3e909cc899f3b7caf870866979009fbb4ad0,"zieglerbrothers.de,lefumetdesdombes.com,ditog.fr,smessier.com,krlosdavid.com,tennisclubetten.nl,pmc-services.de,justinvieira.com,unetica"
+2020-04-19 16:32:23,#AsyncRAT,https://t.co/n68CoKvEjT,9c756699f7fee95d83419130194d16e9e0f4770028dd06379804f3d796bbcf72,"ere123123.ddns.net:1604,"
+2020-04-19 16:17:35,#Revenge,https://t.co/gV5cy7VraH,d9239997baf51ef646fda24407ccb89b37e9283cbbdb734c9c1dc026c83c0df9,"35.232.32.138:5555,"
+2020-04-19 16:17:18,#njRat,https://t.co/KLTeQlkUhq,e05d1a5d06d0da3d56a37284f3e36451f53c1da2c9b2728a26ee35de00e94237,yilmazkocakau.ddns.net:1604
+2020-04-19 15:47:22,#AsyncRAT,https://t.co/TYuR7iAXgV,db3b5e07a5fcaa74e65439fbabe91df76c7d0488dd80b5da60c8b711f3306c1d,"yilmazkocakau.ddns.net:1604,"
+2020-04-19 14:32:22,#AsyncRAT,https://t.co/TsSwn0ZN1r,db3b5e07a5fcaa74e65439fbabe91df76c7d0488dd80b5da60c8b711f3306c1d,"yilmazkocakau.ddns.net:1604,"
+2020-04-19 13:47:22,#AsyncRAT,https://t.co/63mSNDAv60,4749e6948efecc0db7453229816311821df73eb5ac519eacd31f3e8cdc699a86,"yilmazkocakau.ddns.net:1604,"
+2020-04-19 13:32:18,#njRat,https://t.co/ZUP8XELjs3,c2415f2fe0970b8715f527d8c9c378908b89a15303cf4dc281f6fcf6f06ad633,193.161.193.99:29742
+2020-04-19 13:02:22,#AsyncRAT,https://t.co/T25KAOeMsc,4749e6948efecc0db7453229816311821df73eb5ac519eacd31f3e8cdc699a86,"yilmazkocakau.ddns.net:1604,"
 2020-04-19 08:25:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/lQdvQcndIr,ff308203f7e24ae2932acb74bbb7efd3ef4a181c8e1d10fb19b9c23bf6f04bde,192.168.119.138:4443
 2020-04-19 08:15:34,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/ckfY9kEmiC,9ab75d7741b500fdcdf8d7f453e1a867f0674b86be8f2b0e1ff2fddd32837de1,192.168.119.138:4443
 2020-04-19 08:15:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/lmXEPJJ7Q4,29d205f5006cb664e1b755f4754d4971dbae92f530914fafd4bfc488ccafe12a,192.168.119.138:4443
