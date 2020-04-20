@@ -1,4 +1,22 @@
 date_identified,implant_type,url,hash,c2
+2020-04-19 22:50:19,PowerShell_Empire_Agent,https://t.co/M7TezFoOu2,237c2c99402d0dafa3e74886f582e8f530c911d942301e32bf678d2db77fcce8,172.28.128.100:80
+2020-04-19 22:02:35,#njRat,https://t.co/t3VzIprTLt,ce106ec501ba89cfc981c31a2b706f8340ddd0356108ce27630182bf026f7965,64.225.39.234:4444
+2020-04-19 22:02:18,#njRat,https://t.co/Bouy1Y2yzC,3aa3637214c60f945624d5e0092e77afde84960f56574605af904fa3c6feac6b,israeldns.duckdns.org:2020
+2020-04-19 21:47:19,#njRat,https://t.co/4hxHtiLgUo,e8f736f93b75f9a0bb2f34fcd28b925c1f1fee81bc74f299e9e01c35044fd2dd,"bg1989.publicvm.com:1166,"
+2020-04-19 21:33:08,#njRat,https://t.co/I17ffJPpwp,a3f841fcf4abe83bc7cb42662ddec330149f77bf22ea230e4550f5cf4d215ecf,chromsm.linkpc.net:10
+2020-04-19 21:32:51,#njRat,https://t.co/kFNLZ4q6sk,e8c8e9982b2938f976fe5c4feeedc98b4996859baa7e0f094c97917f8641f246,amin26.ddns.net:1155
+2020-04-19 21:32:35,#njRat,https://t.co/F85oLvFvJt,c85911e73b0ed794ebfa26aea6805950118b98281f94d922b23d84a0e28704a7,amin26.ddns.net:1155
+2020-04-19 21:32:18,#njRat,https://t.co/WzK7g5PYCF,075062fd114fc5f3504850f0163b8b728f69827d130de5ac70e0627c629e6167,zryanz.ddns.net:1177
+2020-04-19 21:02:53,#njRat,https://t.co/ZIV5BOso4S,a29cc79631600db0b6d4202f1883d2b50b513b298b52082da88fb6d714282526,k0r0na.zapto.org:1177
+2020-04-19 21:02:36,#njRat,https://t.co/W0gPt5p9Qj,98bffed321753c3dd0638e26f26a0459bfd264132f85d85be46aa7023d03c080,kingofkillers2012.publicvm.com:1177
+2020-04-19 21:02:20,#njRat,https://t.co/xfptrEj5q8,7d52a5ff551433abec9041aff885ae1fc8ac568f851db52e16edf08f4a61e2d4,190.2.137.169:5552
+2020-04-19 20:23:03,PowerShell_CobaltStrike_Beacon_Reverse_HTTP_x86,https://t.co/BB4EjXzSHE,bf4c47d39f5b48de0c367757edefe99cd366df92333addadde01c95ba4f9d0cb,85.93.20.246
+2020-04-19 20:17:19,#NanoCore,https://t.co/LL90YQPnlc,d546da6066af4a6fda61e2e5a141da2760e663fb47dcda21ea3100587a6e90ea,"64.225.39.234:1085,127.0.0.1:1085,"
+2020-04-19 20:02:19,#NanoCore,https://t.co/bjcRXnDTu9,e47e9eed9c95dcb4d1ad835eb4db595cd9533c2b9d640505973c550383bdbf0f,"0.tcp.ngrok.io:17791,0.tcp.ngrok.io:17791,"
+2020-04-19 19:36:35,#REvil,https://t.co/NziXNEr4Px,0ef43b9313ec6c602a44c4e514b44bfcad0d061f24a3584257e979a305addddc,"daniel-akermann-architektur-und-planung.ch,jobcenterkenya.com,rosavalamedahr.com,visiativ-industry.fr,lykkeliv.net,igorbarbosa.com,notmissing"
+2020-04-19 19:17:36,#njRat,https://t.co/bPlkfX0BYE,28c81018a5b4f6b128f9b791bd20d5b96ddda2f7f2dae1a8579eff00ff3e33c7,127.0.0.1:1177
+2020-04-19 19:17:19,#njRat,https://t.co/ioKEGr9tbx,e6b1f6224b7cd7f27ca80bd0c49ca5ca5e3f3c86582e1bc7147f8da260aab2e5,bg1989.publicvm.com:1166
+2020-04-19 19:02:19,#Revenge,https://t.co/PbSWNhQy8f,d9239997baf51ef646fda24407ccb89b37e9283cbbdb734c9c1dc026c83c0df9,"35.232.32.138:5555,"
 2020-04-19 17:33:52,#Lime-RAT,https://t.co/4zGIHx1YWg,2df09b5b2a48d27d9d95e66b3437f3804f08325af0bd51d945fdb39d5af79aab,"https://pastebin.com/raw/8utfRJgb,luisgrace000-33011.portmap.host:33011"
 2020-04-19 17:02:36,#Lime-RAT,https://t.co/HXBP3WB7yP,2df09b5b2a48d27d9d95e66b3437f3804f08325af0bd51d945fdb39d5af79aab,https://pastebin.com/raw/8utfRJgb
 2020-04-19 17:02:19,#njRat,https://t.co/TcRqSa64np,6dcf0e28ba59064782126327a8b57ebd43d6ea90ba85afeef382993baa659767,bg1989.ddns.net:1177
