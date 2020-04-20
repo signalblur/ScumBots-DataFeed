@@ -1,4 +1,6 @@
 date_identified,implant_type,url,hash,c2
+2020-04-20 05:05:18,PowerShell_Meterpreter_Reverse_TCP_x86,https://t.co/mYujeuXFDA,391025df7c7bee23c8bfbb88d08d163d2805afe56ef89850d7e69ebdca4aafb1,192.168.119.138:443
+2020-04-20 01:10:19,PowerShell_Empire_Agent,https://t.co/VECE6phxmL,a26870cc287b6a968497a00163df703a9aa4eea3daa02d03bb1b2c19e4bc8261,172.28.128.100:80
 2020-04-19 22:50:19,PowerShell_Empire_Agent,https://t.co/M7TezFoOu2,237c2c99402d0dafa3e74886f582e8f530c911d942301e32bf678d2db77fcce8,172.28.128.100:80
 2020-04-19 22:02:35,#njRat,https://t.co/t3VzIprTLt,ce106ec501ba89cfc981c31a2b706f8340ddd0356108ce27630182bf026f7965,64.225.39.234:4444
 2020-04-19 22:02:18,#njRat,https://t.co/Bouy1Y2yzC,3aa3637214c60f945624d5e0092e77afde84960f56574605af904fa3c6feac6b,israeldns.duckdns.org:2020
