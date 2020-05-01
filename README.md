@@ -1,4 +1,6 @@
-# ScumBots-DataFeed
+# This feed is now dead due to pastebin killing their scraping API. It will no longer be updated, but I will leave this up for historical purposes.
+
+## ScumBots-DataFeed
 This is a feed of @pmelson's, @ScumBots twitter feed. Its goal is to provide an easy to digest feed of the indicators shared by the @ScumBots twitter account.
 
 This feed is *NOT* production ready. Use at your own risk.
